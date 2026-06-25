@@ -1,0 +1,154 @@
+ Network docker_services_cli_default  Creating
+ Network docker_services_cli_default  Created
+ Container docker_services_cli-redis-1  Creating
+ Container docker_services_cli-postgresql-1  Creating
+ Container docker_services_cli-opensearch-1  Creating
+ Container docker_services_cli-rabbitmq-1  Creating
+ Container docker_services_cli-rabbitmq-1  Created
+ Container docker_services_cli-postgresql-1  Created
+ Container docker_services_cli-opensearch-1  Created
+ Container docker_services_cli-redis-1  Created
+ Container docker_services_cli-redis-1  Starting
+ Container docker_services_cli-postgresql-1  Starting
+ Container docker_services_cli-opensearch-1  Starting
+ Container docker_services_cli-rabbitmq-1  Starting
+ Container docker_services_cli-postgresql-1  Started
+ Container docker_services_cli-redis-1  Started
+ Container docker_services_cli-rabbitmq-1  Started
+ Container docker_services_cli-opensearch-1  Started
+============================= test session starts ==============================
+platform linux -- Python 3.14.2, pytest-8.4.2, pluggy-1.6.0
+rootdir: /home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-audit-logs/original
+configfile: setup.cfg
+testpaths: docs, tests, invenio_audit_logs
+plugins: flask-1.3.0, black-0.6.0, github-actions-annotate-failures-0.4.2, pycodestyle-2.5.0, cov-7.1.0, invenio-4.0.1, pydocstyle-2.4.0, isort-4.0.0
+collected 125 items
+
+docs/conf.py ...                                                         [  2%]
+tests/conftest.py ...                                                    [  4%]
+tests/mock_module/__init__.py ...                                        [  7%]
+tests/mock_module/auditlog/__init__.py ...                               [  9%]
+tests/mock_module/auditlog/actions.py ...                                [ 12%]
+tests/mock_module/auditlog/context.py ...                                [ 14%]
+tests/services/__init__.py ...                                           [ 16%]
+tests/services/conftest.py ...                                           [ 19%]
+tests/services/test_action_builder.py ....::warning file=workdir/tests/invenio-audit-logs/original/.venv/lib/python3.14/site-packages/flask_security/utils.py,line=77::Remember me support has been removed.
+                               [ 22%]
+tests/services/test_service.py ...::warning file=workdir/tests/invenio-audit-logs/original/.venv/lib/python3.14/site-packages/invenio_rest/ext.py,line=24::CSRF validation will be enabled by default in the version 1.3.x
+::warning file=workdir/tests/invenio-audit-logs/original/.venv/lib/python3.14/site-packages/flask_security/utils.py,line=77::Remember me support has been removed.
+.::warning file=workdir/tests/invenio-audit-logs/original/.venv/lib/python3.14/site-packages/flask_security/utils.py,line=77::Remember me support has been removed.
+..                                    [ 27%]
+tests/test_alembic.py ...::warning file=workdir/tests/invenio-audit-logs/original/.venv/lib/python3.14/site-packages/invenio_rest/ext.py,line=24::CSRF validation will be enabled by default in the version 1.3.x
+::warning file=workdir/tests/invenio-audit-logs/original/.venv/lib/python3.14/site-packages/alembic/config.py,line=580::No path_separator found in configuration; falling back to legacy splitting on spaces/commas for version_locations.  Consider adding path_separator=os to Alembic config.
+::warning file=workdir/tests/invenio-audit-logs/original/.venv/lib/python3.14/site-packages/alembic/ddl/postgresql.py,line=202::autoincrement and existing_autoincrement only make sense for MySQL
+::warning file=workdir/tests/invenio-audit-logs/original/.venv/lib/python3.14/site-packages/invenio_accounts/alembic/9848d0149abd_create_accounts_tables.py,line=100::The from_engine() method on Inspector is deprecated and will be removed in a future release.  Please use the sqlalchemy.inspect() function on an Engine or Connection in order to acquire an Inspector. (deprecated since: 1.4)
+                                                [ 29%]
+tests/test_invenio_audit_logs.py ....                                    [ 32%]
+invenio_audit_logs/__init__.py ...                                       [ 35%]
+invenio_audit_logs/alembic/1743073617_create_audit_logs_branch.py ...    [ 37%]
+invenio_audit_logs/alembic/1743073720_create_audit_logs_table.py ...     [ 40%]
+invenio_audit_logs/alembic/42fa8d3bbc0c_change_datetime_types.py ...     [ 42%]
+invenio_audit_logs/config.py ...                                         [ 44%]
+invenio_audit_logs/ext.py ...                                            [ 47%]
+invenio_audit_logs/proxies.py ...                                        [ 49%]
+invenio_audit_logs/records/__init__.py ...                               [ 52%]
+invenio_audit_logs/records/api.py ...                                    [ 54%]
+invenio_audit_logs/records/mappings/__init__.py ...                      [ 56%]
+invenio_audit_logs/records/mappings/templates/__init__.py ...            [ 59%]
+invenio_audit_logs/records/mappings/templates/os-v1/__init__.py ...      [ 61%]
+invenio_audit_logs/records/mappings/templates/os-v2/__init__.py ...      [ 64%]
+invenio_audit_logs/records/models.py ...                                 [ 66%]
+invenio_audit_logs/records/systemfields/__init__.py ...                  [ 68%]
+invenio_audit_logs/records/systemfields/action.py ...                    [ 71%]
+invenio_audit_logs/resources/__init__.py ...                             [ 73%]
+invenio_audit_logs/resources/config.py ...                               [ 76%]
+invenio_audit_logs/resources/resource.py ...                             [ 78%]
+invenio_audit_logs/services/__init__.py ...                              [ 80%]
+invenio_audit_logs/services/action.py ...                                [ 83%]
+invenio_audit_logs/services/config.py ...                                [ 85%]
+invenio_audit_logs/services/permissions.py ...                           [ 88%]
+invenio_audit_logs/services/results.py ...                               [ 90%]
+invenio_audit_logs/services/schema.py ...                                [ 92%]
+invenio_audit_logs/services/service.py ...                               [ 95%]
+invenio_audit_logs/services/uow.py ...                                   [ 97%]
+invenio_audit_logs/views.py ...                                          [100%]
+
+=============================== warnings summary ===============================
+tests/services/test_action_builder.py::test_audit_log_builder_with_metadata
+tests/services/test_service.py::test_audit_log_create
+tests/services/test_service.py::test_audit_log_create_identity_mismatch
+  /home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-audit-logs/original/.venv/lib/python3.14/site-packages/flask_security/utils.py:77: DeprecationWarning: Remember me support has been removed.
+    warnings.warn("Remember me support has been removed.", DeprecationWarning)
+
+tests/services/test_service.py::test_audit_log_create
+tests/test_alembic.py::test_alembic
+  /home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-audit-logs/original/.venv/lib/python3.14/site-packages/invenio_rest/ext.py:24: FutureWarning: CSRF validation will be enabled by default in the version 1.3.x
+    self.init_app(app)
+
+tests/test_alembic.py::test_alembic
+  /home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-audit-logs/original/.venv/lib/python3.14/site-packages/alembic/config.py:580: DeprecationWarning: No path_separator found in configuration; falling back to legacy splitting on spaces/commas for version_locations.  Consider adding path_separator=os to Alembic config.
+    util.warn_deprecated(
+
+tests/test_alembic.py::test_alembic
+  /home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-audit-logs/original/.venv/lib/python3.14/site-packages/alembic/ddl/postgresql.py:202: UserWarning: autoincrement and existing_autoincrement only make sense for MySQL
+    super().alter_column(
+
+tests/test_alembic.py::test_alembic
+  /home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-audit-logs/original/.venv/lib/python3.14/site-packages/invenio_accounts/alembic/9848d0149abd_create_accounts_tables.py:100: SADeprecationWarning: The from_engine() method on Inspector is deprecated and will be removed in a future release.  Please use the sqlalchemy.inspect() function on an Engine or Connection in order to acquire an Inspector. (deprecated since: 1.4)
+    insp = Inspector.from_engine(ctx.connection.engine)
+
+-- Docs: https://docs.pytest.org/en/stable/how-to/capture-warnings.html
+================================ tests coverage ================================
+_______________ coverage: platform linux, python 3.14.2-final-0 ________________
+
+Name                                                                Stmts   Miss  Cover   Missing
+-------------------------------------------------------------------------------------------------
+invenio_audit_logs/__init__.py                                          3      0   100%
+invenio_audit_logs/alembic/42fa8d3bbc0c_change_datetime_types.py       13      0   100%
+invenio_audit_logs/alembic/1743073617_create_audit_logs_branch.py      10      0   100%
+invenio_audit_logs/alembic/1743073720_create_audit_logs_table.py       12      0   100%
+invenio_audit_logs/config.py                                           11      0   100%
+invenio_audit_logs/ext.py                                              30      0   100%
+invenio_audit_logs/proxies.py                                          10      0   100%
+invenio_audit_logs/records/__init__.py                                  2      0   100%
+invenio_audit_logs/records/api.py                                      22      0   100%
+invenio_audit_logs/records/mappings/__init__.py                         0      0   100%
+invenio_audit_logs/records/mappings/templates/__init__.py               0      0   100%
+invenio_audit_logs/records/mappings/templates/os-v1/__init__.py         0      0   100%
+invenio_audit_logs/records/mappings/templates/os-v2/__init__.py         0      0   100%
+invenio_audit_logs/records/models.py                                    9      0   100%
+invenio_audit_logs/records/systemfields/__init__.py                     2      0   100%
+invenio_audit_logs/records/systemfields/action.py                      45     10    78%   22, 32-34, 38-40, 50, 75-76
+invenio_audit_logs/resources/__init__.py                                3      0   100%
+invenio_audit_logs/resources/config.py                                 16      0   100%
+invenio_audit_logs/resources/resource.py                               26      4    85%   47-52, 59-63
+invenio_audit_logs/services/__init__.py                                 6      0   100%
+invenio_audit_logs/services/action.py                                  32      4    88%   29, 61, 66, 70
+invenio_audit_logs/services/config.py                                  45      1    98%   38
+invenio_audit_logs/services/permissions.py                             10      0   100%
+invenio_audit_logs/services/results.py                                 52      4    92%   65, 72-75
+invenio_audit_logs/services/schema.py                                  43      3    93%   69, 79, 155
+invenio_audit_logs/services/service.py                                 39      4    90%   108-122
+invenio_audit_logs/services/uow.py                                     15      0   100%
+invenio_audit_logs/views.py                                             5      0   100%
+-------------------------------------------------------------------------------------------------
+TOTAL                                                                 461     30    93%
+======================= 125 passed, 8 warnings in 15.51s =======================
+ Container docker_services_cli-postgresql-1  Stopping
+ Container docker_services_cli-redis-1  Stopping
+ Container docker_services_cli-opensearch-1  Stopping
+ Container docker_services_cli-rabbitmq-1  Stopping
+ Container docker_services_cli-redis-1  Stopped
+ Container docker_services_cli-redis-1  Removing
+ Container docker_services_cli-redis-1  Removed
+ Container docker_services_cli-postgresql-1  Stopped
+ Container docker_services_cli-postgresql-1  Removing
+ Container docker_services_cli-postgresql-1  Removed
+ Container docker_services_cli-opensearch-1  Stopped
+ Container docker_services_cli-opensearch-1  Removing
+ Container docker_services_cli-opensearch-1  Removed
+ Container docker_services_cli-rabbitmq-1  Stopped
+ Container docker_services_cli-rabbitmq-1  Removing
+ Container docker_services_cli-rabbitmq-1  Removed
+ Network docker_services_cli_default  Removing
+ Network docker_services_cli_default  Removed

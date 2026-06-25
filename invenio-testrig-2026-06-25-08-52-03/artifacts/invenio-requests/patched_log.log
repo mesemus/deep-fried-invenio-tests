@@ -1,0 +1,2743 @@
+ redis Pulling 
+ opensearch Pulling 
+ postgresql Pulling 
+ b0a0cf830b12 Pulling fs layer 
+ f9dd052e142d Pulling fs layer 
+ e8c6d4883897 Pulling fs layer 
+ dda3d8fbd5ed Pulling fs layer 
+ 648eb81b3252 Pulling fs layer 
+ 283a477db7bb Pulling fs layer 
+ 91d2729fa4d5 Pulling fs layer 
+ 9739ced65621 Pulling fs layer 
+ ae3bb1b347a4 Pulling fs layer 
+ f8406d9c00ea Pulling fs layer 
+ c199bff16b05 Pulling fs layer 
+ e0d55fdb4d15 Pulling fs layer 
+ c1cb13b19080 Pulling fs layer 
+ 873532e5f8c7 Pulling fs layer 
+ 050d9f8c3b1c Pulling fs layer 
+ 710e142705f8 Pulling fs layer 
+ cb628c265f09 Pulling fs layer 
+ eb77aa907276 Pulling fs layer 
+ 91d2729fa4d5 Waiting 
+ 4f4fb700ef54 Pulling fs layer 
+ e0d55fdb4d15 Waiting 
+ 0ffa8f8aba1e Pulling fs layer 
+ 2e81b9cb93cd Pulling fs layer 
+ f9dd052e142d Waiting 
+ e8c6d4883897 Waiting 
+ 648eb81b3252 Waiting 
+ eb77aa907276 Waiting 
+ 4f4fb700ef54 Waiting 
+ 0ffa8f8aba1e Waiting 
+ 2e81b9cb93cd Waiting 
+ 9739ced65621 Waiting 
+ ae3bb1b347a4 Waiting 
+ f8406d9c00ea Waiting 
+ c1cb13b19080 Waiting 
+ c199bff16b05 Waiting 
+ 873532e5f8c7 Waiting 
+ 710e142705f8 Waiting 
+ cb628c265f09 Waiting 
+ 68629629b516 Pulling fs layer 
+ c5510c1247f7 Pulling fs layer 
+ 098849b20a3c Pulling fs layer 
+ ee7a04c62d66 Pulling fs layer 
+ 2a2f77d93543 Pulling fs layer 
+ 4f4fb700ef54 Pulling fs layer 
+ 68629629b516 Waiting 
+ 013850a31d8d Pulling fs layer 
+ c5510c1247f7 Waiting 
+ ee7a04c62d66 Waiting 
+ 098849b20a3c Waiting 
+ 2a2f77d93543 Waiting 
+ 013850a31d8d Waiting 
+ 4f4fb700ef54 Waiting 
+ dda3d8fbd5ed Downloading [==================================================>]  1.165kB/1.165kB
+ dda3d8fbd5ed Verifying Checksum 
+ dda3d8fbd5ed Download complete 
+ 283a477db7bb Downloading [>                                                  ]  48.51kB/4.533MB
+ b0a0cf830b12 Downloading [>                                                  ]  294.3kB/29.15MB
+ 283a477db7bb Downloading [==============>                                    ]  1.326MB/4.533MB
+ b0a0cf830b12 Downloading [=====>                                             ]  3.243MB/29.15MB
+ 283a477db7bb Verifying Checksum 
+ 283a477db7bb Download complete 
+ 91d2729fa4d5 Downloading [>                                                  ]  15.74kB/1.45MB
+ b0a0cf830b12 Downloading [====================================>              ]  21.23MB/29.15MB
+ b0a0cf830b12 Verifying Checksum 
+ b0a0cf830b12 Download complete 
+ b0a0cf830b12 Extracting [>                                                  ]  294.9kB/29.15MB
+ 91d2729fa4d5 Downloading [===============================>                   ]  900.5kB/1.45MB
+ 91d2729fa4d5 Verifying Checksum 
+ 91d2729fa4d5 Download complete 
+ 9739ced65621 Downloading [>                                                  ]  81.28kB/8.069MB
+ b0a0cf830b12 Extracting [===========>                                       ]  6.488MB/29.15MB
+ ae3bb1b347a4 Downloading [>                                                  ]  15.72kB/1.196MB
+ 9739ced65621 Downloading [==========>                                        ]  1.638MB/8.069MB
+ b0a0cf830b12 Extracting [=================>                                 ]  10.32MB/29.15MB
+ f8406d9c00ea Downloading [==================================================>]     116B/116B
+ f8406d9c00ea Verifying Checksum 
+ f8406d9c00ea Download complete 
+ 9739ced65621 Verifying Checksum 
+ 9739ced65621 Download complete 
+ ae3bb1b347a4 Downloading [======================================>            ]  916.8kB/1.196MB
+ ae3bb1b347a4 Verifying Checksum 
+ ae3bb1b347a4 Download complete 
+ b0a0cf830b12 Extracting [==========================>                        ]  15.34MB/29.15MB
+ b0a0cf830b12 Extracting [========================================>          ]  23.59MB/29.15MB
+ c199bff16b05 Downloading [==================================================>]  3.145kB/3.145kB
+ c199bff16b05 Verifying Checksum 
+ c199bff16b05 Download complete 
+ c1cb13b19080 Downloading [=================>                                 ]  3.502kB/9.925kB
+ c1cb13b19080 Downloading [==================================================>]  9.925kB/9.925kB
+ c1cb13b19080 Verifying Checksum 
+ c1cb13b19080 Download complete 
+ e0d55fdb4d15 Downloading [>                                                  ]  527.8kB/109MB
+ b0a0cf830b12 Extracting [==========================================>        ]  24.77MB/29.15MB
+ 873532e5f8c7 Download complete 
+ e0d55fdb4d15 Downloading [==>                                                ]   5.36MB/109MB
+ b0a0cf830b12 Extracting [===============================================>   ]  27.72MB/29.15MB
+ 050d9f8c3b1c Downloading [==================================================>]     169B/169B
+ 050d9f8c3b1c Verifying Checksum 
+ 050d9f8c3b1c Download complete 
+ e0d55fdb4d15 Downloading [=============>                                     ]  29.39MB/109MB
+ e0d55fdb4d15 Downloading [===========================>                       ]   60.3MB/109MB
+ 710e142705f8 Downloading [================================>                  ]  3.478kB/5.421kB
+ 710e142705f8 Downloading [==================================================>]  5.421kB/5.421kB
+ 710e142705f8 Verifying Checksum 
+ 710e142705f8 Download complete 
+ cb628c265f09 Downloading [==================================================>]     184B/184B
+ cb628c265f09 Verifying Checksum 
+ cb628c265f09 Download complete 
+ e0d55fdb4d15 Downloading [===========================================>       ]  93.86MB/109MB
+ e0d55fdb4d15 Download complete 
+ b0a0cf830b12 Extracting [================================================>  ]  28.31MB/29.15MB
+ b0a0cf830b12 Extracting [==================================================>]  29.15MB/29.15MB
+ b0a0cf830b12 Pull complete 
+ f9dd052e142d Downloading [>                                                  ]  523.6kB/52.33MB
+ dda3d8fbd5ed Extracting [==================================================>]  1.165kB/1.165kB
+ dda3d8fbd5ed Extracting [==================================================>]  1.165kB/1.165kB
+ e8c6d4883897 Downloading [>                                                  ]  48.49kB/4.398MB
+ 648eb81b3252 Downloading [==================================================>]  1.561kB/1.561kB
+ 648eb81b3252 Download complete 
+ f9dd052e142d Downloading [=====>                                             ]  5.242MB/52.33MB
+ e8c6d4883897 Downloading [===============>                                   ]  1.344MB/4.398MB
+ e8c6d4883897 Verifying Checksum 
+ e8c6d4883897 Download complete 
+ f9dd052e142d Downloading [=============================>                     ]  30.93MB/52.33MB
+ f9dd052e142d Verifying Checksum 
+ f9dd052e142d Download complete 
+ eb77aa907276 Downloading [>                                                  ]  524.8kB/907.7MB
+ 4f4fb700ef54 Downloading [==================================================>]      32B/32B
+ 4f4fb700ef54 Verifying Checksum 
+ 4f4fb700ef54 Download complete 
+ 0ffa8f8aba1e Downloading [==================================================>]     226B/226B
+ 0ffa8f8aba1e Verifying Checksum 
+ 0ffa8f8aba1e Download complete 
+ eb77aa907276 Downloading [>                                                  ]  2.672MB/907.7MB
+ f9dd052e142d Extracting [>                                                  ]  524.3kB/52.33MB
+ eb77aa907276 Downloading [>                                                  ]  9.049MB/907.7MB
+ 2e81b9cb93cd Downloading [======================================>            ]  1.428kB/1.859kB
+ 2e81b9cb93cd Downloading [==================================================>]  1.859kB/1.859kB
+ 2e81b9cb93cd Verifying Checksum 
+ 2e81b9cb93cd Download complete 
+ f9dd052e142d Extracting [==>                                                ]  2.097MB/52.33MB
+ eb77aa907276 Downloading [>                                                  ]  13.84MB/907.7MB
+ 68629629b516 Downloading [>                                                  ]  294.3kB/28.24MB
+ eb77aa907276 Downloading [=>                                                 ]  23.96MB/907.7MB
+ c5510c1247f7 Downloading [==================================================>]  1.103kB/1.103kB
+ c5510c1247f7 Verifying Checksum 
+ c5510c1247f7 Download complete 
+ f9dd052e142d Extracting [====>                                              ]  4.719MB/52.33MB
+ 68629629b516 Downloading [=====>                                             ]  3.243MB/28.24MB
+ eb77aa907276 Downloading [==>                                                ]  37.29MB/907.7MB
+ f9dd052e142d Extracting [=====>                                             ]  5.767MB/52.33MB
+ 68629629b516 Downloading [=======================================>           ]  22.41MB/28.24MB
+ 68629629b516 Verifying Checksum 
+ 68629629b516 Download complete 
+ eb77aa907276 Downloading [===>                                               ]  63.43MB/907.7MB
+ 098849b20a3c Download complete 
+ f9dd052e142d Extracting [===========>                                       ]  11.53MB/52.33MB
+ eb77aa907276 Downloading [=====>                                             ]  93.89MB/907.7MB
+ f9dd052e142d Extracting [=================>                                 ]  17.83MB/52.33MB
+ eb77aa907276 Downloading [======>                                            ]  124.3MB/907.7MB
+ 2a2f77d93543 Downloading [==================================================>]      97B/97B
+ 2a2f77d93543 Verifying Checksum 
+ 2a2f77d93543 Download complete 
+ ee7a04c62d66 Downloading [>                                                  ]  163.2kB/15.35MB
+ 68629629b516 Extracting [>                                                  ]  294.9kB/28.24MB
+ f9dd052e142d Extracting [======================>                            ]  23.07MB/52.33MB
+ dda3d8fbd5ed Pull complete 
+ 283a477db7bb Extracting [>                                                  ]  65.54kB/4.533MB
+ eb77aa907276 Downloading [========>                                          ]  150.4MB/907.7MB
+ ee7a04c62d66 Downloading [=======>                                           ]  2.293MB/15.35MB
+ 68629629b516 Extracting [====>                                              ]  2.654MB/28.24MB
+ f9dd052e142d Extracting [=========================>                         ]  26.21MB/52.33MB
+ 283a477db7bb Extracting [==============================>                    ]  2.753MB/4.533MB
+ eb77aa907276 Downloading [=========>                                         ]  177.6MB/907.7MB
+ ee7a04c62d66 Downloading [===========================================>       ]  13.27MB/15.35MB
+ ee7a04c62d66 Verifying Checksum 
+ ee7a04c62d66 Download complete 
+ 4f4fb700ef54 Downloading [==================================================>]      32B/32B
+ 4f4fb700ef54 Verifying Checksum 
+ 4f4fb700ef54 Download complete 
+ 68629629b516 Extracting [========>                                          ]  4.719MB/28.24MB
+ f9dd052e142d Extracting [==========================>                        ]  27.26MB/52.33MB
+ eb77aa907276 Downloading [===========>                                       ]  205.8MB/907.7MB
+ 283a477db7bb Extracting [==================================================>]  4.533MB/4.533MB
+ 68629629b516 Extracting [=============>                                     ]  7.668MB/28.24MB
+ eb77aa907276 Downloading [============>                                      ]  234.1MB/907.7MB
+ f9dd052e142d Extracting [===========================>                       ]  28.31MB/52.33MB
+ 013850a31d8d Downloading [==================================================>]     601B/601B
+ 013850a31d8d Verifying Checksum 
+ 013850a31d8d Download complete 
+ 68629629b516 Extracting [================>                                  ]  9.142MB/28.24MB
+ eb77aa907276 Downloading [==============>                                    ]  260.1MB/907.7MB
+ f9dd052e142d Extracting [============================>                      ]  29.36MB/52.33MB
+ 68629629b516 Extracting [===================>                               ]  11.21MB/28.24MB
+ eb77aa907276 Downloading [================>                                  ]  291.1MB/907.7MB
+ 68629629b516 Extracting [============================>                      ]  16.22MB/28.24MB
+ eb77aa907276 Downloading [=================>                                 ]  320.9MB/907.7MB
+ 68629629b516 Extracting [====================================>              ]  20.64MB/28.24MB
+ f9dd052e142d Extracting [=============================>                     ]  30.41MB/52.33MB
+ eb77aa907276 Downloading [===================>                               ]  350.8MB/907.7MB
+ eb77aa907276 Downloading [====================>                              ]  379.6MB/907.7MB
+ f9dd052e142d Extracting [===============================>                   ]  33.03MB/52.33MB
+ eb77aa907276 Downloading [======================>                            ]  411.1MB/907.7MB
+ 68629629b516 Extracting [==========================================>        ]  23.89MB/28.24MB
+ eb77aa907276 Downloading [========================>                          ]  443.1MB/907.7MB
+ 68629629b516 Extracting [============================================>      ]  25.07MB/28.24MB
+ f9dd052e142d Extracting [=================================>                 ]   34.6MB/52.33MB
+ eb77aa907276 Downloading [==========================>                        ]  473.5MB/907.7MB
+ 68629629b516 Extracting [===============================================>   ]  26.84MB/28.24MB
+ eb77aa907276 Downloading [===========================>                       ]    505MB/907.7MB
+ f9dd052e142d Extracting [===================================>               ]   36.7MB/52.33MB
+ eb77aa907276 Downloading [=============================>                     ]  534.8MB/907.7MB
+ f9dd052e142d Extracting [====================================>              ]  37.75MB/52.33MB
+ 283a477db7bb Pull complete 
+ 91d2729fa4d5 Extracting [=>                                                 ]  32.77kB/1.45MB
+ eb77aa907276 Downloading [===============================>                   ]  565.8MB/907.7MB
+ 91d2729fa4d5 Extracting [==================================================>]   1.45MB/1.45MB
+ f9dd052e142d Extracting [=====================================>             ]   38.8MB/52.33MB
+ eb77aa907276 Downloading [================================>                  ]    593MB/907.7MB
+ eb77aa907276 Downloading [==================================>                ]    626MB/907.7MB
+ f9dd052e142d Extracting [=======================================>           ]  40.89MB/52.33MB
+ eb77aa907276 Downloading [====================================>              ]  658.5MB/907.7MB
+ f9dd052e142d Extracting [=========================================>         ]  43.52MB/52.33MB
+ 68629629b516 Extracting [================================================>  ]  27.43MB/28.24MB
+ eb77aa907276 Downloading [=====================================>             ]  689.5MB/907.7MB
+ f9dd052e142d Extracting [===========================================>       ]  45.09MB/52.33MB
+ eb77aa907276 Downloading [=======================================>           ]  722.5MB/907.7MB
+ 68629629b516 Extracting [=================================================> ]  28.02MB/28.24MB
+ eb77aa907276 Downloading [=========================================>         ]  750.3MB/907.7MB
+ 68629629b516 Extracting [==================================================>]  28.24MB/28.24MB
+ f9dd052e142d Extracting [=============================================>     ]  47.71MB/52.33MB
+ eb77aa907276 Downloading [===========================================>       ]    784MB/907.7MB
+ eb77aa907276 Downloading [============================================>      ]  815.5MB/907.7MB
+ eb77aa907276 Downloading [=============================================>     ]  833.7MB/907.7MB
+ 68629629b516 Pull complete 
+ c5510c1247f7 Extracting [==================================================>]  1.103kB/1.103kB
+ c5510c1247f7 Extracting [==================================================>]  1.103kB/1.103kB
+ eb77aa907276 Downloading [===============================================>   ]  862.5MB/907.7MB
+ 91d2729fa4d5 Pull complete 
+ 9739ced65621 Extracting [>                                                  ]   98.3kB/8.069MB
+ eb77aa907276 Downloading [================================================>  ]  875.3MB/907.7MB
+ eb77aa907276 Downloading [================================================>  ]  877.9MB/907.7MB
+ eb77aa907276 Downloading [================================================>  ]  879.5MB/907.7MB
+ 9739ced65621 Extracting [=>                                                 ]  196.6kB/8.069MB
+ eb77aa907276 Downloading [================================================>  ]  889.1MB/907.7MB
+ c5510c1247f7 Pull complete 
+ 098849b20a3c Extracting [==================================================>]     874B/874B
+ 098849b20a3c Extracting [==================================================>]     874B/874B
+ f9dd052e142d Extracting [=================================================> ]  51.38MB/52.33MB
+ 098849b20a3c Pull complete 
+ ee7a04c62d66 Extracting [>                                                  ]  163.8kB/15.35MB
+ 9739ced65621 Extracting [=================>                                 ]  2.851MB/8.069MB
+ eb77aa907276 Downloading [=================================================> ]    904MB/907.7MB
+ ee7a04c62d66 Extracting [=================>                                 ]  5.407MB/15.35MB
+ eb77aa907276 Verifying Checksum 
+ eb77aa907276 Download complete 
+ 9739ced65621 Extracting [==========================>                        ]  4.227MB/8.069MB
+ f9dd052e142d Extracting [=================================================> ]   51.9MB/52.33MB
+ f9dd052e142d Extracting [==================================================>]  52.33MB/52.33MB
+ ee7a04c62d66 Extracting [======================================>            ]  11.96MB/15.35MB
+ f9dd052e142d Pull complete 
+ e8c6d4883897 Extracting [>                                                  ]  65.54kB/4.398MB
+ 9739ced65621 Extracting [=================================>                 ]  5.407MB/8.069MB
+ ee7a04c62d66 Extracting [==================================================>]  15.35MB/15.35MB
+ e8c6d4883897 Extracting [====================>                              ]  1.835MB/4.398MB
+ ee7a04c62d66 Pull complete 
+ 2a2f77d93543 Extracting [==================================================>]      97B/97B
+ 2a2f77d93543 Extracting [==================================================>]      97B/97B
+ 9739ced65621 Extracting [======================================>            ]  6.291MB/8.069MB
+ 2a2f77d93543 Pull complete 
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Pull complete 
+ 013850a31d8d Extracting [==================================================>]     601B/601B
+ 013850a31d8d Extracting [==================================================>]     601B/601B
+ 013850a31d8d Pull complete 
+ redis Pulled 
+ 9739ced65621 Extracting [==================================================>]  8.069MB/8.069MB
+ 9739ced65621 Pull complete 
+ ae3bb1b347a4 Extracting [=>                                                 ]  32.77kB/1.196MB
+ e8c6d4883897 Extracting [====================================>              ]  3.211MB/4.398MB
+ ae3bb1b347a4 Extracting [==================================================>]  1.196MB/1.196MB
+ ae3bb1b347a4 Extracting [==================================================>]  1.196MB/1.196MB
+ ae3bb1b347a4 Pull complete 
+ f8406d9c00ea Extracting [==================================================>]     116B/116B
+ f8406d9c00ea Extracting [==================================================>]     116B/116B
+ f8406d9c00ea Pull complete 
+ c199bff16b05 Extracting [==================================================>]  3.145kB/3.145kB
+ c199bff16b05 Extracting [==================================================>]  3.145kB/3.145kB
+ c199bff16b05 Pull complete 
+ e8c6d4883897 Extracting [===============================================>   ]  4.194MB/4.398MB
+ e8c6d4883897 Extracting [==================================================>]  4.398MB/4.398MB
+ e8c6d4883897 Pull complete 
+ 648eb81b3252 Extracting [==================================================>]  1.561kB/1.561kB
+ 648eb81b3252 Extracting [==================================================>]  1.561kB/1.561kB
+ 648eb81b3252 Pull complete 
+ e0d55fdb4d15 Extracting [>                                                  ]  557.1kB/109MB
+ eb77aa907276 Extracting [>                                                  ]  557.1kB/907.7MB
+ e0d55fdb4d15 Extracting [==>                                                ]  6.128MB/109MB
+ eb77aa907276 Extracting [=>                                                 ]  18.94MB/907.7MB
+ eb77aa907276 Extracting [==>                                                ]  37.32MB/907.7MB
+ e0d55fdb4d15 Extracting [====>                                              ]  8.913MB/109MB
+ eb77aa907276 Extracting [===>                                               ]  56.26MB/907.7MB
+ e0d55fdb4d15 Extracting [=====>                                             ]  12.81MB/109MB
+ eb77aa907276 Extracting [====>                                              ]  72.97MB/907.7MB
+ e0d55fdb4d15 Extracting [=======>                                           ]  16.71MB/109MB
+ eb77aa907276 Extracting [====>                                              ]  81.89MB/907.7MB
+ e0d55fdb4d15 Extracting [=========>                                         ]  21.73MB/109MB
+ eb77aa907276 Extracting [=====>                                             ]  92.47MB/907.7MB
+ e0d55fdb4d15 Extracting [===========>                                       ]  25.62MB/109MB
+ eb77aa907276 Extracting [=====>                                             ]  99.16MB/907.7MB
+ e0d55fdb4d15 Extracting [==============>                                    ]  32.31MB/109MB
+ eb77aa907276 Extracting [=====>                                             ]  105.8MB/907.7MB
+ e0d55fdb4d15 Extracting [==================>                                ]  39.55MB/109MB
+ eb77aa907276 Extracting [======>                                            ]  113.1MB/907.7MB
+ e0d55fdb4d15 Extracting [=====================>                             ]  46.24MB/109MB
+ eb77aa907276 Extracting [======>                                            ]  119.2MB/907.7MB
+ e0d55fdb4d15 Extracting [========================>                          ]  52.36MB/109MB
+ eb77aa907276 Extracting [======>                                            ]  125.9MB/907.7MB
+ e0d55fdb4d15 Extracting [=========================>                         ]  55.71MB/109MB
+ eb77aa907276 Extracting [=======>                                           ]  132.6MB/907.7MB
+ e0d55fdb4d15 Extracting [===========================>                       ]  60.16MB/109MB
+ eb77aa907276 Extracting [=======>                                           ]  138.1MB/907.7MB
+ e0d55fdb4d15 Extracting [===============================>                   ]  67.96MB/109MB
+ eb77aa907276 Extracting [=======>                                           ]  144.3MB/907.7MB
+ e0d55fdb4d15 Extracting [==================================>                ]   75.2MB/109MB
+ eb77aa907276 Extracting [========>                                          ]  150.4MB/907.7MB
+ e0d55fdb4d15 Extracting [=====================================>             ]  81.89MB/109MB
+ eb77aa907276 Extracting [========>                                          ]  157.6MB/907.7MB
+ e0d55fdb4d15 Extracting [========================================>          ]  89.13MB/109MB
+ eb77aa907276 Extracting [=========>                                         ]  168.8MB/907.7MB
+ e0d55fdb4d15 Extracting [==========================================>        ]  93.03MB/109MB
+ eb77aa907276 Extracting [==========>                                        ]  187.7MB/907.7MB
+ e0d55fdb4d15 Extracting [============================================>      ]  96.37MB/109MB
+ eb77aa907276 Extracting [===========>                                       ]  205.6MB/907.7MB
+ e0d55fdb4d15 Extracting [============================================>      ]  98.04MB/109MB
+ eb77aa907276 Extracting [===========>                                       ]  215.6MB/907.7MB
+ eb77aa907276 Extracting [============>                                      ]  225.6MB/907.7MB
+ e0d55fdb4d15 Extracting [==============================================>    ]  101.4MB/109MB
+ eb77aa907276 Extracting [============>                                      ]    234MB/907.7MB
+ e0d55fdb4d15 Extracting [===============================================>   ]  103.6MB/109MB
+ eb77aa907276 Extracting [=============>                                     ]  242.3MB/907.7MB
+ e0d55fdb4d15 Extracting [================================================>  ]  105.3MB/109MB
+ eb77aa907276 Extracting [==============>                                    ]  255.7MB/907.7MB
+ e0d55fdb4d15 Extracting [=================================================> ]    107MB/109MB
+ eb77aa907276 Extracting [===============>                                   ]    273MB/907.7MB
+ eb77aa907276 Extracting [================>                                  ]  294.7MB/907.7MB
+ eb77aa907276 Extracting [=================>                                 ]  313.6MB/907.7MB
+ e0d55fdb4d15 Extracting [=================================================> ]  107.5MB/109MB
+ eb77aa907276 Extracting [==================>                                ]  332.6MB/907.7MB
+ e0d55fdb4d15 Extracting [=================================================> ]  108.6MB/109MB
+ eb77aa907276 Extracting [===================>                               ]  349.3MB/907.7MB
+ e0d55fdb4d15 Extracting [==================================================>]    109MB/109MB
+ eb77aa907276 Extracting [===================>                               ]    361MB/907.7MB
+ eb77aa907276 Extracting [====================>                              ]  368.2MB/907.7MB
+ eb77aa907276 Extracting [====================>                              ]    376MB/907.7MB
+ eb77aa907276 Extracting [=====================>                             ]  397.2MB/907.7MB
+ eb77aa907276 Extracting [=======================>                           ]  421.7MB/907.7MB
+ eb77aa907276 Extracting [========================>                          ]  447.9MB/907.7MB
+ eb77aa907276 Extracting [==========================>                        ]  475.2MB/907.7MB
+ eb77aa907276 Extracting [===========================>                       ]  501.4MB/907.7MB
+ eb77aa907276 Extracting [=============================>                     ]  527.5MB/907.7MB
+ eb77aa907276 Extracting [==============================>                    ]  553.7MB/907.7MB
+ eb77aa907276 Extracting [===============================>                   ]  579.9MB/907.7MB
+ eb77aa907276 Extracting [=================================>                 ]  604.4MB/907.7MB
+ eb77aa907276 Extracting [==================================>                ]  629.5MB/907.7MB
+ eb77aa907276 Extracting [====================================>              ]  656.2MB/907.7MB
+ eb77aa907276 Extracting [=====================================>             ]  681.8MB/907.7MB
+ eb77aa907276 Extracting [======================================>            ]  707.5MB/907.7MB
+ eb77aa907276 Extracting [========================================>          ]  731.4MB/907.7MB
+ eb77aa907276 Extracting [=========================================>         ]    752MB/907.7MB
+ eb77aa907276 Extracting [==========================================>        ]  772.6MB/907.7MB
+ eb77aa907276 Extracting [===========================================>       ]  792.7MB/907.7MB
+ eb77aa907276 Extracting [============================================>      ]  814.4MB/907.7MB
+ eb77aa907276 Extracting [=============================================>     ]  834.5MB/907.7MB
+ eb77aa907276 Extracting [===============================================>   ]  855.1MB/907.7MB
+ eb77aa907276 Extracting [================================================>  ]  876.2MB/907.7MB
+ eb77aa907276 Extracting [=================================================> ]    898MB/907.7MB
+ eb77aa907276 Extracting [==================================================>]  907.7MB/907.7MB
+ e0d55fdb4d15 Pull complete 
+ c1cb13b19080 Extracting [==================================================>]  9.925kB/9.925kB
+ eb77aa907276 Pull complete 
+ c1cb13b19080 Extracting [==================================================>]  9.925kB/9.925kB
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Pull complete 
+ 0ffa8f8aba1e Extracting [==================================================>]     226B/226B
+ 0ffa8f8aba1e Extracting [==================================================>]     226B/226B
+ c1cb13b19080 Pull complete 
+ 873532e5f8c7 Extracting [==================================================>]     128B/128B
+ 873532e5f8c7 Extracting [==================================================>]     128B/128B
+ 0ffa8f8aba1e Pull complete 
+ 2e81b9cb93cd Extracting [==================================================>]  1.859kB/1.859kB
+ 873532e5f8c7 Pull complete 
+ 2e81b9cb93cd Extracting [==================================================>]  1.859kB/1.859kB
+ 050d9f8c3b1c Extracting [==================================================>]     169B/169B
+ 050d9f8c3b1c Extracting [==================================================>]     169B/169B
+ 2e81b9cb93cd Pull complete 
+ 050d9f8c3b1c Pull complete 
+ 710e142705f8 Extracting [==================================================>]  5.421kB/5.421kB
+ 710e142705f8 Extracting [==================================================>]  5.421kB/5.421kB
+ opensearch Pulled 
+ 710e142705f8 Pull complete 
+ cb628c265f09 Extracting [==================================================>]     184B/184B
+ cb628c265f09 Extracting [==================================================>]     184B/184B
+ cb628c265f09 Pull complete 
+ postgresql Pulled 
+ Network docker_services_cli_default  Creating
+ Network docker_services_cli_default  Created
+ Container docker_services_cli-opensearch-1  Creating
+ Container docker_services_cli-redis-1  Creating
+ Container docker_services_cli-postgresql-1  Creating
+ Container docker_services_cli-redis-1  Created
+ Container docker_services_cli-opensearch-1  Created
+ Container docker_services_cli-postgresql-1  Created
+ Container docker_services_cli-postgresql-1  Starting
+ Container docker_services_cli-redis-1  Starting
+ Container docker_services_cli-opensearch-1  Starting
+ Container docker_services_cli-redis-1  Started
+ Container docker_services_cli-postgresql-1  Started
+ Container docker_services_cli-opensearch-1  Started
+============================= test session starts ==============================
+platform linux -- Python 3.14.2, pytest-8.4.2, pluggy-1.6.0
+rootdir: /home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-requests/patched
+configfile: setup.cfg
+testpaths: docs, tests, invenio_requests
+plugins: flask-1.3.0, black-0.6.0, github-actions-annotate-failures-0.4.2, pycodestyle-2.5.0, cov-7.1.0, invenio-4.0.1, pydocstyle-2.4.0, isort-4.0.0, time-machine-2.19.0
+collected 523 items
+::warning file=workdir/tests/invenio-requests/patched/tests/resources/files/test_request_files_resources.py,line=84::"\w" is an invalid escape sequence. Such sequences will not work in the future. Did you mean "\\w"? A raw string is also an option.
+
+docs/conf.py ...                                                         [  0%]
+tests/__init__.py ...                                                    [  1%]
+tests/conftest.py ...                                                    [  1%]
+tests/customizations/test_event_types.py .....                           [  2%]
+tests/customizations/test_request_types.py ...::warning file=workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/invenio_rest/ext.py,line=24::CSRF validation will be enabled by default in the version 1.3.x
+..                         [  3%]
+tests/mock_module/__init__.py ...                                        [  4%]
+tests/mock_module/administration.py ...                                  [  4%]
+tests/mock_module/blueprint.py ...                                       [  5%]
+tests/mock_module/request_type.py ...                                    [  5%]
+tests/records/events/test_api.py ...::warning file=workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/invenio_rest/ext.py,line=24::CSRF validation will be enabled by default in the version 1.3.x
+                                     [  6%]
+tests/records/systemfields/conftest.py ...                               [  7%]
+tests/records/systemfields/helpers.py ...                                [  7%]
+tests/records/systemfields/test_calculated_systemfield.py ...::warning file=workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/invenio_rest/ext.py,line=24::CSRF validation will be enabled by default in the version 1.3.x
+.           [  8%]
+tests/records/systemfields/test_last_activity_field.py ...::warning file=workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/invenio_rest/ext.py,line=24::CSRF validation will be enabled by default in the version 1.3.x
+::error file=workdir/tests/invenio-requests/patched/tests/records/systemfields/test_last_activity_field.py,line=50::test_last_activity_search%0A%0AKeyError: 'last_activity_at'
+F::error file=workdir/tests/invenio-requests/patched/tests/records/systemfields/test_last_activity_field.py,line=119::test_last_activity_sorting%0A%0AKeyError: 'id'
+F             [  9%]
+tests/records/systemfields/test_last_reply_field.py ...::warning file=workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/invenio_rest/ext.py,line=24::CSRF validation will be enabled by default in the version 1.3.x
+::error file=workdir/tests/invenio-requests/patched/tests/records/systemfields/test_last_reply_field.py,line=43::test_last_reply_search%0A%0AKeyError: 'last_reply'
+F.::error file=workdir/tests/invenio-requests/patched/tests/records/systemfields/test_last_reply_field.py,line=123::test_search_index_last_reply%0A%0AKeyError: 'id'
+F               [ 10%]
+tests/records/test_request_api.py ...::warning file=workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/invenio_rest/ext.py,line=24::CSRF validation will be enabled by default in the version 1.3.x
+                                    [ 11%]
+tests/records/test_request_numberseq.py ...::warning file=workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/invenio_rest/ext.py,line=24::CSRF validation will be enabled by default in the version 1.3.x
+                              [ 11%]
+tests/records/test_systemfield_relatedrecord.py ...::warning file=workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/invenio_rest/ext.py,line=24::CSRF validation will be enabled by default in the version 1.3.x
+::warning file=workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/invenio_records/api.py,line=330::nested transaction already deassociated from connection
+::warning file=workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/pytest_invenio/fixtures.py,line=617::nested transaction already deassociated from connection
+.::warning file=workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/invenio_records/api.py,line=330::nested transaction already deassociated from connection
+::warning file=workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/pytest_invenio/fixtures.py,line=617::nested transaction already deassociated from connection
+.::warning file=workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/invenio_records/api.py,line=330::nested transaction already deassociated from connection
+::warning file=workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/pytest_invenio/fixtures.py,line=617::nested transaction already deassociated from connection
+.::warning file=workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/invenio_records/api.py,line=330::nested transaction already deassociated from connection
+::warning file=workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/pytest_invenio/fixtures.py,line=617::nested transaction already deassociated from connection
+.::warning file=workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/invenio_records/api.py,line=330::nested transaction already deassociated from connection
+::warning file=workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/pytest_invenio/fixtures.py,line=617::nested transaction already deassociated from connection
+                  [ 13%]
+tests/registry/conftest.py ...                                           [ 13%]
+tests/registry/test_registries.py ...::warning file=workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/invenio_rest/ext.py,line=24::CSRF validation will be enabled by default in the version 1.3.x
+..                                  [ 14%]
+tests/resources/events/conftest.py ...                                   [ 15%]
+tests/resources/events/test_request_events_resources.py ..::error file=workdir/tests/invenio-requests/patched/tests/resources/events/test_request_events_resources.py,line=45::test_simple_comment_flow%0A%0AKeyError: 'id'
+F::warning file=workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/invenio_rest/ext.py,line=24::CSRF validation will be enabled by default in the version 1.3.x
+::warning file=workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/flask_security/utils.py,line=77::Remember me support has been removed.
+.::warning file=workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/flask_security/utils.py,line=77::Remember me support has been removed.
+::error file=workdir/tests/invenio-requests/patched/tests/resources/events/test_request_events_resources.py,line=231::test_empty_comment%0A%0AKeyError: 'id'
+F::warning file=workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/flask_security/utils.py,line=77::Remember me support has been removed.
+.::warning file=workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/flask_security/utils.py,line=77::Remember me support has been removed.
+::error file=workdir/tests/invenio-requests/patched/tests/resources/events/test_request_events_resources.py,line=277::test_threaded_comments_with_indexing%0A%0AKeyError: 'id'
+F::warning file=workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/flask_security/utils.py,line=77::Remember me support has been removed.
+::error file=workdir/tests/invenio-requests/patched/tests/resources/events/test_request_events_resources.py,line=377::test_delete_child_comment_preserves_parent_child%0A%0AKeyError: 'id'
+F::warning file=workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/flask_security/utils.py,line=77::Remember me support has been removed.
+::error file=workdir/tests/invenio-requests/patched/tests/resources/events/test_request_events_resources.py,line=469::test_nested_children_not_allowed%0A%0AKeyError: 'id'
+F::warning file=workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/flask_security/utils.py,line=77::Remember me support has been removed.
+::error file=workdir/tests/invenio-requests/patched/tests/resources/events/test_request_events_resources.py,line=570::test_get_replies_endpoint%0A%0AKeyError: 'id'
+F::warning file=workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/flask_security/utils.py,line=77::Remember me support has been removed.
+::error file=workdir/tests/invenio-requests/patched/tests/resources/events/test_request_events_resources.py,line=647::test_children_preview_limit%0A%0AKeyError: 'id'
+F::warning file=workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/flask_security/utils.py,line=77::Remember me support has been removed.
+::error file=workdir/tests/invenio-requests/patched/tests/resources/events/test_request_events_resources.py,line=697::test_child_comment_permissions%0A%0AKeyError: 'id'
+F::warning file=workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/flask_security/utils.py,line=77::Remember me support has been removed.
+::error file=workdir/tests/invenio-requests/patched/tests/resources/events/test_request_events_resources.py,line=771::test_update_parent_with_children%0A%0AKeyError: 'id'
+F::warning file=workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/flask_security/utils.py,line=77::Remember me support has been removed.
+::error file=workdir/tests/invenio-requests/patched/tests/resources/events/test_request_events_resources.py,line=845::test_join_relationship_queries%0A%0AKeyError: 'id'
+F::warning file=workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/flask_security/utils.py,line=77::Remember me support has been removed.
+   [ 17%]
+tests/resources/files/conftest.py ...                                    [ 18%]
+tests/resources/files/test_request_files_resources.py ..::error file=workdir/tests/invenio-requests/patched/tests/resources/files/test_request_files_resources.py,line=471::test_update_comment_to_remove_files%0A%0AKeyError: 'id'
+F::warning file=workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/invenio_rest/ext.py,line=24::CSRF validation will be enabled by default in the version 1.3.x
+::warning file=workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/flask_security/utils.py,line=77::Remember me support has been removed.
+::error file=workdir/tests/invenio-requests/patched/tests/resources/files/test_request_files_resources.py,line=555::test_update_comment_to_add_files%0A%0AKeyError: 'id'
+F::warning file=workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/flask_security/utils.py,line=77::Remember me support has been removed.
+.::warning file=workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/flask_security/utils.py,line=77::Remember me support has been removed.
+::warning file=workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/flask_security/utils.py,line=77::Remember me support has been removed.
+::warning file=workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/flask_security/utils.py,line=77::Remember me support has been removed.
+::error file=workdir/tests/invenio-requests/patched/tests/resources/files/test_request_files_resources.py,line=737::test_delete_comment_with_files%0A%0AKeyError: 'id'
+F::warning file=workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/flask_security/utils.py,line=77::Remember me support has been removed.
+::error file=workdir/tests/invenio-requests/patched/tests/resources/files/test_request_files_resources.py,line=833::test_comment_with_files_expansion%0A%0AKeyError: 'id'
+F::warning file=workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/flask_security/utils.py,line=77::Remember me support has been removed.
+::error file=workdir/tests/invenio-requests/patched/tests/resources/files/test_request_files_resources.py,line=907::test_comment_with_reply_files_expansion%0A%0AKeyError: 'id'
+F::warning file=workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/flask_security/utils.py,line=77::Remember me support has been removed.
+           [ 19%]
+tests/resources/requests/conftest.py ...                                 [ 20%]
+tests/resources/requests/test_requests_resources.py ..::error file=workdir/tests/invenio-requests/patched/tests/resources/requests/test_requests_resources.py,line=52::test_reference_search_filters%0A%0AKeyError: 'number'
+F::warning file=workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/invenio_rest/ext.py,line=24::CSRF validation will be enabled by default in the version 1.3.x
+::warning file=workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/flask_security/utils.py,line=77::Remember me support has been removed.
+.::warning file=workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/flask_security/utils.py,line=77::Remember me support has been removed.
+.::warning file=workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/flask_security/utils.py,line=77::Remember me support has been removed.
+::error file=workdir/tests/invenio-requests/patched/tests/resources/requests/test_requests_resources.py,line=166::test_simple_request_flow%0A%0AKeyError: 'created'
+F::warning file=workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/flask_security/utils.py,line=77::Remember me support has been removed.
+::error file=workdir/tests/invenio-requests/patched/tests/resources/requests/test_requests_resources.py,line=232::test_lock_request_enabled%0A%0AKeyError: 'type'
+F::warning file=workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/flask_security/utils.py,line=77::Remember me support has been removed.
+.::warning file=workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/flask_security/utils.py,line=77::Remember me support has been removed.
+             [ 21%]
+tests/resources/user_moderation/test_user_moderation_resources.py ...::warning file=workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/invenio_rest/ext.py,line=24::CSRF validation will be enabled by default in the version 1.3.x
+::warning file=workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/flask_security/utils.py,line=77::Remember me support has been removed.
+::warning file=workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/cachelib/redis_base.py,line=70::Call to deprecated setex. (Use 'set' instead.) -- Deprecated since version 2.6.12.
+.::warning file=workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/flask_security/utils.py,line=77::Remember me support has been removed.
+.::warning file=workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/flask_security/utils.py,line=77::Remember me support has been removed.
+. [ 23%]
+::warning file=workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/flask_security/utils.py,line=77::Remember me support has been removed.
+.::warning file=workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/flask_security/utils.py,line=77::Remember me support has been removed.
+.::warning file=workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/flask_security/utils.py,line=77::Remember me support has been removed.
+.::warning file=workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/flask_security/utils.py,line=77::Remember me support has been removed.
+.::warning file=workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/flask_security/utils.py,line=77::Remember me support has been removed.
+.::warning file=workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/flask_security/utils.py,line=77::Remember me support has been removed.
+.::warning file=workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/flask_security/utils.py,line=77::Remember me support has been removed.
+.::warning file=workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/flask_security/utils.py,line=77::Remember me support has been removed.
+::warning file=workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/cachelib/redis_base.py,line=70::Call to deprecated setex. (Use 'set' instead.) -- Deprecated since version 2.6.12.
+                                                                  [ 24%]
+tests/services/components/test_request_reviewers_component.py ...::warning file=workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/invenio_rest/ext.py,line=24::CSRF validation will be enabled by default in the version 1.3.x
+....... [ 26%]
+.........                                                                [ 28%]
+tests/services/conftest.py ...                                           [ 28%]
+tests/services/events/conftest.py ...                                    [ 29%]
+tests/services/events/test_event_permissions.py ...::warning file=workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/invenio_rest/ext.py,line=24::CSRF validation will be enabled by default in the version 1.3.x
+.....                 [ 30%]
+tests/services/events/test_request_events_service.py ...::warning file=workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/invenio_rest/ext.py,line=24::CSRF validation will be enabled by default in the version 1.3.x
+::error file=workdir/tests/invenio-requests/patched/tests/services/events/test_request_events_service.py,line=53::test_simple_flow%0A%0AKeyError: 'type'
+F.::error file=workdir/tests/invenio-requests/patched/tests/services/events/test_request_events_service.py,line=135::test_cannot_change_event_type%0A%0AKeyError: 'type'
+F::error file=workdir/tests/invenio-requests/patched/tests/services/events/test_request_events_service.py,line=169::test_events_are_searchable%0A%0AKeyError: 'type'
+F::error file=workdir/tests/invenio-requests/patched/tests/services/events/test_request_events_service.py,line=189::test_comment_request_event_notification%0A%0Aassert 0 == 1%0A +  where 0 = len([])
+F::error file=workdir/tests/invenio-requests/patched/tests/services/events/test_request_events_service.py,line=212::test_notification_without_profile%0A%0Aassert 0 == 1%0A +  where 0 = len([])
+F::error file=workdir/tests/invenio-requests/patched/tests/services/events/test_request_events_service.py,line=283::test_reply_request_event_notification%0A%0Aassert 0 == 1%0A +  where 0 = len([])
+F..::error file=workdir/tests/invenio-requests/patched/tests/services/events/test_request_events_service.py,line=521::test_delete_component_called%0A%0AKeyError: 'type'
+F       [ 33%]
+tests/services/events/test_request_events_service_config.py ...::warning file=workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/invenio_rest/ext.py,line=24::CSRF validation will be enabled by default in the version 1.3.x
+.         [ 34%]
+tests/services/requests/test_request_permissions.py ...::warning file=workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/invenio_rest/ext.py,line=24::CSRF validation will be enabled by default in the version 1.3.x
+............      [ 36%]
+tests/services/requests/test_request_search_permissions.py ...::warning file=workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/invenio_rest/ext.py,line=24::CSRF validation will be enabled by default in the version 1.3.x
+           [ 37%]
+tests/services/requests/test_requests_schemas.py ...::warning file=workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/invenio_rest/ext.py,line=24::CSRF validation will be enabled by default in the version 1.3.x
+.                    [ 38%]
+tests/services/requests/test_requests_service.py ..::error file=workdir/tests/invenio-requests/patched/tests/services/requests/test_requests_service.py,line=23::test_submit_request%0A%0AKeyError: 'type'
+F::warning file=workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/invenio_rest/ext.py,line=24::CSRF validation will be enabled by default in the version 1.3.x
+.....::error file=workdir/tests/invenio-requests/patched/tests/services/requests/test_requests_service.py,line=163::test_search_user_requests%0A%0AKeyError: 'id'
+F.              [ 40%]
+tests/services/requests/test_requests_service_config.py ...::warning file=workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/invenio_rest/ext.py,line=24::CSRF validation will be enabled by default in the version 1.3.x
+.             [ 40%]
+tests/services/requests/test_requests_tasks.py ..::error file=workdir/tests/invenio-requests/patched/tests/services/requests/test_requests_tasks.py,line=82::test_check_expired_requests%0A%0Aassert 0 == 1%0A +  where 0 = <invenio_requests.services.requests.results.RequestList object at 0x7ff93d206de0>.total
+F::warning file=workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/invenio_rest/ext.py,line=24::CSRF validation will be enabled by default in the version 1.3.x
+                       [ 41%]
+tests/services/user_moderation/test_user_moderation_service.py ...::warning file=workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/invenio_rest/ext.py,line=24::CSRF validation will be enabled by default in the version 1.3.x
+..::warning file=workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/cachelib/redis_base.py,line=70::Call to deprecated setex. (Use 'set' instead.) -- Deprecated since version 2.6.12.
+.::warning file=workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/cachelib/redis_base.py,line=70::Call to deprecated setex. (Use 'set' instead.) -- Deprecated since version 2.6.12.
+..::error file=workdir/tests/invenio-requests/patched/tests/services/user_moderation/test_user_moderation_service.py,line=170::test_duplicate_request%0A%0AKeyError: 'id'
+F [ 43%]
+                                                                         [ 43%]
+tests/test_alembic.py ..s                                                [ 43%]
+tests/test_invenio_requests.py ....                                      [ 44%]
+tests/test_type_registry.py .....                                        [ 45%]
+tests/ui/conftest.py ...                                                 [ 46%]
+tests/ui/test_request_ui_files_resources.py ...::warning file=workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/flask_security/utils.py,line=77::Remember me support has been removed.
+                          [ 46%]
+invenio_requests/__init__.py ...                                         [ 47%]
+invenio_requests/alembic/1759321170_add_index_to_request_events_request_id_.py . [ 47%]
+..                                                                       [ 47%]
+invenio_requests/alembic/1763728177_create_request_files_table.py ...    [ 48%]
+invenio_requests/alembic/3ca07f2ee12b_change_datetime_types_addition.py . [ 48%]
+..                                                                       [ 48%]
+invenio_requests/alembic/5cd30a3503c9_create_requests_branch.py ...      [ 49%]
+invenio_requests/alembic/74b23178bfbe_change_datetime_types.py ...       [ 50%]
+invenio_requests/alembic/a14fa442680f_create_tables.py ...               [ 50%]
+invenio_requests/config.py ...                                           [ 51%]
+invenio_requests/customizations/__init__.py ...                          [ 51%]
+invenio_requests/customizations/actions.py ...                           [ 52%]
+invenio_requests/customizations/event_types.py ...                       [ 52%]
+invenio_requests/customizations/request_types.py ...                     [ 53%]
+invenio_requests/customizations/states.py ...                            [ 54%]
+invenio_requests/customizations/user_moderation/__init__.py ...          [ 54%]
+invenio_requests/customizations/user_moderation/user_moderation.py ...   [ 55%]
+invenio_requests/errors.py ...                                           [ 55%]
+invenio_requests/ext.py ...                                              [ 56%]
+invenio_requests/notifications/__init__.py ...                           [ 56%]
+invenio_requests/notifications/builders.py ...                           [ 57%]
+invenio_requests/notifications/filters.py ...                            [ 58%]
+invenio_requests/notifications/generators.py ...                         [ 58%]
+invenio_requests/proxies.py ...                                          [ 59%]
+invenio_requests/records/__init__.py ...                                 [ 59%]
+invenio_requests/records/api.py ...                                      [ 60%]
+invenio_requests/records/dumpers/__init__.py ...                         [ 60%]
+invenio_requests/records/dumpers/calculated.py ...                       [ 61%]
+invenio_requests/records/dumpers/granttokens.py ...                      [ 62%]
+invenio_requests/records/dumpers/parentchild.py ...                      [ 62%]
+invenio_requests/records/jsonschemas/__init__.py ...                     [ 63%]
+invenio_requests/records/mappings/__init__.py ...                        [ 63%]
+invenio_requests/records/mappings/os-v1/__init__.py ...                  [ 64%]
+invenio_requests/records/mappings/os-v2/__init__.py ...                  [ 65%]
+invenio_requests/records/mappings/v7/__init__.py ...                     [ 65%]
+invenio_requests/records/models.py ...                                   [ 66%]
+invenio_requests/records/systemfields/__init__.py ...                    [ 66%]
+invenio_requests/records/systemfields/computed.py ...                    [ 67%]
+invenio_requests/records/systemfields/entity_reference.py ...            [ 67%]
+invenio_requests/records/systemfields/event_type.py ...                  [ 68%]
+invenio_requests/records/systemfields/expired_state.py ...               [ 69%]
+invenio_requests/records/systemfields/files.py ...                       [ 69%]
+invenio_requests/records/systemfields/identity.py ...                    [ 70%]
+invenio_requests/records/systemfields/relatedrecord.py ...               [ 70%]
+invenio_requests/records/systemfields/request_state.py ...               [ 71%]
+invenio_requests/records/systemfields/request_type.py ...                [ 71%]
+invenio_requests/records/systemfields/status.py ...                      [ 72%]
+invenio_requests/records/validators.py ...                               [ 73%]
+invenio_requests/registry.py ...                                         [ 73%]
+invenio_requests/resolvers/__init__.py ...                               [ 74%]
+invenio_requests/resolvers/registry.py ...                               [ 74%]
+invenio_requests/resolvers/requests.py ...                               [ 75%]
+invenio_requests/resources/__init__.py ...                               [ 75%]
+invenio_requests/resources/events/__init__.py ...                        [ 76%]
+invenio_requests/resources/events/config.py ...                          [ 77%]
+invenio_requests/resources/events/resource.py ...                        [ 77%]
+invenio_requests/resources/files/__init__.py ...                         [ 78%]
+invenio_requests/resources/files/config.py ...                           [ 78%]
+invenio_requests/resources/files/resource.py ...                         [ 79%]
+invenio_requests/resources/requests/__init__.py ...                      [ 79%]
+invenio_requests/resources/requests/config.py ...                        [ 80%]
+invenio_requests/resources/requests/fields.py ...                        [ 81%]
+invenio_requests/resources/requests/resource.py ...                      [ 81%]
+invenio_requests/services/__init__.py ...                                [ 82%]
+invenio_requests/services/events/__init__.py ...                         [ 82%]
+invenio_requests/services/events/config.py ...                           [ 83%]
+invenio_requests/services/events/service.py ...                          [ 83%]
+invenio_requests/services/files/__init__.py ...                          [ 84%]
+invenio_requests/services/files/config.py ...                            [ 85%]
+invenio_requests/services/files/errors.py ...                            [ 85%]
+invenio_requests/services/files/service.py ...                           [ 86%]
+invenio_requests/services/generators.py ...                              [ 86%]
+invenio_requests/services/links.py ...                                   [ 87%]
+invenio_requests/services/permissions.py ...                             [ 87%]
+invenio_requests/services/requests/__init__.py ...                       [ 88%]
+invenio_requests/services/requests/components.py ...                     [ 89%]
+invenio_requests/services/requests/config.py ...                         [ 89%]
+invenio_requests/services/requests/facets.py ...                         [ 90%]
+invenio_requests/services/requests/params.py ...                         [ 90%]
+invenio_requests/services/requests/results.py ...                        [ 91%]
+invenio_requests/services/requests/service.py ...                        [ 91%]
+invenio_requests/services/results.py ...                                 [ 92%]
+invenio_requests/services/schemas.py ...                                 [ 93%]
+invenio_requests/services/user_moderation/__init__.py ...                [ 93%]
+invenio_requests/services/user_moderation/errors.py ...                  [ 94%]
+invenio_requests/services/user_moderation/service.py ...                 [ 94%]
+invenio_requests/tasks.py ...                                            [ 95%]
+invenio_requests/views/__init__.py ...                                   [ 95%]
+invenio_requests/views/api.py ...                                        [ 96%]
+invenio_requests/views/decorators.py ...                                 [ 97%]
+invenio_requests/views/files/__init__.py ...                             [ 97%]
+invenio_requests/views/files/requests.py ...                             [ 98%]
+invenio_requests/views/files/ui.py ...                                   [ 98%]
+invenio_requests/views/ui.py ...                                         [ 99%]
+invenio_requests/webpack.py ...                                          [100%]
+
+=================================== FAILURES ===================================
+__________________________ test_last_activity_search ___________________________
+
+search = <OpenSearch([{'host': 'localhost', 'port': 9200}])>
+database = <SQLAlchemy postgresql+psycopg2://invenio:***@localhost:5432/invenio>
+example_request = {'$schema': 'local://requests/request-v1.0.0.json', 'type': 'base-request', 'files': {'enabled': True}, 'title': 'Foo bar', 'receiver': {'user': '2'}, 'created_by': {'user': '1'}, 'topic': None, 'status': 'submitted'}
+user1 = <pytest_invenio.user.UserFixtureBase object at 0x7ff941051c50>
+
+    def test_last_activity_search(search, database, example_request, user1):
+        """Test that search calls properly handle last_activity_at."""
+        results = requests_service.search(user1.identity, expand=True).to_dict()
+        assert results["hits"]["total"] == 1
+        hit = results["hits"]["hits"][0]
+>       assert hit["last_activity_at"] is not None
+               ^^^^^^^^^^^^^^^^^^^^^^^
+E       KeyError: 'last_activity_at'
+
+tests/records/systemfields/test_last_activity_field.py:50: KeyError
+__________________________ test_last_activity_sorting __________________________
+
+database = <SQLAlchemy postgresql+psycopg2://invenio:***@localhost:5432/invenio>
+search_clear = <OpenSearch([{'host': 'localhost', 'port': 9200}])>
+user1 = <pytest_invenio.user.UserFixtureBase object at 0x7ff941051c50>
+user2 = <pytest_invenio.user.UserFixtureBase object at 0x7ff94106ecf0>
+
+    def test_last_activity_sorting(database, search_clear, user1, user2):
+        """Test sorting by last activity."""
+        with time_machine.travel(
+            datetime(2025, 1, 1, 12, 0, 0, tzinfo=timezone.utc)
+        ) as traveller:
+            # Create first request with a comment
+            request_1 = create_request(database, user1, user2, title="Request 1")
+            traveller.shift(timedelta(seconds=30))
+            add_comment(request_1, user1.identity, "Comment on request 1")
+    
+            # Create second request with no comments
+            traveller.shift(timedelta(seconds=30))
+            request_2 = create_request(database, user1, user2, title="Request 2")
+    
+            # Create third request with a new comment
+            traveller.shift(timedelta(seconds=30))
+            request_3 = create_request(database, user1, user2, title="Request 3")
+            traveller.shift(timedelta(seconds=30))
+            add_comment(request_3, user1.identity, "Comment on request 3")
+    
+            # Test newest activity sort (should be 3, 2, 1)
+            results = requests_service.search(
+                system_identity, params={"sort": "newestactivity"}, expand=True
+            ).to_dict()
+            assert results["hits"]["total"] == 3
+            hits = results["hits"]["hits"]
+>           assert hits[0]["id"] == str(request_3.id)
+                   ^^^^^^^^^^^^^
+E           KeyError: 'id'
+
+tests/records/systemfields/test_last_activity_field.py:119: KeyError
+____________________________ test_last_reply_search ____________________________
+
+search = <OpenSearch([{'host': 'localhost', 'port': 9200}])>
+example_request = {'$schema': 'local://requests/request-v1.0.0.json', 'type': 'base-request', 'files': {'enabled': True}, 'title': 'Foo bar', 'receiver': {'user': '2'}, 'created_by': {'user': '1'}, 'topic': None, 'status': 'submitted'}
+user1 = <pytest_invenio.user.UserFixtureBase object at 0x7ff940e33c50>
+
+    def test_last_reply_search(search, example_request, user1):
+        """Test that search calls use the pre-dumped last reply."""
+        results = requests_service.search(user1.identity, expand=True).to_dict()
+        assert results["hits"]["total"] == 1
+        hit = results["hits"]["hits"][0]
+>       assert hit["last_reply"] is None
+               ^^^^^^^^^^^^^^^^^
+E       KeyError: 'last_reply'
+
+tests/records/systemfields/test_last_reply_field.py:43: KeyError
+_________________________ test_search_index_last_reply _________________________
+
+example_request = {'$schema': 'local://requests/request-v1.0.0.json', 'type': 'base-request', 'files': {'enabled': True}, 'title': 'Foo bar', 'receiver': {'user': '2'}, 'created_by': {'user': '1'}, 'topic': None, 'status': 'submitted'}
+user2 = <pytest_invenio.user.UserFixtureBase object at 0x7ff94121ee60>
+search_clear = <OpenSearch([{'host': 'localhost', 'port': 9200}])>
+
+    def test_search_index_last_reply(example_request, user2, search_clear):
+        """Test that last reply object is properly indexed."""
+        # Add comment
+        comment_event = add_comment(example_request, user2.identity, "Reply")
+    
+        def _assert_hit_eq(hit):
+            assert hit["id"] == str(example_request.id)
+            assert hit["last_reply"] is not None
+            assert hit["last_reply"]["created_by"]["user"] == str(user2.user.id)
+            assert (
+                hit["last_reply"]["created"]
+                == comment_event.created.replace(tzinfo=timezone.utc).isoformat()
+            )
+            assert hit["last_reply"]["id"] == str(comment_event.id)
+            expanded = hit["expanded"]["last_reply"]
+            assert expanded is not None
+            assert expanded["created_by"]["id"] == str(user2.user.id)
+            assert {"profile", "email", "username"} <= expanded["created_by"].keys()
+    
+        # Search by all requests first to check indexing
+        results = requests_service.search(system_identity, expand=True).to_dict()
+    
+        assert results["hits"]["total"] == 1
+>       _assert_hit_eq(results["hits"]["hits"][0])
+
+tests/records/systemfields/test_last_reply_field.py:123: 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+hit = {'created_by': {'user': '1'}, 'expanded': {'created_by': {'active': None, 'blocked_at': None, 'confirmed_at': None, 'e...b4fd-2594aa68f407/lock', 'self': 'https://127.0.0.1:5000/api/requests/7c47bee5-6f27-4ebd-b4fd-2594aa68f407', ...}, ...}
+
+    def _assert_hit_eq(hit):
+>       assert hit["id"] == str(example_request.id)
+               ^^^^^^^^^
+E       KeyError: 'id'
+
+tests/records/systemfields/test_last_reply_field.py:106: KeyError
+___________________________ test_simple_comment_flow ___________________________
+
+app = <Flask 'invenio'>
+client_logged_as = <function client_logged_as.<locals>.log_user at 0x7ff9401c0720>
+headers = {'accept': 'application/json', 'content-type': 'application/json'}
+events_resource_data = {'payload': {'content': 'This is a comment.', 'format': 'html'}}
+example_request = {'$schema': 'local://requests/request-v1.0.0.json', 'type': 'base-request', 'files': {'enabled': True}, 'title': 'Foo bar', 'receiver': {'user': '2'}, 'created_by': {'user': '1'}, 'topic': None, 'status': 'created'}
+
+    def test_simple_comment_flow(
+        app, client_logged_as, headers, events_resource_data, example_request
+    ):
+        request_id = example_request.id
+    
+        # User 2 cannot comment yet (the record's still a draft)
+        client = client_logged_as("user2@example.org")
+        response = client.post(
+            f"/requests/{request_id}/comments", headers=headers, json=events_resource_data
+        )
+        assert response.status_code == 403
+    
+        # User 1 comments (the creator is allowed to comment on their draft requests)
+        client = client_logged_as("user1@example.org")
+        response = client.post(
+            f"/requests/{request_id}/comments", headers=headers, json=events_resource_data
+        )
+    
+>       comment_id = response.json["id"]
+                     ^^^^^^^^^^^^^^^^^^^
+E       KeyError: 'id'
+
+tests/resources/events/test_request_events_resources.py:45: KeyError
+---------------------------- Captured stderr setup -----------------------------
+[2026-06-25 08:59:04,309] WARNING in ext: JSONSCHEMAS_HOST is set to localhost
+------------------------------ Captured log setup ------------------------------
+WARNING  invenio:ext.py:286 JSONSCHEMAS_HOST is set to localhost
+______________________________ test_empty_comment ______________________________
+
+app = <Flask 'invenio'>
+client_logged_as = <function client_logged_as.<locals>.log_user at 0x7ff93ff97950>
+headers = {'accept': 'application/json', 'content-type': 'application/json'}
+events_resource_data = {'payload': {'content': 'This is a comment.', 'format': 'html'}}
+example_request = {'$schema': 'local://requests/request-v1.0.0.json', 'type': 'base-request', 'files': {'enabled': True}, 'title': 'Foo bar', 'receiver': {'user': '2'}, 'created_by': {'user': '1'}, 'topic': None, 'status': 'created'}
+
+    def test_empty_comment(
+        app, client_logged_as, headers, events_resource_data, example_request
+    ):
+        client = client_logged_as("user1@example.org")
+        request_id = example_request.id
+    
+        # Comment no payload is an error
+        response = client.post(f"/requests/{request_id}/comments", headers=headers)
+    
+        expected_json = {
+            "errors": [
+                {"field": "payload", "messages": ["Missing data for required field."]}
+            ],
+            "message": "A validation error occurred.",
+            "status": 400,
+        }
+        assert 400 == response.status_code
+        assert expected_json == response.json
+    
+        # Comment {} is an error
+        response = client.post(f"/requests/{request_id}/comments", headers=headers, json={})
+        assert 400 == response.status_code
+        assert expected_json == response.json
+    
+        # Comment empty content is an error
+        data = copy.deepcopy(events_resource_data)
+        data["payload"]["content"] = ""
+        response = client.post(
+            f"/requests/{request_id}/comments", headers=headers, json=data
+        )
+        assert 400 == response.status_code
+        expected_json = {
+            **expected_json,
+            "errors": [
+                {"field": "payload.content", "messages": ["Shorter than minimum length 1."]}
+            ],
+        }
+        assert expected_json == response.json
+    
+        # Update with empty comment is an error
+        # (first create one correctly)
+        data["payload"]["content"] = "This is a comment."
+        response = client.post(
+            f"/requests/{request_id}/comments", headers=headers, json=data
+        )
+>       comment_id = response.json["id"]
+                     ^^^^^^^^^^^^^^^^^^^
+E       KeyError: 'id'
+
+tests/resources/events/test_request_events_resources.py:231: KeyError
+_____________________ test_threaded_comments_with_indexing _____________________
+
+app = <Flask 'invenio'>
+client_logged_as = <function client_logged_as.<locals>.log_user at 0x7ff93fefd430>
+headers = {'accept': 'application/json', 'content-type': 'application/json'}
+events_resource_data = {'payload': {'content': 'This is a comment.', 'format': 'html'}}
+example_request = {'$schema': 'local://requests/request-v1.0.0.json', 'type': 'base-request', 'files': {'enabled': True}, 'title': 'Foo bar', 'receiver': {'user': '2'}, 'is_locked': False, 'created_by': {'user': '1'}, 'topic': None, 'status': 'created'}
+
+    def test_threaded_comments_with_indexing(
+        app, client_logged_as, headers, events_resource_data, example_request
+    ):
+        """Test creating threaded comments (replies) and verify indexing of children."""
+        client = client_logged_as("user1@example.org")
+        request_id = example_request.id
+    
+        # Step 1: Create a parent comment
+        parent_data = copy.deepcopy(events_resource_data)
+        parent_data["payload"]["content"] = "This is the parent comment."
+        response = client.post(
+            f"/requests/{request_id}/comments", headers=headers, json=parent_data
+        )
+        assert response.status_code == 201
+>       parent_comment_id = response.json["id"]
+                            ^^^^^^^^^^^^^^^^^^^
+E       KeyError: 'id'
+
+tests/resources/events/test_request_events_resources.py:277: KeyError
+_______________ test_delete_child_comment_preserves_parent_child _______________
+
+app = <Flask 'invenio'>
+client_logged_as = <function client_logged_as.<locals>.log_user at 0x7ff93fd17ab0>
+headers = {'accept': 'application/json', 'content-type': 'application/json'}
+events_resource_data = {'payload': {'content': 'This is a comment.', 'format': 'html'}}
+example_request = {'$schema': 'local://requests/request-v1.0.0.json', 'type': 'base-request', 'files': {'enabled': True}, 'title': 'Foo bar', 'receiver': {'user': '2'}, 'is_locked': False, 'created_by': {'user': '1'}, 'topic': None, 'status': 'created'}
+
+    def test_delete_child_comment_preserves_parent_child(
+        app, client_logged_as, headers, events_resource_data, example_request
+    ):
+        """Test deleting a child comment via REST API preserves parent-child structure."""
+        client = client_logged_as("user1@example.org")
+        request_id = example_request.id
+    
+        # Create parent comment
+        parent_data = copy.deepcopy(events_resource_data)
+        parent_data["payload"]["content"] = "Parent comment"
+        response = client.post(
+            f"/requests/{request_id}/comments", headers=headers, json=parent_data
+        )
+        assert response.status_code == 201
+>       parent_comment_id = response.json["id"]
+                            ^^^^^^^^^^^^^^^^^^^
+E       KeyError: 'id'
+
+tests/resources/events/test_request_events_resources.py:377: KeyError
+_______________________ test_nested_children_not_allowed _______________________
+
+app = <Flask 'invenio'>
+client_logged_as = <function client_logged_as.<locals>.log_user at 0x7ff93fd60300>
+headers = {'accept': 'application/json', 'content-type': 'application/json'}
+events_resource_data = {'payload': {'content': 'This is a comment.', 'format': 'html'}}
+example_request = {'$schema': 'local://requests/request-v1.0.0.json', 'type': 'base-request', 'files': {'enabled': True}, 'title': 'Foo bar', 'receiver': {'user': '2'}, 'is_locked': False, 'created_by': {'user': '1'}, 'topic': None, 'status': 'created'}
+
+    def test_nested_children_not_allowed(
+        app, client_logged_as, headers, events_resource_data, example_request
+    ):
+        """Test that 2-level nesting (reply to reply) is NOT allowed."""
+        client = client_logged_as("user1@example.org")
+        request_id = example_request.id
+    
+        # Step 1: Create parent comment
+        parent_data = copy.deepcopy(events_resource_data)
+        parent_data["payload"]["content"] = "This is the parent comment."
+        response = client.post(
+            f"/requests/{request_id}/comments", headers=headers, json=parent_data
+        )
+        assert response.status_code == 201
+>       parent_comment_id = response.json["id"]
+                            ^^^^^^^^^^^^^^^^^^^
+E       KeyError: 'id'
+
+tests/resources/events/test_request_events_resources.py:469: KeyError
+__________________________ test_get_replies_endpoint ___________________________
+
+app = <Flask 'invenio'>
+client_logged_as = <function client_logged_as.<locals>.log_user at 0x7ff93fd64b40>
+headers = {'accept': 'application/json', 'content-type': 'application/json'}
+events_resource_data = {'payload': {'content': 'This is a comment.', 'format': 'html'}}
+example_request = {'$schema': 'local://requests/request-v1.0.0.json', 'type': 'base-request', 'files': {'enabled': True}, 'title': 'Foo bar', 'receiver': {'user': '2'}, 'is_locked': False, 'created_by': {'user': '1'}, 'topic': None, 'status': 'created'}
+
+    def test_get_replies_endpoint(
+        app, client_logged_as, headers, events_resource_data, example_request
+    ):
+        """Test GET /comments/{comment_id}/replies endpoint for paginated replies."""
+        client = client_logged_as("user1@example.org")
+        request_id = example_request.id
+    
+        # Create a parent comment
+        parent_data = copy.deepcopy(events_resource_data)
+        parent_data["payload"]["content"] = "Parent comment"
+        response = client.post(
+            f"/requests/{request_id}/comments", headers=headers, json=parent_data
+        )
+        assert response.status_code == 201
+>       parent_comment_id = response.json["id"]
+                            ^^^^^^^^^^^^^^^^^^^
+E       KeyError: 'id'
+
+tests/resources/events/test_request_events_resources.py:570: KeyError
+_________________________ test_children_preview_limit __________________________
+
+app = <Flask 'invenio'>
+client_logged_as = <function client_logged_as.<locals>.log_user at 0x7ff93fb39170>
+headers = {'accept': 'application/json', 'content-type': 'application/json'}
+events_resource_data = {'payload': {'content': 'This is a comment.', 'format': 'html'}}
+example_request = {'$schema': 'local://requests/request-v1.0.0.json', 'type': 'base-request', 'files': {'enabled': True}, 'title': 'Foo bar', 'receiver': {'user': '2'}, 'is_locked': False, 'created_by': {'user': '1'}, 'topic': None, 'status': 'created'}
+
+    def test_children_preview_limit(
+        app, client_logged_as, headers, events_resource_data, example_request
+    ):
+        """Test that children respects the preview limit."""
+        client = client_logged_as("user1@example.org")
+        request_id = example_request.id
+    
+        # Create a parent comment
+        parent_data = copy.deepcopy(events_resource_data)
+        parent_data["payload"]["content"] = "Parent with many replies"
+        response = client.post(
+            f"/requests/{request_id}/comments", headers=headers, json=parent_data
+        )
+        assert response.status_code == 201
+>       parent_comment_id = response.json["id"]
+                            ^^^^^^^^^^^^^^^^^^^
+E       KeyError: 'id'
+
+tests/resources/events/test_request_events_resources.py:647: KeyError
+________________________ test_child_comment_permissions ________________________
+
+app = <Flask 'invenio'>
+client_logged_as = <function client_logged_as.<locals>.log_user at 0x7ff93fb61900>
+headers = {'accept': 'application/json', 'content-type': 'application/json'}
+events_resource_data = {'payload': {'content': 'This is a comment.', 'format': 'html'}}
+example_request = {'$schema': 'local://requests/request-v1.0.0.json', 'type': 'base-request', 'files': {'enabled': True}, 'title': 'Foo bar', 'receiver': {'user': '2'}, 'is_locked': False, 'created_by': {'user': '1'}, 'topic': None, 'status': 'created'}
+
+    def test_child_comment_permissions(
+        app, client_logged_as, headers, events_resource_data, example_request
+    ):
+        """Test permissions on child comments for different users."""
+        request_id = example_request.id
+    
+        # User 1 creates parent comment and submits request
+        client = client_logged_as("user1@example.org")
+        parent_data = copy.deepcopy(events_resource_data)
+        parent_data["payload"]["content"] = "Parent by user1"
+        response = client.post(
+            f"/requests/{request_id}/comments", headers=headers, json=parent_data
+        )
+        assert response.status_code == 201
+>       parent_comment_id = response.json["id"]
+                            ^^^^^^^^^^^^^^^^^^^
+E       KeyError: 'id'
+
+tests/resources/events/test_request_events_resources.py:697: KeyError
+_______________________ test_update_parent_with_children _______________________
+
+app = <Flask 'invenio'>
+client_logged_as = <function client_logged_as.<locals>.log_user at 0x7ff93fbfa2a0>
+headers = {'accept': 'application/json', 'content-type': 'application/json'}
+events_resource_data = {'payload': {'content': 'This is a comment.', 'format': 'html'}}
+example_request = {'$schema': 'local://requests/request-v1.0.0.json', 'type': 'base-request', 'files': {'enabled': True}, 'title': 'Foo bar', 'receiver': {'user': '2'}, 'is_locked': False, 'created_by': {'user': '1'}, 'topic': None, 'status': 'created'}
+
+    def test_update_parent_with_children(
+        app, client_logged_as, headers, events_resource_data, example_request
+    ):
+        """Test updating a parent comment that has child replies."""
+        client = client_logged_as("user1@example.org")
+        request_id = example_request.id
+    
+        # Create parent comment
+        parent_data = copy.deepcopy(events_resource_data)
+        parent_data["payload"]["content"] = "Original parent content"
+        response = client.post(
+            f"/requests/{request_id}/comments", headers=headers, json=parent_data
+        )
+        assert response.status_code == 201
+>       parent_comment_id = response.json["id"]
+                            ^^^^^^^^^^^^^^^^^^^
+E       KeyError: 'id'
+
+tests/resources/events/test_request_events_resources.py:771: KeyError
+________________________ test_join_relationship_queries ________________________
+
+app = <Flask 'invenio'>
+client_logged_as = <function client_logged_as.<locals>.log_user at 0x7ff93fb86b90>
+identity_simple = <Identity id="1" auth_type="None" provides={Need(method='id', value=1), Need(method='system_role', value='authenticated_user'), Need(method='system_role', value='any_user')}>
+headers = {'accept': 'application/json', 'content-type': 'application/json'}
+events_resource_data = {'payload': {'content': 'This is a comment.', 'format': 'html'}}
+example_request = {'$schema': 'local://requests/request-v1.0.0.json', 'type': 'base-request', 'files': {'enabled': True}, 'title': 'Foo bar', 'receiver': {'user': '2'}, 'is_locked': False, 'created_by': {'user': '1'}, 'topic': None, 'status': 'created'}
+
+    def test_join_relationship_queries(
+        app,
+        client_logged_as,
+        identity_simple,
+        headers,
+        events_resource_data,
+        example_request,
+    ):
+        """Test OpenSearch join relationship queries for comment parent-child relationships.
+    
+        This test verifies the join relationship implementation works correctly:
+        1. Join relationship field is set properly (comment/reply)
+        2. has_child query with inner_hits works for timeline view
+        3. parent_id query works for pagination
+        """
+        from invenio_requests.proxies import current_requests
+    
+        client = client_logged_as("user1@example.org")
+        identity = identity_simple
+        request_id = example_request.id
+    
+        # Step 1: Create a parent comment
+        parent_data = copy.deepcopy(events_resource_data)
+        parent_data["payload"]["content"] = "Parent comment for join test"
+        response = client.post(
+            f"/requests/{request_id}/comments", headers=headers, json=parent_data
+        )
+        assert response.status_code == 201
+>       parent_comment_id = response.json["id"]
+                            ^^^^^^^^^^^^^^^^^^^
+E       KeyError: 'id'
+
+tests/resources/events/test_request_events_resources.py:845: KeyError
+_____________________ test_update_comment_to_remove_files ______________________
+
+app = <Flask 'invenio'>
+client_logged_as = <function client_logged_as.<locals>.log_user at 0x7ff93f987060>
+example_request = {'$schema': 'local://requests/request-v1.0.0.json', 'type': 'base-request', 'files': {'enabled': True}, 'title': 'Foo bar', 'receiver': {'user': '2'}, 'created_by': {'user': '1'}, 'topic': None, 'status': 'created'}
+headers = {'accept': 'application/json', 'content-type': 'application/json'}
+headers_upload = {'accept': 'application/json', 'content-type': 'application/octet-stream'}
+location = pytest-location
+events_resource_data = {'payload': {'content': 'This is a comment.', 'format': 'html'}}
+
+    def test_update_comment_to_remove_files(
+        app,
+        client_logged_as,
+        example_request,
+        headers,
+        headers_upload,
+        location,
+        events_resource_data,
+    ):
+        # Passing the `location` fixture to make sure that a default bucket location is defined.
+        assert location.default == True
+    
+        request_id = example_request.id
+    
+        file1_key_base = "screenshot"
+        file1_key_ext = ".png"
+        file1_data_content = b"\x89PNG\r\n\x1a\n ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+    
+        file2_key_base = "report"
+        file2_key_ext = ".pdf"
+        file2_data_content = b"%PDF ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+    
+        file3_key_base = "big"
+        file3_key_ext = ".dat"
+        # 11 MB file
+        file3_data_content = b"1234567890A" * 1000 * 1000
+    
+        client = client_logged_as("user1@example.org")
+    
+        # Upload first file
+        file1_details = upload_file(
+            client=client,
+            request_id=request_id,
+            key_base=file1_key_base,
+            key_ext=file1_key_ext,
+            data_content=file1_data_content,
+            headers_upload=headers_upload,
+        )
+    
+        # Upload second file
+        file2_details = upload_file(
+            client=client,
+            request_id=request_id,
+            key_base=file2_key_base,
+            key_ext=file2_key_ext,
+            data_content=file2_data_content,
+            headers_upload=headers_upload,
+        )
+    
+        # Upload third file -> Failure
+        upload_file(
+            client=client,
+            request_id=request_id,
+            key_base=file3_key_base,
+            key_ext=file3_key_ext,
+            data_content=file3_data_content,
+            headers_upload=headers_upload,
+            expected_status_code=400,
+            expected_json={"message": "File size exceeds limit", "status": 400},
+        )
+    
+        # Submit comment with file references (only successful uploads)
+>       comment_id = submit_comment(
+            client=client,
+            request_id=request_id,
+            # file3 not included
+            files_details=[file1_details, file2_details],
+            events_resource_data=events_resource_data,
+            headers=headers,
+        )
+
+tests/resources/files/test_request_files_resources.py:471: 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+client = <FlaskClient <Flask 'invenio'>>
+request_id = UUID('f4119aa1-4360-41db-ab66-d0c90b848d5c')
+files_details = [{'file_id': '608a9338-d4a0-4cd0-92b1-9583144d0962', 'key': 'screenshot-81cef-44n89.png', 'links': {'content': 'https:.../api/requests/f4119aa1-4360-41db-ab66-d0c90b848d5c/files/report-njw8f-89787.pdf'}, 'mimetype': 'application/pdf', ...}]
+events_resource_data = {'payload': {'content': 'This is a comment.', 'format': 'html'}}
+headers = {'accept': 'application/json', 'content-type': 'application/json'}
+expected_status_code = 201, expected_json = None
+
+    def submit_comment(
+        client,
+        request_id,
+        files_details,
+        events_resource_data,
+        headers,
+        expected_status_code=201,
+        expected_json=None,
+    ):
+        events_resource_data_with_files = get_events_resource_data_with_files(
+            files_details=files_details,
+            events_resource_data=events_resource_data,
+        )
+    
+        response = client.post(
+            f"/requests/{request_id}/comments",
+            headers=headers,
+            json=events_resource_data_with_files,
+        )
+    
+        assert expected_status_code == response.status_code
+    
+        if expected_status_code != 201 and expected_json is not None:
+            assert expected_json == response.json
+        else:
+>           comment_id = response.json["id"]
+                         ^^^^^^^^^^^^^^^^^^^
+E           KeyError: 'id'
+
+tests/resources/files/test_request_files_resources.py:328: KeyError
+---------------------------- Captured stderr setup -----------------------------
+[2026-06-25 08:59:09,008] WARNING in ext: JSONSCHEMAS_HOST is set to localhost
+[2026-06-25 08:59:09,985] ERROR in api: Failed to index record 5
+Traceback (most recent call last):
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/invenio_indexer/api.py", line 365, in _actionsiter
+    yield self._index_action(payload)
+          ~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/invenio_indexer/api.py", line 411, in _index_action
+    index = self.record_to_index(record)
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/invenio_indexer/api.py", line 109, in record_to_index
+    result = self._record_to_index(record)
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/invenio_records_resources/services/records/service.py", line 63, in record_to_index
+    return record.index._name
+           ^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'index'
+[2026-06-25 08:59:09,989] ERROR in api: Failed to index record 6
+Traceback (most recent call last):
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/invenio_indexer/api.py", line 365, in _actionsiter
+    yield self._index_action(payload)
+          ~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/invenio_indexer/api.py", line 411, in _index_action
+    index = self.record_to_index(record)
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/invenio_indexer/api.py", line 109, in record_to_index
+    result = self._record_to_index(record)
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/invenio_records_resources/services/records/service.py", line 63, in record_to_index
+    return record.index._name
+           ^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'index'
+------------------------------ Captured log setup ------------------------------
+WARNING  invenio:ext.py:286 JSONSCHEMAS_HOST is set to localhost
+ERROR    invenio:api.py:371 Failed to index record 5
+Traceback (most recent call last):
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/invenio_indexer/api.py", line 365, in _actionsiter
+    yield self._index_action(payload)
+          ~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/invenio_indexer/api.py", line 411, in _index_action
+    index = self.record_to_index(record)
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/invenio_indexer/api.py", line 109, in record_to_index
+    result = self._record_to_index(record)
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/invenio_records_resources/services/records/service.py", line 63, in record_to_index
+    return record.index._name
+           ^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'index'
+ERROR    invenio:api.py:371 Failed to index record 6
+Traceback (most recent call last):
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/invenio_indexer/api.py", line 365, in _actionsiter
+    yield self._index_action(payload)
+          ~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/invenio_indexer/api.py", line 411, in _index_action
+    index = self.record_to_index(record)
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/invenio_indexer/api.py", line 109, in record_to_index
+    result = self._record_to_index(record)
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/invenio_records_resources/services/records/service.py", line 63, in record_to_index
+    return record.index._name
+           ^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'index'
+_______________________ test_update_comment_to_add_files _______________________
+
+app = <Flask 'invenio'>
+client_logged_as = <function client_logged_as.<locals>.log_user at 0x7ff93ed7e400>
+example_request = {'$schema': 'local://requests/request-v1.0.0.json', 'type': 'base-request', 'files': {'enabled': True}, 'title': 'Foo bar', 'receiver': {'user': '2'}, 'created_by': {'user': '1'}, 'topic': None, 'status': 'created'}
+headers = {'accept': 'application/json', 'content-type': 'application/json'}
+headers_upload = {'accept': 'application/json', 'content-type': 'application/octet-stream'}
+location = pytest-location
+events_resource_data = {'payload': {'content': 'This is a comment.', 'format': 'html'}}
+
+    def test_update_comment_to_add_files(
+        app,
+        client_logged_as,
+        example_request,
+        headers,
+        headers_upload,
+        location,
+        events_resource_data,
+    ):
+        # Passing the `location` fixture to make sure that a default bucket location is defined.
+        assert location.default == True
+    
+        request_id = example_request.id
+    
+        file1_key_base = "screenshot"
+        file1_key_ext = ".png"
+        file1_data_content = b"\x89PNG\r\n\x1a\n ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+    
+        file2_key_base = "report"
+        file2_key_ext = ".pdf"
+        file2_data_content = b"%PDF ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+    
+        client = client_logged_as("user1@example.org")
+    
+        # Submit a comment without files
+>       comment_id = submit_comment(
+            client=client,
+            request_id=request_id,
+            files_details=[],
+            events_resource_data=events_resource_data,
+            headers=headers,
+        )
+
+tests/resources/files/test_request_files_resources.py:555: 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+client = <FlaskClient <Flask 'invenio'>>
+request_id = UUID('f3ea7d40-adf3-4dce-aeec-9eacc137b321'), files_details = []
+events_resource_data = {'payload': {'content': 'This is a comment.', 'format': 'html'}}
+headers = {'accept': 'application/json', 'content-type': 'application/json'}
+expected_status_code = 201, expected_json = None
+
+    def submit_comment(
+        client,
+        request_id,
+        files_details,
+        events_resource_data,
+        headers,
+        expected_status_code=201,
+        expected_json=None,
+    ):
+        events_resource_data_with_files = get_events_resource_data_with_files(
+            files_details=files_details,
+            events_resource_data=events_resource_data,
+        )
+    
+        response = client.post(
+            f"/requests/{request_id}/comments",
+            headers=headers,
+            json=events_resource_data_with_files,
+        )
+    
+        assert expected_status_code == response.status_code
+    
+        if expected_status_code != 201 and expected_json is not None:
+            assert expected_json == response.json
+        else:
+>           comment_id = response.json["id"]
+                         ^^^^^^^^^^^^^^^^^^^
+E           KeyError: 'id'
+
+tests/resources/files/test_request_files_resources.py:328: KeyError
+________________________ test_delete_comment_with_files ________________________
+
+app = <Flask 'invenio'>
+client_logged_as = <function client_logged_as.<locals>.log_user at 0x7ff93ec65c70>
+example_request = {'$schema': 'local://requests/request-v1.0.0.json', 'type': 'base-request', 'files': {'enabled': True}, 'title': 'Foo bar', 'receiver': {'user': '2'}, 'created_by': {'user': '1'}, 'topic': None, 'status': 'created'}
+headers = {'accept': 'application/json', 'content-type': 'application/json'}
+headers_upload = {'accept': 'application/json', 'content-type': 'application/octet-stream'}
+location = pytest-location
+events_resource_data = {'payload': {'content': 'This is a comment.', 'format': 'html'}}
+
+    def test_delete_comment_with_files(
+        app,
+        client_logged_as,
+        example_request,
+        headers,
+        headers_upload,
+        location,
+        events_resource_data,
+    ):
+        # Passing the `location` fixture to make sure that a default bucket location is defined.
+        assert location.default == True
+    
+        request_id = example_request.id
+    
+        file1_key_base = "screenshot"
+        file1_key_ext = ".png"
+        file1_data_content = b"\x89PNG\r\n\x1a\n ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+    
+        file2_key_base = "report"
+        file2_key_ext = ".pdf"
+        file2_data_content = b"%PDF ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+    
+        client = client_logged_as("user1@example.org")
+    
+        # Upload first file
+        file1_details = upload_file(
+            client=client,
+            request_id=request_id,
+            key_base=file1_key_base,
+            key_ext=file1_key_ext,
+            data_content=file1_data_content,
+            headers_upload=headers_upload,
+        )
+    
+        # Upload second file
+        file2_details = upload_file(
+            client=client,
+            request_id=request_id,
+            key_base=file2_key_base,
+            key_ext=file2_key_ext,
+            data_content=file2_data_content,
+            headers_upload=headers_upload,
+        )
+    
+        # Submit comment with file references
+>       comment_id = submit_comment(
+            client=client,
+            request_id=request_id,
+            files_details=[file1_details, file2_details],
+            events_resource_data=events_resource_data,
+            headers=headers,
+        )
+
+tests/resources/files/test_request_files_resources.py:737: 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+client = <FlaskClient <Flask 'invenio'>>
+request_id = UUID('9389046f-8e08-47fc-9851-5f4d43a9da08')
+files_details = [{'file_id': 'd76dd862-0e70-464c-abe9-1d7197bb88c6', 'key': 'screenshot-0mby0-gdp43.png', 'links': {'content': 'https:.../api/requests/9389046f-8e08-47fc-9851-5f4d43a9da08/files/report-kwgvx-rj206.pdf'}, 'mimetype': 'application/pdf', ...}]
+events_resource_data = {'payload': {'content': 'This is a comment.', 'format': 'html'}}
+headers = {'accept': 'application/json', 'content-type': 'application/json'}
+expected_status_code = 201, expected_json = None
+
+    def submit_comment(
+        client,
+        request_id,
+        files_details,
+        events_resource_data,
+        headers,
+        expected_status_code=201,
+        expected_json=None,
+    ):
+        events_resource_data_with_files = get_events_resource_data_with_files(
+            files_details=files_details,
+            events_resource_data=events_resource_data,
+        )
+    
+        response = client.post(
+            f"/requests/{request_id}/comments",
+            headers=headers,
+            json=events_resource_data_with_files,
+        )
+    
+        assert expected_status_code == response.status_code
+    
+        if expected_status_code != 201 and expected_json is not None:
+            assert expected_json == response.json
+        else:
+>           comment_id = response.json["id"]
+                         ^^^^^^^^^^^^^^^^^^^
+E           KeyError: 'id'
+
+tests/resources/files/test_request_files_resources.py:328: KeyError
+______________________ test_comment_with_files_expansion _______________________
+
+app = <Flask 'invenio'>
+client_logged_as = <function client_logged_as.<locals>.log_user at 0x7ff93eb2e980>
+example_request = {'$schema': 'local://requests/request-v1.0.0.json', 'type': 'base-request', 'files': {'enabled': True}, 'title': 'Foo bar', 'receiver': {'user': '2'}, 'created_by': {'user': '1'}, 'topic': None, 'status': 'created'}
+headers = {'accept': 'application/json', 'content-type': 'application/json'}
+headers_upload = {'accept': 'application/json', 'content-type': 'application/octet-stream'}
+location = pytest-location
+events_resource_data = {'payload': {'content': 'This is a comment.', 'format': 'html'}}
+
+    def test_comment_with_files_expansion(
+        app,
+        client_logged_as,
+        example_request,
+        headers,
+        headers_upload,
+        location,
+        events_resource_data,
+    ):
+        """Test that comment file details are properly expanded in timeline."""
+        # Passing the `location` fixture to make sure that a default bucket location is defined.
+        assert location.default == True
+    
+        request_id = example_request.id
+    
+        file1_key_base = "screenshot"
+        file1_key_ext = ".png"
+        file1_data_content = b"\x89PNG\r\n\x1a\n ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+    
+        file2_key_base = "report"
+        file2_key_ext = ".pdf"
+        file2_data_content = b"%PDF ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+    
+        client = client_logged_as("user1@example.org")
+    
+        # Upload first file
+        file1_details = upload_file(
+            client=client,
+            request_id=request_id,
+            key_base=file1_key_base,
+            key_ext=file1_key_ext,
+            data_content=file1_data_content,
+            headers_upload=headers_upload,
+        )
+    
+        # Upload second file
+        file2_details = upload_file(
+            client=client,
+            request_id=request_id,
+            key_base=file2_key_base,
+            key_ext=file2_key_ext,
+            data_content=file2_data_content,
+            headers_upload=headers_upload,
+        )
+    
+        # Create comment with file references
+        events_resource_data_with_files = get_events_resource_data_with_files(
+            files_details=[file1_details, file2_details],
+            events_resource_data=events_resource_data,
+        )
+    
+        response = client.post(
+            f"/requests/{request_id}/comments",
+            headers=headers,
+            json=events_resource_data_with_files,
+        )
+    
+        assert 201 == response.status_code
+>       comment_id = response.json["id"]
+                     ^^^^^^^^^^^^^^^^^^^
+E       KeyError: 'id'
+
+tests/resources/files/test_request_files_resources.py:833: KeyError
+___________________ test_comment_with_reply_files_expansion ____________________
+
+app = <Flask 'invenio'>
+client_logged_as = <function client_logged_as.<locals>.log_user at 0x7ff93e9e2610>
+example_request = {'$schema': 'local://requests/request-v1.0.0.json', 'type': 'base-request', 'files': {'enabled': True}, 'title': 'Foo bar', 'receiver': {'user': '2'}, 'created_by': {'user': '1'}, 'topic': None, 'status': 'created'}
+headers = {'accept': 'application/json', 'content-type': 'application/json'}
+headers_upload = {'accept': 'application/json', 'content-type': 'application/octet-stream'}
+location = pytest-location
+events_resource_data = {'payload': {'content': 'This is a comment.', 'format': 'html'}}
+
+    def test_comment_with_reply_files_expansion(
+        app,
+        client_logged_as,
+        example_request,
+        headers,
+        headers_upload,
+        location,
+        events_resource_data,
+    ):
+        """Test that comment and reply file details are properly expanded in timeline."""
+        # Passing the `location` fixture to make sure that a default bucket location is defined.
+        assert location.default == True
+    
+        request_id = example_request.id
+    
+        # Files for parent comment
+        parent_file1_key_base = "parent-screenshot"
+        parent_file1_key_ext = ".png"
+        parent_file1_data_content = b"\x89PNG\r\n\x1a\n PARENT FILE CONTENT"
+    
+        # Files for child reply
+        child_file1_key_base = "child-document"
+        child_file1_key_ext = ".pdf"
+        child_file1_data_content = b"%PDF CHILD FILE CONTENT"
+    
+        client = client_logged_as("user1@example.org")
+    
+        # Upload file for parent comment
+        parent_file1_details = upload_file(
+            client=client,
+            request_id=request_id,
+            key_base=parent_file1_key_base,
+            key_ext=parent_file1_key_ext,
+            data_content=parent_file1_data_content,
+            headers_upload=headers_upload,
+        )
+    
+        # Upload file for child reply
+        child_file1_details = upload_file(
+            client=client,
+            request_id=request_id,
+            key_base=child_file1_key_base,
+            key_ext=child_file1_key_ext,
+            data_content=child_file1_data_content,
+            headers_upload=headers_upload,
+        )
+    
+        # Create parent comment with file
+        parent_events_data = get_events_resource_data_with_files(
+            files_details=[parent_file1_details],
+            events_resource_data=events_resource_data,
+        )
+    
+        response = client.post(
+            f"/requests/{request_id}/comments",
+            headers=headers,
+            json=parent_events_data,
+        )
+    
+        assert 201 == response.status_code
+>       parent_comment_id = response.json["id"]
+                            ^^^^^^^^^^^^^^^^^^^
+E       KeyError: 'id'
+
+tests/resources/files/test_request_files_resources.py:907: KeyError
+________________________ test_reference_search_filters _________________________
+
+app = <Flask 'invenio'>
+client_logged_as = <function client_logged_as.<locals>.log_user at 0x7ff93e873c10>
+headers = {'accept': 'application/json', 'content-type': 'application/json'}
+example_requests = [{'$schema': 'local://requests/request-v1.0.0.json', 'type': 'base-request', 'files': {'enabled': True}, 'title': 'fir...: True}, 'title': 'third', 'created_by': {'user': '3'}, 'receiver': {'user': '2'}, 'topic': None, 'status': 'created'}]
+
+    def test_reference_search_filters(app, client_logged_as, headers, example_requests):
+        """Test if the reference search filters (e.g. receiver=user:1) work as intended."""
+        # use the admin with superuser-access to evade potential permission issues
+        client = client_logged_as("admin@example.org")
+        req1, req2, req3 = example_requests
+    
+        # get unfiltered responses
+        response = client.get(
+            "/requests/",
+            headers=headers,
+        )
+>       check_reference_search_filter_results(
+            response, 3, [req1.number, req2.number, req3.number]
+        )
+
+tests/resources/requests/test_requests_resources.py:52: 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+response = <WrapperTestResponse 3248 bytes [200 OK]>, expected_hits = 3
+expected_req_nums = ['1', '2', '3']
+
+    def check_reference_search_filter_results(response, expected_hits, expected_req_nums):
+        """Check if all expected results are there."""
+        hits = response.json["hits"]["hits"]
+        reported_hits = int(response.json["hits"]["total"])
+>       req_numbers = [r["number"] for r in response.json["hits"]["hits"]]
+                       ^^^^^^^^^^^
+E       KeyError: 'number'
+
+tests/resources/requests/test_requests_resources.py:32: KeyError
+---------------------------- Captured stderr setup -----------------------------
+[2026-06-25 08:59:13,039] WARNING in ext: JSONSCHEMAS_HOST is set to localhost
+[2026-06-25 08:59:13,927] ERROR in api: Failed to index record 5
+Traceback (most recent call last):
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/invenio_indexer/api.py", line 365, in _actionsiter
+    yield self._index_action(payload)
+          ~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/invenio_indexer/api.py", line 411, in _index_action
+    index = self.record_to_index(record)
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/invenio_indexer/api.py", line 109, in record_to_index
+    result = self._record_to_index(record)
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/invenio_records_resources/services/records/service.py", line 63, in record_to_index
+    return record.index._name
+           ^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'index'
+[2026-06-25 08:59:13,929] ERROR in api: Failed to index record 6
+Traceback (most recent call last):
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/invenio_indexer/api.py", line 365, in _actionsiter
+    yield self._index_action(payload)
+          ~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/invenio_indexer/api.py", line 411, in _index_action
+    index = self.record_to_index(record)
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/invenio_indexer/api.py", line 109, in record_to_index
+    result = self._record_to_index(record)
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/invenio_records_resources/services/records/service.py", line 63, in record_to_index
+    return record.index._name
+           ^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'index'
+------------------------------ Captured log setup ------------------------------
+WARNING  invenio:ext.py:286 JSONSCHEMAS_HOST is set to localhost
+ERROR    invenio:api.py:371 Failed to index record 5
+Traceback (most recent call last):
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/invenio_indexer/api.py", line 365, in _actionsiter
+    yield self._index_action(payload)
+          ~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/invenio_indexer/api.py", line 411, in _index_action
+    index = self.record_to_index(record)
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/invenio_indexer/api.py", line 109, in record_to_index
+    result = self._record_to_index(record)
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/invenio_records_resources/services/records/service.py", line 63, in record_to_index
+    return record.index._name
+           ^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'index'
+ERROR    invenio:api.py:371 Failed to index record 6
+Traceback (most recent call last):
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/invenio_indexer/api.py", line 365, in _actionsiter
+    yield self._index_action(payload)
+          ~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/invenio_indexer/api.py", line 411, in _index_action
+    index = self.record_to_index(record)
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/invenio_indexer/api.py", line 109, in record_to_index
+    result = self._record_to_index(record)
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/invenio_records_resources/services/records/service.py", line 63, in record_to_index
+    return record.index._name
+           ^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'index'
+___________________________ test_simple_request_flow ___________________________
+
+app = <Flask 'invenio'>
+client_logged_as = <function client_logged_as.<locals>.log_user at 0x7ff93e832ae0>
+headers = {'accept': 'application/json', 'content-type': 'application/json'}
+example_request = {'$schema': 'local://requests/request-v1.0.0.json', 'type': 'base-request', 'files': {'enabled': True}, 'title': 'Foo bar', 'receiver': {'user': '2'}, 'created_by': {'user': '1'}, 'topic': None, 'status': 'created'}
+
+    def test_simple_request_flow(app, client_logged_as, headers, example_request):
+        client = client_logged_as("user1@example.org")
+        id_ = str(example_request.id)
+    
+        # test read
+        response = client.get(f"/requests/{id_}", headers=headers)
+        expected_data = {
+            "id": id_,
+            "number": example_request.number,
+            "title": "Foo bar",
+            "type": "base-request",
+            "created_by": {"user": "1"},
+            "receiver": {"user": "2"},
+            "topic": None,
+            "status": "created",
+            "is_open": False,
+            "is_closed": False,
+            "expires_at": None,
+            "files": {"enabled": True},
+            "is_expired": False,
+            "links": {
+                "self": f"https://127.0.0.1:5000/api/requests/{id_}",
+                "self_html": f"https://127.0.0.1:5000/requests/{id_}",
+                "timeline": f"https://127.0.0.1:5000/api/requests/{id_}/timeline",
+                "timeline_focused": f"https://127.0.0.1:5000/api/requests/{id_}/timeline_focused",
+                "comments": f"https://127.0.0.1:5000/api/requests/{id_}/comments",
+                "lock": f"https://127.0.0.1:5000/api/requests/{id_}/lock",
+                "unlock": f"https://127.0.0.1:5000/api/requests/{id_}/unlock",
+                "actions": {
+                    "submit": f"https://127.0.0.1:5000/api/requests/{id_}/actions/submit",
+                },
+            },
+            "reviewers": [],
+            "last_reply": None,
+            "last_activity_at": example_request.updated.replace(tzinfo=tz.utc).isoformat(),
+        }
+>       assert_api_response(response, 200, expected_data)
+
+tests/resources/requests/test_requests_resources.py:166: 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+tests/resources/requests/test_requests_resources.py:25: in assert_api_response
+    assert_api_response_json(json, response.json)
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+expected_json = {'created_by': {'user': '1'}, 'expires_at': None, 'files': {'enabled': True}, 'id': 'eaf7bbad-54c2-4cf2-87e4-1d7765e8ff45', ...}
+received_json = {'created_by': {'user': '1'}, 'files': {'enabled': True}, 'links': {'actions': {'submit': 'https://127.0.0.1:5000/api/...elf': 'https://127.0.0.1:5000/api/requests/eaf7bbad-54c2-4cf2-87e4-1d7765e8ff45', ...}, 'receiver': {'user': '2'}, ...}
+
+    def assert_api_response_json(expected_json, received_json):
+        """Assert the REST API response's json."""
+        # We don't compare dynamic times at this point
+>       received_json.pop("created")
+E       KeyError: 'created'
+
+tests/resources/requests/test_requests_resources.py:16: KeyError
+__________________________ test_lock_request_enabled ___________________________
+
+app = <Flask 'invenio'>
+client_logged_as = <function client_logged_as.<locals>.log_user at 0x7ff93e966400>
+headers = {'accept': 'application/json', 'content-type': 'application/json'}
+request_with_locking_enabled = {'$schema': 'local://requests/request-v1.0.0.json', 'type': 'base-request', 'files': {'enabled': True}, 'title': 'Foo bar', 'receiver': {'user': '2'}, 'is_locked': False, 'created_by': {'user': '1'}, 'topic': None, 'status': 'submitted'}
+monkeypatch = <_pytest.monkeypatch.MonkeyPatch object at 0x7ff93e7a22e0>
+
+    def test_lock_request_enabled(
+        app, client_logged_as, headers, request_with_locking_enabled, monkeypatch
+    ):
+        monkeypatch.setitem(app.config, "REQUESTS_LOCKING_ENABLED", True)
+        client = client_logged_as("user2@example.org")
+        id_ = str(request_with_locking_enabled.id)
+    
+        # Lock request is allowed when locking is enabled
+        response = client.get(f"/requests/{id_}/lock", headers=headers)
+        assert response.status_code == 204
+    
+        # Refresh index
+        RequestEvent.index.refresh()
+    
+        # Check last event is locked
+        response = client.get(f"/requests/{id_}/timeline?sort=newest", headers=headers)
+>       assert response.json["hits"]["hits"][0]["type"] == LogEventType.type_id
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+E       KeyError: 'type'
+
+tests/resources/requests/test_requests_resources.py:232: KeyError
+_______________________________ test_simple_flow _______________________________
+
+app = <Flask 'invenio'>
+identity_simple = <Identity id="1" auth_type="None" provides={Need(method='id', value=1), Need(method='system_role', value='authenticated_user'), Need(method='system_role', value='any_user')}>
+events_service_data = {'comment': {'payload': {'content': 'This is a comment.', 'format': 'html'}, 'type': 'C'}, 'log': {'payload': {'content': 'This is a log event.', 'event': 'LOG_EVENT', 'format': 'html'}, 'type': 'L'}}
+create_request = <function create_request.<locals>._create_request at 0x7ff93f62e820>
+request_events_service = <invenio_requests.services.events.service.RequestEventsService object at 0x7ff93e4d0520>
+
+    def test_simple_flow(
+        app, identity_simple, events_service_data, create_request, request_events_service
+    ):
+        """Interact with comment events."""
+        request = create_request(identity_simple)
+        request_id = request.id
+        comment = events_service_data["comment"]
+    
+        # Create a comment
+        item = request_events_service.create(
+            identity_simple, request_id, dict(**comment), CommentEventType
+        )
+        item_dict = item.to_dict()
+    
+>       assert comment["type"] == item_dict["type"]
+                                  ^^^^^^^^^^^^^^^^^
+E       KeyError: 'type'
+
+tests/services/events/test_request_events_service.py:53: KeyError
+________________________ test_cannot_change_event_type _________________________
+
+identity_simple = <Identity id="1" auth_type="None" provides={Need(method='id', value=1), Need(method='system_role', value='authenticated_user'), Need(method='system_role', value='any_user')}>
+events_service_data = {'comment': {'payload': {'content': 'This is a comment.', 'format': 'html'}, 'type': 'C'}, 'log': {'payload': {'content': 'This is a log event.', 'event': 'LOG_EVENT', 'format': 'html'}, 'type': 'L'}}
+example_request = {'$schema': 'local://requests/request-v1.0.0.json', 'type': 'base-request', 'files': {'enabled': True}, 'title': 'Foo bar', 'receiver': {'user': '2'}, 'created_by': {'user': '1'}, 'topic': None, 'status': 'created'}
+
+    def test_cannot_change_event_type(
+        identity_simple, events_service_data, example_request
+    ):
+        # The `update`` service method can't be used to change the type
+        events_service = current_requests.request_events_service
+        comment = events_service_data["comment"]
+    
+        request_id = example_request.id
+    
+        item = events_service.create(identity_simple, request_id, comment, CommentEventType)
+        comment_id = item.id
+        data = {**comment, "type": LogEventType.type_id}
+    
+        updated_event = events_service.update(identity_simple, comment_id, data).to_dict()
+        # data aren't changed
+>       assert updated_event["type"] == CommentEventType.type_id
+               ^^^^^^^^^^^^^^^^^^^^^
+E       KeyError: 'type'
+
+tests/services/events/test_request_events_service.py:135: KeyError
+__________________________ test_events_are_searchable __________________________
+
+app = <Flask 'invenio'>
+identity_simple = <Identity id="1" auth_type="None" provides={Need(method='id', value=1), Need(method='system_role', value='authenticated_user'), Need(method='system_role', value='any_user')}>
+events_service_data = {'comment': {'payload': {'content': 'This is a comment.', 'format': 'html'}, 'type': 'C'}, 'log': {'payload': {'content': 'This is a log event.', 'event': 'LOG_EVENT', 'format': 'html'}, 'type': 'L'}}
+create_request = <function create_request.<locals>._create_request at 0x7ff93f5dc720>
+request_events_service = <invenio_requests.services.events.service.RequestEventsService object at 0x7ff93e4d0520>
+
+    def test_events_are_searchable(
+        app, identity_simple, events_service_data, create_request, request_events_service
+    ):
+        """Search all type of events."""
+        request = create_request(identity_simple)
+        request_id = request.id
+        comment = events_service_data["comment"]
+        log_event = events_service_data["log"]
+    
+        # Create a comment
+        request_events_service.create(
+            identity_simple, request_id, comment, CommentEventType
+        )
+    
+        # Create a log event
+        request_events_service.create(identity_simple, request_id, log_event, LogEventType)
+    
+        # Refresh to make changes live
+        RequestEvent.index.refresh()
+    
+        # search all events
+        searched_items = request_events_service.search(
+            identity_simple,
+            request_id,
+            size=10,
+            page=1,
+        )
+        assert 2 == searched_items.total
+    
+        search_comment = list(searched_items.hits)[0]
+        assert comment["payload"] == search_comment["payload"]
+>       assert search_comment["type"] == CommentEventType.type_id
+               ^^^^^^^^^^^^^^^^^^^^^^
+E       KeyError: 'type'
+
+tests/services/events/test_request_events_service.py:169: KeyError
+___________________ test_comment_request_event_notification ____________________
+
+app = <Flask 'invenio'>
+events_service_data = {'comment': {'payload': {'content': 'This is a comment.', 'format': 'html'}, 'type': 'C'}, 'log': {'payload': {'content': 'This is a log event.', 'event': 'LOG_EVENT', 'format': 'html'}, 'type': 'L'}}
+submit_request = <function submit_request.<locals>._submit_request at 0x7ff93f595fe0>
+request_events_service = <invenio_requests.services.events.service.RequestEventsService object at 0x7ff93e4d0520>
+user1 = <pytest_invenio.user.UserFixtureBase object at 0x7ff940cc05d0>
+user2 = <pytest_invenio.user.UserFixtureBase object at 0x7ff940446570>
+superuser = <pytest_invenio.user.UserFixtureBase object at 0x7ff93f7968e0>
+monkeypatch = <_pytest.monkeypatch.MonkeyPatch object at 0x7ff93f517620>
+
+    def test_comment_request_event_notification(
+        app,
+        events_service_data,
+        submit_request,
+        request_events_service,
+        user1,
+        user2,
+        superuser,
+        monkeypatch,
+    ):
+        """Test notification being sent on request comment create."""
+>       _test_comment_request_event_notification(
+            app,
+            events_service_data,
+            submit_request,
+            request_events_service,
+            user1,
+            user2,
+            superuser,
+            monkeypatch,
+        )
+
+tests/services/events/test_request_events_service.py:189: 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+app = <Flask 'invenio'>
+events_service_data = {'comment': {'payload': {'content': 'This is a comment.', 'format': 'html'}, 'type': 'C'}, 'log': {'payload': {'content': 'This is a log event.', 'event': 'LOG_EVENT', 'format': 'html'}, 'type': 'L'}}
+submit_request = <function submit_request.<locals>._submit_request at 0x7ff93f595fe0>
+request_events_service = <invenio_requests.services.events.service.RequestEventsService object at 0x7ff93e4d0520>
+user1 = <pytest_invenio.user.UserFixtureBase object at 0x7ff940cc05d0>
+user2 = <pytest_invenio.user.UserFixtureBase object at 0x7ff940446570>
+superuser = <pytest_invenio.user.UserFixtureBase object at 0x7ff93f7968e0>
+monkeypatch = <_pytest.monkeypatch.MonkeyPatch object at 0x7ff93f517620>
+
+    def _test_comment_request_event_notification(
+        app,
+        events_service_data,
+        submit_request,
+        request_events_service,
+        user1,
+        user2,
+        superuser,
+        monkeypatch,
+    ):
+        original_builder = CommentRequestEventCreateNotificationBuilder
+    
+        # mock build to observe calls
+        mock_build = MagicMock()
+        mock_build.side_effect = original_builder.build
+        monkeypatch.setattr(original_builder, "build", mock_build)
+        # setting specific builder for test case
+        monkeypatch.setattr(
+            current_notifications_manager,
+            "builders",
+            {
+                **current_notifications_manager.builders,
+                original_builder.type: original_builder,
+            },
+        )
+        assert not mock_build.called
+    
+        mail = app.extensions.get("mail")
+        assert mail
+    
+        request = submit_request(user2.identity, receiver=user1.user)
+        request_id = request.id
+        comment = events_service_data["comment"]
+    
+        with mail.record_messages() as outbox:
+            # Create a comment as creator
+            request_event = request_events_service.create(
+                user2.identity, request_id, dict(**comment), CommentEventType
+            )
+    
+            # check notification is build on create
+            assert mock_build.called
+    
+            # only request receiver should get notification
+>           assert len(outbox) == 1
+E           assert 0 == 1
+E            +  where 0 = len([])
+
+tests/services/events/test_request_events_service.py:380: AssertionError
+------------------------------ Captured log call -------------------------------
+ERROR    celery.app.trace:trace.py:267 Task invenio_notifications.tasks.broadcast_notification[6ad14ba1-fe94-4e7f-a073-6662e90086de] raised unexpected: KeyError('id')
+Traceback (most recent call last):
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/celery/app/trace.py", line 453, in trace_task
+    R = retval = fun(*args, **kwargs)
+                 ~~~^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/invenio_notifications/tasks.py", line 19, in broadcast_notification
+    current_notifications_manager.handle_broadcast(Notification(**notification))
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/invenio_notifications/manager.py", line 49, in handle_broadcast
+    recipients = builder.build_recipients(notification)
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/invenio_notifications/services/builders.py", line 144, in build_recipients
+    recipient_func(notification, recipients)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-requests/patched/invenio_requests/notifications/generators.py", line 54, in __call__
+    created_by_user_id = _get_user_id_from_entity(request["created_by"])
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-requests/patched/invenio_requests/notifications/generators.py", line 36, in _get_user_id_from_entity
+    entity_field["id"] if entity_field.get("profile") is not None else None
+    ~~~~~~~~~~~~^^^^^^
+KeyError: 'id'
+ERROR    celery.app.trace:trace.py:267 Task invenio_notifications.tasks.broadcast_notification[baacec7a-97f9-4b53-bdb6-5397622b09b2] raised unexpected: KeyError('id')
+Traceback (most recent call last):
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/celery/app/trace.py", line 453, in trace_task
+    R = retval = fun(*args, **kwargs)
+                 ~~~^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/invenio_notifications/tasks.py", line 19, in broadcast_notification
+    current_notifications_manager.handle_broadcast(Notification(**notification))
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/invenio_notifications/manager.py", line 49, in handle_broadcast
+    recipients = builder.build_recipients(notification)
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/invenio_notifications/services/builders.py", line 144, in build_recipients
+    recipient_func(notification, recipients)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-requests/patched/invenio_requests/notifications/generators.py", line 54, in __call__
+    created_by_user_id = _get_user_id_from_entity(request["created_by"])
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-requests/patched/invenio_requests/notifications/generators.py", line 36, in _get_user_id_from_entity
+    entity_field["id"] if entity_field.get("profile") is not None else None
+    ~~~~~~~~~~~~^^^^^^
+KeyError: 'id'
+______________________ test_notification_without_profile _______________________
+
+app = <Flask 'invenio'>
+events_service_data = {'comment': {'payload': {'content': 'This is a comment.', 'format': 'html'}, 'type': 'C'}, 'log': {'payload': {'content': 'This is a log event.', 'event': 'LOG_EVENT', 'format': 'html'}, 'type': 'L'}}
+submit_request = <function submit_request.<locals>._submit_request at 0x7ff93f4e47d0>
+request_events_service = <invenio_requests.services.events.service.RequestEventsService object at 0x7ff93e4d0520>
+user1 = <pytest_invenio.user.UserFixtureBase object at 0x7ff940cc05d0>
+user_without_profile = <pytest_invenio.user.UserFixtureBase object at 0x7ff93f4e4890>
+superuser = <pytest_invenio.user.UserFixtureBase object at 0x7ff93f7968e0>
+monkeypatch = <_pytest.monkeypatch.MonkeyPatch object at 0x7ff93f336120>
+
+    def test_notification_without_profile(
+        app,
+        events_service_data,
+        submit_request,
+        request_events_service,
+        user1,
+        user_without_profile,
+        superuser,
+        monkeypatch,
+    ):
+        """Test notification being sent on request comment create for user without profile."""
+>       _test_comment_request_event_notification(
+            app,
+            events_service_data,
+            submit_request,
+            request_events_service,
+            user1,
+            user_without_profile,
+            superuser,
+            monkeypatch,
+        )
+
+tests/services/events/test_request_events_service.py:212: 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+app = <Flask 'invenio'>
+events_service_data = {'comment': {'payload': {'content': 'This is a comment.', 'format': 'html'}, 'type': 'C'}, 'log': {'payload': {'content': 'This is a log event.', 'event': 'LOG_EVENT', 'format': 'html'}, 'type': 'L'}}
+submit_request = <function submit_request.<locals>._submit_request at 0x7ff93f4e47d0>
+request_events_service = <invenio_requests.services.events.service.RequestEventsService object at 0x7ff93e4d0520>
+user1 = <pytest_invenio.user.UserFixtureBase object at 0x7ff940cc05d0>
+user2 = <pytest_invenio.user.UserFixtureBase object at 0x7ff93f4e4890>
+superuser = <pytest_invenio.user.UserFixtureBase object at 0x7ff93f7968e0>
+monkeypatch = <_pytest.monkeypatch.MonkeyPatch object at 0x7ff93f336120>
+
+    def _test_comment_request_event_notification(
+        app,
+        events_service_data,
+        submit_request,
+        request_events_service,
+        user1,
+        user2,
+        superuser,
+        monkeypatch,
+    ):
+        original_builder = CommentRequestEventCreateNotificationBuilder
+    
+        # mock build to observe calls
+        mock_build = MagicMock()
+        mock_build.side_effect = original_builder.build
+        monkeypatch.setattr(original_builder, "build", mock_build)
+        # setting specific builder for test case
+        monkeypatch.setattr(
+            current_notifications_manager,
+            "builders",
+            {
+                **current_notifications_manager.builders,
+                original_builder.type: original_builder,
+            },
+        )
+        assert not mock_build.called
+    
+        mail = app.extensions.get("mail")
+        assert mail
+    
+        request = submit_request(user2.identity, receiver=user1.user)
+        request_id = request.id
+        comment = events_service_data["comment"]
+    
+        with mail.record_messages() as outbox:
+            # Create a comment as creator
+            request_event = request_events_service.create(
+                user2.identity, request_id, dict(**comment), CommentEventType
+            )
+    
+            # check notification is build on create
+            assert mock_build.called
+    
+            # only request receiver should get notification
+>           assert len(outbox) == 1
+E           assert 0 == 1
+E            +  where 0 = len([])
+
+tests/services/events/test_request_events_service.py:380: AssertionError
+------------------------------ Captured log call -------------------------------
+ERROR    celery.app.trace:trace.py:267 Task invenio_notifications.tasks.broadcast_notification[dc70d9fb-2df4-472a-aa09-763f29511ba2] raised unexpected: KeyError('id')
+Traceback (most recent call last):
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/celery/app/trace.py", line 453, in trace_task
+    R = retval = fun(*args, **kwargs)
+                 ~~~^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/invenio_notifications/tasks.py", line 19, in broadcast_notification
+    current_notifications_manager.handle_broadcast(Notification(**notification))
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/invenio_notifications/manager.py", line 49, in handle_broadcast
+    recipients = builder.build_recipients(notification)
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/invenio_notifications/services/builders.py", line 144, in build_recipients
+    recipient_func(notification, recipients)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-requests/patched/invenio_requests/notifications/generators.py", line 54, in __call__
+    created_by_user_id = _get_user_id_from_entity(request["created_by"])
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-requests/patched/invenio_requests/notifications/generators.py", line 36, in _get_user_id_from_entity
+    entity_field["id"] if entity_field.get("profile") is not None else None
+    ~~~~~~~~~~~~^^^^^^
+KeyError: 'id'
+ERROR    celery.app.trace:trace.py:267 Task invenio_notifications.tasks.broadcast_notification[8abc5634-5646-4b4f-aff5-cf3b3e10a56d] raised unexpected: KeyError('id')
+Traceback (most recent call last):
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/celery/app/trace.py", line 453, in trace_task
+    R = retval = fun(*args, **kwargs)
+                 ~~~^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/invenio_notifications/tasks.py", line 19, in broadcast_notification
+    current_notifications_manager.handle_broadcast(Notification(**notification))
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/invenio_notifications/manager.py", line 49, in handle_broadcast
+    recipients = builder.build_recipients(notification)
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/invenio_notifications/services/builders.py", line 144, in build_recipients
+    recipient_func(notification, recipients)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-requests/patched/invenio_requests/notifications/generators.py", line 54, in __call__
+    created_by_user_id = _get_user_id_from_entity(request["created_by"])
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-requests/patched/invenio_requests/notifications/generators.py", line 36, in _get_user_id_from_entity
+    entity_field["id"] if entity_field.get("profile") is not None else None
+    ~~~~~~~~~~~~^^^^^^
+KeyError: 'id'
+____________________ test_reply_request_event_notification _____________________
+
+app = <Flask 'invenio'>
+events_service_data = {'comment': {'payload': {'content': 'This is a comment.', 'format': 'html'}, 'type': 'C'}, 'log': {'payload': {'content': 'This is a log event.', 'event': 'LOG_EVENT', 'format': 'html'}, 'type': 'L'}}
+submit_request = <function submit_request.<locals>._submit_request at 0x7ff93f20eda0>
+request_events_service = <invenio_requests.services.events.service.RequestEventsService object at 0x7ff93e4d0520>
+user1 = <pytest_invenio.user.UserFixtureBase object at 0x7ff940cc05d0>
+user2 = <pytest_invenio.user.UserFixtureBase object at 0x7ff940446570>
+superuser = <pytest_invenio.user.UserFixtureBase object at 0x7ff93f7968e0>
+monkeypatch = <_pytest.monkeypatch.MonkeyPatch object at 0x7ff93f3a3a80>
+
+    def test_reply_request_event_notification(
+        app,
+        events_service_data,
+        submit_request,
+        request_events_service,
+        user1,
+        user2,
+        superuser,
+        monkeypatch,
+    ):
+        """Test notification being sent on reply create to thread participants."""
+        from invenio_requests.notifications.builders import (
+            CommentRequestEventReplyNotificationBuilder,
+        )
+    
+        original_builder = CommentRequestEventReplyNotificationBuilder
+    
+        # Mock build to observe calls
+        mock_build = MagicMock()
+        mock_build.side_effect = original_builder.build
+        monkeypatch.setattr(original_builder, "build", mock_build)
+    
+        # Register builder
+        monkeypatch.setattr(
+            current_notifications_manager,
+            "builders",
+            {
+                **current_notifications_manager.builders,
+                original_builder.type: original_builder,
+            },
+        )
+    
+        mail = app.extensions.get("mail")
+        request = submit_request(user2.identity, receiver=user1.user)
+        request_id = request.id
+        comment = events_service_data["comment"]
+    
+        # Create parent comment (by user2)
+        parent_comment = request_events_service.create(
+            user2.identity, request_id, dict(**comment), CommentEventType
+        )
+        parent_id = str(parent_comment.id)
+    
+        # Test 1: First reply by user1 (receiver)
+        with mail.record_messages() as outbox:
+            comment_data = {
+                **comment,
+                "payload": {"content": "First reply", "format": "html"},
+            }
+            request_events_service.create(
+                user1.identity,
+                request_id,
+                dict(**comment_data),
+                CommentEventType,
+                parent_id=parent_id,
+            )
+    
+            assert mock_build.called
+            # Only parent author (user2) should receive notification
+>           assert len(outbox) == 1
+E           assert 0 == 1
+E            +  where 0 = len([])
+
+tests/services/events/test_request_events_service.py:283: AssertionError
+------------------------------ Captured log call -------------------------------
+ERROR    celery.app.trace:trace.py:267 Task invenio_notifications.tasks.broadcast_notification[e40d8563-02f2-4dec-ac59-731672f5e64c] raised unexpected: KeyError('id')
+Traceback (most recent call last):
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/celery/app/trace.py", line 453, in trace_task
+    R = retval = fun(*args, **kwargs)
+                 ~~~^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/invenio_notifications/tasks.py", line 19, in broadcast_notification
+    current_notifications_manager.handle_broadcast(Notification(**notification))
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/invenio_notifications/manager.py", line 49, in handle_broadcast
+    recipients = builder.build_recipients(notification)
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/invenio_notifications/services/builders.py", line 144, in build_recipients
+    recipient_func(notification, recipients)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-requests/patched/invenio_requests/notifications/generators.py", line 135, in __call__
+    dsl.Q("term", request_id=request["id"]),
+                             ~~~~~~~^^^^^^
+KeyError: 'id'
+_________________________ test_delete_component_called _________________________
+
+app = <Flask 'invenio'>
+identity_simple = <Identity id="1" auth_type="None" provides={Need(method='id', value=1), Need(method='system_role', value='authenticated_user'), Need(method='system_role', value='any_user')}>
+events_service_data = {'comment': {'payload': {'content': 'This is a comment.', 'format': 'html'}, 'type': 'C'}, 'log': {'payload': {'content': 'This is a log event.', 'event': 'LOG_EVENT', 'format': 'html'}, 'type': 'L'}}
+create_request = <function create_request.<locals>._create_request at 0x7ff93f18a8d0>
+request_events_service = <invenio_requests.services.events.service.RequestEventsService object at 0x7ff93e4d0520>
+
+    def test_delete_component_called(
+        app, identity_simple, events_service_data, create_request, request_events_service
+    ):
+        """The component `delete_comment` method is called and modifies the event."""
+    
+        class MockDeleteComponent(ServiceComponent):
+            def delete_comment(
+                self, identity, data=None, event=None, request=None, uow=None, **kwargs
+            ):
+                event.update(
+                    {
+                        "payload": {
+                            "content": "Component modified deletion message",
+                            "format": "html",
+                        }
+                    }
+                )
+    
+        app.config["REQUESTS_EVENTS_SERVICE_COMPONENTS"] = [MockDeleteComponent]
+    
+        request = create_request(identity_simple)
+        request_id = request.id
+        comment = events_service_data["comment"]
+    
+        item = request_events_service.create(
+            identity_simple, request_id, dict(**comment), CommentEventType
+        )
+        comment_id = item.id
+    
+        result = request_events_service.delete(identity_simple, comment_id)
+        assert result is True
+    
+        RequestEvent.index.refresh()
+    
+        res = request_events_service.search(identity_simple, request_id, sort="newest")
+        deleted = list(res.hits)[0]
+    
+        assert deleted["payload"]["content"] == "Component modified deletion message"
+>       assert deleted["type"] == LogEventType.type_id
+               ^^^^^^^^^^^^^^^
+E       KeyError: 'type'
+
+tests/services/events/test_request_events_service.py:521: KeyError
+_____________________________ test_submit_request ______________________________
+
+app = <Flask 'invenio'>
+identity_simple = <Identity id="1" auth_type="None" provides={Need(method='id', value=1), Need(method='system_role', value='authenticated_user'), Need(method='system_role', value='any_user')}>
+submit_request = <function submit_request.<locals>._submit_request at 0x7ff93d6b4b40>
+request_events_service = <invenio_requests.services.events.service.RequestEventsService object at 0x7ff93d8c2850>
+
+    def test_submit_request(app, identity_simple, submit_request, request_events_service):
+        request = submit_request(identity_simple)
+        request_id = request.id
+        RequestEvent.index.refresh()
+    
+        assert "submitted" == request.status
+        results = request_events_service.search(identity_simple, request_id)
+        assert 1 == results.total
+        hits = list(results.hits)
+>       assert CommentEventType.type_id == hits[0]["type"]
+                                           ^^^^^^^^^^^^^^^
+E       KeyError: 'type'
+
+tests/services/requests/test_requests_service.py:23: KeyError
+---------------------------- Captured stderr setup -----------------------------
+[2026-06-25 08:59:49,467] WARNING in ext: JSONSCHEMAS_HOST is set to localhost
+------------------------------ Captured log setup ------------------------------
+WARNING  invenio:ext.py:286 JSONSCHEMAS_HOST is set to localhost
+__________________________ test_search_user_requests ___________________________
+
+app = <Flask 'invenio'>
+identity_simple = <Identity id="1" auth_type="None" provides={Need(method='id', value=1), Need(method='system_role', value='authenticated_user'), Need(method='system_role', value='any_user')}>
+identity_simple_2 = <Identity id="2" auth_type="None" provides={Need(method='id', value=2), Need(method='system_role', value='authenticated_user'), Need(method='system_role', value='any_user')}>
+user1 = <pytest_invenio.user.UserFixtureBase object at 0x7ff93db22c50>
+submit_request = <function submit_request.<locals>._submit_request at 0x7ff93d4dbc10>
+requests_service = <invenio_requests.services.requests.service.RequestsService object at 0x7ff93d8c2750>
+create_request = <function create_request.<locals>._create_request at 0x7ff93d4db950>
+
+    def test_search_user_requests(
+        app,
+        identity_simple,
+        identity_simple_2,
+        user1,
+        submit_request,
+        requests_service,
+        create_request,
+    ):
+        request = submit_request(identity_simple, receiver=user1.user)
+        request_id = request.id
+        Request.index.refresh()
+    
+        # creator can see the requests
+        hits = requests_service.search_user_requests(identity_simple).to_dict()["hits"][
+            "hits"
+        ]
+    
+>       assert str(request_id) in [h["id"] for h in hits]
+                                   ^^^^^^^
+E       KeyError: 'id'
+
+tests/services/requests/test_requests_service.py:163: KeyError
+_________________________ test_check_expired_requests __________________________
+
+app = <Flask 'invenio'>
+identity_simple = <Identity id="1" auth_type="None" provides={Need(method='id', value=1), Need(method='system_role', value='authenticated_user'), Need(method='system_role', value='any_user')}>
+create_request = <function create_request.<locals>._create_request at 0x7ff93cff6350>
+submit_request = <function submit_request.<locals>._submit_request at 0x7ff93cff6090>
+requests_service = <invenio_requests.services.requests.service.RequestsService object at 0x7ff93d20aeb0>
+
+    def test_check_expired_requests(
+        app, identity_simple, create_request, submit_request, requests_service
+    ):
+        """Test if the expired system field works as intended."""
+        now = datetime.now(timezone.utc).replace(tzinfo=None)
+    
+        # created only should not be picked up
+        created_request = create_request(identity=identity_simple, expires_at=now)
+        Request.index.refresh()
+        check_expired_requests()
+        Request.index.refresh()
+        request_list = requests_service.search(
+            identity=system_identity,
+            extra_filter=dsl.query.Bool(
+                "must",
+                must=[
+                    dsl.Q("term", **{"is_closed": True}),
+                ],
+            ),
+        )
+        assert request_list.total == 0
+    
+        # no expires_at should not be touched
+        s1 = submit_request(identity_simple)
+        Request.index.refresh()
+        check_expired_requests()
+        Request.index.refresh()
+        request_list = requests_service.search(
+            identity=system_identity,
+            extra_filter=dsl.query.Bool(
+                "must",
+                must=[
+                    dsl.Q("term", **{"is_closed": True}),
+                ],
+            ),
+        )
+        assert request_list.total == 0
+    
+        # expiry date in future should not be touched
+        s2 = submit_request(identity_simple, expires_at=now + timedelta(days=1))
+        Request.index.refresh()
+        check_expired_requests()
+        Request.index.refresh()
+        request_list = requests_service.search(
+            identity=system_identity,
+            extra_filter=dsl.query.Bool(
+                "must",
+                must=[
+                    dsl.Q("term", **{"is_closed": True}),
+                ],
+            ),
+        )
+        assert request_list.total == 0
+    
+        s3 = submit_request(identity_simple, expires_at=now)
+        Request.index.refresh()
+        check_expired_requests()
+        Request.index.refresh()
+        request_list = requests_service.search(
+            identity=system_identity,
+            extra_filter=dsl.query.Bool(
+                "must",
+                must=[
+                    dsl.Q("term", **{"is_closed": True}),
+                ],
+            ),
+        )
+>       assert request_list.total == 1
+E       assert 0 == 1
+E        +  where 0 = <invenio_requests.services.requests.results.RequestList object at 0x7ff93d206de0>.total
+
+tests/services/requests/test_requests_tasks.py:82: AssertionError
+---------------------------- Captured stderr setup -----------------------------
+[2026-06-25 08:59:54,642] WARNING in ext: JSONSCHEMAS_HOST is set to localhost
+------------------------------ Captured log setup ------------------------------
+WARNING  invenio:ext.py:286 JSONSCHEMAS_HOST is set to localhost
+----------------------------- Captured stderr call -----------------------------
+[2026-06-25 08:59:56,206] WARNING in tasks: 'id'
+------------------------------ Captured log call -------------------------------
+WARNING  invenio:tasks.py:43 'id'
+____________________________ test_duplicate_request ____________________________
+
+app = <Flask 'invenio'>
+search_clear = <OpenSearch([{'host': 'localhost', 'port': 9200}])>
+users = {'user1': <pytest_invenio.user.UserFixtureBase object at 0x7ff93cccfa10>, 'user2': <pytest_invenio.user.UserFixtureBas...ser.UserFixtureBase object at 0x7ff93d04dbd0>, 'user4': <pytest_invenio.user.UserFixtureBase object at 0x7ff93d04c050>}
+mod_identity = <Identity id="5" auth_type="None" provides={Need(method='role', value='administration-moderation'), Need(method='system_role', value='authenticated_user')}>
+
+    def test_duplicate_request(app, search_clear, users, mod_identity):
+        """Test request creation when a request is already open."""
+        user = users["user1"]
+        service = current_user_moderation_service
+    
+        # Create a moderation request
+        first_request = service.request_moderation(mod_identity, user_id=user.id)
+        assert first_request
+        assert first_request._request.status == "submitted"
+    
+        # Duplicated request are not allowed
+        with pytest.raises(OpenRequestAlreadyExists):
+>           service.request_moderation(mod_identity, user_id=user.id)  # nothing will happen
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+tests/services/user_moderation/test_user_moderation_service.py:170: 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+.venv/lib/python3.14/site-packages/invenio_db/uow.py:247: in inner
+    res = f(self, *args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^^^^
+invenio_requests/services/user_moderation/service.py:84: in request_moderation
+    return self._create_request(
+invenio_requests/services/user_moderation/service.py:50: in _create_request
+    if self._exists(identity, user_id):
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+self = <invenio_requests.services.user_moderation.service.UserModerationRequestService object at 0x7ff93cdcd370>
+identity = <Identity id="5" auth_type="None" provides={Need(method='role', value='administration-moderation'), Need(method='system_role', value='authenticated_user')}>
+user_id = '1'
+
+    def _exists(self, identity, user_id):
+        """Return the request id if an open request already exists, else None."""
+        results = self.requests_service.search(
+            identity,
+            extra_filter=dsl.query.Bool(
+                "must",
+                must=[
+                    dsl.Q("term", **{"type": self.request_type_cls.type_id}),
+                    dsl.Q("term", **{"topic.user": user_id}),
+                    dsl.Q("term", **{"is_open": True}),
+                ],
+            ),
+        )
+>       return next(results.hits)["id"] if results.total > 0 else None
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+E       KeyError: 'id'
+
+invenio_requests/services/user_moderation/service.py:46: KeyError
+=============================== warnings summary ===============================
+tests/resources/files/test_request_files_resources.py:84
+  /home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-requests/patched/tests/resources/files/test_request_files_resources.py:84: SyntaxWarning: "\w" is an invalid escape sequence. Such sequences will not work in the future. Did you mean "\\w"? A raw string is also an option.
+    assert re.match(key_base + "-\w{5}-\w{5}" + key_ext, unique_key)
+
+tests/customizations/test_request_types.py: 1 warning
+tests/records/events/test_api.py: 1 warning
+tests/records/systemfields/test_calculated_systemfield.py: 1 warning
+tests/records/systemfields/test_last_activity_field.py: 1 warning
+tests/records/systemfields/test_last_reply_field.py: 1 warning
+tests/records/test_request_api.py: 1 warning
+tests/records/test_request_numberseq.py: 1 warning
+tests/records/test_systemfield_relatedrecord.py: 1 warning
+tests/registry/test_registries.py: 1 warning
+tests/resources/events/test_request_events_resources.py: 1 warning
+tests/resources/files/test_request_files_resources.py: 1 warning
+tests/resources/requests/test_requests_resources.py: 1 warning
+tests/resources/user_moderation/test_user_moderation_resources.py: 1 warning
+tests/services/components/test_request_reviewers_component.py: 1 warning
+tests/services/events/test_event_permissions.py: 1 warning
+tests/services/events/test_request_events_service.py: 1 warning
+tests/services/events/test_request_events_service_config.py: 1 warning
+tests/services/requests/test_request_permissions.py: 1 warning
+tests/services/requests/test_request_search_permissions.py: 1 warning
+tests/services/requests/test_requests_schemas.py: 1 warning
+tests/services/requests/test_requests_service.py: 1 warning
+tests/services/requests/test_requests_service_config.py: 1 warning
+tests/services/requests/test_requests_tasks.py: 1 warning
+tests/services/user_moderation/test_user_moderation_service.py: 1 warning
+  /home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/invenio_rest/ext.py:24: FutureWarning: CSRF validation will be enabled by default in the version 1.3.x
+    self.init_app(app)
+
+tests/records/test_systemfield_relatedrecord.py::test_no_assignment
+tests/records/test_systemfield_relatedrecord.py::test_record_assignment
+tests/records/test_systemfield_relatedrecord.py::test_id_assignment
+tests/records/test_systemfield_relatedrecord.py::test_remove_assignment
+tests/records/test_systemfield_relatedrecord.py::test_dump_created_by
+  /home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/invenio_records/api.py:330: SAWarning: nested transaction already deassociated from connection
+    with db.session.begin_nested():
+
+tests/records/test_systemfield_relatedrecord.py::test_no_assignment
+tests/records/test_systemfield_relatedrecord.py::test_record_assignment
+tests/records/test_systemfield_relatedrecord.py::test_id_assignment
+tests/records/test_systemfield_relatedrecord.py::test_remove_assignment
+tests/records/test_systemfield_relatedrecord.py::test_dump_created_by
+  /home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/pytest_invenio/fixtures.py:617: SAWarning: nested transaction already deassociated from connection
+    session.rollback()
+
+tests/resources/events/test_request_events_resources.py: 12 warnings
+tests/resources/files/test_request_files_resources.py: 8 warnings
+tests/resources/requests/test_requests_resources.py: 6 warnings
+tests/resources/user_moderation/test_user_moderation_resources.py: 11 warnings
+tests/ui/test_request_ui_files_resources.py: 1 warning
+  /home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/flask_security/utils.py:77: DeprecationWarning: Remember me support has been removed.
+    warnings.warn("Remember me support has been removed.", DeprecationWarning)
+
+tests/resources/user_moderation/test_user_moderation_resources.py::test_moderate
+tests/resources/user_moderation/test_user_moderation_resources.py::test_links
+tests/services/user_moderation/test_user_moderation_service.py::test_moderation_accept
+tests/services/user_moderation/test_user_moderation_service.py::test_moderation_decline
+  /home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-requests/patched/.venv/lib/python3.14/site-packages/cachelib/redis_base.py:70: DeprecationWarning: Call to deprecated setex. (Use 'set' instead.) -- Deprecated since version 2.6.12.
+    result = self._write_client.setex(
+
+-- Docs: https://docs.pytest.org/en/stable/how-to/capture-warnings.html
+================================ tests coverage ================================
+_______________ coverage: platform linux, python 3.14.2-final-0 ________________
+
+Name                                                                             Stmts   Miss  Cover   Missing
+--------------------------------------------------------------------------------------------------------------
+invenio_requests/__init__.py                                                         5      0   100%
+invenio_requests/alembic/3ca07f2ee12b_change_datetime_types_addition.py             13      6    54%   21-23, 28-30
+invenio_requests/alembic/5cd30a3503c9_create_requests_branch.py                      8      2    75%   15, 20
+invenio_requests/alembic/74b23178bfbe_change_datetime_types.py                      15      8    47%   21-24, 29-32
+invenio_requests/alembic/1759321170_add_index_to_request_events_request_id_.py       9      2    78%   17, 27
+invenio_requests/alembic/1763728177_create_request_files_table.py                   24     14    42%   20-92, 104-116
+invenio_requests/alembic/a14fa442680f_create_tables.py                              18      8    56%   20-92, 106-109
+invenio_requests/config.py                                                          47      0   100%
+invenio_requests/customizations/__init__.py                                          5      0   100%
+invenio_requests/customizations/actions.py                                          64      1    98%   85
+invenio_requests/customizations/event_types.py                                      86      7    92%   23-24, 98-100, 105, 109
+invenio_requests/customizations/request_types.py                                    96      8    92%   127, 195-200, 252-253, 287
+invenio_requests/customizations/states.py                                            5      0   100%
+invenio_requests/customizations/user_moderation/__init__.py                          2      0   100%
+invenio_requests/customizations/user_moderation/user_moderation.py                  29      2    93%   20-22
+invenio_requests/errors.py                                                          41      8    80%   68, 84, 88, 100-104, 115-122
+invenio_requests/ext.py                                                             72      1    99%   135
+invenio_requests/notifications/__init__.py                                           0      0   100%
+invenio_requests/notifications/builders.py                                          21      0   100%
+invenio_requests/notifications/filters.py                                           14      7    50%   20-31
+invenio_requests/notifications/generators.py                                        59     26    56%   29, 55-86, 127-129, 141-165
+invenio_requests/proxies.py                                                         18      0   100%
+invenio_requests/records/__init__.py                                                 3      0   100%
+invenio_requests/records/api.py                                                     97      3    97%   102-105
+invenio_requests/records/dumpers/__init__.py                                         4      0   100%
+invenio_requests/records/dumpers/calculated.py                                      10      0   100%
+invenio_requests/records/dumpers/granttokens.py                                     20      2    90%   31-32
+invenio_requests/records/dumpers/parentchild.py                                      8      0   100%
+invenio_requests/records/jsonschemas/__init__.py                                     0      0   100%
+invenio_requests/records/mappings/__init__.py                                        0      0   100%
+invenio_requests/records/mappings/os-v1/__init__.py                                  0      0   100%
+invenio_requests/records/mappings/os-v2/__init__.py                                  0      0   100%
+invenio_requests/records/mappings/v7/__init__.py                                     0      0   100%
+invenio_requests/records/models.py                                                  53      0   100%
+invenio_requests/records/systemfields/__init__.py                                    9      0   100%
+invenio_requests/records/systemfields/computed.py                                   65      2    97%   101, 119
+invenio_requests/records/systemfields/entity_reference.py                           15      0   100%
+invenio_requests/records/systemfields/event_type.py                                 48      2    96%   28, 58
+invenio_requests/records/systemfields/expired_state.py                              13      0   100%
+invenio_requests/records/systemfields/files.py                                       7      2    71%   21-23
+invenio_requests/records/systemfields/identity.py                                   11      2    82%   16-17
+invenio_requests/records/systemfields/relatedrecord.py                              96     20    79%   29, 33-35, 43-45, 53-54, 61-63, 132-133, 152-155, 166-167, 179
+invenio_requests/records/systemfields/request_state.py                              10      0   100%
+invenio_requests/records/systemfields/request_type.py                               30      1    97%   37
+invenio_requests/records/systemfields/status.py                                     11      0   100%
+invenio_requests/records/validators.py                                               6      4    33%   16-20
+invenio_requests/registry.py                                                        17      0   100%
+invenio_requests/resolvers/__init__.py                                               1      0   100%
+invenio_requests/resolvers/registry.py                                               6      0   100%
+invenio_requests/resolvers/requests.py                                              15      4    73%   23, 32, 42, 51
+invenio_requests/resources/__init__.py                                               4      0   100%
+invenio_requests/resources/events/__init__.py                                        3      0   100%
+invenio_requests/resources/events/config.py                                         15      0   100%
+invenio_requests/resources/events/resource.py                                       79     16    80%   87-98, 109-114, 123-130, 136-141, 167-174, 182-189, 197-205
+invenio_requests/resources/files/__init__.py                                         3      0   100%
+invenio_requests/resources/files/config.py                                          11      0   100%
+invenio_requests/resources/files/resource.py                                        25      1    96%   67
+invenio_requests/resources/requests/__init__.py                                      3      0   100%
+invenio_requests/resources/requests/config.py                                       22      0   100%
+invenio_requests/resources/requests/fields.py                                       16     10    38%   24-31, 36-41
+invenio_requests/resources/requests/resource.py                                     67      8    88%   81-87, 109-115, 121-125, 157-161
+invenio_requests/services/__init__.py                                                5      0   100%
+invenio_requests/services/events/__init__.py                                         3      0   100%
+invenio_requests/services/events/config.py                                         142     60    58%   41-108, 129, 143-144, 147-152, 173-176, 186-198, 206-213, 254-277, 308
+invenio_requests/services/events/service.py                                        207     71    66%   119, 129, 249, 277, 348, 446-497, 524-538, 565-597, 630-687, 716, 729
+invenio_requests/services/files/__init__.py                                          3      0   100%
+invenio_requests/services/files/config.py                                           27      1    96%   25
+invenio_requests/services/files/errors.py                                           10      1    90%   30
+invenio_requests/services/files/service.py                                          61      9    85%   66, 94, 103-109
+invenio_requests/services/generators.py                                             89      9    90%   44, 69, 107, 136, 167, 173, 180, 190, 194
+invenio_requests/services/links.py                                                  73      1    99%   86
+invenio_requests/services/permissions.py                                            25      0   100%
+invenio_requests/services/requests/__init__.py                                       5      0   100%
+invenio_requests/services/requests/components.py                                   125      8    94%   182-191, 280-281, 297
+invenio_requests/services/requests/config.py                                        37      0   100%
+invenio_requests/services/requests/facets.py                                         5      0   100%
+invenio_requests/services/requests/params.py                                        57     22    61%   28-39, 46-57, 76, 78, 105-119, 132-133
+invenio_requests/services/requests/results.py                                       84      8    90%   48, 58, 83-85, 92, 98, 113
+invenio_requests/services/requests/service.py                                      106      2    98%   44, 357
+invenio_requests/services/results.py                                                50     24    52%   28, 58-59, 63, 70-80, 84-86, 91-97, 101-103
+invenio_requests/services/schemas.py                                                59      4    93%   30-32, 53
+invenio_requests/services/user_moderation/__init__.py                                2      0   100%
+invenio_requests/services/user_moderation/errors.py                                  5      0   100%
+invenio_requests/services/user_moderation/service.py                                36      2    94%   51, 96
+invenio_requests/tasks.py                                                           25      4    84%   56-61
+invenio_requests/views/__init__.py                                                   5      0   100%
+invenio_requests/views/api.py                                                        9      0   100%
+invenio_requests/views/decorators.py                                                13      9    31%   16-29
+invenio_requests/views/files/__init__.py                                             2      0   100%
+invenio_requests/views/files/requests.py                                             5      0   100%
+invenio_requests/views/files/ui.py                                                  11      1    91%   15
+invenio_requests/views/ui.py                                                        18      5    72%   18, 23, 28-31
+invenio_requests/webpack.py                                                          2      0   100%
+--------------------------------------------------------------------------------------------------------------
+TOTAL                                                                             2760    418    85%
+=========================== short test summary info ============================
+FAILED tests/records/systemfields/test_last_activity_field.py::test_last_activity_search - KeyError: 'last_activity_at'
+FAILED tests/records/systemfields/test_last_activity_field.py::test_last_activity_sorting - KeyError: 'id'
+FAILED tests/records/systemfields/test_last_reply_field.py::test_last_reply_search - KeyError: 'last_reply'
+FAILED tests/records/systemfields/test_last_reply_field.py::test_search_index_last_reply - KeyError: 'id'
+FAILED tests/resources/events/test_request_events_resources.py::test_simple_comment_flow - KeyError: 'id'
+FAILED tests/resources/events/test_request_events_resources.py::test_empty_comment - KeyError: 'id'
+FAILED tests/resources/events/test_request_events_resources.py::test_threaded_comments_with_indexing - KeyError: 'id'
+FAILED tests/resources/events/test_request_events_resources.py::test_delete_child_comment_preserves_parent_child - KeyError: 'id'
+FAILED tests/resources/events/test_request_events_resources.py::test_nested_children_not_allowed - KeyError: 'id'
+FAILED tests/resources/events/test_request_events_resources.py::test_get_replies_endpoint - KeyError: 'id'
+FAILED tests/resources/events/test_request_events_resources.py::test_children_preview_limit - KeyError: 'id'
+FAILED tests/resources/events/test_request_events_resources.py::test_child_comment_permissions - KeyError: 'id'
+FAILED tests/resources/events/test_request_events_resources.py::test_update_parent_with_children - KeyError: 'id'
+FAILED tests/resources/events/test_request_events_resources.py::test_join_relationship_queries - KeyError: 'id'
+FAILED tests/resources/files/test_request_files_resources.py::test_update_comment_to_remove_files - KeyError: 'id'
+FAILED tests/resources/files/test_request_files_resources.py::test_update_comment_to_add_files - KeyError: 'id'
+FAILED tests/resources/files/test_request_files_resources.py::test_delete_comment_with_files - KeyError: 'id'
+FAILED tests/resources/files/test_request_files_resources.py::test_comment_with_files_expansion - KeyError: 'id'
+FAILED tests/resources/files/test_request_files_resources.py::test_comment_with_reply_files_expansion - KeyError: 'id'
+FAILED tests/resources/requests/test_requests_resources.py::test_reference_search_filters - KeyError: 'number'
+FAILED tests/resources/requests/test_requests_resources.py::test_simple_request_flow - KeyError: 'created'
+FAILED tests/resources/requests/test_requests_resources.py::test_lock_request_enabled - KeyError: 'type'
+FAILED tests/services/events/test_request_events_service.py::test_simple_flow - KeyError: 'type'
+FAILED tests/services/events/test_request_events_service.py::test_cannot_change_event_type - KeyError: 'type'
+FAILED tests/services/events/test_request_events_service.py::test_events_are_searchable - KeyError: 'type'
+FAILED tests/services/events/test_request_events_service.py::test_comment_request_event_notification - assert 0 == 1
+ +  where 0 = len([])
+FAILED tests/services/events/test_request_events_service.py::test_notification_without_profile - assert 0 == 1
+ +  where 0 = len([])
+FAILED tests/services/events/test_request_events_service.py::test_reply_request_event_notification - assert 0 == 1
+ +  where 0 = len([])
+FAILED tests/services/events/test_request_events_service.py::test_delete_component_called - KeyError: 'type'
+FAILED tests/services/requests/test_requests_service.py::test_submit_request - KeyError: 'type'
+FAILED tests/services/requests/test_requests_service.py::test_search_user_requests - KeyError: 'id'
+FAILED tests/services/requests/test_requests_tasks.py::test_check_expired_requests - assert 0 == 1
+ +  where 0 = <invenio_requests.services.requests.results.RequestList object at 0x7ff93d206de0>.total
+FAILED tests/services/user_moderation/test_user_moderation_service.py::test_duplicate_request - KeyError: 'id'
+====== 33 failed, 489 passed, 1 skipped, 77 warnings in 142.18s (0:02:22) ======
+ Container docker_services_cli-postgresql-1  Stopping
+ Container docker_services_cli-opensearch-1  Stopping
+ Container docker_services_cli-redis-1  Stopping
+ Container docker_services_cli-redis-1  Stopped
+ Container docker_services_cli-redis-1  Removing
+ Container docker_services_cli-redis-1  Removed
+ Container docker_services_cli-postgresql-1  Stopped
+ Container docker_services_cli-postgresql-1  Removing
+ Container docker_services_cli-opensearch-1  Stopped
+ Container docker_services_cli-opensearch-1  Removing
+ Container docker_services_cli-opensearch-1  Removed
+ Container docker_services_cli-postgresql-1  Removed
+ Network docker_services_cli_default  Removing
+ Network docker_services_cli_default  Removed

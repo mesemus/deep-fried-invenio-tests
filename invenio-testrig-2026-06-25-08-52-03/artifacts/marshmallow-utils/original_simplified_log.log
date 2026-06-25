@@ -1,0 +1,165 @@
+running extract_messages
+extracting messages from marshmallow_utils/__init__.py (encoding="utf-8")
+extracting messages from marshmallow_utils/context.py (encoding="utf-8")
+extracting messages from marshmallow_utils/html.py (encoding="utf-8")
+extracting messages from marshmallow_utils/links.py (encoding="utf-8")
+extracting messages from marshmallow_utils/permissions.py (encoding="utf-8")
+extracting messages from marshmallow_utils/fields/__init__.py (encoding="utf-8")
+extracting messages from marshmallow_utils/fields/babel.py (encoding="utf-8")
+extracting messages from marshmallow_utils/fields/contrib.py (encoding="utf-8")
+extracting messages from marshmallow_utils/fields/edtfdatestring.py (encoding="utf-8")
+extracting messages from marshmallow_utils/fields/generated.py (encoding="utf-8")
+extracting messages from marshmallow_utils/fields/identifier.py (encoding="utf-8")
+extracting messages from marshmallow_utils/fields/isodate.py (encoding="utf-8")
+extracting messages from marshmallow_utils/fields/isolanguage.py (encoding="utf-8")
+extracting messages from marshmallow_utils/fields/links.py (encoding="utf-8")
+extracting messages from marshmallow_utils/fields/nestedattr.py (encoding="utf-8")
+extracting messages from marshmallow_utils/fields/sanitizedhtml.py (encoding="utf-8")
+extracting messages from marshmallow_utils/fields/sanitizedunicode.py (encoding="utf-8")
+extracting messages from marshmallow_utils/fields/strippedhtml.py (encoding="utf-8")
+extracting messages from marshmallow_utils/fields/trimmed.py (encoding="utf-8")
+extracting messages from marshmallow_utils/fields/tzdatetime.py (encoding="utf-8")
+extracting messages from marshmallow_utils/fields/url.py (encoding="utf-8")
+extracting messages from marshmallow_utils/schemas/__init__.py (encoding="utf-8")
+extracting messages from marshmallow_utils/schemas/geojson.py (encoding="utf-8")
+extracting messages from marshmallow_utils/schemas/identifier.py (encoding="utf-8")
+extracting messages from marshmallow_utils/validators/__init__.py (encoding="utf-8")
+extracting messages from marshmallow_utils/validators/oneof.py (encoding="utf-8")
+writing PO template file to /dev/null
+============================= test session starts ==============================
+platform linux -- Python 3.14.2, pytest-8.4.2, pluggy-1.6.0
+rootdir: /home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/marshmallow-utils/original
+configfile: setup.cfg
+testpaths: tests, marshmallow_utils
+plugins: black-0.6.0, cov-7.1.0, pydocstyle-2.4.0, isort-4.0.0
+collected 310 items
+tests/conftest.py ...                                                    [  0%]
+tests/fields/test_identifier_field.py ....                               [  2%]
+tests/fields/test_url.py ............................................... [ 17%]
+           [ 37%]
+tests/schemas/test_geojson.py ............                               [ 41%]
+tests/schemas/test_identifier_schema.py .................                [ 46%]
+tests/schemas/test_multipoint.py ........                                [ 49%]
+tests/schemas/test_point.py ........                                     [ 51%]
+tests/schemas/test_polygon.py ........                                   [ 54%]
+tests/schemas/test_schema_permissions.py ....                            [ 55%]
+tests/test_babel.py .........                                            [ 58%]
+tests/test_contrib.py ......                                             [ 60%]
+tests/test_edtfdatestring.py ........                                    [ 63%]
+tests/test_fields.py .........                                           [ 66%]
+tests/test_isolanguage.py .......                                        [ 68%]
+tests/test_links.py .........                                            [ 71%]
+tests/test_marshmallow_utils.py ...                                      [ 72%]
+tests/test_nestedattr.py ...                                             [ 73%]
+tests/validators/test_lazyoneof.py ....                                  [ 74%]
+marshmallow_utils/__init__.py ....                                       [ 75%]
+marshmallow_utils/context.py ...                                         [ 76%]
+marshmallow_utils/fields/__init__.py ...                                 [ 77%]
+marshmallow_utils/fields/babel.py ...                                    [ 78%]
+marshmallow_utils/fields/contrib.py ...                                  [ 79%]
+marshmallow_utils/fields/edtfdatestring.py ...                           [ 80%]
+marshmallow_utils/fields/generated.py ...                                [ 81%]
+marshmallow_utils/fields/identifier.py ...                               [ 82%]
+marshmallow_utils/fields/isodate.py ...                                  [ 83%]
+marshmallow_utils/fields/isolanguage.py ...                              [ 84%]
+marshmallow_utils/fields/links.py ...                                    [ 85%]
+marshmallow_utils/fields/nestedattr.py ...                               [ 86%]
+marshmallow_utils/fields/sanitizedhtml.py ...                            [ 87%]
+marshmallow_utils/fields/sanitizedunicode.py ...                         [ 88%]
+marshmallow_utils/fields/strippedhtml.py ...                             [ 89%]
+marshmallow_utils/fields/trimmed.py ...                                  [ 90%]
+marshmallow_utils/fields/tzdatetime.py ...                               [ 91%]
+marshmallow_utils/fields/url.py ...                                      [ 92%]
+marshmallow_utils/html.py ...                                            [ 93%]
+marshmallow_utils/links.py ...                                           [ 94%]
+marshmallow_utils/permissions.py ...                                     [ 95%]
+marshmallow_utils/schemas/__init__.py ...                                [ 96%]
+marshmallow_utils/schemas/geojson.py ...                                 [ 97%]
+marshmallow_utils/schemas/identifier.py ...                              [ 98%]
+marshmallow_utils/validators/__init__.py ...                             [ 99%]
+marshmallow_utils/validators/oneof.py ...                                [100%]
+=============================== warnings summary ===============================
+tests/fields/test_identifier_field.py:17
+  /home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/marshmallow-utils/original/tests/fields/test_identifier_field.py:17: PytestCollectionWarning: cannot collect test class 'TestSchema' because it has a __init__ constructor (from: tests/fields/test_identifier_field.py)
+    class TestSchema(Schema):
+tests/test_edtfdatestring.py:16
+  /home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/marshmallow-utils/original/tests/test_edtfdatestring.py:16: PytestCollectionWarning: cannot collect test class 'TestSchemaDate' because it has a __init__ constructor (from: tests/test_edtfdatestring.py)
+    class TestSchemaDate(Schema):
+tests/test_edtfdatestring.py:20
+  /home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/marshmallow-utils/original/tests/test_edtfdatestring.py:20: PytestCollectionWarning: cannot collect test class 'TestSchemaDateTime' because it has a __init__ constructor (from: tests/test_edtfdatestring.py)
+    class TestSchemaDateTime(Schema):
+tests/test_edtfdatestring.py:24
+  /home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/marshmallow-utils/original/tests/test_edtfdatestring.py:24: PytestCollectionWarning: cannot collect test class 'TestSchemaLVL2Date' because it has a __init__ constructor (from: tests/test_edtfdatestring.py)
+    class TestSchemaLVL2Date(Schema):
+tests/test_fields.py::test_generated
+  /home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/marshmallow-utils/original/.venv/lib/python3.14/site-packages/marshmallow/fields.py:2005: RemovedInMarshmallow4Warning: The 'missing' argument to fields is deprecated. Use 'load_default' instead
+    super().__init__(**kwargs)
+tests/test_fields.py::test_generated
+  /home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/marshmallow-utils/original/tests/test_fields.py:155: RemovedInMarshmallow4Warning: The `context` parameter is deprecated and will be removed in marshmallow 4.0. Use `contextvars.ContextVar` to pass context instead
+    assert GeneratedFieldsSchema(context=ctx).load({}) == {
+tests/test_fields.py::test_generated
+  /home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/marshmallow-utils/original/tests/test_fields.py:159: RemovedInMarshmallow4Warning: The `context` parameter is deprecated and will be removed in marshmallow 4.0. Use `contextvars.ContextVar` to pass context instead
+    assert GeneratedFieldsSchema(context=ctx).dump({}) == {
+tests/test_fields.py::test_generated
+  /home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/marshmallow-utils/original/tests/test_fields.py:175: RemovedInMarshmallow4Warning: The `context` parameter is deprecated and will be removed in marshmallow 4.0. Use `contextvars.ContextVar` to pass context instead
+    assert GeneratedFieldsSchema(context=ctx).load(data) == {
+tests/test_fields.py::test_generated
+  /home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/marshmallow-utils/original/tests/test_fields.py:179: RemovedInMarshmallow4Warning: The `context` parameter is deprecated and will be removed in marshmallow 4.0. Use `contextvars.ContextVar` to pass context instead
+    assert GeneratedFieldsSchema(context=ctx).dump(data) == {
+tests/test_links.py::test_links_context
+  /home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/marshmallow-utils/original/tests/test_links.py:80: RemovedInMarshmallow4Warning: The `context` parameter is deprecated and will be removed in marshmallow 4.0. Use `contextvars.ContextVar` to pass context instead
+    assert {"links": {"self": "https://localhost/1/?pid=1"}} == EntitySchema(
+tests/test_links.py::test_links_context
+tests/test_links.py::test_links_context
+tests/test_links.py::test_params_expansion
+tests/test_links.py::test_permission_context
+tests/test_links.py::test_permission_context
+tests/test_links.py::test_when
+tests/test_links.py::test_when
+  /home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/marshmallow-utils/original/marshmallow_utils/links.py:60: RemovedInMarshmallow4Warning: The `context` parameter is deprecated and will be removed in marshmallow 4.0. Use `contextvars.ContextVar` to pass context instead
+    return schema(context=context or {})
+    warn(
+tests/test_links.py::test_links_context
+tests/test_links.py::test_links_context
+    warn(
+tests/test_links.py::test_links_context
+  /home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/marshmallow-utils/original/tests/test_links.py:91: RemovedInMarshmallow4Warning: The `context` parameter is deprecated and will be removed in marshmallow 4.0. Use `contextvars.ContextVar` to pass context instead
+    assert {"links": {"self": "https://localhost/2/?pid=1"}} == EntitySchema(
+tests/test_links.py::test_params_expansion
+tests/test_links.py::test_unknown_namespace
+tests/test_links.py::test_permission_context
+tests/test_links.py::test_permission
+tests/test_links.py::test_when
+  /home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/marshmallow-utils/original/tests/test_links.py:50: RemovedInMarshmallow4Warning: The `context` parameter is deprecated and will be removed in marshmallow 4.0. Use `contextvars.ContextVar` to pass context instead
+    return MySchema(context={"links_factory": factory, "links_namespace": "search"})
+================================ tests coverage ================================
+_______________ coverage: platform linux, python 3.14.2-final-0 ________________
+Name                                           Stmts   Miss  Cover   Missing
+marshmallow_utils/__init__.py                      2      0   100%
+marshmallow_utils/context.py                       2      0   100%
+marshmallow_utils/fields/__init__.py              16      0   100%
+marshmallow_utils/fields/babel.py                 86      4    95%   53, 57, 180, 214
+marshmallow_utils/fields/contrib.py               34      9    74%   15, 18-19, 65, 74, 123-126
+marshmallow_utils/fields/edtfdatestring.py        37      0   100%
+marshmallow_utils/fields/generated.py             12      0   100%
+marshmallow_utils/fields/identifier.py            13      3    77%   38-42
+marshmallow_utils/fields/isodate.py               13      0   100%
+marshmallow_utils/fields/isolanguage.py           11      0   100%
+marshmallow_utils/fields/links.py                 43      3    93%   64, 75-76
+marshmallow_utils/fields/nestedattr.py             7      0   100%
+marshmallow_utils/fields/sanitizedhtml.py         10      0   100%
+marshmallow_utils/fields/sanitizedunicode.py       7      0   100%
+marshmallow_utils/fields/strippedhtml.py           6      0   100%
+marshmallow_utils/fields/trimmed.py                5      0   100%
+marshmallow_utils/fields/tzdatetime.py            13      1    92%   29
+marshmallow_utils/fields/url.py                   64      6    91%   202-215
+marshmallow_utils/html.py                         31      0   100%
+marshmallow_utils/links.py                        38      2    95%   83, 98
+marshmallow_utils/permissions.py                  46     16    65%   28-47, 60-61
+marshmallow_utils/schemas/__init__.py              3      0   100%
+marshmallow_utils/schemas/geojson.py              30      1    97%   88
+marshmallow_utils/schemas/identifier.py           60      0   100%
+marshmallow_utils/validators/__init__.py           2      0   100%
+marshmallow_utils/validators/oneof.py             23      2    91%   33, 45
+TOTAL                                            614     47    92%
+====================== 310 passed, 42 warnings in 10.10s =======================

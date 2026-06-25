@@ -1,0 +1,5 @@
+{
+  "FutureWarning: CSRF validation will be enabled by default in the version 1.3.x": 1,
+  "DeprecationWarning: Using the initialization functions in flask_caching.backend is deprecated.  Use the a full path to backend classes directly.": 1,
+  "SAWarning: New instance <UserIdentity at [id]> with identity key (<class 'invenio_accounts.models.UserIdentity'>, ('1234', 'github'), None) conflicts with persistent instance <UserIdentity at [id]>": 1
+}

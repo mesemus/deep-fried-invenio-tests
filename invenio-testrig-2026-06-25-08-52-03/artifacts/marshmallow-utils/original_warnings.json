@@ -1,0 +1,10 @@
+{
+  "PytestCollectionWarning: cannot collect test class 'TestSchema' because it has a __init__ constructor (from: tests/fields/test_identifier_field.py)": 1,
+  "PytestCollectionWarning: cannot collect test class 'TestSchemaDate' because it has a __init__ constructor (from: tests/test_edtfdatestring.py)": 1,
+  "PytestCollectionWarning: cannot collect test class 'TestSchemaDateTime' because it has a __init__ constructor (from: tests/test_edtfdatestring.py)": 1,
+  "PytestCollectionWarning: cannot collect test class 'TestSchemaLVL2Date' because it has a __init__ constructor (from: tests/test_edtfdatestring.py)": 1,
+  "RemovedInMarshmallow4Warning: The 'missing' argument to fields is deprecated. Use 'load_default' instead.": 1,
+  "RemovedInMarshmallow4Warning: The `context` parameter is deprecated and will be removed in marshmallow 4.0. Use `contextvars.ContextVar` to pass context instead.": 8,
+  "DeprecationWarning: Using self.context for links_factory is deprecated. Use marshmallow_utils.context:context_schema for it.": 1,
+  "DeprecationWarning: Using self.context for field_permission_check is deprecated. Use marshmallow_utils.context:context_schema for it.": 1
+}

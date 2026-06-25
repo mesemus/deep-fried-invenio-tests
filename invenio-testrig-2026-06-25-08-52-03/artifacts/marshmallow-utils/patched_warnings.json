@@ -1,0 +1,6 @@
+{
+  "PytestCollectionWarning: cannot collect test class 'TestSchema' because it has a __init__ constructor (from: tests/fields/test_identifier_field.py)": 1,
+  "PytestCollectionWarning: cannot collect test class 'TestSchemaDate' because it has a __init__ constructor (from: tests/test_edtfdatestring.py)": 1,
+  "PytestCollectionWarning: cannot collect test class 'TestSchemaDateTime' because it has a __init__ constructor (from: tests/test_edtfdatestring.py)": 1,
+  "PytestCollectionWarning: cannot collect test class 'TestSchemaLVL2Date' because it has a __init__ constructor (from: tests/test_edtfdatestring.py)": 1
+}

@@ -1,0 +1,1144 @@
+ rabbitmq Pulling 
+ postgresql Pulling 
+ redis Pulling 
+ opensearch Pulling 
+ 20043066d3d5 Pulling fs layer 
+ 3fadc669ef11 Pulling fs layer 
+ 7084ac8f4ab6 Pulling fs layer 
+ beb0d870d438 Pulling fs layer 
+ d63c4408fdb7 Pulling fs layer 
+ efa05c660812 Pulling fs layer 
+ f4e7f62f4b80 Pulling fs layer 
+ 5e1c03b67a78 Pulling fs layer 
+ 14e6209d5fa8 Pulling fs layer 
+ d686b50ce172 Pulling fs layer 
+ beb0d870d438 Waiting 
+ d63c4408fdb7 Waiting 
+ efa05c660812 Waiting 
+ f4e7f62f4b80 Waiting 
+ 5e1c03b67a78 Waiting 
+ 14e6209d5fa8 Waiting 
+ d686b50ce172 Waiting 
+ b0a0cf830b12 Pulling fs layer 
+ dda3d8fbd5ed Pulling fs layer 
+ 283a477db7bb Pulling fs layer 
+ 91d2729fa4d5 Pulling fs layer 
+ 9739ced65621 Pulling fs layer 
+ ae3bb1b347a4 Pulling fs layer 
+ b0a0cf830b12 Waiting 
+ f8406d9c00ea Pulling fs layer 
+ dda3d8fbd5ed Waiting 
+ c199bff16b05 Pulling fs layer 
+ e0d55fdb4d15 Pulling fs layer 
+ c1cb13b19080 Pulling fs layer 
+ 283a477db7bb Waiting 
+ 873532e5f8c7 Pulling fs layer 
+ 050d9f8c3b1c Pulling fs layer 
+ 91d2729fa4d5 Waiting 
+ 710e142705f8 Pulling fs layer 
+ 9739ced65621 Waiting 
+ cb628c265f09 Pulling fs layer 
+ ae3bb1b347a4 Waiting 
+ c199bff16b05 Waiting 
+ f8406d9c00ea Waiting 
+ e0d55fdb4d15 Waiting 
+ c1cb13b19080 Waiting 
+ 873532e5f8c7 Waiting 
+ 710e142705f8 Waiting 
+ cb628c265f09 Waiting 
+ 7084ac8f4ab6 Downloading [>                                                  ]  81.28kB/7.468MB
+ 20043066d3d5 Downloading [>                                                  ]  310.6kB/29.72MB
+ 68629629b516 Pulling fs layer 
+ c5510c1247f7 Pulling fs layer 
+ 098849b20a3c Pulling fs layer 
+ ee7a04c62d66 Pulling fs layer 
+ 2a2f77d93543 Pulling fs layer 
+ 4f4fb700ef54 Pulling fs layer 
+ 013850a31d8d Pulling fs layer 
+ 68629629b516 Waiting 
+ c5510c1247f7 Waiting 
+ 098849b20a3c Waiting 
+ ee7a04c62d66 Waiting 
+ 2a2f77d93543 Waiting 
+ 4f4fb700ef54 Waiting 
+ 3fadc669ef11 Downloading [>                                                  ]  441.7kB/43.48MB
+ 7084ac8f4ab6 Downloading [========================>                          ]  3.686MB/7.468MB
+ 20043066d3d5 Downloading [=======>                                           ]  4.357MB/29.72MB
+ 7084ac8f4ab6 Verifying Checksum 
+ 7084ac8f4ab6 Download complete 
+ f9dd052e142d Pulling fs layer 
+ e8c6d4883897 Pulling fs layer 
+ 648eb81b3252 Pulling fs layer 
+ eb77aa907276 Pulling fs layer 
+ 4f4fb700ef54 Pulling fs layer 
+ 0ffa8f8aba1e Pulling fs layer 
+ 2e81b9cb93cd Pulling fs layer 
+ f9dd052e142d Waiting 
+ e8c6d4883897 Waiting 
+ eb77aa907276 Waiting 
+ 648eb81b3252 Waiting 
+ 0ffa8f8aba1e Waiting 
+ 2e81b9cb93cd Waiting 
+ 3fadc669ef11 Downloading [======>                                            ]   5.75MB/43.48MB
+ 20043066d3d5 Verifying Checksum 
+ 20043066d3d5 Download complete 
+ 3fadc669ef11 Downloading [=======================================>           ]  34.06MB/43.48MB
+ beb0d870d438 Downloading [==================>                                ]  3.477kB/9.462kB
+ beb0d870d438 Downloading [==================================================>]  9.462kB/9.462kB
+ beb0d870d438 Verifying Checksum 
+ beb0d870d438 Download complete 
+ 20043066d3d5 Extracting [>                                                  ]  327.7kB/29.72MB
+ 3fadc669ef11 Verifying Checksum 
+ 3fadc669ef11 Download complete 
+ 20043066d3d5 Extracting [==========>                                        ]  6.226MB/29.72MB
+ efa05c660812 Downloading [==================================================>]     189B/189B
+ efa05c660812 Download complete 
+ d63c4408fdb7 Downloading [>                                                  ]  228.7kB/21.31MB
+ f4e7f62f4b80 Downloading [==================================================>]     109B/109B
+ f4e7f62f4b80 Verifying Checksum 
+ f4e7f62f4b80 Download complete 
+ 20043066d3d5 Extracting [===============>                                   ]  9.503MB/29.72MB
+ 5e1c03b67a78 Downloading [==================================================>]     620B/620B
+ 5e1c03b67a78 Verifying Checksum 
+ 5e1c03b67a78 Download complete 
+ d63c4408fdb7 Downloading [=========>                                         ]  3.899MB/21.31MB
+ 14e6209d5fa8 Downloading [==================================================>]     833B/833B
+ 14e6209d5fa8 Verifying Checksum 
+ 14e6209d5fa8 Download complete 
+ d63c4408fdb7 Download complete 
+ 20043066d3d5 Extracting [=========================>                         ]  15.07MB/29.72MB
+ d686b50ce172 Downloading [>                                                  ]  130.4kB/12.47MB
+ 20043066d3d5 Extracting [=======================================>           ]  23.27MB/29.72MB
+ dda3d8fbd5ed Downloading [==================================================>]  1.165kB/1.165kB
+ dda3d8fbd5ed Verifying Checksum 
+ dda3d8fbd5ed Download complete 
+ d686b50ce172 Downloading [=================>                                 ]  4.325MB/12.47MB
+ d686b50ce172 Verifying Checksum 
+ d686b50ce172 Download complete 
+ b0a0cf830b12 Downloading [>                                                  ]  294.2kB/29.15MB
+ 283a477db7bb Downloading [>                                                  ]  48.49kB/4.533MB
+ 20043066d3d5 Extracting [==========================================>        ]  25.56MB/29.72MB
+ b0a0cf830b12 Downloading [============>                                      ]  7.372MB/29.15MB
+ 91d2729fa4d5 Downloading [>                                                  ]  15.72kB/1.45MB
+ 283a477db7bb Downloading [=====================>                             ]  1.916MB/4.533MB
+ b0a0cf830b12 Verifying Checksum 
+ b0a0cf830b12 Download complete 
+ 20043066d3d5 Extracting [==============================================>    ]  27.85MB/29.72MB
+ 283a477db7bb Verifying Checksum 
+ 283a477db7bb Download complete 
+ 91d2729fa4d5 Verifying Checksum 
+ 91d2729fa4d5 Download complete 
+ b0a0cf830b12 Extracting [>                                                  ]  294.9kB/29.15MB
+ b0a0cf830b12 Extracting [=========>                                         ]  5.603MB/29.15MB
+ 9739ced65621 Downloading [>                                                  ]  81.28kB/8.069MB
+ f8406d9c00ea Downloading [==================================================>]     116B/116B
+ f8406d9c00ea Verifying Checksum 
+ f8406d9c00ea Download complete 
+ 20043066d3d5 Extracting [=================================================> ]  29.49MB/29.72MB
+ b0a0cf830b12 Extracting [================>                                  ]  9.732MB/29.15MB
+ 9739ced65621 Downloading [============>                                      ]  1.965MB/8.069MB
+ ae3bb1b347a4 Downloading [>                                                  ]  15.72kB/1.196MB
+ 20043066d3d5 Extracting [==================================================>]  29.72MB/29.72MB
+ c199bff16b05 Downloading [==================================================>]  3.145kB/3.145kB
+ c199bff16b05 Verifying Checksum 
+ c199bff16b05 Download complete 
+ 9739ced65621 Verifying Checksum 
+ 9739ced65621 Download complete 
+ ae3bb1b347a4 Download complete 
+ b0a0cf830b12 Extracting [=====================>                             ]  12.39MB/29.15MB
+ b0a0cf830b12 Extracting [===================================>               ]  20.64MB/29.15MB
+ 20043066d3d5 Pull complete 
+ c1cb13b19080 Downloading [=================>                                 ]  3.477kB/9.925kB
+ c1cb13b19080 Downloading [==================================================>]  9.925kB/9.925kB
+ c1cb13b19080 Verifying Checksum 
+ c1cb13b19080 Download complete 
+ 3fadc669ef11 Extracting [>                                                  ]  458.8kB/43.48MB
+ e0d55fdb4d15 Downloading [>                                                  ]  533.5kB/109MB
+ 873532e5f8c7 Downloading [==================================================>]     128B/128B
+ 873532e5f8c7 Verifying Checksum 
+ 873532e5f8c7 Download complete 
+ 050d9f8c3b1c Downloading [==================================================>]     169B/169B
+ 050d9f8c3b1c Verifying Checksum 
+ 050d9f8c3b1c Download complete 
+ 3fadc669ef11 Extracting [=======>                                           ]  6.881MB/43.48MB
+ e0d55fdb4d15 Downloading [====>                                              ]  10.69MB/109MB
+ 710e142705f8 Downloading [================================>                  ]    3.5kB/5.421kB
+ 710e142705f8 Downloading [==================================================>]  5.421kB/5.421kB
+ 710e142705f8 Verifying Checksum 
+ 710e142705f8 Download complete 
+ 3fadc669ef11 Extracting [===============>                                   ]  13.76MB/43.48MB
+ e0d55fdb4d15 Downloading [================>                                  ]  35.83MB/109MB
+ cb628c265f09 Download complete 
+ b0a0cf830b12 Extracting [==========================================>        ]  24.77MB/29.15MB
+ 68629629b516 Downloading [>                                                  ]  294.3kB/28.24MB
+ e0d55fdb4d15 Downloading [==============================>                    ]  65.72MB/109MB
+ 3fadc669ef11 Extracting [====================>                              ]  17.89MB/43.48MB
+ b0a0cf830b12 Extracting [===============================================>   ]  27.43MB/29.15MB
+ 68629629b516 Downloading [=============>                                     ]  7.372MB/28.24MB
+ c5510c1247f7 Downloading [==================================================>]  1.103kB/1.103kB
+ c5510c1247f7 Verifying Checksum 
+ c5510c1247f7 Download complete 
+ e0d55fdb4d15 Downloading [==========================================>        ]  92.94MB/109MB
+ 3fadc669ef11 Extracting [=========================>                         ]  22.48MB/43.48MB
+ e0d55fdb4d15 Verifying Checksum 
+ e0d55fdb4d15 Download complete 
+ b0a0cf830b12 Extracting [===============================================>   ]  27.72MB/29.15MB
+ 68629629b516 Download complete 
+ 3fadc669ef11 Extracting [===============================>                   ]  27.53MB/43.48MB
+ 68629629b516 Extracting [>                                                  ]  294.9kB/28.24MB
+ 098849b20a3c Downloading [==================================================>]     874B/874B
+ 098849b20a3c Verifying Checksum 
+ 098849b20a3c Download complete 
+ 3fadc669ef11 Extracting [===================================>               ]   31.2MB/43.48MB
+ 68629629b516 Extracting [=======>                                           ]  4.424MB/28.24MB
+ 2a2f77d93543 Downloading [==================================================>]      97B/97B
+ 2a2f77d93543 Download complete 
+ ee7a04c62d66 Downloading [>                                                  ]  163.2kB/15.35MB
+ 3fadc669ef11 Extracting [=========================================>         ]  36.24MB/43.48MB
+ 4f4fb700ef54 Downloading [==================================================>]      32B/32B
+ 4f4fb700ef54 Verifying Checksum 
+ 4f4fb700ef54 Download complete 
+ 68629629b516 Extracting [===============>                                   ]  8.847MB/28.24MB
+ ee7a04c62d66 Downloading [=========>                                         ]  2.785MB/15.35MB
+ 013850a31d8d Downloading [==================================================>]     601B/601B
+ 013850a31d8d Verifying Checksum 
+ 013850a31d8d Download complete 
+ 3fadc669ef11 Extracting [================================================>  ]  41.75MB/43.48MB
+ ee7a04c62d66 Verifying Checksum 
+ ee7a04c62d66 Download complete 
+ 68629629b516 Extracting [==================>                                ]  10.32MB/28.24MB
+ 3fadc669ef11 Extracting [==================================================>]  43.48MB/43.48MB
+ b0a0cf830b12 Extracting [================================================>  ]  28.31MB/29.15MB
+ f9dd052e142d Downloading [>                                                  ]  523.6kB/52.33MB
+ 3fadc669ef11 Pull complete 
+ 68629629b516 Extracting [=====================>                             ]  12.39MB/28.24MB
+ e8c6d4883897 Downloading [>                                                  ]  48.49kB/4.398MB
+ 7084ac8f4ab6 Extracting [>                                                  ]   98.3kB/7.468MB
+ 648eb81b3252 Downloading [==================================================>]  1.561kB/1.561kB
+ 648eb81b3252 Verifying Checksum 
+ 648eb81b3252 Download complete 
+ f9dd052e142d Downloading [=====>                                             ]  5.767MB/52.33MB
+ e8c6d4883897 Downloading [============================>                      ]  2.506MB/4.398MB
+ 7084ac8f4ab6 Extracting [=>                                                 ]  294.9kB/7.468MB
+ 68629629b516 Extracting [============================>                      ]  15.93MB/28.24MB
+ e8c6d4883897 Verifying Checksum 
+ e8c6d4883897 Download complete 
+ f9dd052e142d Downloading [=================================>                 ]   34.6MB/52.33MB
+ eb77aa907276 Downloading [>                                                  ]  524.5kB/907.7MB
+ 68629629b516 Extracting [==================================>                ]  19.46MB/28.24MB
+ 7084ac8f4ab6 Extracting [=======>                                           ]  1.081MB/7.468MB
+ b0a0cf830b12 Extracting [==================================================>]  29.15MB/29.15MB
+ f9dd052e142d Verifying Checksum 
+ f9dd052e142d Download complete 
+ eb77aa907276 Downloading [>                                                  ]  13.83MB/907.7MB
+ 68629629b516 Extracting [========================================>          ]  22.71MB/28.24MB
+ 7084ac8f4ab6 Extracting [==============================>                    ]  4.522MB/7.468MB
+ 4f4fb700ef54 Download complete 
+ 7084ac8f4ab6 Extracting [==================================================>]  7.468MB/7.468MB
+ eb77aa907276 Downloading [==>                                                ]  43.16MB/907.7MB
+ 0ffa8f8aba1e Downloading [==================================================>]     226B/226B
+ 0ffa8f8aba1e Verifying Checksum 
+ 0ffa8f8aba1e Download complete 
+ eb77aa907276 Downloading [===>                                               ]  70.84MB/907.7MB
+ b0a0cf830b12 Pull complete 
+ 7084ac8f4ab6 Pull complete 
+ dda3d8fbd5ed Extracting [==================================================>]  1.165kB/1.165kB
+ dda3d8fbd5ed Extracting [==================================================>]  1.165kB/1.165kB
+ f9dd052e142d Extracting [>                                                  ]  524.3kB/52.33MB
+ 68629629b516 Extracting [==========================================>        ]  23.89MB/28.24MB
+ eb77aa907276 Downloading [====>                                              ]  84.17MB/907.7MB
+ 2e81b9cb93cd Downloading [==================================================>]  1.859kB/1.859kB
+ 2e81b9cb93cd Verifying Checksum 
+ 2e81b9cb93cd Download complete 
+ eb77aa907276 Downloading [======>                                            ]  115.1MB/907.7MB
+ beb0d870d438 Extracting [==================================================>]  9.462kB/9.462kB
+ beb0d870d438 Extracting [==================================================>]  9.462kB/9.462kB
+ 68629629b516 Extracting [==========================================>        ]  24.18MB/28.24MB
+ eb77aa907276 Downloading [======>                                            ]  124.2MB/907.7MB
+ 68629629b516 Extracting [============================================>      ]  25.07MB/28.24MB
+ eb77aa907276 Downloading [=======>                                           ]  141.8MB/907.7MB
+ f9dd052e142d Extracting [=>                                                 ]  1.049MB/52.33MB
+ eb77aa907276 Downloading [=========>                                         ]  171.1MB/907.7MB
+ 68629629b516 Extracting [===============================================>   ]  26.84MB/28.24MB
+ eb77aa907276 Downloading [==========>                                        ]  190.4MB/907.7MB
+ eb77aa907276 Downloading [============>                                      ]  227.2MB/907.7MB
+ f9dd052e142d Extracting [===>                                               ]  3.146MB/52.33MB
+ 68629629b516 Extracting [================================================>  ]  27.13MB/28.24MB
+ eb77aa907276 Downloading [==============>                                    ]  256.5MB/907.7MB
+ eb77aa907276 Downloading [================>                                  ]  291.8MB/907.7MB
+ f9dd052e142d Extracting [====>                                              ]  4.719MB/52.33MB
+ eb77aa907276 Downloading [=================>                                 ]  322.7MB/907.7MB
+ f9dd052e142d Extracting [=====>                                             ]  5.243MB/52.33MB
+ eb77aa907276 Downloading [===================>                               ]  353.8MB/907.7MB
+ f9dd052e142d Extracting [=====>                                             ]  5.767MB/52.33MB
+ eb77aa907276 Downloading [=====================>                             ]  387.4MB/907.7MB
+ 68629629b516 Extracting [================================================>  ]  27.43MB/28.24MB
+ eb77aa907276 Downloading [=======================>                           ]  418.3MB/907.7MB
+ f9dd052e142d Extracting [==========>                                        ]  11.01MB/52.33MB
+ eb77aa907276 Downloading [========================>                          ]    446MB/907.7MB
+ f9dd052e142d Extracting [===============>                                   ]  16.25MB/52.33MB
+ 68629629b516 Extracting [==================================================>]  28.24MB/28.24MB
+ eb77aa907276 Downloading [==========================>                        ]    477MB/907.7MB
+ f9dd052e142d Extracting [====================>                              ]  20.97MB/52.33MB
+ eb77aa907276 Downloading [============================>                      ]  509.5MB/907.7MB
+ f9dd052e142d Extracting [=========================>                         ]  26.74MB/52.33MB
+ f9dd052e142d Extracting [===========================>                       ]  28.31MB/52.33MB
+ eb77aa907276 Downloading [=============================>                     ]    541MB/907.7MB
+ 68629629b516 Pull complete 
+ c5510c1247f7 Extracting [==================================================>]  1.103kB/1.103kB
+ c5510c1247f7 Extracting [==================================================>]  1.103kB/1.103kB
+ eb77aa907276 Downloading [==============================>                    ]  557.5MB/907.7MB
+ f9dd052e142d Extracting [============================>                      ]  29.36MB/52.33MB
+ eb77aa907276 Downloading [================================>                  ]  586.3MB/907.7MB
+ eb77aa907276 Downloading [=================================>                 ]  611.4MB/907.7MB
+ eb77aa907276 Downloading [===================================>               ]  638.6MB/907.7MB
+ f9dd052e142d Extracting [=============================>                     ]  30.41MB/52.33MB
+ eb77aa907276 Downloading [====================================>              ]  669.1MB/907.7MB
+ f9dd052e142d Extracting [===============================>                   ]  33.03MB/52.33MB
+ eb77aa907276 Downloading [======================================>            ]  702.1MB/907.7MB
+ eb77aa907276 Downloading [=======================================>           ]  716.5MB/907.7MB
+ f9dd052e142d Extracting [=================================>                 ]   34.6MB/52.33MB
+ eb77aa907276 Downloading [=========================================>         ]  747.9MB/907.7MB
+ f9dd052e142d Extracting [===================================>               ]   36.7MB/52.33MB
+ eb77aa907276 Downloading [==========================================>        ]  779.4MB/907.7MB
+ f9dd052e142d Extracting [====================================>              ]  38.27MB/52.33MB
+ eb77aa907276 Downloading [============================================>      ]  811.9MB/907.7MB
+ eb77aa907276 Downloading [=============================================>     ]  832.7MB/907.7MB
+ f9dd052e142d Extracting [======================================>            ]  40.37MB/52.33MB
+ eb77aa907276 Downloading [===============================================>   ]  863.6MB/907.7MB
+ f9dd052e142d Extracting [=========================================>         ]  42.99MB/52.33MB
+ eb77aa907276 Downloading [=================================================> ]  894.7MB/907.7MB
+ f9dd052e142d Extracting [===========================================>       ]  45.61MB/52.33MB
+ eb77aa907276 Verifying Checksum 
+ eb77aa907276 Download complete 
+ f9dd052e142d Extracting [==============================================>    ]  48.23MB/52.33MB
+ f9dd052e142d Extracting [=================================================> ]  51.38MB/52.33MB
+ f9dd052e142d Extracting [=================================================> ]   51.9MB/52.33MB
+ f9dd052e142d Extracting [==================================================>]  52.33MB/52.33MB
+ f9dd052e142d Pull complete 
+ e8c6d4883897 Extracting [>                                                  ]  65.54kB/4.398MB
+ e8c6d4883897 Extracting [========>                                          ]  720.9kB/4.398MB
+ e8c6d4883897 Extracting [==============>                                    ]  1.311MB/4.398MB
+ e8c6d4883897 Extracting [====================>                              ]  1.769MB/4.398MB
+ beb0d870d438 Pull complete 
+ c5510c1247f7 Pull complete 
+ dda3d8fbd5ed Pull complete 
+ 098849b20a3c Extracting [==================================================>]     874B/874B
+ 098849b20a3c Extracting [==================================================>]     874B/874B
+ 283a477db7bb Extracting [>                                                  ]  65.54kB/4.533MB
+ 098849b20a3c Pull complete 
+ ee7a04c62d66 Extracting [>                                                  ]  163.8kB/15.35MB
+ e8c6d4883897 Extracting [============================>                      ]   2.49MB/4.398MB
+ d63c4408fdb7 Extracting [>                                                  ]  229.4kB/21.31MB
+ 283a477db7bb Extracting [=================================>                 ]   3.08MB/4.533MB
+ ee7a04c62d66 Extracting [==============>                                    ]  4.424MB/15.35MB
+ e8c6d4883897 Extracting [====================================>              ]  3.211MB/4.398MB
+ d63c4408fdb7 Extracting [=====>                                             ]  2.294MB/21.31MB
+ 283a477db7bb Extracting [==================================================>]  4.533MB/4.533MB
+ ee7a04c62d66 Extracting [================================>                  ]   9.83MB/15.35MB
+ d63c4408fdb7 Extracting [==========>                                        ]  4.358MB/21.31MB
+ e8c6d4883897 Extracting [========================================>          ]  3.539MB/4.398MB
+ 283a477db7bb Pull complete 
+ 91d2729fa4d5 Extracting [=>                                                 ]  32.77kB/1.45MB
+ ee7a04c62d66 Extracting [=================================================> ]  15.07MB/15.35MB
+ e8c6d4883897 Extracting [==================================================>]  4.398MB/4.398MB
+ ee7a04c62d66 Extracting [==================================================>]  15.35MB/15.35MB
+ 91d2729fa4d5 Extracting [==================================================>]   1.45MB/1.45MB
+ e8c6d4883897 Pull complete 
+ 648eb81b3252 Extracting [==================================================>]  1.561kB/1.561kB
+ 648eb81b3252 Extracting [==================================================>]  1.561kB/1.561kB
+ d63c4408fdb7 Extracting [==================>                                ]  7.799MB/21.31MB
+ 91d2729fa4d5 Pull complete 
+ 648eb81b3252 Pull complete 
+ ee7a04c62d66 Pull complete 
+ 9739ced65621 Extracting [>                                                  ]   98.3kB/8.069MB
+ 2a2f77d93543 Extracting [==================================================>]      97B/97B
+ 2a2f77d93543 Extracting [==================================================>]      97B/97B
+ 2a2f77d93543 Pull complete 
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Pull complete 
+ 013850a31d8d Extracting [==================================================>]     601B/601B
+ 013850a31d8d Extracting [==================================================>]     601B/601B
+ 013850a31d8d Pull complete 
+ redis Pulled 
+ eb77aa907276 Extracting [>                                                  ]  557.1kB/907.7MB
+ d63c4408fdb7 Extracting [======================>                            ]  9.404MB/21.31MB
+ 9739ced65621 Extracting [=================>                                 ]  2.851MB/8.069MB
+ eb77aa907276 Extracting [>                                                  ]  13.93MB/907.7MB
+ 9739ced65621 Extracting [=========================>                         ]  4.129MB/8.069MB
+ d63c4408fdb7 Extracting [=============================>                     ]  12.62MB/21.31MB
+ eb77aa907276 Extracting [=>                                                 ]  30.08MB/907.7MB
+ d63c4408fdb7 Extracting [==================================>                ]  14.91MB/21.31MB
+ 9739ced65621 Extracting [===================================>               ]    5.8MB/8.069MB
+ eb77aa907276 Extracting [==>                                                ]  46.24MB/907.7MB
+ 9739ced65621 Extracting [===========================================>       ]   6.98MB/8.069MB
+ d63c4408fdb7 Extracting [======================================>            ]  16.29MB/21.31MB
+ 9739ced65621 Extracting [==================================================>]  8.069MB/8.069MB
+ eb77aa907276 Extracting [===>                                               ]  62.95MB/907.7MB
+ d63c4408fdb7 Extracting [=========================================>         ]  17.66MB/21.31MB
+ 9739ced65621 Pull complete 
+ ae3bb1b347a4 Extracting [=>                                                 ]  32.77kB/1.196MB
+ eb77aa907276 Extracting [====>                                              ]  77.43MB/907.7MB
+ ae3bb1b347a4 Extracting [==================================================>]  1.196MB/1.196MB
+ ae3bb1b347a4 Extracting [==================================================>]  1.196MB/1.196MB
+ d63c4408fdb7 Extracting [============================================>      ]  19.04MB/21.31MB
+ ae3bb1b347a4 Pull complete 
+ f8406d9c00ea Extracting [==================================================>]     116B/116B
+ f8406d9c00ea Extracting [==================================================>]     116B/116B
+ f8406d9c00ea Pull complete 
+ c199bff16b05 Extracting [==================================================>]  3.145kB/3.145kB
+ c199bff16b05 Extracting [==================================================>]  3.145kB/3.145kB
+ c199bff16b05 Pull complete 
+ eb77aa907276 Extracting [====>                                              ]  81.89MB/907.7MB
+ e0d55fdb4d15 Extracting [>                                                  ]  557.1kB/109MB
+ eb77aa907276 Extracting [=====>                                             ]  91.91MB/907.7MB
+ e0d55fdb4d15 Extracting [==>                                                ]  4.456MB/109MB
+ eb77aa907276 Extracting [=====>                                             ]  96.93MB/907.7MB
+ e0d55fdb4d15 Extracting [===>                                               ]  7.242MB/109MB
+ eb77aa907276 Extracting [=====>                                             ]  102.5MB/907.7MB
+ d63c4408fdb7 Extracting [================================================>  ]  20.87MB/21.31MB
+ eb77aa907276 Extracting [=====>                                             ]  107.5MB/907.7MB
+ d63c4408fdb7 Extracting [==================================================>]  21.31MB/21.31MB
+ e0d55fdb4d15 Extracting [====>                                              ]  8.913MB/109MB
+ eb77aa907276 Extracting [======>                                            ]  112.5MB/907.7MB
+ d63c4408fdb7 Pull complete 
+ efa05c660812 Extracting [==================================================>]     189B/189B
+ efa05c660812 Pull complete 
+ f4e7f62f4b80 Extracting [==================================================>]     109B/109B
+ f4e7f62f4b80 Extracting [==================================================>]     109B/109B
+ f4e7f62f4b80 Pull complete 
+ 5e1c03b67a78 Extracting [==================================================>]     620B/620B
+ 5e1c03b67a78 Extracting [==================================================>]     620B/620B
+ e0d55fdb4d15 Extracting [====>                                              ]  10.58MB/109MB
+ 5e1c03b67a78 Pull complete 
+ 14e6209d5fa8 Extracting [==================================================>]     833B/833B
+ 14e6209d5fa8 Extracting [==================================================>]     833B/833B
+ 14e6209d5fa8 Pull complete 
+ d686b50ce172 Extracting [>                                                  ]  131.1kB/12.47MB
+ eb77aa907276 Extracting [======>                                            ]    117MB/907.7MB
+ e0d55fdb4d15 Extracting [=====>                                             ]  12.81MB/109MB
+ d686b50ce172 Extracting [=============>                                     ]  3.277MB/12.47MB
+ eb77aa907276 Extracting [======>                                            ]    122MB/907.7MB
+ e0d55fdb4d15 Extracting [======>                                            ]  15.04MB/109MB
+ d686b50ce172 Extracting [==================>                                ]  4.588MB/12.47MB
+ eb77aa907276 Extracting [======>                                            ]  126.5MB/907.7MB
+ e0d55fdb4d15 Extracting [=======>                                           ]  17.27MB/109MB
+ d686b50ce172 Extracting [========================>                          ]  6.029MB/12.47MB
+ eb77aa907276 Extracting [=======>                                           ]    132MB/907.7MB
+ e0d55fdb4d15 Extracting [=========>                                         ]  21.17MB/109MB
+ eb77aa907276 Extracting [=======>                                           ]  137.6MB/907.7MB
+ d686b50ce172 Extracting [==========================>                        ]  6.685MB/12.47MB
+ e0d55fdb4d15 Extracting [==========>                                        ]  23.95MB/109MB
+ eb77aa907276 Extracting [=======>                                           ]  142.6MB/907.7MB
+ d686b50ce172 Extracting [===============================>                   ]  7.733MB/12.47MB
+ e0d55fdb4d15 Extracting [============>                                      ]  27.85MB/109MB
+ eb77aa907276 Extracting [========>                                          ]  147.6MB/907.7MB
+ d686b50ce172 Extracting [=======================================>           ]   9.83MB/12.47MB
+ e0d55fdb4d15 Extracting [===============>                                   ]  33.98MB/109MB
+ eb77aa907276 Extracting [========>                                          ]  153.7MB/907.7MB
+ d686b50ce172 Extracting [===========================================>       ]  10.75MB/12.47MB
+ e0d55fdb4d15 Extracting [==================>                                ]  40.11MB/109MB
+ eb77aa907276 Extracting [========>                                          ]  158.8MB/907.7MB
+ d686b50ce172 Extracting [=================================================> ]  12.45MB/12.47MB
+ d686b50ce172 Extracting [==================================================>]  12.47MB/12.47MB
+ e0d55fdb4d15 Extracting [=====================>                             ]  46.79MB/109MB
+ eb77aa907276 Extracting [=========>                                         ]    171MB/907.7MB
+ e0d55fdb4d15 Extracting [=======================>                           ]  51.81MB/109MB
+ eb77aa907276 Extracting [==========>                                        ]  182.7MB/907.7MB
+ e0d55fdb4d15 Extracting [=========================>                         ]  54.59MB/109MB
+ eb77aa907276 Extracting [==========>                                        ]  198.3MB/907.7MB
+ e0d55fdb4d15 Extracting [===========================>                       ]  59.05MB/109MB
+ eb77aa907276 Extracting [===========>                                       ]  210.6MB/907.7MB
+ eb77aa907276 Extracting [============>                                      ]  218.9MB/907.7MB
+ e0d55fdb4d15 Extracting [==============================>                    ]  66.29MB/109MB
+ eb77aa907276 Extracting [============>                                      ]  228.4MB/907.7MB
+ e0d55fdb4d15 Extracting [=================================>                 ]  73.53MB/109MB
+ eb77aa907276 Extracting [============>                                      ]  235.6MB/907.7MB
+ e0d55fdb4d15 Extracting [====================================>              ]  80.22MB/109MB
+ d686b50ce172 Pull complete 
+ rabbitmq Pulled 
+ eb77aa907276 Extracting [=============>                                     ]  243.4MB/907.7MB
+ e0d55fdb4d15 Extracting [========================================>          ]  87.46MB/109MB
+ eb77aa907276 Extracting [==============>                                    ]  255.7MB/907.7MB
+ e0d55fdb4d15 Extracting [==========================================>        ]  92.47MB/109MB
+ eb77aa907276 Extracting [===============>                                   ]  273.5MB/907.7MB
+ e0d55fdb4d15 Extracting [===========================================>       ]   94.7MB/109MB
+ eb77aa907276 Extracting [================>                                  ]  292.5MB/907.7MB
+ e0d55fdb4d15 Extracting [============================================>      ]  96.93MB/109MB
+ eb77aa907276 Extracting [=================>                                 ]  310.3MB/907.7MB
+ e0d55fdb4d15 Extracting [=============================================>     ]  99.16MB/109MB
+ eb77aa907276 Extracting [=================>                                 ]  325.9MB/907.7MB
+ e0d55fdb4d15 Extracting [==============================================>    ]  101.9MB/109MB
+ eb77aa907276 Extracting [==================>                                ]  342.6MB/907.7MB
+ e0d55fdb4d15 Extracting [===============================================>   ]  103.6MB/109MB
+ eb77aa907276 Extracting [===================>                               ]  359.3MB/907.7MB
+ eb77aa907276 Extracting [====================>                              ]  365.4MB/907.7MB
+ e0d55fdb4d15 Extracting [================================================>  ]  105.3MB/109MB
+ eb77aa907276 Extracting [====================>                              ]  371.6MB/907.7MB
+ e0d55fdb4d15 Extracting [=================================================> ]    107MB/109MB
+ eb77aa907276 Extracting [=====================>                             ]  384.9MB/907.7MB
+ eb77aa907276 Extracting [======================>                            ]  403.3MB/907.7MB
+ e0d55fdb4d15 Extracting [=================================================> ]  107.5MB/109MB
+ eb77aa907276 Extracting [=======================>                           ]  426.1MB/907.7MB
+ e0d55fdb4d15 Extracting [=================================================> ]  108.6MB/109MB
+ eb77aa907276 Extracting [========================>                          ]  448.4MB/907.7MB
+ e0d55fdb4d15 Extracting [==================================================>]    109MB/109MB
+ eb77aa907276 Extracting [=========================>                         ]  470.2MB/907.7MB
+ eb77aa907276 Extracting [===========================>                       ]  494.7MB/907.7MB
+ eb77aa907276 Extracting [============================>                      ]    522MB/907.7MB
+ eb77aa907276 Extracting [==============================>                    ]  548.1MB/907.7MB
+ eb77aa907276 Extracting [===============================>                   ]  574.9MB/907.7MB
+ eb77aa907276 Extracting [=================================>                 ]  599.9MB/907.7MB
+ eb77aa907276 Extracting [==================================>                ]  624.5MB/907.7MB
+ eb77aa907276 Extracting [===================================>               ]  649.5MB/907.7MB
+ eb77aa907276 Extracting [=====================================>             ]  676.3MB/907.7MB
+ eb77aa907276 Extracting [======================================>            ]    703MB/907.7MB
+ eb77aa907276 Extracting [=======================================>           ]    713MB/907.7MB
+ eb77aa907276 Extracting [========================================>          ]  738.1MB/907.7MB
+ eb77aa907276 Extracting [=========================================>         ]  758.2MB/907.7MB
+ eb77aa907276 Extracting [==========================================>        ]  778.8MB/907.7MB
+ e0d55fdb4d15 Pull complete 
+ c1cb13b19080 Extracting [==================================================>]  9.925kB/9.925kB
+ c1cb13b19080 Extracting [==================================================>]  9.925kB/9.925kB
+ eb77aa907276 Extracting [============================================>      ]  798.8MB/907.7MB
+ eb77aa907276 Extracting [============================================>      ]  802.7MB/907.7MB
+ eb77aa907276 Extracting [=============================================>     ]  823.3MB/907.7MB
+ c1cb13b19080 Pull complete 
+ 873532e5f8c7 Extracting [==================================================>]     128B/128B
+ 873532e5f8c7 Extracting [==================================================>]     128B/128B
+ 873532e5f8c7 Pull complete 
+ 050d9f8c3b1c Extracting [==================================================>]     169B/169B
+ 050d9f8c3b1c Extracting [==================================================>]     169B/169B
+ 050d9f8c3b1c Pull complete 
+ 710e142705f8 Extracting [==================================================>]  5.421kB/5.421kB
+ 710e142705f8 Extracting [==================================================>]  5.421kB/5.421kB
+ eb77aa907276 Extracting [==============================================>    ]    840MB/907.7MB
+ 710e142705f8 Pull complete 
+ cb628c265f09 Extracting [==================================================>]     184B/184B
+ cb628c265f09 Extracting [==================================================>]     184B/184B
+ cb628c265f09 Pull complete 
+ postgresql Pulled 
+ eb77aa907276 Extracting [===============================================>   ]  859.5MB/907.7MB
+ eb77aa907276 Extracting [================================================>  ]  880.7MB/907.7MB
+ eb77aa907276 Extracting [=================================================> ]  900.8MB/907.7MB
+ eb77aa907276 Extracting [==================================================>]  907.7MB/907.7MB
+ eb77aa907276 Pull complete 
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Pull complete 
+ 0ffa8f8aba1e Extracting [==================================================>]     226B/226B
+ 0ffa8f8aba1e Extracting [==================================================>]     226B/226B
+ 0ffa8f8aba1e Pull complete 
+ 2e81b9cb93cd Extracting [==================================================>]  1.859kB/1.859kB
+ 2e81b9cb93cd Extracting [==================================================>]  1.859kB/1.859kB
+ 2e81b9cb93cd Pull complete 
+ opensearch Pulled 
+ Network docker_services_cli_default  Creating
+ Network docker_services_cli_default  Created
+ Container docker_services_cli-redis-1  Creating
+ Container docker_services_cli-postgresql-1  Creating
+ Container docker_services_cli-opensearch-1  Creating
+ Container docker_services_cli-rabbitmq-1  Creating
+ Container docker_services_cli-redis-1  Created
+ Container docker_services_cli-opensearch-1  Created
+ Container docker_services_cli-postgresql-1  Created
+ Container docker_services_cli-rabbitmq-1  Created
+ Container docker_services_cli-redis-1  Starting
+ Container docker_services_cli-postgresql-1  Starting
+ Container docker_services_cli-rabbitmq-1  Starting
+ Container docker_services_cli-opensearch-1  Starting
+ Container docker_services_cli-redis-1  Started
+ Container docker_services_cli-postgresql-1  Started
+ Container docker_services_cli-opensearch-1  Started
+ Container docker_services_cli-rabbitmq-1  Started
+============================= test session starts ==============================
+platform linux -- Python 3.14.2, pytest-8.4.2, pluggy-1.6.0
+rootdir: /home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-jobs/patched
+configfile: setup.cfg
+testpaths: docs, tests, invenio_jobs
+plugins: flask-1.3.0, black-0.6.0, github-actions-annotate-failures-0.4.2, pycodestyle-2.5.0, cov-7.1.0, invenio-4.0.1, pydocstyle-2.4.0, isort-4.0.0
+collected 194 items
+
+docs/conf.py ...                                                         [  1%]
+tests/conftest.py ...                                                    [  3%]
+tests/mock_module/__init__.py ...                                        [  4%]
+tests/mock_module/jobs.py ...                                            [  6%]
+tests/mock_module/tasks.py ...                                           [  7%]
+tests/resources/test_resources.py ..::error file=workdir/tests/invenio-jobs/patched/tests/resources/test_resources.py,line=224::test_simple_flow%0A%0AAssertionError: assert {'args': {'jo...ries': 0, ...} == {'args': {'jo...ries': 0, ...}%0A  %0A  Omitting 21 identical items, use -vv to show%0A  Differing items:%0A  {'started_by': {'identities': {}, 'is_current_user': True, 'links': {}, 'type': 'user'}} != {'started_by': {'id': '1', 'identities': {}, 'is_current_user': True, 'links': {}, ...}}%0A  %0A  Full diff:%0A    {%0A        'args': {%0A            'job_arg_schema': 'custom',%0A        },%0A        'completed_subtasks': 0,%0A        'created': '2026-06-25T09:01:47.270377+00:00',%0A        'errored_entries': 0,%0A        'failed_subtasks': 0,%0A        'finished_at': None,%0A        'id': '6b0c79fb-e633-4ac9-be3a-f2517fe110bf',%0A        'job_id': '00d94e32-3d5e-4a80-b85b-e4e2551e7477',%0A        'links': {%0A            'logs': 'https://127.0.0.1:5000/api/logs/jobs?q=6b0c79fb-e633-4ac9-be3a-f2517fe110bf',%0A            'self': 'https://127.0.0.1:5000/api/jobs/00d94e32-3d5e-4a80-b85b-e4e2551e7477/runs/6b0c79fb-e633-4ac9-be3a-f2517fe110bf',%0A            'stop': 'https://127.0.0.1:5000/api/jobs/00d94e32-3d5e-4a80-b85b-e4e2551e7477/runs/6b0c79fb-e633-4ac9-be3a-f2517fe110bf/actions/stop',%0A        },%0A        'message': None,%0A        'parent_run_id': None,%0A        'queue': 'celery',%0A        'started_at': None,%0A        'started_by': {%0A  -         'id': '1',%0A            'identities': {},%0A            'is_current_user': True,%0A            'links': {},%0A  -         'profile': {%0A  -             'affiliations': 'CERN',%0A  -             'full_name': 'User',%0A  -         },%0A            'type': 'user',%0A  -         'username': 'user',%0A        },%0A        'started_by_id': 1,%0A        'status': 'QUEUED',%0A        'subtasks': [],%0A        'task_id': 'afc1f92c-83b5-4e14-b47c-5281b5216ce6',%0A        'title': 'Manually triggered run',%0A        'total_entries': 0,%0A        'total_subtasks': 0,%0A        'updated': '2026-06-25T09:01:47.270380+00:00',%0A    }
+Fs....s                              [ 12%]
+tests/test_alembic.py ...::warning file=workdir/tests/invenio-jobs/patched/.venv/lib/python3.14/site-packages/invenio_rest/ext.py,line=24::CSRF validation will be enabled by default in the version 1.3.x
+::warning file=workdir/tests/invenio-jobs/patched/.venv/lib/python3.14/site-packages/alembic/config.py,line=580::No path_separator found in configuration; falling back to legacy splitting on spaces/commas for version_locations.  Consider adding path_separator=os to Alembic config.
+::warning file=workdir/tests/invenio-jobs/patched/.venv/lib/python3.14/site-packages/invenio_oauthclient/alembic/bff1f190b9bd_add_timestamp_oauthclient.py,line=22::datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+                                                [ 13%]
+tests/test_cli.py ...::warning file=workdir/tests/invenio-jobs/patched/.venv/lib/python3.14/site-packages/invenio_rest/ext.py,line=24::CSRF validation will be enabled by default in the version 1.3.x
+.                                                   [ 15%]
+tests/test_deprecated.py ...                                             [ 17%]
+tests/test_invenio_jobs.py ....                                          [ 19%]
+tests/test_services_job_logs.py ...::warning file=workdir/tests/invenio-jobs/patched/.venv/lib/python3.14/site-packages/invenio_rest/ext.py,line=24::CSRF validation will be enabled by default in the version 1.3.x
+..                                    [ 22%]
+tests/test_services_subtasks.py ...::warning file=workdir/tests/invenio-jobs/patched/.venv/lib/python3.14/site-packages/invenio_rest/ext.py,line=24::CSRF validation will be enabled by default in the version 1.3.x
+..........                            [ 28%]
+tests/test_utils.py ...                                                  [ 30%]
+invenio_jobs/__init__.py ...                                             [ 31%]
+invenio_jobs/administration/__init__.py ...                              [ 33%]
+invenio_jobs/administration/jobs.py ...                                  [ 35%]
+invenio_jobs/administration/runs.py ...                                  [ 36%]
+invenio_jobs/alembic/1753948224_add_subtasks_columns_to_jobs_run.py ...  [ 38%]
+invenio_jobs/alembic/1757597048_add_run_args_column_to_jobs_job_table.py . [ 38%]
+..                                                                       [ 39%]
+invenio_jobs/alembic/1764848648_add_notification_emails_and_.py ...      [ 41%]
+invenio_jobs/alembic/1773910810_merge_invenio_jobs_heads.py ...          [ 42%]
+invenio_jobs/alembic/1f896f6990b8_update_jobs_module_table_names.py ...  [ 44%]
+invenio_jobs/alembic/356496a01197_create_invenio_jobs_tables.py ...      [ 45%]
+invenio_jobs/alembic/371f4cbcb73d_create_invenio_jobs_branch.py ...      [ 47%]
+invenio_jobs/alembic/9732b5f7609a_change_datetime_types.py ...           [ 48%]
+invenio_jobs/api.py ...                                                  [ 50%]
+invenio_jobs/cli.py ...                                                  [ 52%]
+invenio_jobs/config.py ...                                               [ 53%]
+invenio_jobs/errors.py ...                                               [ 55%]
+invenio_jobs/ext.py ...                                                  [ 56%]
+invenio_jobs/jobs.py ...                                                 [ 58%]
+invenio_jobs/logging/__init__.py ...                                     [ 59%]
+invenio_jobs/logging/celery_signals.py ...                               [ 61%]
+invenio_jobs/logging/index_templates/__init__.py ...                     [ 62%]
+invenio_jobs/logging/index_templates/os-v1/__init__.py ...               [ 64%]
+invenio_jobs/logging/index_templates/os-v2/__init__.py ...               [ 65%]
+invenio_jobs/logging/jobs.py ...                                         [ 67%]
+invenio_jobs/logging/tasks.py ...                                        [ 69%]
+invenio_jobs/models.py ...                                               [ 70%]
+invenio_jobs/proxies.py ...                                              [ 72%]
+invenio_jobs/registry.py ...                                             [ 73%]
+invenio_jobs/resources/__init__.py ...                                   [ 75%]
+invenio_jobs/resources/config.py ...                                     [ 76%]
+invenio_jobs/resources/resources.py ...                                  [ 78%]
+invenio_jobs/services/__init__.py ...                                    [ 79%]
+invenio_jobs/services/config.py ...                                      [ 81%]
+invenio_jobs/services/errors.py ...                                      [ 82%]
+invenio_jobs/services/links.py ...                                       [ 84%]
+invenio_jobs/services/permissions.py ...                                 [ 86%]
+invenio_jobs/services/results.py ...                                     [ 87%]
+invenio_jobs/services/scheduler.py ...                                   [ 89%]
+invenio_jobs/services/schema.py ...                                      [ 90%]
+invenio_jobs/services/services.py ...                                    [ 92%]
+invenio_jobs/services/ui_schema.py ...                                   [ 93%]
+invenio_jobs/tasks.py ...                                                [ 95%]
+invenio_jobs/utils.py ...                                                [ 96%]
+invenio_jobs/views.py ...                                                [ 98%]
+invenio_jobs/webpack.py ...                                              [100%]
+
+=================================== FAILURES ===================================
+_______________________________ test_simple_flow _______________________________
+
+mock_apply_async = <MagicMock name='apply_async' id='140207458719392'>
+app = <Flask 'invenio'>
+db = <SQLAlchemy postgresql+psycopg2://invenio:***@localhost:5432/invenio>
+client = <FlaskClient <Flask 'invenio'>>
+user = <pytest_invenio.user.UserFixtureBase object at 0x7f8497c58ec0>
+
+    @patch.object(execute_run, "apply_async")
+    def test_simple_flow(mock_apply_async, app, db, client, user):
+        """Test simple flow."""
+        client = user.login(client)
+        job_payload = {
+            "title": "Test job",
+            "task": "update_expired_embargos",
+            "description": "Test description",
+            "active": False,
+            "default_queue": "low",
+            "schedule": {"type": "interval", "hours": 4},
+        }
+    
+        # Create a job
+        res = client.post("/jobs", json=job_payload)
+        assert res.status_code == 201
+        job_id = res.json["id"]
+        expected_job = {
+            "id": job_id,
+            "title": "Test job",
+            "description": "Test description",
+            "active": False,
+            "task": "update_expired_embargos",
+            "default_queue": "low",
+            "default_args": '{"since": null}',
+            "run_args": None,
+            "schedule": {"type": "interval", "hours": 4},
+            "created": res.json["created"],
+            "updated": res.json["updated"],
+            "links": {
+                "self": f"https://127.0.0.1:5000/api/jobs/{job_id}",
+                "runs": f"https://127.0.0.1:5000/api/jobs/{job_id}/runs",
+                "self_admin_html": f"https://127.0.0.1:5000/administration/jobs/{job_id}",
+            },
+            "notification_emails": None,
+            "notification_statuses": None,
+        }
+    
+        assert res.json == expected_job
+    
+        # Activate the job (i.e. update)
+        job_payload["args"] = {}
+        job_payload["custom_args"] = "{}"
+    
+        res = client.put(
+            f"/jobs/{job_id}",
+            json={**job_payload, "active": True},
+        )
+        assert res.status_code == 200
+        expected_job["active"] = True
+        expected_job["updated"] = res.json["updated"]
+        expected_job["run_args"] = {}
+    
+        assert res.json == expected_job
+    
+        list_repr = deepcopy(expected_job)
+        list_repr.update(
+            {
+                "last_run": {
+                    "title": "Manual run",
+                    "total_subtasks": 0,
+                    "completed_subtasks": 0,
+                    "failed_subtasks": 0,
+                    "errored_entries": 0,
+                    "total_entries": 0,
+                },
+                "last_runs": {
+                    "cancelled": {},
+                    "cancelling": {},
+                    "failed": {},
+                    "partial_success": {},
+                    "queued": {},
+                    "running": {},
+                    "success": {},
+                    "warning": {},
+                },
+            }
+        )
+    
+        # List jobs
+        res = client.get("/jobs")
+        assert res.status_code == 200
+        assert res.json["hits"]["total"] == 1
+        assert res.json["hits"]["hits"][0] == list_repr
+    
+        # Get job
+        res = client.get(f"/jobs/{job_id}")
+        assert res.status_code == 200
+        assert res.json == expected_job
+    
+        # Create/trigger a run with invalid `since` to test correct failure
+        invalid_since_arg = "2025-05-20T00:00:00+aa:bb"  # slightly invalid ISO timestamp
+        res = client.post(
+            f"/jobs/{job_id}/runs",
+            json={
+                "title": "Manually triggered run",
+                "args": {
+                    "since": invalid_since_arg,
+                    "job_arg_schema": "PredefinedArgsSchema",
+                },
+                "queue": "celery",
+            },
+        )
+        assert res.status_code == 400
+    
+        # Create/trigger a run with no inputs, expecting it to rely on a default value for `since`
+        res = client.post(
+            f"/jobs/{job_id}/runs",
+            json={
+                "title": "Manually triggered run",
+                "args": {},
+                "queue": "celery",
+            },
+        )
+        assert res.status_code == 201
+    
+        run_id = res.json["id"]
+        expected_run = {
+            "id": run_id,
+            "job_id": job_id,
+            "created": res.json["created"],
+            "updated": res.json["updated"],
+            "started_by_id": int(user.id),
+            "started_by": {
+                "id": str(user.id),
+                "username": user.username,
+                "profile": user._user_profile,
+                "identities": {},
+                "is_current_user": True,
+                "type": "user",
+                "links": {},
+            },
+            "started_at": res.json["started_at"],
+            "finished_at": res.json["finished_at"],
+            "status": "QUEUED",
+            "message": None,
+            "task_id": "ce6d9e62-aee1-4f52-b9fd-20ec61fbf55a",
+            "title": "Manually triggered run",
+            # No schema assigned as the required `job_arg_schema` was not specified in the request
+            "args": {"job_arg_schema": "custom"},
+            "queue": "celery",
+            "parent_run_id": None,
+            "total_subtasks": 0,
+            "completed_subtasks": 0,
+            "failed_subtasks": 0,
+            "errored_entries": 0,
+            "total_entries": 0,
+            "subtasks": [],
+            "links": {
+                "self": f"https://127.0.0.1:5000/api/jobs/{job_id}/runs/{run_id}",
+                "logs": f"https://127.0.0.1:5000/api/logs/jobs?q={run_id}",
+                "stop": f"https://127.0.0.1:5000/api/jobs/{job_id}/runs/{run_id}/actions/stop",
+            },
+        }
+    
+        # Create/trigger a run with valid inputs
+        since_arg = (datetime.now(timezone.utc) - timedelta(days=2)).isoformat()
+        res = client.post(
+            f"/jobs/{job_id}/runs",
+            json={
+                "title": "Manually triggered run",
+                "args": {"since": since_arg, "job_arg_schema": "PredefinedArgsSchema"},
+                "queue": "celery",
+            },
+        )
+        assert res.status_code == 201
+    
+        run_id = res.json["id"]
+        expected_run = {
+            "id": run_id,
+            "job_id": job_id,
+            "started_by_id": int(user.id),
+            "started_by": {
+                "id": str(user.id),
+                "username": user.username,
+                "profile": user._user_profile,
+                "identities": {},
+                "is_current_user": True,
+                "type": "user",
+                "links": {},
+            },
+            "started_at": res.json["started_at"],
+            "finished_at": res.json["finished_at"],
+            "status": "QUEUED",
+            "message": None,
+            "title": "Manually triggered run",
+            "args": {"job_arg_schema": "custom"},
+            "queue": "celery",
+            "created": res.json["created"],
+            "updated": res.json["updated"],
+            "parent_run_id": None,
+            "total_subtasks": 0,
+            "completed_subtasks": 0,
+            "failed_subtasks": 0,
+            "errored_entries": 0,
+            "total_entries": 0,
+            "subtasks": [],
+            "links": {
+                "self": f"https://127.0.0.1:5000/api/jobs/{job_id}/runs/{run_id}",
+                "logs": f"https://127.0.0.1:5000/api/logs/jobs?q={run_id}",
+                "stop": f"https://127.0.0.1:5000/api/jobs/{job_id}/runs/{run_id}/actions/stop",
+            },
+        }
+        assert "task_id" in res.json
+        assert res.json["task_id"] != None
+        expected_run["task_id"] = res.json["task_id"]
+>       assert res.json == expected_run
+E       AssertionError: assert {'args': {'jo...ries': 0, ...} == {'args': {'jo...ries': 0, ...}
+E         
+E         Omitting 21 identical items, use -vv to show
+E         Differing items:
+E         {'started_by': {'identities': {}, 'is_current_user': True, 'links': {}, 'type': 'user'}} != {'started_by': {'id': '1', 'identities': {}, 'is_current_user': True, 'links': {}, ...}}
+E         
+E         Full diff:
+E           {
+E               'args': {
+E                   'job_arg_schema': 'custom',
+E               },
+E               'completed_subtasks': 0,
+E               'created': '2026-06-25T09:01:47.270377+00:00',
+E               'errored_entries': 0,
+E               'failed_subtasks': 0,
+E               'finished_at': None,
+E               'id': '6b0c79fb-e633-4ac9-be3a-f2517fe110bf',
+E               'job_id': '00d94e32-3d5e-4a80-b85b-e4e2551e7477',
+E               'links': {
+E                   'logs': 'https://127.0.0.1:5000/api/logs/jobs?q=6b0c79fb-e633-4ac9-be3a-f2517fe110bf',
+E                   'self': 'https://127.0.0.1:5000/api/jobs/00d94e32-3d5e-4a80-b85b-e4e2551e7477/runs/6b0c79fb-e633-4ac9-be3a-f2517fe110bf',
+E                   'stop': 'https://127.0.0.1:5000/api/jobs/00d94e32-3d5e-4a80-b85b-e4e2551e7477/runs/6b0c79fb-e633-4ac9-be3a-f2517fe110bf/actions/stop',
+E               },
+E               'message': None,
+E               'parent_run_id': None,
+E               'queue': 'celery',
+E               'started_at': None,
+E               'started_by': {
+E         -         'id': '1',
+E                   'identities': {},
+E                   'is_current_user': True,
+E                   'links': {},
+E         -         'profile': {
+E         -             'affiliations': 'CERN',
+E         -             'full_name': 'User',
+E         -         },
+E                   'type': 'user',
+E         -         'username': 'user',
+E               },
+E               'started_by_id': 1,
+E               'status': 'QUEUED',
+E               'subtasks': [],
+E               'task_id': 'afc1f92c-83b5-4e14-b47c-5281b5216ce6',
+E               'title': 'Manually triggered run',
+E               'total_entries': 0,
+E               'total_subtasks': 0,
+E               'updated': '2026-06-25T09:01:47.270380+00:00',
+E           }
+
+tests/resources/test_resources.py:224: AssertionError
+------------------------------ Captured log setup ------------------------------
+WARNING  invenio:ext.py:286 JSONSCHEMAS_HOST is set to localhost
+WARNING  py.warnings:_py_warnings.py:230 /home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-jobs/patched/.venv/lib/python3.14/site-packages/invenio_rest/ext.py:24: FutureWarning: CSRF validation will be enabled by default in the version 1.3.x
+  self.init_app(app)
+
+DEBUG    invenio:ext.py:171 Flask-DebugToolbar extension not installed.
+----------------------------- Captured stderr call -----------------------------
+[2026-06-25 09:01:47,176] DEBUG in errors: A resource error handler caught the following exception:
+Traceback (most recent call last):
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-jobs/patched/.venv/lib/python3.14/site-packages/flask/app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-jobs/patched/.venv/lib/python3.14/site-packages/flask/app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-jobs/patched/.venv/lib/python3.14/site-packages/flask_resources/resources.py", line 65, in view
+    return view_meth()
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-jobs/patched/.venv/lib/python3.14/site-packages/flask_resources/content_negotiation.py", line 116, in inner_content_negotiation
+    return f(*args, **kwargs)
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-jobs/patched/.venv/lib/python3.14/site-packages/flask_resources/parsers/decorators.py", line 90, in inner
+    return f(self, *args, **kwargs)
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-jobs/patched/.venv/lib/python3.14/site-packages/flask_resources/parsers/decorators.py", line 51, in inner
+    return f(self, *args, **kwargs)
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-jobs/patched/.venv/lib/python3.14/site-packages/flask_resources/responses.py", line 39, in inner
+    res = f(*args, **kwargs)
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-jobs/patched/invenio_jobs/resources/resources.py", line 184, in create
+    item = self.service.create(
+        g.identity,
+        job_id=resource_requestctx.view_args["job_id"],
+        data=resource_requestctx.data or {},
+    )
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-jobs/patched/invenio_jobs/logging/jobs.py", line 79, in wrapper
+    return func(*args, **kwargs)
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-jobs/patched/.venv/lib/python3.14/site-packages/invenio_db/uow.py", line 247, in inner
+    res = f(self, *args, **kwargs)
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-jobs/patched/invenio_jobs/services/services.py", line 267, in create
+    valid_data, errors = self.schema.load(
+                         ~~~~~~~~~~~~~~~~^
+        data,
+        ^^^^^
+        context={"identity": identity, "job": job},
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        raise_errors=True,
+        ^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-jobs/patched/.venv/lib/python3.14/site-packages/invenio_records_resources/services/records/schema.py", line 94, in load
+    valid_data = self.schema.load(data, **schema_args)
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-jobs/patched/.venv/lib/python3.14/site-packages/marshmallow/schema.py", line 792, in load
+    return self._do_load(
+           ~~~~~~~~~~~~~^
+        data, many=many, partial=partial, unknown=unknown, postprocess=True
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-jobs/patched/.venv/lib/python3.14/site-packages/marshmallow/schema.py", line 999, in _do_load
+    raise exc
+marshmallow.exceptions.ValidationError: {'args': {'since': ['Not a valid datetime.']}}
+[2026-06-25 09:01:47,214] DEBUG in services: Run created
+[2026-06-25 09:01:47,269] DEBUG in services: Run created
+------------------------------ Captured log call -------------------------------
+DEBUG    invenio:errors.py:38 A resource error handler caught the following exception:
+Traceback (most recent call last):
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-jobs/patched/.venv/lib/python3.14/site-packages/flask/app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-jobs/patched/.venv/lib/python3.14/site-packages/flask/app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-jobs/patched/.venv/lib/python3.14/site-packages/flask_resources/resources.py", line 65, in view
+    return view_meth()
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-jobs/patched/.venv/lib/python3.14/site-packages/flask_resources/content_negotiation.py", line 116, in inner_content_negotiation
+    return f(*args, **kwargs)
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-jobs/patched/.venv/lib/python3.14/site-packages/flask_resources/parsers/decorators.py", line 90, in inner
+    return f(self, *args, **kwargs)
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-jobs/patched/.venv/lib/python3.14/site-packages/flask_resources/parsers/decorators.py", line 51, in inner
+    return f(self, *args, **kwargs)
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-jobs/patched/.venv/lib/python3.14/site-packages/flask_resources/responses.py", line 39, in inner
+    res = f(*args, **kwargs)
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-jobs/patched/invenio_jobs/resources/resources.py", line 184, in create
+    item = self.service.create(
+        g.identity,
+        job_id=resource_requestctx.view_args["job_id"],
+        data=resource_requestctx.data or {},
+    )
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-jobs/patched/invenio_jobs/logging/jobs.py", line 79, in wrapper
+    return func(*args, **kwargs)
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-jobs/patched/.venv/lib/python3.14/site-packages/invenio_db/uow.py", line 247, in inner
+    res = f(self, *args, **kwargs)
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-jobs/patched/invenio_jobs/services/services.py", line 267, in create
+    valid_data, errors = self.schema.load(
+                         ~~~~~~~~~~~~~~~~^
+        data,
+        ^^^^^
+        context={"identity": identity, "job": job},
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        raise_errors=True,
+        ^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-jobs/patched/.venv/lib/python3.14/site-packages/invenio_records_resources/services/records/schema.py", line 94, in load
+    valid_data = self.schema.load(data, **schema_args)
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-jobs/patched/.venv/lib/python3.14/site-packages/marshmallow/schema.py", line 792, in load
+    return self._do_load(
+           ~~~~~~~~~~~~~^
+        data, many=many, partial=partial, unknown=unknown, postprocess=True
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-jobs/patched/.venv/lib/python3.14/site-packages/marshmallow/schema.py", line 999, in _do_load
+    raise exc
+marshmallow.exceptions.ValidationError: {'args': {'since': ['Not a valid datetime.']}}
+DEBUG    invenio:services.py:293 Run created
+DEBUG    invenio:services.py:293 Run created
+=============================== warnings summary ===============================
+tests/test_alembic.py::test_alembic
+tests/test_cli.py::test_jobs_cli
+tests/test_services_job_logs.py::test_job_logs_search_limits_to_max_docs
+tests/test_services_subtasks.py::test_create_subtask_run
+  /home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-jobs/patched/.venv/lib/python3.14/site-packages/invenio_rest/ext.py:24: FutureWarning: CSRF validation will be enabled by default in the version 1.3.x
+    self.init_app(app)
+
+tests/test_alembic.py::test_alembic
+  /home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-jobs/patched/.venv/lib/python3.14/site-packages/alembic/config.py:580: DeprecationWarning: No path_separator found in configuration; falling back to legacy splitting on spaces/commas for version_locations.  Consider adding path_separator=os to Alembic config.
+    util.warn_deprecated(
+
+tests/test_alembic.py::test_alembic
+  /home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-jobs/patched/.venv/lib/python3.14/site-packages/invenio_oauthclient/alembic/bff1f190b9bd_add_timestamp_oauthclient.py:22: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+    current_date = datetime.utcnow()
+
+-- Docs: https://docs.pytest.org/en/stable/how-to/capture-warnings.html
+================================ tests coverage ================================
+_______________ coverage: platform linux, python 3.14.2-final-0 ________________
+
+Name                                                                       Stmts   Miss  Cover   Missing
+--------------------------------------------------------------------------------------------------------
+invenio_jobs/__init__.py                                                       3      0   100%
+invenio_jobs/administration/__init__.py                                        0      0   100%
+invenio_jobs/administration/jobs.py                                           87     24    72%   104, 108-114, 118-123, 132-137, 211-214, 229-250
+invenio_jobs/administration/runs.py                                           46     25    46%   34-49, 53-60, 64-65, 69-70
+invenio_jobs/alembic/1f896f6990b8_update_jobs_module_table_names.py           20      5    75%   36-41
+invenio_jobs/alembic/371f4cbcb73d_create_invenio_jobs_branch.py               10      1    90%   23
+invenio_jobs/alembic/9732b5f7609a_change_datetime_types.py                    17      0   100%
+invenio_jobs/alembic/356496a01197_create_invenio_jobs_tables.py               17      2    88%   105-106
+invenio_jobs/alembic/1753948224_add_subtasks_columns_to_jobs_run.py           31      0   100%
+invenio_jobs/alembic/1757597048_add_run_args_column_to_jobs_job_table.py      12      0   100%
+invenio_jobs/alembic/1764848648_add_notification_emails_and_.py               12      0   100%
+invenio_jobs/alembic/1773910810_merge_invenio_jobs_heads.py                   10      0   100%
+invenio_jobs/api.py                                                            4      0   100%
+invenio_jobs/cli.py                                                          230     50    78%   42, 58-59, 74-75, 86-87, 94-95, 102-104, 184-185, 204-207, 217, 228-231, 261-264, 269-283, 329-330, 341-346, 363-365, 396, 417-423
+invenio_jobs/config.py                                                        32      0   100%
+invenio_jobs/errors.py                                                        11      3    73%   16-18
+invenio_jobs/ext.py                                                           57      1    98%   102
+invenio_jobs/jobs.py                                                          33      7    79%   61-63, 85, 98, 104-112
+invenio_jobs/logging/__init__.py                                               0      0   100%
+invenio_jobs/logging/celery_signals.py                                        22      8    64%   18-21, 34-41, 50
+invenio_jobs/logging/index_templates/__init__.py                               0      0   100%
+invenio_jobs/logging/index_templates/os-v1/__init__.py                         0      0   100%
+invenio_jobs/logging/index_templates/os-v2/__init__.py                         0      0   100%
+invenio_jobs/logging/jobs.py                                                  64      5    92%   95, 116-118, 122-123
+invenio_jobs/logging/tasks.py                                                  8      2    75%   15-16
+invenio_jobs/models.py                                                       145     17    88%   80, 88-96, 105-107, 203-204, 252-254
+invenio_jobs/proxies.py                                                       12      0   100%
+invenio_jobs/registry.py                                                      26      5    81%   19, 28-31
+invenio_jobs/resources/__init__.py                                             3      0   100%
+invenio_jobs/resources/config.py                                              57      0   100%
+invenio_jobs/resources/resources.py                                          126     25    80%   44-49, 54-59, 171-177, 195-200, 206-213, 219-225, 233-239, 245-251, 276-283
+invenio_jobs/services/__init__.py                                              4      0   100%
+invenio_jobs/services/config.py                                               79      0   100%
+invenio_jobs/services/errors.py                                               22      1    95%   64
+invenio_jobs/services/links.py                                                22      0   100%
+invenio_jobs/services/permissions.py                                          25      0   100%
+invenio_jobs/services/results.py                                             100     21    79%   49-50, 79, 88-91, 105-119, 144-145, 163, 165-166
+invenio_jobs/services/scheduler.py                                            55     31    44%   27-28, 33-35, 55, 62, 66-67, 71-90, 95-102, 109-115
+invenio_jobs/services/schema.py                                              188     15    92%   50-55, 131, 214, 216, 226-227, 239, 252, 380, 415-416
+invenio_jobs/services/services.py                                            254     48    81%   50, 58-62, 89-91, 193-195, 199-234, 317, 426, 446, 487-501, 506-512, 517-527, 569, 580, 586-587
+invenio_jobs/services/ui_schema.py                                            19      0   100%
+invenio_jobs/tasks.py                                                         71     27    62%   26, 42-45, 50, 81, 85-102, 104-125, 130, 135, 150-156
+invenio_jobs/utils.py                                                         53     35    34%   19-30, 35-46, 54, 74-179
+invenio_jobs/views.py                                                         14      0   100%
+invenio_jobs/webpack.py                                                        2      0   100%
+--------------------------------------------------------------------------------------------------------
+TOTAL                                                                       2003    358    82%
+=========================== short test summary info ============================
+FAILED tests/resources/test_resources.py::test_simple_flow - AssertionError: assert {'args': {'jo...ries': 0, ...} == {'args': {'jo...ries': 0, ...}
+  
+  Omitting 21 identical items, use -vv to show
+  Differing items:
+  {'started_by': {'identities': {}, 'is_current_user': True, 'links': {}, 'type': 'user'}} != {'started_by': {'id': '1', 'identities': {}, 'is_current_user': True, 'links': {}, ...}}
+  
+  Full diff:
+    {
+        'args': {
+            'job_arg_schema': 'custom',
+        },
+        'completed_subtasks': 0,
+        'created': '2026-06-25T09:01:47.270377+00:00',
+        'errored_entries': 0,
+        'failed_subtasks': 0,
+        'finished_at': None,
+        'id': '6b0c79fb-e633-4ac9-be3a-f2517fe110bf',
+        'job_id': '00d94e32-3d5e-4a80-b85b-e4e2551e7477',
+        'links': {
+            'logs': 'https://127.0.0.1:5000/api/logs/jobs?q=6b0c79fb-e633-4ac9-be3a-f2517fe110bf',
+            'self': 'https://127.0.0.1:5000/api/jobs/00d94e32-3d5e-4a80-b85b-e4e2551e7477/runs/6b0c79fb-e633-4ac9-be3a-f2517fe110bf',
+            'stop': 'https://127.0.0.1:5000/api/jobs/00d94e32-3d5e-4a80-b85b-e4e2551e7477/runs/6b0c79fb-e633-4ac9-be3a-f2517fe110bf/actions/stop',
+        },
+        'message': None,
+        'parent_run_id': None,
+        'queue': 'celery',
+        'started_at': None,
+        'started_by': {
+  -         'id': '1',
+            'identities': {},
+            'is_current_user': True,
+            'links': {},
+  -         'profile': {
+  -             'affiliations': 'CERN',
+  -             'full_name': 'User',
+  -         },
+            'type': 'user',
+  -         'username': 'user',
+        },
+        'started_by_id': 1,
+        'status': 'QUEUED',
+        'subtasks': [],
+        'task_id': 'afc1f92c-83b5-4e14-b47c-5281b5216ce6',
+        'title': 'Manually triggered run',
+        'total_entries': 0,
+        'total_subtasks': 0,
+        'updated': '2026-06-25T09:01:47.270380+00:00',
+    }
+============ 1 failed, 191 passed, 2 skipped, 6 warnings in 40.21s =============
+ Container docker_services_cli-postgresql-1  Stopping
+ Container docker_services_cli-rabbitmq-1  Stopping
+ Container docker_services_cli-redis-1  Stopping
+ Container docker_services_cli-opensearch-1  Stopping
+ Container docker_services_cli-postgresql-1  Stopped
+ Container docker_services_cli-postgresql-1  Removing
+ Container docker_services_cli-redis-1  Stopped
+ Container docker_services_cli-redis-1  Removing
+ Container docker_services_cli-postgresql-1  Removed
+ Container docker_services_cli-opensearch-1  Stopped
+ Container docker_services_cli-opensearch-1  Removing
+ Container docker_services_cli-redis-1  Removed
+ Container docker_services_cli-opensearch-1  Removed
+ Container docker_services_cli-rabbitmq-1  Stopped
+ Container docker_services_cli-rabbitmq-1  Removing
+ Container docker_services_cli-rabbitmq-1  Removed
+ Network docker_services_cli_default  Removing
+ Network docker_services_cli_default  Removed

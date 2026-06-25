@@ -1,0 +1,582 @@
+ rabbitmq Pulling 
+ postgresql Pulling 
+ redis Pulling 
+ opensearch Pulling 
+ redis Pulled 
+ rabbitmq Pulled 
+ postgresql Pulled 
+ opensearch Pulled 
+ Network docker_services_cli_default  Creating
+ Network docker_services_cli_default  Created
+ Container docker_services_cli-redis-1  Creating
+ Container docker_services_cli-postgresql-1  Creating
+ Container docker_services_cli-opensearch-1  Creating
+ Container docker_services_cli-rabbitmq-1  Creating
+ Container docker_services_cli-redis-1  Created
+ Container docker_services_cli-opensearch-1  Created
+ Container docker_services_cli-postgresql-1  Created
+ Container docker_services_cli-rabbitmq-1  Created
+ Container docker_services_cli-redis-1  Starting
+ Container docker_services_cli-postgresql-1  Starting
+ Container docker_services_cli-rabbitmq-1  Starting
+ Container docker_services_cli-opensearch-1  Starting
+ Container docker_services_cli-redis-1  Started
+ Container docker_services_cli-postgresql-1  Started
+ Container docker_services_cli-opensearch-1  Started
+ Container docker_services_cli-rabbitmq-1  Started
+============================= test session starts ==============================
+platform linux -- Python 3.14.2, pytest-8.4.2, pluggy-1.6.0
+rootdir: /home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-jobs/patched
+configfile: setup.cfg
+testpaths: docs, tests, invenio_jobs
+plugins: flask-1.3.0, black-0.6.0, github-actions-annotate-failures-0.4.2, pycodestyle-2.5.0, cov-7.1.0, invenio-4.0.1, pydocstyle-2.4.0, isort-4.0.0
+collected 194 items
+docs/conf.py ...                                                         [  1%]
+tests/conftest.py ...                                                    [  3%]
+tests/mock_module/__init__.py ...                                        [  4%]
+tests/mock_module/jobs.py ...                                            [  6%]
+tests/mock_module/tasks.py ...                                           [  7%]
+tests/resources/test_resources.py ..::error file=workdir/tests/invenio-jobs/patched/tests/resources/test_resources.py,line=224::test_simple_flow%0A%0AAssertionError: assert {'args': {'jo...ries': 0, ...} == {'args': {'jo...ries': 0, ...}%0A  %0A  Omitting 21 identical items, use -vv to show%0A  Differing items:%0A  {'started_by': {'identities': {}, 'is_current_user': True, 'links': {}, 'type': 'user'}} != {'started_by': {'id': '1', 'identities': {}, 'is_current_user': True, 'links': {}, ...}}%0A  %0A  Full diff:%0A    {%0A        'args': {%0A            'job_arg_schema': 'custom',%0A        },%0A        'completed_subtasks': 0,%0A        'created': '2026-06-25T09:01:47.270377+00:00',%0A        'errored_entries': 0,%0A        'failed_subtasks': 0,%0A        'finished_at': None,%0A        'id': '6b0c79fb-e633-4ac9-be3a-f2517fe110bf',%0A        'job_id': '00d94e32-3d5e-4a80-b85b-e4e2551e7477',%0A        'links': {%0A            'logs': 'https://127.0.0.1:5000/api/logs/jobs?q=6b0c79fb-e633-4ac9-be3a-f2517fe110bf',%0A            'self': 'https://127.0.0.1:5000/api/jobs/00d94e32-3d5e-4a80-b85b-e4e2551e7477/runs/6b0c79fb-e633-4ac9-be3a-f2517fe110bf',%0A            'stop': 'https://127.0.0.1:5000/api/jobs/00d94e32-3d5e-4a80-b85b-e4e2551e7477/runs/6b0c79fb-e633-4ac9-be3a-f2517fe110bf/actions/stop',%0A        },%0A        'message': None,%0A        'parent_run_id': None,%0A        'queue': 'celery',%0A        'started_at': None,%0A        'started_by': {%0A  -         'id': '1',%0A            'identities': {},%0A            'is_current_user': True,%0A            'links': {},%0A  -         'profile': {%0A  -             'affiliations': 'CERN',%0A  -             'full_name': 'User',%0A  -         },%0A            'type': 'user',%0A  -         'username': 'user',%0A        },%0A        'started_by_id': 1,%0A        'status': 'QUEUED',%0A        'subtasks': [],%0A        'task_id': 'afc1f92c-83b5-4e14-b47c-5281b5216ce6',%0A        'title': 'Manually triggered run',%0A        'total_entries': 0,%0A        'total_subtasks': 0,%0A        'updated': '2026-06-25T09:01:47.270380+00:00',%0A    }
+Fs....s                              [ 12%]
+tests/test_alembic.py 
+                                                [ 13%]
+tests/test_cli.py 
+                                                   [ 15%]
+tests/test_deprecated.py ...                                             [ 17%]
+tests/test_invenio_jobs.py ....                                          [ 19%]
+tests/test_services_job_logs.py 
+                                    [ 22%]
+tests/test_services_subtasks.py 
+                            [ 28%]
+tests/test_utils.py ...                                                  [ 30%]
+invenio_jobs/__init__.py ...                                             [ 31%]
+invenio_jobs/administration/__init__.py ...                              [ 33%]
+invenio_jobs/administration/jobs.py ...                                  [ 35%]
+invenio_jobs/administration/runs.py ...                                  [ 36%]
+invenio_jobs/alembic/1753948224_add_subtasks_columns_to_jobs_run.py ...  [ 38%]
+invenio_jobs/alembic/1757597048_add_run_args_column_to_jobs_job_table.py . [ 38%]
+                                                                       [ 39%]
+invenio_jobs/alembic/1764848648_add_notification_emails_and_.py ...      [ 41%]
+invenio_jobs/alembic/1773910810_merge_invenio_jobs_heads.py ...          [ 42%]
+invenio_jobs/alembic/1f896f6990b8_update_jobs_module_table_names.py ...  [ 44%]
+invenio_jobs/alembic/356496a01197_create_invenio_jobs_tables.py ...      [ 45%]
+invenio_jobs/alembic/371f4cbcb73d_create_invenio_jobs_branch.py ...      [ 47%]
+invenio_jobs/alembic/9732b5f7609a_change_datetime_types.py ...           [ 48%]
+invenio_jobs/api.py ...                                                  [ 50%]
+invenio_jobs/cli.py ...                                                  [ 52%]
+invenio_jobs/config.py ...                                               [ 53%]
+invenio_jobs/errors.py ...                                               [ 55%]
+invenio_jobs/ext.py ...                                                  [ 56%]
+invenio_jobs/jobs.py ...                                                 [ 58%]
+invenio_jobs/logging/__init__.py ...                                     [ 59%]
+invenio_jobs/logging/celery_signals.py ...                               [ 61%]
+invenio_jobs/logging/index_templates/__init__.py ...                     [ 62%]
+invenio_jobs/logging/index_templates/os-v1/__init__.py ...               [ 64%]
+invenio_jobs/logging/index_templates/os-v2/__init__.py ...               [ 65%]
+invenio_jobs/logging/jobs.py ...                                         [ 67%]
+invenio_jobs/logging/tasks.py ...                                        [ 69%]
+invenio_jobs/models.py ...                                               [ 70%]
+invenio_jobs/proxies.py ...                                              [ 72%]
+invenio_jobs/registry.py ...                                             [ 73%]
+invenio_jobs/resources/__init__.py ...                                   [ 75%]
+invenio_jobs/resources/config.py ...                                     [ 76%]
+invenio_jobs/resources/resources.py ...                                  [ 78%]
+invenio_jobs/services/__init__.py ...                                    [ 79%]
+invenio_jobs/services/config.py ...                                      [ 81%]
+invenio_jobs/services/errors.py ...                                      [ 82%]
+invenio_jobs/services/links.py ...                                       [ 84%]
+invenio_jobs/services/permissions.py ...                                 [ 86%]
+invenio_jobs/services/results.py ...                                     [ 87%]
+invenio_jobs/services/scheduler.py ...                                   [ 89%]
+invenio_jobs/services/schema.py ...                                      [ 90%]
+invenio_jobs/services/services.py ...                                    [ 92%]
+invenio_jobs/services/ui_schema.py ...                                   [ 93%]
+invenio_jobs/tasks.py ...                                                [ 95%]
+invenio_jobs/utils.py ...                                                [ 96%]
+invenio_jobs/views.py ...                                                [ 98%]
+invenio_jobs/webpack.py ...                                              [100%]
+=================================== FAILURES ===================================
+_______________________________ test_simple_flow _______________________________
+mock_apply_async = <MagicMock name='apply_async' id='140207458719392'>
+app = <Flask 'invenio'>
+db = <SQLAlchemy postgresql+psycopg2://invenio:***@localhost:5432/invenio>
+client = <FlaskClient <Flask 'invenio'>>
+user = <pytest_invenio.user.UserFixtureBase object at 0x7f8497c58ec0>
+    @patch.object(execute_run, "apply_async")
+    def test_simple_flow(mock_apply_async, app, db, client, user):
+        """Test simple flow."""
+        client = user.login(client)
+        job_payload = {
+            "title": "Test job",
+            "task": "update_expired_embargos",
+            "description": "Test description",
+            "active": False,
+            "default_queue": "low",
+            "schedule": {"type": "interval", "hours": 4},
+        }
+        # Create a job
+        res = client.post("/jobs", json=job_payload)
+        assert res.status_code == 201
+        job_id = res.json["id"]
+        expected_job = {
+            "id": job_id,
+            "title": "Test job",
+            "description": "Test description",
+            "active": False,
+            "task": "update_expired_embargos",
+            "default_queue": "low",
+            "default_args": '{"since": null}',
+            "run_args": None,
+            "schedule": {"type": "interval", "hours": 4},
+            "created": res.json["created"],
+            "updated": res.json["updated"],
+            "links": {
+                "self": f"https://127.0.0.1:5000/api/jobs/{job_id}",
+                "runs": f"https://127.0.0.1:5000/api/jobs/{job_id}/runs",
+                "self_admin_html": f"https://127.0.0.1:5000/administration/jobs/{job_id}",
+            },
+            "notification_emails": None,
+            "notification_statuses": None,
+        }
+        assert res.json == expected_job
+        # Activate the job (i.e. update)
+        job_payload["args"] = {}
+        job_payload["custom_args"] = "{}"
+        res = client.put(
+            f"/jobs/{job_id}",
+            json={**job_payload, "active": True},
+        )
+        assert res.status_code == 200
+        expected_job["active"] = True
+        expected_job["updated"] = res.json["updated"]
+        expected_job["run_args"] = {}
+        assert res.json == expected_job
+        list_repr = deepcopy(expected_job)
+        list_repr.update(
+            {
+                "last_run": {
+                    "title": "Manual run",
+                    "total_subtasks": 0,
+                    "completed_subtasks": 0,
+                    "failed_subtasks": 0,
+                    "errored_entries": 0,
+                    "total_entries": 0,
+                },
+                "last_runs": {
+                    "cancelled": {},
+                    "cancelling": {},
+                    "failed": {},
+                    "partial_success": {},
+                    "queued": {},
+                    "running": {},
+                    "success": {},
+                    "warning": {},
+                },
+            }
+        )
+        # List jobs
+        res = client.get("/jobs")
+        assert res.status_code == 200
+        assert res.json["hits"]["total"] == 1
+        assert res.json["hits"]["hits"][0] == list_repr
+        # Get job
+        res = client.get(f"/jobs/{job_id}")
+        assert res.status_code == 200
+        assert res.json == expected_job
+        # Create/trigger a run with invalid `since` to test correct failure
+        invalid_since_arg = "2025-05-20T00:00:00+aa:bb"  # slightly invalid ISO timestamp
+        res = client.post(
+            f"/jobs/{job_id}/runs",
+            json={
+                "title": "Manually triggered run",
+                "args": {
+                    "since": invalid_since_arg,
+                    "job_arg_schema": "PredefinedArgsSchema",
+                },
+                "queue": "celery",
+            },
+        )
+        assert res.status_code == 400
+        # Create/trigger a run with no inputs, expecting it to rely on a default value for `since`
+        res = client.post(
+            f"/jobs/{job_id}/runs",
+            json={
+                "title": "Manually triggered run",
+                "args": {},
+                "queue": "celery",
+            },
+        )
+        assert res.status_code == 201
+        run_id = res.json["id"]
+        expected_run = {
+            "id": run_id,
+            "job_id": job_id,
+            "created": res.json["created"],
+            "updated": res.json["updated"],
+            "started_by_id": int(user.id),
+            "started_by": {
+                "id": str(user.id),
+                "username": user.username,
+                "profile": user._user_profile,
+                "identities": {},
+                "is_current_user": True,
+                "type": "user",
+                "links": {},
+            },
+            "started_at": res.json["started_at"],
+            "finished_at": res.json["finished_at"],
+            "status": "QUEUED",
+            "message": None,
+            "task_id": "ce6d9e62-aee1-4f52-b9fd-20ec61fbf55a",
+            "title": "Manually triggered run",
+            # No schema assigned as the required `job_arg_schema` was not specified in the request
+            "args": {"job_arg_schema": "custom"},
+            "queue": "celery",
+            "parent_run_id": None,
+            "total_subtasks": 0,
+            "completed_subtasks": 0,
+            "failed_subtasks": 0,
+            "errored_entries": 0,
+            "total_entries": 0,
+            "subtasks": [],
+            "links": {
+                "self": f"https://127.0.0.1:5000/api/jobs/{job_id}/runs/{run_id}",
+                "logs": f"https://127.0.0.1:5000/api/logs/jobs?q={run_id}",
+                "stop": f"https://127.0.0.1:5000/api/jobs/{job_id}/runs/{run_id}/actions/stop",
+            },
+        }
+        # Create/trigger a run with valid inputs
+        since_arg = (datetime.now(timezone.utc) - timedelta(days=2)).isoformat()
+        res = client.post(
+            f"/jobs/{job_id}/runs",
+            json={
+                "title": "Manually triggered run",
+                "args": {"since": since_arg, "job_arg_schema": "PredefinedArgsSchema"},
+                "queue": "celery",
+            },
+        )
+        assert res.status_code == 201
+        run_id = res.json["id"]
+        expected_run = {
+            "id": run_id,
+            "job_id": job_id,
+            "started_by_id": int(user.id),
+            "started_by": {
+                "id": str(user.id),
+                "username": user.username,
+                "profile": user._user_profile,
+                "identities": {},
+                "is_current_user": True,
+                "type": "user",
+                "links": {},
+            },
+            "started_at": res.json["started_at"],
+            "finished_at": res.json["finished_at"],
+            "status": "QUEUED",
+            "message": None,
+            "title": "Manually triggered run",
+            "args": {"job_arg_schema": "custom"},
+            "queue": "celery",
+            "created": res.json["created"],
+            "updated": res.json["updated"],
+            "parent_run_id": None,
+            "total_subtasks": 0,
+            "completed_subtasks": 0,
+            "failed_subtasks": 0,
+            "errored_entries": 0,
+            "total_entries": 0,
+            "subtasks": [],
+            "links": {
+                "self": f"https://127.0.0.1:5000/api/jobs/{job_id}/runs/{run_id}",
+                "logs": f"https://127.0.0.1:5000/api/logs/jobs?q={run_id}",
+                "stop": f"https://127.0.0.1:5000/api/jobs/{job_id}/runs/{run_id}/actions/stop",
+            },
+        }
+        assert "task_id" in res.json
+        assert res.json["task_id"] != None
+        expected_run["task_id"] = res.json["task_id"]
+>       assert res.json == expected_run
+E       AssertionError: assert {'args': {'jo...ries': 0, ...} == {'args': {'jo...ries': 0, ...}
+E         
+E         Omitting 21 identical items, use -vv to show
+E         Differing items:
+E         {'started_by': {'identities': {}, 'is_current_user': True, 'links': {}, 'type': 'user'}} != {'started_by': {'id': '1', 'identities': {}, 'is_current_user': True, 'links': {}, ...}}
+E         
+E         Full diff:
+E           {
+E               'args': {
+E                   'job_arg_schema': 'custom',
+E               },
+E               'completed_subtasks': 0,
+E               'created': '2026-06-25T09:01:47.270377+00:00',
+E               'errored_entries': 0,
+E               'failed_subtasks': 0,
+E               'finished_at': None,
+E               'id': '6b0c79fb-e633-4ac9-be3a-f2517fe110bf',
+E               'job_id': '00d94e32-3d5e-4a80-b85b-e4e2551e7477',
+E               'links': {
+E                   'logs': 'https://127.0.0.1:5000/api/logs/jobs?q=6b0c79fb-e633-4ac9-be3a-f2517fe110bf',
+E                   'self': 'https://127.0.0.1:5000/api/jobs/00d94e32-3d5e-4a80-b85b-e4e2551e7477/runs/6b0c79fb-e633-4ac9-be3a-f2517fe110bf',
+E                   'stop': 'https://127.0.0.1:5000/api/jobs/00d94e32-3d5e-4a80-b85b-e4e2551e7477/runs/6b0c79fb-e633-4ac9-be3a-f2517fe110bf/actions/stop',
+E               },
+E               'message': None,
+E               'parent_run_id': None,
+E               'queue': 'celery',
+E               'started_at': None,
+E               'started_by': {
+E         -         'id': '1',
+E                   'identities': {},
+E                   'is_current_user': True,
+E                   'links': {},
+E         -         'profile': {
+E         -             'affiliations': 'CERN',
+E         -             'full_name': 'User',
+E         -         },
+E                   'type': 'user',
+E         -         'username': 'user',
+E               },
+E               'started_by_id': 1,
+E               'status': 'QUEUED',
+E               'subtasks': [],
+E               'task_id': 'afc1f92c-83b5-4e14-b47c-5281b5216ce6',
+E               'title': 'Manually triggered run',
+E               'total_entries': 0,
+E               'total_subtasks': 0,
+E               'updated': '2026-06-25T09:01:47.270380+00:00',
+E           }
+tests/resources/test_resources.py:224: AssertionError
+------------------------------ Captured log setup ------------------------------
+WARNING  invenio:ext.py:286 JSONSCHEMAS_HOST is set to localhost
+  self.init_app(app)
+DEBUG    invenio:ext.py:171 Flask-DebugToolbar extension not installed
+----------------------------- Captured stderr call -----------------------------
+[2026-06-25 09:01:47,176] DEBUG in errors: A resource error handler caught the following exception:
+Traceback (most recent call last):
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-jobs/patched/.venv/lib/python3.14/site-packages/flask/app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-jobs/patched/.venv/lib/python3.14/site-packages/flask/app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-jobs/patched/.venv/lib/python3.14/site-packages/flask_resources/resources.py", line 65, in view
+    return view_meth()
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-jobs/patched/.venv/lib/python3.14/site-packages/flask_resources/content_negotiation.py", line 116, in inner_content_negotiation
+    return f(*args, **kwargs)
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-jobs/patched/.venv/lib/python3.14/site-packages/flask_resources/parsers/decorators.py", line 90, in inner
+    return f(self, *args, **kwargs)
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-jobs/patched/.venv/lib/python3.14/site-packages/flask_resources/parsers/decorators.py", line 51, in inner
+    return f(self, *args, **kwargs)
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-jobs/patched/.venv/lib/python3.14/site-packages/flask_resources/responses.py", line 39, in inner
+    res = f(*args, **kwargs)
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-jobs/patched/invenio_jobs/resources/resources.py", line 184, in create
+    item = self.service.create(
+        g.identity,
+        job_id=resource_requestctx.view_args["job_id"],
+        data=resource_requestctx.data or {},
+    )
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-jobs/patched/invenio_jobs/logging/jobs.py", line 79, in wrapper
+    return func(*args, **kwargs)
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-jobs/patched/.venv/lib/python3.14/site-packages/invenio_db/uow.py", line 247, in inner
+    res = f(self, *args, **kwargs)
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-jobs/patched/invenio_jobs/services/services.py", line 267, in create
+    valid_data, errors = self.schema.load(
+                         ~~~~~~~~~~~~~~~~^
+        data,
+        ^^^^^
+        context={"identity": identity, "job": job},
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        raise_errors=True,
+        ^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-jobs/patched/.venv/lib/python3.14/site-packages/invenio_records_resources/services/records/schema.py", line 94, in load
+    valid_data = self.schema.load(data, **schema_args)
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-jobs/patched/.venv/lib/python3.14/site-packages/marshmallow/schema.py", line 792, in load
+    return self._do_load(
+           ~~~~~~~~~~~~~^
+        data, many=many, partial=partial, unknown=unknown, postprocess=True
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-jobs/patched/.venv/lib/python3.14/site-packages/marshmallow/schema.py", line 999, in _do_load
+    raise exc
+marshmallow.exceptions.ValidationError: {'args': {'since': ['Not a valid datetime.']}}
+[2026-06-25 09:01:47,214] DEBUG in services: Run created
+[2026-06-25 09:01:47,269] DEBUG in services: Run created
+------------------------------ Captured log call -------------------------------
+DEBUG    invenio:errors.py:38 A resource error handler caught the following exception:
+Traceback (most recent call last):
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-jobs/patched/.venv/lib/python3.14/site-packages/flask/app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-jobs/patched/.venv/lib/python3.14/site-packages/flask/app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-jobs/patched/.venv/lib/python3.14/site-packages/flask_resources/resources.py", line 65, in view
+    return view_meth()
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-jobs/patched/.venv/lib/python3.14/site-packages/flask_resources/content_negotiation.py", line 116, in inner_content_negotiation
+    return f(*args, **kwargs)
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-jobs/patched/.venv/lib/python3.14/site-packages/flask_resources/parsers/decorators.py", line 90, in inner
+    return f(self, *args, **kwargs)
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-jobs/patched/.venv/lib/python3.14/site-packages/flask_resources/parsers/decorators.py", line 51, in inner
+    return f(self, *args, **kwargs)
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-jobs/patched/.venv/lib/python3.14/site-packages/flask_resources/responses.py", line 39, in inner
+    res = f(*args, **kwargs)
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-jobs/patched/invenio_jobs/resources/resources.py", line 184, in create
+    item = self.service.create(
+        g.identity,
+        job_id=resource_requestctx.view_args["job_id"],
+        data=resource_requestctx.data or {},
+    )
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-jobs/patched/invenio_jobs/logging/jobs.py", line 79, in wrapper
+    return func(*args, **kwargs)
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-jobs/patched/.venv/lib/python3.14/site-packages/invenio_db/uow.py", line 247, in inner
+    res = f(self, *args, **kwargs)
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-jobs/patched/invenio_jobs/services/services.py", line 267, in create
+    valid_data, errors = self.schema.load(
+                         ~~~~~~~~~~~~~~~~^
+        data,
+        ^^^^^
+        context={"identity": identity, "job": job},
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        raise_errors=True,
+        ^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-jobs/patched/.venv/lib/python3.14/site-packages/invenio_records_resources/services/records/schema.py", line 94, in load
+    valid_data = self.schema.load(data, **schema_args)
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-jobs/patched/.venv/lib/python3.14/site-packages/marshmallow/schema.py", line 792, in load
+    return self._do_load(
+           ~~~~~~~~~~~~~^
+        data, many=many, partial=partial, unknown=unknown, postprocess=True
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-jobs/patched/.venv/lib/python3.14/site-packages/marshmallow/schema.py", line 999, in _do_load
+    raise exc
+marshmallow.exceptions.ValidationError: {'args': {'since': ['Not a valid datetime.']}}
+DEBUG    invenio:services.py:293 Run created
+DEBUG    invenio:services.py:293 Run created
+=============================== warnings summary ===============================
+tests/test_alembic.py::test_alembic
+tests/test_cli.py::test_jobs_cli
+tests/test_services_job_logs.py::test_job_logs_search_limits_to_max_docs
+tests/test_services_subtasks.py::test_create_subtask_run
+    self.init_app(app)
+tests/test_alembic.py::test_alembic
+    util.warn_deprecated(
+tests/test_alembic.py::test_alembic
+    current_date = datetime.utcnow()
+================================ tests coverage ================================
+_______________ coverage: platform linux, python 3.14.2-final-0 ________________
+Name                                                                       Stmts   Miss  Cover   Missing
+invenio_jobs/__init__.py                                                       3      0   100%
+invenio_jobs/administration/__init__.py                                        0      0   100%
+invenio_jobs/administration/jobs.py                                           87     24    72%   104, 108-114, 118-123, 132-137, 211-214, 229-250
+invenio_jobs/administration/runs.py                                           46     25    46%   34-49, 53-60, 64-65, 69-70
+invenio_jobs/alembic/1f896f6990b8_update_jobs_module_table_names.py           20      5    75%   36-41
+invenio_jobs/alembic/371f4cbcb73d_create_invenio_jobs_branch.py               10      1    90%   23
+invenio_jobs/alembic/9732b5f7609a_change_datetime_types.py                    17      0   100%
+invenio_jobs/alembic/356496a01197_create_invenio_jobs_tables.py               17      2    88%   105-106
+invenio_jobs/alembic/1753948224_add_subtasks_columns_to_jobs_run.py           31      0   100%
+invenio_jobs/alembic/1757597048_add_run_args_column_to_jobs_job_table.py      12      0   100%
+invenio_jobs/alembic/1764848648_add_notification_emails_and_.py               12      0   100%
+invenio_jobs/alembic/1773910810_merge_invenio_jobs_heads.py                   10      0   100%
+invenio_jobs/api.py                                                            4      0   100%
+invenio_jobs/cli.py                                                          230     50    78%   42, 58-59, 74-75, 86-87, 94-95, 102-104, 184-185, 204-207, 217, 228-231, 261-264, 269-283, 329-330, 341-346, 363-365, 396, 417-423
+invenio_jobs/config.py                                                        32      0   100%
+invenio_jobs/errors.py                                                        11      3    73%   16-18
+invenio_jobs/ext.py                                                           57      1    98%   102
+invenio_jobs/jobs.py                                                          33      7    79%   61-63, 85, 98, 104-112
+invenio_jobs/logging/__init__.py                                               0      0   100%
+invenio_jobs/logging/celery_signals.py                                        22      8    64%   18-21, 34-41, 50
+invenio_jobs/logging/index_templates/__init__.py                               0      0   100%
+invenio_jobs/logging/index_templates/os-v1/__init__.py                         0      0   100%
+invenio_jobs/logging/index_templates/os-v2/__init__.py                         0      0   100%
+invenio_jobs/logging/jobs.py                                                  64      5    92%   95, 116-118, 122-123
+invenio_jobs/logging/tasks.py                                                  8      2    75%   15-16
+invenio_jobs/models.py                                                       145     17    88%   80, 88-96, 105-107, 203-204, 252-254
+invenio_jobs/proxies.py                                                       12      0   100%
+invenio_jobs/registry.py                                                      26      5    81%   19, 28-31
+invenio_jobs/resources/__init__.py                                             3      0   100%
+invenio_jobs/resources/config.py                                              57      0   100%
+invenio_jobs/resources/resources.py                                          126     25    80%   44-49, 54-59, 171-177, 195-200, 206-213, 219-225, 233-239, 245-251, 276-283
+invenio_jobs/services/__init__.py                                              4      0   100%
+invenio_jobs/services/config.py                                               79      0   100%
+invenio_jobs/services/errors.py                                               22      1    95%   64
+invenio_jobs/services/links.py                                                22      0   100%
+invenio_jobs/services/permissions.py                                          25      0   100%
+invenio_jobs/services/results.py                                             100     21    79%   49-50, 79, 88-91, 105-119, 144-145, 163, 165-166
+invenio_jobs/services/scheduler.py                                            55     31    44%   27-28, 33-35, 55, 62, 66-67, 71-90, 95-102, 109-115
+invenio_jobs/services/schema.py                                              188     15    92%   50-55, 131, 214, 216, 226-227, 239, 252, 380, 415-416
+invenio_jobs/services/services.py                                            254     48    81%   50, 58-62, 89-91, 193-195, 199-234, 317, 426, 446, 487-501, 506-512, 517-527, 569, 580, 586-587
+invenio_jobs/services/ui_schema.py                                            19      0   100%
+invenio_jobs/tasks.py                                                         71     27    62%   26, 42-45, 50, 81, 85-102, 104-125, 130, 135, 150-156
+invenio_jobs/utils.py                                                         53     35    34%   19-30, 35-46, 54, 74-179
+invenio_jobs/views.py                                                         14      0   100%
+invenio_jobs/webpack.py                                                        2      0   100%
+TOTAL                                                                       2003    358    82%
+=========================== short test summary info ============================
+FAILED tests/resources/test_resources.py::test_simple_flow - AssertionError: assert {'args': {'jo...ries': 0, ...} == {'args': {'jo...ries': 0, ...}
+  Omitting 21 identical items, use -vv to show
+  Differing items:
+  {'started_by': {'identities': {}, 'is_current_user': True, 'links': {}, 'type': 'user'}} != {'started_by': {'id': '1', 'identities': {}, 'is_current_user': True, 'links': {}, ...}}
+  Full diff:
+    {
+        'args': {
+            'job_arg_schema': 'custom',
+        },
+        'completed_subtasks': 0,
+        'created': '2026-06-25T09:01:47.270377+00:00',
+        'errored_entries': 0,
+        'failed_subtasks': 0,
+        'finished_at': None,
+        'id': '6b0c79fb-e633-4ac9-be3a-f2517fe110bf',
+        'job_id': '00d94e32-3d5e-4a80-b85b-e4e2551e7477',
+        'links': {
+            'logs': 'https://127.0.0.1:5000/api/logs/jobs?q=6b0c79fb-e633-4ac9-be3a-f2517fe110bf',
+            'self': 'https://127.0.0.1:5000/api/jobs/00d94e32-3d5e-4a80-b85b-e4e2551e7477/runs/6b0c79fb-e633-4ac9-be3a-f2517fe110bf',
+            'stop': 'https://127.0.0.1:5000/api/jobs/00d94e32-3d5e-4a80-b85b-e4e2551e7477/runs/6b0c79fb-e633-4ac9-be3a-f2517fe110bf/actions/stop',
+        },
+        'message': None,
+        'parent_run_id': None,
+        'queue': 'celery',
+        'started_at': None,
+        'started_by': {
+  -         'id': '1',
+            'identities': {},
+            'is_current_user': True,
+            'links': {},
+  -         'profile': {
+  -             'affiliations': 'CERN',
+  -             'full_name': 'User',
+  -         },
+            'type': 'user',
+  -         'username': 'user',
+        },
+        'started_by_id': 1,
+        'status': 'QUEUED',
+        'subtasks': [],
+        'task_id': 'afc1f92c-83b5-4e14-b47c-5281b5216ce6',
+        'title': 'Manually triggered run',
+        'total_entries': 0,
+        'total_subtasks': 0,
+        'updated': '2026-06-25T09:01:47.270380+00:00',
+    }
+============ 1 failed, 191 passed, 2 skipped, 6 warnings in 40.21s =============
+ Container docker_services_cli-postgresql-1  Stopping
+ Container docker_services_cli-rabbitmq-1  Stopping
+ Container docker_services_cli-redis-1  Stopping
+ Container docker_services_cli-opensearch-1  Stopping
+ Container docker_services_cli-postgresql-1  Stopped
+ Container docker_services_cli-postgresql-1  Removing
+ Container docker_services_cli-redis-1  Stopped
+ Container docker_services_cli-redis-1  Removing
+ Container docker_services_cli-postgresql-1  Removed
+ Container docker_services_cli-opensearch-1  Stopped
+ Container docker_services_cli-opensearch-1  Removing
+ Container docker_services_cli-redis-1  Removed
+ Container docker_services_cli-opensearch-1  Removed
+ Container docker_services_cli-rabbitmq-1  Stopped
+ Container docker_services_cli-rabbitmq-1  Removing
+ Container docker_services_cli-rabbitmq-1  Removed
+ Network docker_services_cli_default  Removing
+ Network docker_services_cli_default  Removed

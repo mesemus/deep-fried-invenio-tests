@@ -1,0 +1,2013 @@
+running extract_messages
+extracting messages from invenio_users_resources/__init__.py (encoding="utf-8")
+extracting messages from invenio_users_resources/config.py (encoding="utf-8")
+extracting messages from invenio_users_resources/entity_resolvers.py (encoding="utf-8")
+extracting messages from invenio_users_resources/ext.py (encoding="utf-8")
+extracting messages from invenio_users_resources/forms.py (encoding="utf-8")
+extracting messages from invenio_users_resources/models.py (encoding="utf-8")
+extracting messages from invenio_users_resources/permissions.py (encoding="utf-8")
+extracting messages from invenio_users_resources/proxies.py (encoding="utf-8")
+extracting messages from invenio_users_resources/views.py (encoding="utf-8")
+extracting messages from invenio_users_resources/notifications/__init__.py (encoding="utf-8")
+extracting messages from invenio_users_resources/notifications/filters.py (encoding="utf-8")
+extracting messages from invenio_users_resources/notifications/generators.py (encoding="utf-8")
+extracting messages from invenio_users_resources/records/__init__.py (encoding="utf-8")
+extracting messages from invenio_users_resources/records/api.py (encoding="utf-8")
+extracting messages from invenio_users_resources/records/hooks.py (encoding="utf-8")
+extracting messages from invenio_users_resources/records/models.py (encoding="utf-8")
+extracting messages from invenio_users_resources/records/dumpers/__init__.py (encoding="utf-8")
+extracting messages from invenio_users_resources/records/dumpers/email.py (encoding="utf-8")
+extracting messages from invenio_users_resources/records/mappings/__init__.py (encoding="utf-8")
+extracting messages from invenio_users_resources/records/mappings/os-v1/__init__.py (encoding="utf-8")
+extracting messages from invenio_users_resources/records/mappings/os-v2/__init__.py (encoding="utf-8")
+extracting messages from invenio_users_resources/records/mappings/v7/__init__.py (encoding="utf-8")
+extracting messages from invenio_users_resources/records/systemfields/__init__.py (encoding="utf-8")
+extracting messages from invenio_users_resources/resources/__init__.py (encoding="utf-8")
+extracting messages from invenio_users_resources/resources/domains/__init__.py (encoding="utf-8")
+extracting messages from invenio_users_resources/resources/domains/config.py (encoding="utf-8")
+extracting messages from invenio_users_resources/resources/domains/resource.py (encoding="utf-8")
+extracting messages from invenio_users_resources/resources/groups/__init__.py (encoding="utf-8")
+extracting messages from invenio_users_resources/resources/groups/config.py (encoding="utf-8")
+extracting messages from invenio_users_resources/resources/groups/errors.py (encoding="utf-8")
+extracting messages from invenio_users_resources/resources/groups/resource.py (encoding="utf-8")
+extracting messages from invenio_users_resources/resources/users/__init__.py (encoding="utf-8")
+extracting messages from invenio_users_resources/resources/users/config.py (encoding="utf-8")
+extracting messages from invenio_users_resources/resources/users/errors.py (encoding="utf-8")
+extracting messages from invenio_users_resources/resources/users/resource.py (encoding="utf-8")
+extracting messages from invenio_users_resources/services/__init__.py (encoding="utf-8")
+extracting messages from invenio_users_resources/services/common.py (encoding="utf-8")
+extracting messages from invenio_users_resources/services/generators.py (encoding="utf-8")
+extracting messages from invenio_users_resources/services/params.py (encoding="utf-8")
+extracting messages from invenio_users_resources/services/permissions.py (encoding="utf-8")
+extracting messages from invenio_users_resources/services/results.py (encoding="utf-8")
+extracting messages from invenio_users_resources/services/schemas.py (encoding="utf-8")
+extracting messages from invenio_users_resources/services/domains/__init__.py (encoding="utf-8")
+extracting messages from invenio_users_resources/services/domains/components.py (encoding="utf-8")
+extracting messages from invenio_users_resources/services/domains/config.py (encoding="utf-8")
+extracting messages from invenio_users_resources/services/domains/facets.py (encoding="utf-8")
+extracting messages from invenio_users_resources/services/domains/service.py (encoding="utf-8")
+extracting messages from invenio_users_resources/services/domains/tasks.py (encoding="utf-8")
+extracting messages from invenio_users_resources/services/groups/__init__.py (encoding="utf-8")
+extracting messages from invenio_users_resources/services/groups/config.py (encoding="utf-8")
+extracting messages from invenio_users_resources/services/groups/facets.py (encoding="utf-8")
+extracting messages from invenio_users_resources/services/groups/results.py (encoding="utf-8")
+extracting messages from invenio_users_resources/services/groups/service.py (encoding="utf-8")
+extracting messages from invenio_users_resources/services/groups/tasks.py (encoding="utf-8")
+extracting messages from invenio_users_resources/services/users/__init__.py (encoding="utf-8")
+extracting messages from invenio_users_resources/services/users/config.py (encoding="utf-8")
+extracting messages from invenio_users_resources/services/users/facets.py (encoding="utf-8")
+extracting messages from invenio_users_resources/services/users/lock.py (encoding="utf-8")
+extracting messages from invenio_users_resources/services/users/results.py (encoding="utf-8")
+extracting messages from invenio_users_resources/services/users/search_params.py (encoding="utf-8")
+extracting messages from invenio_users_resources/services/users/service.py (encoding="utf-8")
+extracting messages from invenio_users_resources/services/users/tasks.py (encoding="utf-8")
+extracting messages from invenio_users_resources/templates/security/email/new_user_via_admin.html (encoding="utf-8")
+extracting messages from invenio_users_resources/templates/semantic-ui/invenio_users_resources/settings/notifications.html (encoding="utf-8")
+writing PO template file to /dev/null
+ opensearch Pulling 
+ redis Pulling 
+ postgresql Pulling 
+ rabbitmq Pulling 
+ 68629629b516 Pulling fs layer 
+ c5510c1247f7 Pulling fs layer 
+ 098849b20a3c Pulling fs layer 
+ ee7a04c62d66 Pulling fs layer 
+ 2a2f77d93543 Pulling fs layer 
+ 4f4fb700ef54 Pulling fs layer 
+ 013850a31d8d Pulling fs layer 
+ ee7a04c62d66 Waiting 
+ 2a2f77d93543 Waiting 
+ 4f4fb700ef54 Waiting 
+ f9dd052e142d Pulling fs layer 
+ e8c6d4883897 Pulling fs layer 
+ 648eb81b3252 Pulling fs layer 
+ eb77aa907276 Pulling fs layer 
+ 4f4fb700ef54 Pulling fs layer 
+ 0ffa8f8aba1e Pulling fs layer 
+ 2e81b9cb93cd Pulling fs layer 
+ f9dd052e142d Waiting 
+ e8c6d4883897 Waiting 
+ 648eb81b3252 Waiting 
+ eb77aa907276 Waiting 
+ 4f4fb700ef54 Waiting 
+ 0ffa8f8aba1e Waiting 
+ 2e81b9cb93cd Waiting 
+ 20043066d3d5 Pulling fs layer 
+ 3fadc669ef11 Pulling fs layer 
+ 7084ac8f4ab6 Pulling fs layer 
+ beb0d870d438 Pulling fs layer 
+ d63c4408fdb7 Pulling fs layer 
+ efa05c660812 Pulling fs layer 
+ f4e7f62f4b80 Pulling fs layer 
+ 5e1c03b67a78 Pulling fs layer 
+ 14e6209d5fa8 Pulling fs layer 
+ d686b50ce172 Pulling fs layer 
+ efa05c660812 Waiting 
+ 20043066d3d5 Waiting 
+ f4e7f62f4b80 Waiting 
+ 5e1c03b67a78 Waiting 
+ 3fadc669ef11 Waiting 
+ 14e6209d5fa8 Waiting 
+ 7084ac8f4ab6 Waiting 
+ beb0d870d438 Waiting 
+ d686b50ce172 Waiting 
+ d63c4408fdb7 Waiting 
+ b0a0cf830b12 Pulling fs layer 
+ dda3d8fbd5ed Pulling fs layer 
+ 283a477db7bb Pulling fs layer 
+ 91d2729fa4d5 Pulling fs layer 
+ 9739ced65621 Pulling fs layer 
+ ae3bb1b347a4 Pulling fs layer 
+ f8406d9c00ea Pulling fs layer 
+ c199bff16b05 Pulling fs layer 
+ e0d55fdb4d15 Pulling fs layer 
+ c1cb13b19080 Pulling fs layer 
+ 873532e5f8c7 Pulling fs layer 
+ 050d9f8c3b1c Pulling fs layer 
+ 710e142705f8 Pulling fs layer 
+ cb628c265f09 Pulling fs layer 
+ 91d2729fa4d5 Waiting 
+ c199bff16b05 Waiting 
+ 9739ced65621 Waiting 
+ e0d55fdb4d15 Waiting 
+ ae3bb1b347a4 Waiting 
+ c1cb13b19080 Waiting 
+ f8406d9c00ea Waiting 
+ 873532e5f8c7 Waiting 
+ 050d9f8c3b1c Waiting 
+ 710e142705f8 Waiting 
+ cb628c265f09 Waiting 
+ b0a0cf830b12 Waiting 
+ dda3d8fbd5ed Waiting 
+ 283a477db7bb Waiting 
+ c5510c1247f7 Downloading [==================================================>]  1.103kB/1.103kB
+ c5510c1247f7 Verifying Checksum 
+ c5510c1247f7 Download complete 
+ 098849b20a3c Downloading [==================================================>]     874B/874B
+ 098849b20a3c Verifying Checksum 
+ 098849b20a3c Download complete 
+ 68629629b516 Downloading [>                                                  ]  294.3kB/28.24MB
+ 68629629b516 Downloading [==========================>                        ]  15.04MB/28.24MB
+ 2a2f77d93543 Downloading [==================================================>]      97B/97B
+ 2a2f77d93543 Verifying Checksum 
+ 2a2f77d93543 Download complete 
+ ee7a04c62d66 Downloading [>                                                  ]  163.2kB/15.35MB
+ 68629629b516 Verifying Checksum 
+ 68629629b516 Download complete 
+ 68629629b516 Extracting [>                                                  ]  294.9kB/28.24MB
+ ee7a04c62d66 Downloading [=====================================>             ]  11.63MB/15.35MB
+ ee7a04c62d66 Verifying Checksum 
+ ee7a04c62d66 Download complete 
+ 4f4fb700ef54 Download complete 
+ 68629629b516 Extracting [============>                                      ]  6.783MB/28.24MB
+ 013850a31d8d Downloading [==================================================>]     601B/601B
+ 013850a31d8d Verifying Checksum 
+ 013850a31d8d Download complete 
+ 68629629b516 Extracting [===================>                               ]  10.91MB/28.24MB
+ f9dd052e142d Downloading [>                                                  ]  523.6kB/52.33MB
+ e8c6d4883897 Downloading [>                                                  ]  48.49kB/4.398MB
+ 648eb81b3252 Downloading [==================================================>]  1.561kB/1.561kB
+ 648eb81b3252 Download complete 
+ 68629629b516 Extracting [================================>                  ]  18.28MB/28.24MB
+ f9dd052e142d Downloading [==========>                                        ]  11.01MB/52.33MB
+ e8c6d4883897 Verifying Checksum 
+ e8c6d4883897 Download complete 
+ f9dd052e142d Downloading [================================================>  ]  50.33MB/52.33MB
+ f9dd052e142d Verifying Checksum 
+ f9dd052e142d Download complete 
+ eb77aa907276 Downloading [>                                                  ]  535.2kB/907.7MB
+ f9dd052e142d Extracting [>                                                  ]  524.3kB/52.33MB
+ 4f4fb700ef54 Downloading [==================================================>]      32B/32B
+ 4f4fb700ef54 Verifying Checksum 
+ 4f4fb700ef54 Download complete 
+ 68629629b516 Extracting [==========================================>        ]  23.89MB/28.24MB
+ eb77aa907276 Downloading [>                                                  ]  10.69MB/907.7MB
+ f9dd052e142d Extracting [==>                                                ]  2.097MB/52.33MB
+ 0ffa8f8aba1e Downloading [==================================================>]     226B/226B
+ 0ffa8f8aba1e Verifying Checksum 
+ 0ffa8f8aba1e Download complete 
+ 2e81b9cb93cd Downloading [==================================================>]  1.859kB/1.859kB
+ 2e81b9cb93cd Verifying Checksum 
+ 2e81b9cb93cd Download complete 
+ 68629629b516 Extracting [===============================================>   ]  26.84MB/28.24MB
+ eb77aa907276 Downloading [==>                                                ]  44.88MB/907.7MB
+ 20043066d3d5 Downloading [>                                                  ]  310.6kB/29.72MB
+ f9dd052e142d Extracting [====>                                              ]  4.719MB/52.33MB
+ eb77aa907276 Downloading [====>                                              ]  83.84MB/907.7MB
+ 20043066d3d5 Downloading [===============>                                   ]  9.338MB/29.72MB
+ 3fadc669ef11 Downloading [>                                                  ]  441.7kB/43.48MB
+ eb77aa907276 Downloading [======>                                            ]  119.1MB/907.7MB
+ f9dd052e142d Extracting [=====>                                             ]  5.767MB/52.33MB
+ 20043066d3d5 Verifying Checksum 
+ 20043066d3d5 Download complete 
+ 3fadc669ef11 Downloading [==>                                                ]  1.769MB/43.48MB
+ 20043066d3d5 Extracting [>                                                  ]  327.7kB/29.72MB
+ eb77aa907276 Downloading [========>                                          ]  154.4MB/907.7MB
+ f9dd052e142d Extracting [=========>                                         ]  9.961MB/52.33MB
+ 68629629b516 Extracting [================================================>  ]  27.43MB/28.24MB
+ 7084ac8f4ab6 Downloading [>                                                  ]  81.28kB/7.468MB
+ 3fadc669ef11 Downloading [=====>                                             ]  4.423MB/43.48MB
+ 20043066d3d5 Extracting [=====>                                             ]  3.277MB/29.72MB
+ eb77aa907276 Downloading [==========>                                        ]    189MB/907.7MB
+ f9dd052e142d Extracting [=============>                                     ]  14.16MB/52.33MB
+ 7084ac8f4ab6 Downloading [====================================>              ]  5.406MB/7.468MB
+ 7084ac8f4ab6 Verifying Checksum 
+ 7084ac8f4ab6 Download complete 
+ 20043066d3d5 Extracting [=========>                                         ]  5.898MB/29.72MB
+ 3fadc669ef11 Downloading [=========>                                         ]  7.962MB/43.48MB
+ eb77aa907276 Downloading [============>                                      ]  222.7MB/907.7MB
+ 68629629b516 Extracting [==================================================>]  28.24MB/28.24MB
+ f9dd052e142d Extracting [=================>                                 ]  17.83MB/52.33MB
+ 68629629b516 Pull complete 
+ c5510c1247f7 Extracting [==================================================>]  1.103kB/1.103kB
+ c5510c1247f7 Extracting [==================================================>]  1.103kB/1.103kB
+ beb0d870d438 Downloading [==================>                                ]  3.477kB/9.462kB
+ beb0d870d438 Downloading [==================================================>]  9.462kB/9.462kB
+ beb0d870d438 Verifying Checksum 
+ beb0d870d438 Download complete 
+ 3fadc669ef11 Downloading [==============>                                    ]  12.39MB/43.48MB
+ eb77aa907276 Downloading [=============>                                     ]  249.9MB/907.7MB
+ c5510c1247f7 Pull complete 
+ 098849b20a3c Extracting [==================================================>]     874B/874B
+ 098849b20a3c Extracting [==================================================>]     874B/874B
+ 20043066d3d5 Extracting [=============>                                     ]  8.192MB/29.72MB
+ f9dd052e142d Extracting [===================>                               ]  20.45MB/52.33MB
+ eb77aa907276 Downloading [==============>                                    ]  271.8MB/907.7MB
+ 3fadc669ef11 Downloading [====================>                              ]  18.14MB/43.48MB
+ d63c4408fdb7 Downloading [>                                                  ]  228.7kB/21.31MB
+ 3fadc669ef11 Downloading [=======================>                           ]  20.79MB/43.48MB
+ 20043066d3d5 Extracting [==============>                                    ]  8.847MB/29.72MB
+ eb77aa907276 Downloading [===============>                                   ]  274.5MB/907.7MB
+ f9dd052e142d Extracting [=====================>                             ]  22.54MB/52.33MB
+ d63c4408fdb7 Downloading [===============>                                   ]  6.651MB/21.31MB
+ eb77aa907276 Downloading [================>                                  ]  295.7MB/907.7MB
+ d63c4408fdb7 Verifying Checksum 
+ d63c4408fdb7 Download complete 
+ 3fadc669ef11 Downloading [=================================>                 ]   29.2MB/43.48MB
+ 20043066d3d5 Extracting [================>                                  ]   9.83MB/29.72MB
+ f9dd052e142d Extracting [=========================>                         ]  26.74MB/52.33MB
+ eb77aa907276 Downloading [==================>                                ]  334.1MB/907.7MB
+ 3fadc669ef11 Download complete 
+ 20043066d3d5 Extracting [======================>                            ]  13.43MB/29.72MB
+ efa05c660812 Downloading [==================================================>]     189B/189B
+ efa05c660812 Verifying Checksum 
+ efa05c660812 Download complete 
+ f9dd052e142d Extracting [===========================>                       ]  28.31MB/52.33MB
+ eb77aa907276 Downloading [====================>                              ]  369.3MB/907.7MB
+ 20043066d3d5 Extracting [===============================>                   ]  18.68MB/29.72MB
+ f4e7f62f4b80 Downloading [==================================================>]     109B/109B
+ f4e7f62f4b80 Verifying Checksum 
+ f4e7f62f4b80 Download complete 
+ f9dd052e142d Extracting [============================>                      ]  29.36MB/52.33MB
+ eb77aa907276 Downloading [======================>                            ]  404.6MB/907.7MB
+ 5e1c03b67a78 Downloading [==================================================>]     620B/620B
+ 5e1c03b67a78 Download complete 
+ 20043066d3d5 Extracting [=======================================>           ]  23.59MB/29.72MB
+ eb77aa907276 Downloading [========================>                          ]  440.4MB/907.7MB
+ 14e6209d5fa8 Downloading [==================================================>]     833B/833B
+ 14e6209d5fa8 Verifying Checksum 
+ 14e6209d5fa8 Download complete 
+ f9dd052e142d Extracting [=============================>                     ]  30.41MB/52.33MB
+ d686b50ce172 Downloading [>                                                  ]  130.4kB/12.47MB
+ eb77aa907276 Downloading [==========================>                        ]  477.2MB/907.7MB
+ 20043066d3d5 Extracting [==========================================>        ]  25.56MB/29.72MB
+ d686b50ce172 Downloading [=========================>                         ]  6.422MB/12.47MB
+ eb77aa907276 Downloading [============================>                      ]  512.9MB/907.7MB
+ f9dd052e142d Extracting [===============================>                   ]  33.03MB/52.33MB
+ d686b50ce172 Verifying Checksum 
+ d686b50ce172 Download complete 
+ b0a0cf830b12 Downloading [>                                                  ]  294.2kB/29.15MB
+ 20043066d3d5 Extracting [==============================================>    ]  27.85MB/29.72MB
+ eb77aa907276 Downloading [==============================>                    ]  547.7MB/907.7MB
+ f9dd052e142d Extracting [=================================>                 ]   34.6MB/52.33MB
+ b0a0cf830b12 Downloading [=====>                                             ]  3.243MB/29.15MB
+ dda3d8fbd5ed Downloading [==================================================>]  1.165kB/1.165kB
+ dda3d8fbd5ed Verifying Checksum 
+ dda3d8fbd5ed Download complete 
+ eb77aa907276 Downloading [===============================>                   ]  577.6MB/907.7MB
+ 20043066d3d5 Extracting [=================================================> ]  29.16MB/29.72MB
+ b0a0cf830b12 Downloading [================>                                  ]  9.731MB/29.15MB
+ f9dd052e142d Extracting [==================================>                ]  36.18MB/52.33MB
+ b0a0cf830b12 Verifying Checksum 
+ b0a0cf830b12 Download complete 
+ eb77aa907276 Downloading [=================================>                 ]  600.6MB/907.7MB
+ f9dd052e142d Extracting [===================================>               ]  37.22MB/52.33MB
+ b0a0cf830b12 Extracting [>                                                  ]  294.9kB/29.15MB
+ 283a477db7bb Downloading [>                                                  ]  48.49kB/4.533MB
+ 20043066d3d5 Extracting [=================================================> ]  29.49MB/29.72MB
+ eb77aa907276 Downloading [===================================>               ]  635.8MB/907.7MB
+ 91d2729fa4d5 Downloading [>                                                  ]  15.72kB/1.45MB
+ f9dd052e142d Extracting [====================================>              ]  38.27MB/52.33MB
+ b0a0cf830b12 Extracting [======>                                            ]  3.539MB/29.15MB
+ 283a477db7bb Downloading [=======================>                           ]  2.113MB/4.533MB
+ 283a477db7bb Verifying Checksum 
+ 283a477db7bb Download complete 
+ eb77aa907276 Downloading [====================================>              ]  670.5MB/907.7MB
+ 20043066d3d5 Extracting [==================================================>]  29.72MB/29.72MB
+ 91d2729fa4d5 Downloading [=================================>                 ]  982.4kB/1.45MB
+ 91d2729fa4d5 Verifying Checksum 
+ 91d2729fa4d5 Download complete 
+ f9dd052e142d Extracting [======================================>            ]  39.85MB/52.33MB
+ b0a0cf830b12 Extracting [===========>                                       ]  6.783MB/29.15MB
+ ae3bb1b347a4 Downloading [>                                                  ]  15.72kB/1.196MB
+ eb77aa907276 Downloading [======================================>            ]  703.6MB/907.7MB
+ f9dd052e142d Extracting [======================================>            ]  40.37MB/52.33MB
+ 9739ced65621 Downloading [>                                                  ]  81.28kB/8.069MB
+ b0a0cf830b12 Extracting [===============>                                   ]  9.142MB/29.15MB
+ ae3bb1b347a4 Verifying Checksum 
+ ae3bb1b347a4 Download complete 
+ eb77aa907276 Downloading [========================================>          ]  737.8MB/907.7MB
+ 9739ced65621 Downloading [======================================>            ]  6.143MB/8.069MB
+ f9dd052e142d Extracting [========================================>          ]  42.47MB/52.33MB
+ 9739ced65621 Verifying Checksum 
+ 9739ced65621 Download complete 
+ b0a0cf830b12 Extracting [==================>                                ]  10.91MB/29.15MB
+ f8406d9c00ea Downloading [==================================================>]     116B/116B
+ f8406d9c00ea Verifying Checksum 
+ f8406d9c00ea Download complete 
+ eb77aa907276 Downloading [==========================================>        ]  772.4MB/907.7MB
+ f9dd052e142d Extracting [===========================================>       ]  45.09MB/52.33MB
+ b0a0cf830b12 Extracting [=========================>                         ]  14.75MB/29.15MB
+ c199bff16b05 Downloading [==================================================>]  3.145kB/3.145kB
+ c199bff16b05 Verifying Checksum 
+ c199bff16b05 Download complete 
+ eb77aa907276 Downloading [============================================>      ]  805.5MB/907.7MB
+ b0a0cf830b12 Extracting [==================================>                ]  20.35MB/29.15MB
+ f9dd052e142d Extracting [=============================================>     ]  47.71MB/52.33MB
+ c1cb13b19080 Downloading [=================>                                 ]  3.501kB/9.925kB
+ c1cb13b19080 Downloading [==================================================>]  9.925kB/9.925kB
+ c1cb13b19080 Verifying Checksum 
+ c1cb13b19080 Download complete 
+ eb77aa907276 Downloading [==============================================>    ]    838MB/907.7MB
+ e0d55fdb4d15 Downloading [>                                                  ]  524.6kB/109MB
+ b0a0cf830b12 Extracting [=========================================>         ]  24.48MB/29.15MB
+ eb77aa907276 Downloading [================================================>  ]  872.7MB/907.7MB
+ e0d55fdb4d15 Downloading [==>                                                ]  4.796MB/109MB
+ 873532e5f8c7 Downloading [==================================================>]     128B/128B
+ 873532e5f8c7 Verifying Checksum 
+ 873532e5f8c7 Download complete 
+ 20043066d3d5 Pull complete 
+ eb77aa907276 Downloading [=================================================> ]  905.2MB/907.7MB
+ eb77aa907276 Verifying Checksum 
+ eb77aa907276 Download complete 
+ b0a0cf830b12 Extracting [==========================================>        ]  24.77MB/29.15MB
+ e0d55fdb4d15 Downloading [=========>                                         ]  21.32MB/109MB
+ 050d9f8c3b1c Downloading [==================================================>]     169B/169B
+ 710e142705f8 Downloading [================================>                  ]    3.5kB/5.421kB
+ 710e142705f8 Download complete 
+ 050d9f8c3b1c Verifying Checksum 
+ 050d9f8c3b1c Download complete 
+ e0d55fdb4d15 Downloading [=============>                                     ]  28.81MB/109MB
+ b0a0cf830b12 Extracting [=============================================>     ]  26.25MB/29.15MB
+ f9dd052e142d Extracting [=================================================> ]  51.38MB/52.33MB
+ e0d55fdb4d15 Downloading [============================>                      ]  62.32MB/109MB
+ cb628c265f09 Downloading [==================================================>]     184B/184B
+ cb628c265f09 Verifying Checksum 
+ e0d55fdb4d15 Downloading [=============================================>     ]  98.52MB/109MB
+ e0d55fdb4d15 Verifying Checksum 
+ e0d55fdb4d15 Download complete 
+ b0a0cf830b12 Extracting [================================================>  ]  28.02MB/29.15MB
+ f9dd052e142d Extracting [=================================================> ]   51.9MB/52.33MB
+ f9dd052e142d Extracting [==================================================>]  52.33MB/52.33MB
+ f9dd052e142d Pull complete 
+ e8c6d4883897 Extracting [>                                                  ]  65.54kB/4.398MB
+ b0a0cf830b12 Extracting [================================================>  ]  28.31MB/29.15MB
+ b0a0cf830b12 Extracting [=================================================> ]  28.61MB/29.15MB
+ 3fadc669ef11 Extracting [>                                                  ]  458.8kB/43.48MB
+ 3fadc669ef11 Extracting [==========>                                        ]  9.175MB/43.48MB
+ e8c6d4883897 Extracting [==>                                                ]  262.1kB/4.398MB
+ 3fadc669ef11 Extracting [============>                                      ]  11.01MB/43.48MB
+ 3fadc669ef11 Extracting [=================>                                 ]  15.14MB/43.48MB
+ b0a0cf830b12 Extracting [==================================================>]  29.15MB/29.15MB
+ 3fadc669ef11 Extracting [==========================>                        ]   23.4MB/43.48MB
+ 3fadc669ef11 Extracting [===================================>               ]   31.2MB/43.48MB
+ b0a0cf830b12 Pull complete 
+ 3fadc669ef11 Extracting [========================================>          ]  35.32MB/43.48MB
+ dda3d8fbd5ed Extracting [==================================================>]  1.165kB/1.165kB
+ dda3d8fbd5ed Extracting [==================================================>]  1.165kB/1.165kB
+ e8c6d4883897 Extracting [========>                                          ]  720.9kB/4.398MB
+ 3fadc669ef11 Extracting [=============================================>     ]  39.45MB/43.48MB
+ 3fadc669ef11 Extracting [==================================================>]  43.48MB/43.48MB
+ dda3d8fbd5ed Pull complete 
+ e8c6d4883897 Extracting [==============>                                    ]  1.311MB/4.398MB
+ 283a477db7bb Extracting [>                                                  ]  65.54kB/4.533MB
+ e8c6d4883897 Extracting [==================>                                ]  1.638MB/4.398MB
+ 283a477db7bb Extracting [==>                                                ]  262.1kB/4.533MB
+ 283a477db7bb Extracting [==============================>                    ]  2.753MB/4.533MB
+ e8c6d4883897 Extracting [====================>                              ]  1.769MB/4.398MB
+ e8c6d4883897 Extracting [=====================>                             ]  1.901MB/4.398MB
+ 283a477db7bb Extracting [=================================>                 ]   3.08MB/4.533MB
+ e8c6d4883897 Extracting [==========================>                        ]  2.294MB/4.398MB
+ 283a477db7bb Extracting [=================================================> ]  4.522MB/4.533MB
+ 283a477db7bb Extracting [==================================================>]  4.533MB/4.533MB
+ e8c6d4883897 Extracting [===========================>                       ]  2.425MB/4.398MB
+ 3fadc669ef11 Pull complete 
+ 098849b20a3c Pull complete 
+ ee7a04c62d66 Extracting [>                                                  ]  163.8kB/15.35MB
+ 7084ac8f4ab6 Extracting [>                                                  ]   98.3kB/7.468MB
+ e8c6d4883897 Extracting [===================================>               ]  3.146MB/4.398MB
+ 283a477db7bb Pull complete 
+ 91d2729fa4d5 Extracting [=>                                                 ]  32.77kB/1.45MB
+ ee7a04c62d66 Extracting [================>                                  ]  5.079MB/15.35MB
+ 7084ac8f4ab6 Extracting [=======>                                           ]   1.18MB/7.468MB
+ 91d2729fa4d5 Extracting [==================================================>]   1.45MB/1.45MB
+ 91d2729fa4d5 Pull complete 
+ 9739ced65621 Extracting [>                                                  ]   98.3kB/8.069MB
+ e8c6d4883897 Extracting [=======================================>           ]  3.473MB/4.398MB
+ ee7a04c62d66 Extracting [=================================>                 ]  10.16MB/15.35MB
+ 7084ac8f4ab6 Extracting [==================================>                ]  5.112MB/7.468MB
+ e8c6d4883897 Extracting [==================================================>]  4.398MB/4.398MB
+ 9739ced65621 Extracting [===================>                               ]  3.146MB/8.069MB
+ 7084ac8f4ab6 Extracting [==================================================>]  7.468MB/7.468MB
+ 7084ac8f4ab6 Extracting [==================================================>]  7.468MB/7.468MB
+ e8c6d4883897 Pull complete 
+ 7084ac8f4ab6 Pull complete 
+ 648eb81b3252 Extracting [==================================================>]  1.561kB/1.561kB
+ 648eb81b3252 Extracting [==================================================>]  1.561kB/1.561kB
+ beb0d870d438 Extracting [==================================================>]  9.462kB/9.462kB
+ beb0d870d438 Extracting [==================================================>]  9.462kB/9.462kB
+ 648eb81b3252 Pull complete 
+ ee7a04c62d66 Extracting [================================================>  ]  14.91MB/15.35MB
+ ee7a04c62d66 Extracting [==================================================>]  15.35MB/15.35MB
+ ee7a04c62d66 Pull complete 
+ eb77aa907276 Extracting [>                                                  ]  557.1kB/907.7MB
+ 2a2f77d93543 Extracting [==================================================>]      97B/97B
+ 2a2f77d93543 Extracting [==================================================>]      97B/97B
+ 2a2f77d93543 Pull complete 
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 9739ced65621 Extracting [=============================>                     ]  4.719MB/8.069MB
+ 4f4fb700ef54 Pull complete 
+ 013850a31d8d Extracting [==================================================>]     601B/601B
+ 013850a31d8d Extracting [==================================================>]     601B/601B
+ beb0d870d438 Pull complete 
+ 013850a31d8d Pull complete 
+ redis Pulled 
+ d63c4408fdb7 Extracting [>                                                  ]  229.4kB/21.31MB
+ eb77aa907276 Extracting [>                                                  ]  16.15MB/907.7MB
+ 9739ced65621 Extracting [=====================================>             ]  6.095MB/8.069MB
+ d63c4408fdb7 Extracting [==========>                                        ]  4.358MB/21.31MB
+ 9739ced65621 Extracting [==================================================>]  8.069MB/8.069MB
+ eb77aa907276 Extracting [=>                                                 ]  32.87MB/907.7MB
+ 9739ced65621 Pull complete 
+ ae3bb1b347a4 Extracting [=>                                                 ]  32.77kB/1.196MB
+ d63c4408fdb7 Extracting [====================>                              ]  8.716MB/21.31MB
+ ae3bb1b347a4 Extracting [==================================================>]  1.196MB/1.196MB
+ ae3bb1b347a4 Extracting [==================================================>]  1.196MB/1.196MB
+ eb77aa907276 Extracting [==>                                                ]  47.91MB/907.7MB
+ ae3bb1b347a4 Pull complete 
+ f8406d9c00ea Extracting [==================================================>]     116B/116B
+ f8406d9c00ea Extracting [==================================================>]     116B/116B
+ f8406d9c00ea Pull complete 
+ c199bff16b05 Extracting [==================================================>]  3.145kB/3.145kB
+ c199bff16b05 Extracting [==================================================>]  3.145kB/3.145kB
+ c199bff16b05 Pull complete 
+ d63c4408fdb7 Extracting [===========================>                       ]   11.7MB/21.31MB
+ eb77aa907276 Extracting [===>                                               ]  66.29MB/907.7MB
+ e0d55fdb4d15 Extracting [>                                                  ]  557.1kB/109MB
+ d63c4408fdb7 Extracting [==================================>                ]  14.91MB/21.31MB
+ e0d55fdb4d15 Extracting [==>                                                ]  6.128MB/109MB
+ eb77aa907276 Extracting [====>                                              ]  81.89MB/907.7MB
+ d63c4408fdb7 Extracting [=======================================>           ]  16.97MB/21.31MB
+ e0d55fdb4d15 Extracting [====>                                              ]  8.913MB/109MB
+ eb77aa907276 Extracting [=====>                                             ]  91.36MB/907.7MB
+ d63c4408fdb7 Extracting [============================================>      ]  18.81MB/21.31MB
+ e0d55fdb4d15 Extracting [=====>                                             ]  12.81MB/109MB
+ eb77aa907276 Extracting [=====>                                             ]  98.04MB/907.7MB
+ d63c4408fdb7 Extracting [================================================>  ]  20.64MB/21.31MB
+ e0d55fdb4d15 Extracting [=======>                                           ]  17.27MB/109MB
+ eb77aa907276 Extracting [=====>                                             ]  104.7MB/907.7MB
+ e0d55fdb4d15 Extracting [==========>                                        ]  22.28MB/109MB
+ eb77aa907276 Extracting [======>                                            ]  112.5MB/907.7MB
+ d63c4408fdb7 Extracting [================================================>  ]  20.87MB/21.31MB
+ e0d55fdb4d15 Extracting [============>                                      ]  26.18MB/109MB
+ eb77aa907276 Extracting [======>                                            ]  119.2MB/907.7MB
+ d63c4408fdb7 Extracting [==================================================>]  21.31MB/21.31MB
+ e0d55fdb4d15 Extracting [===============>                                   ]  33.42MB/109MB
+ eb77aa907276 Extracting [======>                                            ]  125.3MB/907.7MB
+ e0d55fdb4d15 Extracting [==================>                                ]  41.22MB/109MB
+ eb77aa907276 Extracting [=======>                                           ]  131.5MB/907.7MB
+ e0d55fdb4d15 Extracting [======================>                            ]  49.02MB/109MB
+ eb77aa907276 Extracting [=======>                                           ]  137.6MB/907.7MB
+ eb77aa907276 Extracting [=======>                                           ]  143.7MB/907.7MB
+ e0d55fdb4d15 Extracting [========================>                          ]  53.48MB/109MB
+ eb77aa907276 Extracting [========>                                          ]  147.1MB/907.7MB
+ e0d55fdb4d15 Extracting [==========================>                        ]  57.93MB/109MB
+ eb77aa907276 Extracting [========>                                          ]  154.3MB/907.7MB
+ e0d55fdb4d15 Extracting [=============================>                     ]  65.18MB/109MB
+ d63c4408fdb7 Pull complete 
+ efa05c660812 Extracting [==================================================>]     189B/189B
+ efa05c660812 Extracting [==================================================>]     189B/189B
+ e0d55fdb4d15 Extracting [==============================>                    ]  66.85MB/109MB
+ eb77aa907276 Extracting [========>                                          ]  158.8MB/907.7MB
+ e0d55fdb4d15 Extracting [==================================>                ]  74.65MB/109MB
+ eb77aa907276 Extracting [=========>                                         ]  175.5MB/907.7MB
+ efa05c660812 Pull complete 
+ f4e7f62f4b80 Extracting [==================================================>]     109B/109B
+ f4e7f62f4b80 Extracting [==================================================>]     109B/109B
+ e0d55fdb4d15 Extracting [===================================>               ]  77.99MB/109MB
+ eb77aa907276 Extracting [==========>                                        ]  183.3MB/907.7MB
+ f4e7f62f4b80 Pull complete 
+ 5e1c03b67a78 Extracting [==================================================>]     620B/620B
+ 5e1c03b67a78 Extracting [==================================================>]     620B/620B
+ eb77aa907276 Extracting [==========>                                        ]  195.5MB/907.7MB
+ 5e1c03b67a78 Pull complete 
+ 14e6209d5fa8 Extracting [==================================================>]     833B/833B
+ 14e6209d5fa8 Extracting [==================================================>]     833B/833B
+ e0d55fdb4d15 Extracting [=======================================>           ]  85.23MB/109MB
+ 14e6209d5fa8 Pull complete 
+ d686b50ce172 Extracting [>                                                  ]  131.1kB/12.47MB
+ eb77aa907276 Extracting [===========>                                       ]  209.5MB/907.7MB
+ e0d55fdb4d15 Extracting [==========================================>        ]  91.91MB/109MB
+ d686b50ce172 Extracting [===============>                                   ]  3.932MB/12.47MB
+ eb77aa907276 Extracting [===========>                                       ]  217.3MB/907.7MB
+ e0d55fdb4d15 Extracting [==========================================>        ]  93.59MB/109MB
+ d686b50ce172 Extracting [========================>                          ]   6.16MB/12.47MB
+ eb77aa907276 Extracting [============>                                      ]  226.7MB/907.7MB
+ e0d55fdb4d15 Extracting [============================================>      ]  96.93MB/109MB
+ d686b50ce172 Extracting [===========================>                       ]  6.816MB/12.47MB
+ eb77aa907276 Extracting [============>                                      ]  234.5MB/907.7MB
+ e0d55fdb4d15 Extracting [=============================================>     ]  99.16MB/109MB
+ d686b50ce172 Extracting [====================================>              ]  9.175MB/12.47MB
+ eb77aa907276 Extracting [=============>                                     ]  241.8MB/907.7MB
+ e0d55fdb4d15 Extracting [==============================================>    ]  101.9MB/109MB
+ d686b50ce172 Extracting [==========================================>        ]  10.62MB/12.47MB
+ eb77aa907276 Extracting [=============>                                     ]  252.9MB/907.7MB
+ e0d55fdb4d15 Extracting [===============================================>   ]  103.6MB/109MB
+ d686b50ce172 Extracting [=================================================> ]  12.45MB/12.47MB
+ eb77aa907276 Extracting [==============>                                    ]  269.6MB/907.7MB
+ d686b50ce172 Extracting [==================================================>]  12.47MB/12.47MB
+ eb77aa907276 Extracting [===============>                                   ]  285.8MB/907.7MB
+ e0d55fdb4d15 Extracting [================================================>  ]  105.3MB/109MB
+ eb77aa907276 Extracting [================>                                  ]  305.8MB/907.7MB
+ eb77aa907276 Extracting [=================>                                 ]  320.9MB/907.7MB
+ eb77aa907276 Extracting [==================>                                ]  335.3MB/907.7MB
+ d686b50ce172 Pull complete 
+ e0d55fdb4d15 Extracting [=================================================> ]  107.5MB/109MB
+ rabbitmq Pulled 
+ eb77aa907276 Extracting [===================>                               ]  353.2MB/907.7MB
+ e0d55fdb4d15 Extracting [==================================================>]    109MB/109MB
+ eb77aa907276 Extracting [====================>                              ]  363.2MB/907.7MB
+ e0d55fdb4d15 Pull complete 
+ c1cb13b19080 Extracting [==================================================>]  9.925kB/9.925kB
+ c1cb13b19080 Extracting [==================================================>]  9.925kB/9.925kB
+ c1cb13b19080 Pull complete 
+ 873532e5f8c7 Extracting [==================================================>]     128B/128B
+ 873532e5f8c7 Extracting [==================================================>]     128B/128B
+ 873532e5f8c7 Pull complete 
+ 050d9f8c3b1c Extracting [==================================================>]     169B/169B
+ 050d9f8c3b1c Extracting [==================================================>]     169B/169B
+ 050d9f8c3b1c Pull complete 
+ 710e142705f8 Extracting [==================================================>]  5.421kB/5.421kB
+ 710e142705f8 Extracting [==================================================>]  5.421kB/5.421kB
+ eb77aa907276 Extracting [====================>                              ]  368.8MB/907.7MB
+ 710e142705f8 Pull complete 
+ cb628c265f09 Extracting [==================================================>]     184B/184B
+ cb628c265f09 Extracting [==================================================>]     184B/184B
+ cb628c265f09 Pull complete 
+ postgresql Pulled 
+ eb77aa907276 Extracting [====================>                              ]  379.4MB/907.7MB
+ eb77aa907276 Extracting [======================>                            ]  402.2MB/907.7MB
+ eb77aa907276 Extracting [=======================>                           ]    430MB/907.7MB
+ eb77aa907276 Extracting [=========================>                         ]  461.2MB/907.7MB
+ eb77aa907276 Extracting [===========================>                       ]  491.9MB/907.7MB
+ eb77aa907276 Extracting [============================>                      ]  522.5MB/907.7MB
+ eb77aa907276 Extracting [==============================>                    ]    552MB/907.7MB
+ eb77aa907276 Extracting [================================>                  ]  581.6MB/907.7MB
+ eb77aa907276 Extracting [=================================>                 ]    610MB/907.7MB
+ eb77aa907276 Extracting [===================================>               ]  638.9MB/907.7MB
+ eb77aa907276 Extracting [====================================>              ]    669MB/907.7MB
+ eb77aa907276 Extracting [======================================>            ]  699.1MB/907.7MB
+ eb77aa907276 Extracting [========================================>          ]    727MB/907.7MB
+ eb77aa907276 Extracting [=========================================>         ]    752MB/907.7MB
+ eb77aa907276 Extracting [==========================================>        ]  774.9MB/907.7MB
+ eb77aa907276 Extracting [===========================================>       ]  797.7MB/907.7MB
+ eb77aa907276 Extracting [=============================================>     ]    820MB/907.7MB
+ eb77aa907276 Extracting [==============================================>    ]  842.8MB/907.7MB
+ eb77aa907276 Extracting [===============================================>   ]  865.7MB/907.7MB
+ eb77aa907276 Extracting [=================================================> ]  889.6MB/907.7MB
+ eb77aa907276 Extracting [==================================================>]  907.7MB/907.7MB
+ eb77aa907276 Pull complete 
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Pull complete 
+ 0ffa8f8aba1e Extracting [==================================================>]     226B/226B
+ 0ffa8f8aba1e Extracting [==================================================>]     226B/226B
+ 0ffa8f8aba1e Pull complete 
+ 2e81b9cb93cd Extracting [==================================================>]  1.859kB/1.859kB
+ 2e81b9cb93cd Extracting [==================================================>]  1.859kB/1.859kB
+ 2e81b9cb93cd Pull complete 
+ opensearch Pulled 
+ Network docker_services_cli_default  Creating
+ Network docker_services_cli_default  Created
+ Container docker_services_cli-rabbitmq-1  Creating
+ Container docker_services_cli-redis-1  Creating
+ Container docker_services_cli-opensearch-1  Creating
+ Container docker_services_cli-postgresql-1  Creating
+ Container docker_services_cli-opensearch-1  Created
+ Container docker_services_cli-rabbitmq-1  Created
+ Container docker_services_cli-redis-1  Created
+ Container docker_services_cli-postgresql-1  Created
+ Container docker_services_cli-opensearch-1  Starting
+ Container docker_services_cli-redis-1  Starting
+ Container docker_services_cli-postgresql-1  Starting
+ Container docker_services_cli-rabbitmq-1  Starting
+ Container docker_services_cli-postgresql-1  Started
+ Container docker_services_cli-redis-1  Started
+ Container docker_services_cli-rabbitmq-1  Started
+ Container docker_services_cli-opensearch-1  Started
+============================= test session starts ==============================
+platform linux -- Python 3.14.2, pytest-8.4.2, pluggy-1.6.0
+rootdir: /home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-users-resources/patched
+configfile: setup.cfg
+testpaths: docs, tests, invenio_users_resources
+plugins: flask-1.3.0, black-0.6.0, github-actions-annotate-failures-0.4.2, pycodestyle-2.5.0, cov-7.1.0, invenio-4.0.1, pydocstyle-2.4.0, isort-4.0.0
+collected 388 items
+
+docs/conf.py ...                                                         [  0%]
+tests/administration/__init__.py ...                                     [  1%]
+tests/administration/domains.py ...                                      [  2%]
+tests/administration/records.py ...                                      [  3%]
+tests/administration/users.py ...                                        [  3%]
+tests/conftest.py ...                                                    [  4%]
+tests/resources/test_resources_domains.py ....::error file=workdir/tests/invenio-users-resources/patched/tests/resources/test_resources_domains.py,line=76::test_domains_read%0A%0AKeyError: 'domain'
+F.::error file=workdir/tests/invenio-users-resources/patched/tests/resources/test_resources_domains.py,line=131::test_domains_create%0A%0AKeyError: 'domain'
+F....::error file=workdir/tests/invenio-users-resources/patched/tests/resources/test_resources_domains.py,line=165::test_domains_update%0A%0AKeyError: 'domain'
+F                   [  7%]
+tests/resources/test_resources_groups.py ..::error file=workdir/tests/invenio-users-resources/patched/tests/resources/test_resources_groups.py,line=23::test_group_create_api%0A%0AKeyError: 'id'
+F::warning file=workdir/tests/invenio-users-resources/patched/.venv/lib/python3.14/site-packages/invenio_rest/ext.py,line=24::CSRF validation will be enabled by default in the version 1.3.x
+::error file=workdir/tests/invenio-users-resources/patched/tests/resources/test_resources_groups.py,line=52::test_group_create_disabled_api%0A%0AKeyError: 'id'
+F.....::warning file=workdir/tests/invenio-users-resources/patched/.venv/lib/python3.14/site-packages/cachelib/redis_base.py,line=70::Call to deprecated setex. (Use 'set' instead.) -- Deprecated since version 2.6.12.
+                       [ 10%]
+tests/resources/test_resources_users.py ..::error file=workdir/tests/invenio-users-resources/patched/tests/resources/test_resources_users.py,line=24::test_read_self_serialization%0A%0AKeyError: 'id'
+F::warning file=workdir/tests/invenio-users-resources/patched/.venv/lib/python3.14/site-packages/invenio_rest/ext.py,line=24::CSRF validation will be enabled by default in the version 1.3.x
+.::error file=workdir/tests/invenio-users-resources/patched/tests/resources/test_resources_users.py,line=94::test_read_logged_in_serialization[pub]%0A%0AKeyError: 'id'
+F::error file=workdir/tests/invenio-users-resources/patched/tests/resources/test_resources_users.py,line=94::test_read_logged_in_serialization[pub-res]%0A%0AKeyError: 'id'
+F...::error file=workdir/tests/invenio-users-resources/patched/tests/resources/test_resources_users.py,line=169::test_create_user%0A%0AKeyError: 'id'
+F::warning file=workdir/tests/invenio-users-resources/patched/.venv/lib/python3.14/site-packages/cachelib/redis_base.py,line=70::Call to deprecated setex. (Use 'set' instead.) -- Deprecated since version 2.6.12.
+::warning file=workdir/tests/invenio-users-resources/patched/.venv/lib/python3.14/site-packages/cachelib/redis_base.py,line=70::Call to deprecated setex. (Use 'set' instead.) -- Deprecated since version 2.6.12.
+::error file=workdir/tests/invenio-users-resources/patched/tests/resources/test_resources_users.py,line=183::test_approve_user%0A%0AKeyError: 'verified_at'
+F::warning file=workdir/tests/invenio-users-resources/patched/.venv/lib/python3.14/site-packages/cachelib/redis_base.py,line=70::Call to deprecated setex. (Use 'set' instead.) -- Deprecated since version 2.6.12.
+::error file=workdir/tests/invenio-users-resources/patched/tests/resources/test_resources_users.py,line=198::test_block_user%0A%0AKeyError: 'blocked_at'
+F::warning file=workdir/tests/invenio-users-resources/patched/.venv/lib/python3.14/site-packages/cachelib/redis_base.py,line=70::Call to deprecated setex. (Use 'set' instead.) -- Deprecated since version 2.6.12.
+::error file=workdir/tests/invenio-users-resources/patched/tests/resources/test_resources_users.py,line=216::test_deactivate_user%0A%0AKeyError: 'active'
+F................    [ 17%]
+tests/services/test_generators.py ...::warning file=workdir/tests/invenio-users-resources/patched/.venv/lib/python3.14/site-packages/invenio_rest/ext.py,line=24::CSRF validation will be enabled by default in the version 1.3.x
+.                                   [ 18%]
+tests/services/test_schemas.py ....                                      [ 19%]
+tests/services/test_service_groups.py ..::error file=workdir/tests/invenio-users-resources/patched/tests/services/test_service_groups.py,line=24::test_groups_sort%0A%0AKeyError: 'id'
+F::warning file=workdir/tests/invenio-users-resources/patched/.venv/lib/python3.14/site-packages/invenio_rest/ext.py,line=24::CSRF validation will be enabled by default in the version 1.3.x
+........::error file=workdir/tests/invenio-users-resources/patched/tests/services/test_service_groups.py,line=131::test_groups_crud%0A%0AKeyError: 'id'
+F::error file=workdir/tests/invenio-users-resources/patched/tests/services/test_service_groups.py,line=184::test_group_update_validation_error%0A%0AKeyError: 'id'
+F::error file=workdir/tests/invenio-users-resources/patched/tests/services/test_service_groups.py,line=217::test_groups_manage_permission_required%0A%0AKeyError: 'id'
+F::error file=workdir/tests/invenio-users-resources/patched/tests/services/test_service_groups.py,line=265::test_protected_group_not_editable_via_api%0A%0AKeyError: 'description'
+F::error file=workdir/tests/invenio-users-resources/patched/tests/services/test_service_groups.py,line=285::test_protected_group_not_creatable_via_api%0A%0AKeyError: 'name'
+F::error file=workdir/tests/invenio-users-resources/patched/tests/services/test_service_groups.py,line=308::test_group_name_cannot_be_changed%0A%0AKeyError: 'id'
+F::error file=workdir/tests/invenio-users-resources/patched/tests/services/test_service_groups.py,line=320::test_groups_update_requires_managed%0A%0AKeyError: 'description'
+F...::error file=workdir/tests/invenio-users-resources/patched/tests/services/test_service_groups.py,line=360::test_groups_recreate_same_name%0A%0AKeyError: 'id'
+F::error file=workdir/tests/invenio-users-resources/patched/tests/services/test_service_groups.py,line=381::test_super_admin_can_manage_groups%0A%0AKeyError: 'id'
+F.           [ 25%]
+tests/services/test_service_tasks_domains.py ..::error file=workdir/tests/invenio-users-resources/patched/tests/services/test_service_tasks_domains.py,line=22::test_import_domain_blocklist%0A%0AKeyError: 'domain'
+F::warning file=workdir/tests/invenio-users-resources/patched/.venv/lib/python3.14/site-packages/invenio_rest/ext.py,line=24::CSRF validation will be enabled by default in the version 1.3.x
+.                        [ 26%]
+tests/services/users/test_service_users.py ...::warning file=workdir/tests/invenio-users-resources/patched/.venv/lib/python3.14/site-packages/invenio_rest/ext.py,line=24::CSRF validation will be enabled by default in the version 1.3.x
+.......................... [ 34%]
+..........::error file=workdir/tests/invenio-users-resources/patched/tests/services/users/test_service_users.py,line=170::test_read_with_logged_in%0A%0AKeyError: 'username'
+F::error file=workdir/tests/invenio-users-resources/patched/tests/services/users/test_service_users.py,line=205::test_read_self[pub]%0A%0AKeyError: 'username'
+F::error file=workdir/tests/invenio-users-resources/patched/tests/services/users/test_service_users.py,line=205::test_read_self[pub-res]%0A%0AKeyError: 'username'
+F::error file=workdir/tests/invenio-users-resources/patched/tests/services/users/test_service_users.py,line=205::test_read_self[res]%0A%0AKeyError: 'username'
+F..::error file=workdir/tests/invenio-users-resources/patched/tests/services/users/test_service_users.py,line=256::test_create_user%0A%0AKeyError: 'id'
+F::warning file=workdir/tests/invenio-users-resources/patched/.venv/lib/python3.14/site-packages/cachelib/redis_base.py,line=70::Call to deprecated setex. (Use 'set' instead.) -- Deprecated since version 2.6.12.
+::warning file=workdir/tests/invenio-users-resources/patched/.venv/lib/python3.14/site-packages/cachelib/redis_base.py,line=70::Call to deprecated setex. (Use 'set' instead.) -- Deprecated since version 2.6.12.
+.::error file=workdir/tests/invenio-users-resources/patched/tests/services/users/test_service_users.py,line=354::test_block%0A%0AKeyError: 'active'
+F::warning file=workdir/tests/invenio-users-resources/patched/.venv/lib/python3.14/site-packages/cachelib/redis_base.py,line=70::Call to deprecated setex. (Use 'set' instead.) -- Deprecated since version 2.6.12.
+::error file=workdir/tests/invenio-users-resources/patched/tests/services/users/test_service_users.py,line=385::test_approve%0A%0AKeyError: 'active'
+F::warning file=workdir/tests/invenio-users-resources/patched/.venv/lib/python3.14/site-packages/cachelib/redis_base.py,line=70::Call to deprecated setex. (Use 'set' instead.) -- Deprecated since version 2.6.12.
+::error file=workdir/tests/invenio-users-resources/patched/tests/services/users/test_service_users.py,line=402::test_deactivate%0A%0AKeyError: 'active'
+F.::error file=workdir/tests/invenio-users-resources/patched/tests/services/users/test_service_users.py,line=431::test_restore%0A%0AKeyError: 'active'
+F::warning file=workdir/tests/invenio-users-resources/patched/.venv/lib/python3.14/site-packages/cachelib/redis_base.py,line=70::Call to deprecated setex. (Use 'set' instead.) -- Deprecated since version 2.6.12.
+..........................                        [ 46%]
+tests/services/users/test_user_moderation.py ...::warning file=workdir/tests/invenio-users-resources/patched/.venv/lib/python3.14/site-packages/invenio_rest/ext.py,line=24::CSRF validation will be enabled by default in the version 1.3.x
+::warning file=workdir/tests/invenio-users-resources/patched/.venv/lib/python3.14/site-packages/cachelib/redis_base.py,line=70::Call to deprecated setex. (Use 'set' instead.) -- Deprecated since version 2.6.12.
+::error file=workdir/tests/invenio-users-resources/patched/tests/services/users/test_user_moderation.py,line=70::test_moderation_callbacks_failure%0A%0AKeyError: 'active'
+F::warning file=workdir/tests/invenio-users-resources/patched/.venv/lib/python3.14/site-packages/cachelib/redis_base.py,line=70::Call to deprecated setex. (Use 'set' instead.) -- Deprecated since version 2.6.12.
+.::warning file=workdir/tests/invenio-users-resources/patched/.venv/lib/python3.14/site-packages/cachelib/redis_base.py,line=70::Call to deprecated setex. (Use 'set' instead.) -- Deprecated since version 2.6.12.
+.::warning file=workdir/tests/invenio-users-resources/patched/.venv/lib/python3.14/site-packages/cachelib/redis_base.py,line=70::Call to deprecated setex. (Use 'set' instead.) -- Deprecated since version 2.6.12.
+.::warning file=workdir/tests/invenio-users-resources/patched/.venv/lib/python3.14/site-packages/cachelib/redis_base.py,line=70::Call to deprecated setex. (Use 'set' instead.) -- Deprecated since version 2.6.12.
+                     [ 48%]
+tests/test_invenio_users_resources.py ....                               [ 49%]
+tests/test_notifications.py ...::warning file=workdir/tests/invenio-users-resources/patched/.venv/lib/python3.14/site-packages/invenio_rest/ext.py,line=24::CSRF validation will be enabled by default in the version 1.3.x
+.                                         [ 50%]
+tests/test_user_roles_admin.py ...::warning file=workdir/tests/invenio-users-resources/patched/.venv/lib/python3.14/site-packages/invenio_rest/ext.py,line=24::CSRF validation will be enabled by default in the version 1.3.x
+..                                     [ 52%]
+invenio_users_resources/__init__.py ...                                  [ 52%]
+invenio_users_resources/config.py ...                                    [ 53%]
+invenio_users_resources/entity_resolvers.py ...                          [ 54%]
+invenio_users_resources/ext.py ...                                       [ 55%]
+invenio_users_resources/forms.py ...                                     [ 55%]
+invenio_users_resources/models.py ...                                    [ 56%]
+invenio_users_resources/notifications/__init__.py ...                    [ 57%]
+invenio_users_resources/notifications/filters.py ...                     [ 58%]
+invenio_users_resources/notifications/generators.py ...                  [ 59%]
+invenio_users_resources/permissions.py ...                               [ 59%]
+invenio_users_resources/proxies.py ...                                   [ 60%]
+invenio_users_resources/records/__init__.py ...                          [ 61%]
+invenio_users_resources/records/api.py ...                               [ 62%]
+invenio_users_resources/records/dumpers/__init__.py ...                  [ 62%]
+invenio_users_resources/records/dumpers/email.py ...                     [ 63%]
+invenio_users_resources/records/hooks.py ...                             [ 64%]
+invenio_users_resources/records/mappings/__init__.py ...                 [ 65%]
+invenio_users_resources/records/mappings/os-v1/__init__.py ...           [ 65%]
+invenio_users_resources/records/mappings/os-v2/__init__.py ...           [ 66%]
+invenio_users_resources/records/mappings/v7/__init__.py ...              [ 67%]
+invenio_users_resources/records/models.py ...                            [ 68%]
+invenio_users_resources/records/systemfields/__init__.py ...             [ 69%]
+invenio_users_resources/resources/__init__.py ...                        [ 69%]
+invenio_users_resources/resources/domains/__init__.py ...                [ 70%]
+invenio_users_resources/resources/domains/config.py ...                  [ 71%]
+invenio_users_resources/resources/domains/resource.py ...                [ 72%]
+invenio_users_resources/resources/groups/__init__.py ...                 [ 72%]
+invenio_users_resources/resources/groups/config.py ...                   [ 73%]
+invenio_users_resources/resources/groups/errors.py ...                   [ 74%]
+invenio_users_resources/resources/groups/resource.py ...                 [ 75%]
+invenio_users_resources/resources/users/__init__.py ...                  [ 76%]
+invenio_users_resources/resources/users/config.py ...                    [ 76%]
+invenio_users_resources/resources/users/errors.py ...                    [ 77%]
+invenio_users_resources/resources/users/resource.py ...                  [ 78%]
+invenio_users_resources/services/__init__.py ...                         [ 79%]
+invenio_users_resources/services/common.py ...                           [ 79%]
+invenio_users_resources/services/domains/__init__.py ...                 [ 80%]
+invenio_users_resources/services/domains/components.py ...               [ 81%]
+invenio_users_resources/services/domains/config.py ...                   [ 82%]
+invenio_users_resources/services/domains/facets.py ...                   [ 82%]
+invenio_users_resources/services/domains/service.py ...                  [ 83%]
+invenio_users_resources/services/domains/tasks.py ...                    [ 84%]
+invenio_users_resources/services/generators.py ...                       [ 85%]
+invenio_users_resources/services/groups/__init__.py ...                  [ 86%]
+invenio_users_resources/services/groups/config.py ...                    [ 86%]
+invenio_users_resources/services/groups/facets.py ...                    [ 87%]
+invenio_users_resources/services/groups/results.py ...                   [ 88%]
+invenio_users_resources/services/groups/service.py ...                   [ 89%]
+invenio_users_resources/services/groups/tasks.py ...                     [ 89%]
+invenio_users_resources/services/params.py ...                           [ 90%]
+invenio_users_resources/services/permissions.py ...                      [ 91%]
+invenio_users_resources/services/results.py ...                          [ 92%]
+invenio_users_resources/services/schemas.py ...                          [ 93%]
+invenio_users_resources/services/users/__init__.py ...                   [ 93%]
+invenio_users_resources/services/users/config.py ...                     [ 94%]
+invenio_users_resources/services/users/facets.py ...                     [ 95%]
+invenio_users_resources/services/users/lock.py ...                       [ 96%]
+invenio_users_resources/services/users/results.py ...                    [ 96%]
+invenio_users_resources/services/users/search_params.py ...              [ 97%]
+invenio_users_resources/services/users/service.py ...                    [ 98%]
+invenio_users_resources/services/users/tasks.py ...                      [ 99%]
+invenio_users_resources/views.py ...                                     [100%]
+
+=================================== FAILURES ===================================
+______________________________ test_domains_read _______________________________
+
+app = <Flask 'invenio'>, client = <FlaskClient <Flask 'invenio'>>
+domains = {'cern.ch': {'category': 1, 'domain': 'cern.ch', 'flagged': False, 'flagged_source': '', ...}, 'inveniosoftware.org': ...': 'disposable', ...}, 'new.org': {'domain': 'new.org', 'flagged': False, 'flagged_source': '', 'status': 1, ...}, ...}
+user_moderator = <pytest_invenio.user.UserFixtureBase object at 0x7f880b01f130>
+
+    def test_domains_read(app, client, domains, user_moderator):
+        res = client.get(f"/domains/cern.ch")
+        assert res.status_code == 403
+    
+        user_moderator.login(client)
+        res = client.get(f"/domains/cern.ch")
+    
+        assert res.status_code == 200
+        d = res.json
+        assert d["links"]["self"].endswith("/api/domains/cern.ch")
+        assert d["links"]["admin_self_html"].endswith("/administration/domains/cern.ch")
+        assert d["links"]["admin_users_html"].endswith(
+            "/administration/users?q=domain:cern.ch"
+        )
+>       assert d["domain"] == "cern.ch"
+               ^^^^^^^^^^^
+E       KeyError: 'domain'
+
+tests/resources/test_resources_domains.py:76: KeyError
+----------------------------- Captured stderr call -----------------------------
+[2026-06-25 09:02:55,602] WARNING in receivers: Tried to build event emitter for unregistered event 'record-view'
+------------------------------ Captured log call -------------------------------
+WARNING  invenio:receivers.py:50 Tried to build event emitter for unregistered event 'record-view'
+_____________________________ test_domains_create ______________________________
+
+app = <Flask 'invenio'>, client = <FlaskClient <Flask 'invenio'>>
+domains = {'cern.ch': {'category': 1, 'domain': 'cern.ch', 'flagged': False, 'flagged_source': '', ...}, 'inveniosoftware.org': ...': 'disposable', ...}, 'new.org': {'domain': 'new.org', 'flagged': False, 'flagged_source': '', 'status': 1, ...}, ...}
+user_moderator = <pytest_invenio.user.UserFixtureBase object at 0x7f880b01f130>
+
+    def test_domains_create(app, client, domains, user_moderator):
+        res = client.post(
+            f"/domains",
+            json={
+                "domain": "zenodo.org",
+            },
+            headers={"content-type": "application/vnd.inveniordm.v1+json"},
+        )
+        assert res.status_code == 403
+    
+        user_moderator.login(client)
+        # Make an update
+        res = client.post(
+            f"/domains",
+            json={
+                "domain": "zenodo.org",
+            },
+            headers={"content-type": "application/vnd.inveniordm.v1+json"},
+        )
+        assert res.status_code == 201
+        # Re-read to check that it was updated
+        data = client.get(f"/domains/zenodo.org").json
+>       assert data["domain"] == "zenodo.org"
+               ^^^^^^^^^^^^^^
+E       KeyError: 'domain'
+
+tests/resources/test_resources_domains.py:131: KeyError
+_____________________________ test_domains_update ______________________________
+
+app = <Flask 'invenio'>, client = <FlaskClient <Flask 'invenio'>>
+domains = {'cern.ch': {'category': 1, 'domain': 'cern.ch', 'flagged': False, 'flagged_source': '', ...}, 'inveniosoftware.org': ...': 'disposable', ...}, 'new.org': {'domain': 'new.org', 'flagged': False, 'flagged_source': '', 'status': 1, ...}, ...}
+user_moderator = <pytest_invenio.user.UserFixtureBase object at 0x7f880b01f130>
+
+    def test_domains_update(app, client, domains, user_moderator):
+        user_moderator.login(client)
+        data = client.get(f"/domains/moderated.org").json
+>       assert data["domain"] == "moderated.org"
+               ^^^^^^^^^^^^^^
+E       KeyError: 'domain'
+
+tests/resources/test_resources_domains.py:165: KeyError
+____________________________ test_group_create_api _____________________________
+
+app = <Flask 'invenio'>, client = <FlaskClient <Flask 'invenio'>>
+user_moderator = <pytest_invenio.user.UserFixtureBase object at 0x7f88075f2510>
+
+    def test_group_create_api(app, client, user_moderator):
+        user_moderator.login(client)
+    
+        payload = {
+            "name": "api-role",
+            "description": "Created via API",
+            "is_managed": False,
+        }
+    
+        res = client.post("/groups", json=payload)
+        assert 201 == res.status_code
+        data = res.get_json()
+>       assert payload["name"] == data["id"]
+                                  ^^^^^^^^^^
+E       KeyError: 'id'
+
+tests/resources/test_resources_groups.py:23: KeyError
+________________________ test_group_create_disabled_api ________________________
+
+app = <Flask 'invenio'>, client = <FlaskClient <Flask 'invenio'>>
+user_moderator = <pytest_invenio.user.UserFixtureBase object at 0x7f88075f2510>
+group_service = <invenio_users_resources.services.groups.service.GroupsService object at 0x7f880c5e6ad0>
+
+    def test_group_create_disabled_api(app, client, user_moderator, group_service):
+        """Group creation is forbidden when groups support is disabled."""
+        user_moderator.login(client)
+    
+        payload = {
+            "name": "disabled-api-role",
+            "description": "Created via API",
+            "is_managed": False,
+        }
+    
+        app.config["USERS_RESOURCES_GROUPS_ENABLED"] = False
+        try:
+            res = client.post("/groups", json=payload)
+            assert 403 == res.status_code
+        finally:
+            app.config["USERS_RESOURCES_GROUPS_ENABLED"] = True
+    
+        res = client.post("/groups", json=payload)
+        assert 201 == res.status_code
+        # Cleanup
+        data = res.get_json()
+>       assert group_service.delete(system_identity, data["id"])
+                                                     ^^^^^^^^^^
+E       KeyError: 'id'
+
+tests/resources/test_resources_groups.py:52: KeyError
+_________________________ test_read_self_serialization _________________________
+
+client = <FlaskClient <Flask 'invenio'>>
+headers = {'accept': 'application/json', 'content-type': 'application/json'}
+users = {'accented': <pytest_invenio.user.UserFixtureBase object at 0x7f880720f050>, 'admin_user': <pytest_invenio.user.UserFi...bject at 0x7f880720e2d0>, 'notification_disabled': <pytest_invenio.user.UserFixtureBase object at 0x7f880720ebd0>, ...}
+user_pub = <pytest_invenio.user.UserFixtureBase object at 0x7f880720e750>
+
+    def test_read_self_serialization(client, headers, users, user_pub):
+        """Read self user."""
+        client = user_pub.login(client)
+        r = client.get(f"/users/{user_pub.id}", headers=headers)
+        assert r.status_code == 200
+        data = r.json
+>       assert data["id"] == user_pub.id
+               ^^^^^^^^^^
+E       KeyError: 'id'
+
+tests/resources/test_resources_users.py:24: KeyError
+____________________ test_read_logged_in_serialization[pub] ____________________
+
+client = <FlaskClient <Flask 'invenio'>>
+headers = {'accept': 'application/json', 'content-type': 'application/json'}
+users = {'accented': <pytest_invenio.user.UserFixtureBase object at 0x7f880720f050>, 'admin_user': <pytest_invenio.user.UserFi...bject at 0x7f880720e2d0>, 'notification_disabled': <pytest_invenio.user.UserFixtureBase object at 0x7f880720ebd0>, ...}
+user_accented = <pytest_invenio.user.UserFixtureBase object at 0x7f880720f050>
+username = 'pub'
+
+    @pytest.mark.parametrize(
+        "username",
+        ["pub", "pub-res", "res"],
+    )
+    def test_read_logged_in_serialization(client, headers, users, user_accented, username):
+        """Read user profile/email as logged in."""
+        # login as random non-admin user
+        client = user_accented.login(client)
+    
+        u = users[username]
+        is_visibility_public = u.user.preferences["visibility"] != "restricted"
+        is_email_public = u.user.preferences["email_visibility"] != "restricted"
+        # when profile is restricted, it should return 404 to hide the existence/non-existence of the user
+        expected_status_code = 200 if is_visibility_public or is_email_public else 404
+    
+        r = client.get(f"/users/{u.id}", headers=headers)
+        assert r.status_code == expected_status_code
+    
+        if is_visibility_public or is_email_public:
+            data = r.json
+>           assert data["id"] == u.id
+                   ^^^^^^^^^^
+E           KeyError: 'id'
+
+tests/resources/test_resources_users.py:94: KeyError
+__________________ test_read_logged_in_serialization[pub-res] __________________
+
+client = <FlaskClient <Flask 'invenio'>>
+headers = {'accept': 'application/json', 'content-type': 'application/json'}
+users = {'accented': <pytest_invenio.user.UserFixtureBase object at 0x7f880720f050>, 'admin_user': <pytest_invenio.user.UserFi...bject at 0x7f880720e2d0>, 'notification_disabled': <pytest_invenio.user.UserFixtureBase object at 0x7f880720ebd0>, ...}
+user_accented = <pytest_invenio.user.UserFixtureBase object at 0x7f880720f050>
+username = 'pub-res'
+
+    @pytest.mark.parametrize(
+        "username",
+        ["pub", "pub-res", "res"],
+    )
+    def test_read_logged_in_serialization(client, headers, users, user_accented, username):
+        """Read user profile/email as logged in."""
+        # login as random non-admin user
+        client = user_accented.login(client)
+    
+        u = users[username]
+        is_visibility_public = u.user.preferences["visibility"] != "restricted"
+        is_email_public = u.user.preferences["email_visibility"] != "restricted"
+        # when profile is restricted, it should return 404 to hide the existence/non-existence of the user
+        expected_status_code = 200 if is_visibility_public or is_email_public else 404
+    
+        r = client.get(f"/users/{u.id}", headers=headers)
+        assert r.status_code == expected_status_code
+    
+        if is_visibility_public or is_email_public:
+            data = r.json
+>           assert data["id"] == u.id
+                   ^^^^^^^^^^
+E           KeyError: 'id'
+
+tests/resources/test_resources_users.py:94: KeyError
+_______________________________ test_create_user _______________________________
+
+client = <FlaskClient <Flask 'invenio'>>
+headers = {'accept': 'application/json', 'content-type': 'application/json'}
+user_moderator = <pytest_invenio.user.UserFixtureBase object at 0x7f880720ee10>
+db = <SQLAlchemy postgresql+psycopg2://invenio:***@localhost:5432/invenio>
+
+    def test_create_user(client, headers, user_moderator, db):
+        """Tests create user."""
+        client = user_moderator.login(client)
+        res = client.post(
+            "/users",
+            json={
+                "username": "newuser",
+                "email": "newuser@inveniosoftware.org",
+            },
+            headers=headers,
+        )
+        assert res.status_code == 201
+    
+>       res = client.get(f"/users/{res.json['id']}")
+                                   ^^^^^^^^^^^^^^
+E       KeyError: 'id'
+
+tests/resources/test_resources_users.py:169: KeyError
+---------------------------- Captured stderr setup -----------------------------
+[2026-06-25 09:03:01,702] ERROR in api: Failed to index record api-role
+Traceback (most recent call last):
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-users-resources/patched/.venv/lib/python3.14/site-packages/invenio_indexer/api.py", line 365, in _actionsiter
+    yield self._index_action(payload)
+          ~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-users-resources/patched/.venv/lib/python3.14/site-packages/invenio_indexer/api.py", line 411, in _index_action
+    index = self.record_to_index(record)
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-users-resources/patched/.venv/lib/python3.14/site-packages/invenio_indexer/api.py", line 109, in record_to_index
+    result = self._record_to_index(record)
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-users-resources/patched/.venv/lib/python3.14/site-packages/invenio_records_resources/services/records/service.py", line 63, in record_to_index
+    return record.index._name
+           ^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'index'
+[2026-06-25 09:03:01,705] ERROR in api: Failed to index record it-dep
+Traceback (most recent call last):
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-users-resources/patched/.venv/lib/python3.14/site-packages/invenio_indexer/api.py", line 365, in _actionsiter
+    yield self._index_action(payload)
+          ~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-users-resources/patched/.venv/lib/python3.14/site-packages/invenio_indexer/api.py", line 411, in _index_action
+    index = self.record_to_index(record)
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-users-resources/patched/.venv/lib/python3.14/site-packages/invenio_indexer/api.py", line 109, in record_to_index
+    result = self._record_to_index(record)
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-users-resources/patched/.venv/lib/python3.14/site-packages/invenio_records_resources/services/records/service.py", line 63, in record_to_index
+    return record.index._name
+           ^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'index'
+[2026-06-25 09:03:01,708] ERROR in api: Failed to index record disabled-api-role
+Traceback (most recent call last):
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-users-resources/patched/.venv/lib/python3.14/site-packages/invenio_indexer/api.py", line 365, in _actionsiter
+    yield self._index_action(payload)
+          ~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-users-resources/patched/.venv/lib/python3.14/site-packages/invenio_indexer/api.py", line 411, in _index_action
+    index = self.record_to_index(record)
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-users-resources/patched/.venv/lib/python3.14/site-packages/invenio_indexer/api.py", line 109, in record_to_index
+    result = self._record_to_index(record)
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-users-resources/patched/.venv/lib/python3.14/site-packages/invenio_records_resources/services/records/service.py", line 63, in record_to_index
+    return record.index._name
+           ^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'index'
+[2026-06-25 09:03:01,710] ERROR in api: Failed to index record not-managed-dep
+Traceback (most recent call last):
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-users-resources/patched/.venv/lib/python3.14/site-packages/invenio_indexer/api.py", line 365, in _actionsiter
+    yield self._index_action(payload)
+          ~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-users-resources/patched/.venv/lib/python3.14/site-packages/invenio_indexer/api.py", line 411, in _index_action
+    index = self.record_to_index(record)
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-users-resources/patched/.venv/lib/python3.14/site-packages/invenio_indexer/api.py", line 109, in record_to_index
+    result = self._record_to_index(record)
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-users-resources/patched/.venv/lib/python3.14/site-packages/invenio_records_resources/services/records/service.py", line 63, in record_to_index
+    return record.index._name
+           ^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'index'
+------------------------------ Captured log setup ------------------------------
+ERROR    invenio:api.py:371 Failed to index record api-role
+Traceback (most recent call last):
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-users-resources/patched/.venv/lib/python3.14/site-packages/invenio_indexer/api.py", line 365, in _actionsiter
+    yield self._index_action(payload)
+          ~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-users-resources/patched/.venv/lib/python3.14/site-packages/invenio_indexer/api.py", line 411, in _index_action
+    index = self.record_to_index(record)
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-users-resources/patched/.venv/lib/python3.14/site-packages/invenio_indexer/api.py", line 109, in record_to_index
+    result = self._record_to_index(record)
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-users-resources/patched/.venv/lib/python3.14/site-packages/invenio_records_resources/services/records/service.py", line 63, in record_to_index
+    return record.index._name
+           ^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'index'
+ERROR    invenio:api.py:371 Failed to index record it-dep
+Traceback (most recent call last):
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-users-resources/patched/.venv/lib/python3.14/site-packages/invenio_indexer/api.py", line 365, in _actionsiter
+    yield self._index_action(payload)
+          ~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-users-resources/patched/.venv/lib/python3.14/site-packages/invenio_indexer/api.py", line 411, in _index_action
+    index = self.record_to_index(record)
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-users-resources/patched/.venv/lib/python3.14/site-packages/invenio_indexer/api.py", line 109, in record_to_index
+    result = self._record_to_index(record)
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-users-resources/patched/.venv/lib/python3.14/site-packages/invenio_records_resources/services/records/service.py", line 63, in record_to_index
+    return record.index._name
+           ^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'index'
+ERROR    invenio:api.py:371 Failed to index record disabled-api-role
+Traceback (most recent call last):
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-users-resources/patched/.venv/lib/python3.14/site-packages/invenio_indexer/api.py", line 365, in _actionsiter
+    yield self._index_action(payload)
+          ~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-users-resources/patched/.venv/lib/python3.14/site-packages/invenio_indexer/api.py", line 411, in _index_action
+    index = self.record_to_index(record)
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-users-resources/patched/.venv/lib/python3.14/site-packages/invenio_indexer/api.py", line 109, in record_to_index
+    result = self._record_to_index(record)
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-users-resources/patched/.venv/lib/python3.14/site-packages/invenio_records_resources/services/records/service.py", line 63, in record_to_index
+    return record.index._name
+           ^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'index'
+ERROR    invenio:api.py:371 Failed to index record not-managed-dep
+Traceback (most recent call last):
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-users-resources/patched/.venv/lib/python3.14/site-packages/invenio_indexer/api.py", line 365, in _actionsiter
+    yield self._index_action(payload)
+          ~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-users-resources/patched/.venv/lib/python3.14/site-packages/invenio_indexer/api.py", line 411, in _index_action
+    index = self.record_to_index(record)
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-users-resources/patched/.venv/lib/python3.14/site-packages/invenio_indexer/api.py", line 109, in record_to_index
+    result = self._record_to_index(record)
+  File "/home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-users-resources/patched/.venv/lib/python3.14/site-packages/invenio_records_resources/services/records/service.py", line 63, in record_to_index
+    return record.index._name
+           ^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'index'
+----------------------------- Captured stdout call -----------------------------
+Content-Type: multipart/mixed; boundary="===============0027663847133800304=="
+MIME-Version: 1.0
+Subject: Password reset instructions
+From: no-reply@localhost
+To: newuser@inveniosoftware.org
+Date: Thu, 25 Jun 2026 09:03:02 +0000
+Message-ID: <178237818222.5913.17181018239436694278@runnervmmklqx.qiuyrsidnlhupfjum1jxhk501e.gx.internal.cloudapp.net>
+
+--===============0027663847133800304==
+Content-Type: multipart/alternative; boundary="===============6838423202583384664=="
+MIME-Version: 1.0
+
+--===============6838423202583384664==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+
+Your new account has been created
+
+Click the link below to create a new password:
+
+http://localhost/lost-password/WyIxMSIsIiQ1JHJvdW5kcz01MzUwMDAkZUFnMHNTdDBjYlM5dXg0RiQveVJieHhvZTdCVXFody5RbHR4YzlDd3RyaXpxT3NRZnZvSjJwNEtLMTJBIl0.ajzuxg.ASJOtggcbUX6KgIf1llH1UqhfFM
+--===============6838423202583384664==
+Content-Type: text/html; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+
+<p>Your new account has been created</p>
+
+<p>
+  <a href="http://localhost/lost-password/WyIxMSIsIiQ1JHJvdW5kcz01MzUwMDAkZUFnMHNTdDBjYlM5dXg0RiQveVJieHhvZTdCVXFody5RbHR4YzlDd3RyaXpxT3NRZnZvSjJwNEtLMTJBIl0.ajzuxg.ASJOtggcbUX6KgIf1llH1UqhfFM">Click here to create a new password</a>
+</p>
+--===============6838423202583384664==--
+
+--===============0027663847133800304==--
+
+-------------------------------------------------------------------------------
+______________________________ test_approve_user _______________________________
+
+client = <FlaskClient <Flask 'invenio'>>
+headers = {'accept': 'application/json', 'content-type': 'application/json'}
+user_pub = <pytest_invenio.user.UserFixtureBase object at 0x7f880720e750>
+user_moderator = <pytest_invenio.user.UserFixtureBase object at 0x7f880720ee10>
+db = <SQLAlchemy postgresql+psycopg2://invenio:***@localhost:5432/invenio>
+
+    def test_approve_user(client, headers, user_pub, user_moderator, db):
+        """Tests approve user endpoint."""
+        client = user_moderator.login(client)
+        res = client.post(f"/users/{user_pub.id}/approve", headers=headers)
+        assert res.status_code == 200
+    
+        res = client.get(f"/users/{user_pub.id}")
+        assert res.status_code == 200
+>       assert res.json["verified_at"] is not None
+               ^^^^^^^^^^^^^^^^^^^^^^^
+E       KeyError: 'verified_at'
+
+tests/resources/test_resources_users.py:183: KeyError
+_______________________________ test_block_user ________________________________
+
+client = <FlaskClient <Flask 'invenio'>>
+headers = {'accept': 'application/json', 'content-type': 'application/json'}
+user_pub = <pytest_invenio.user.UserFixtureBase object at 0x7f880720e750>
+user_moderator = <pytest_invenio.user.UserFixtureBase object at 0x7f880720ee10>
+db = <SQLAlchemy postgresql+psycopg2://invenio:***@localhost:5432/invenio>
+
+    def test_block_user(client, headers, user_pub, user_moderator, db):
+        """Tests block user endpoint."""
+        client = user_moderator.login(client)
+        res = client.post(f"/users/{user_pub.id}/block", headers=headers)
+        assert res.status_code == 200
+    
+        res = client.get(f"/users/{user_pub.id}")
+        assert res.status_code == 200
+>       assert res.json["blocked_at"] is not None
+               ^^^^^^^^^^^^^^^^^^^^^^
+E       KeyError: 'blocked_at'
+
+tests/resources/test_resources_users.py:198: KeyError
+_____________________________ test_deactivate_user _____________________________
+
+client = <FlaskClient <Flask 'invenio'>>
+headers = {'accept': 'application/json', 'content-type': 'application/json'}
+user_pub = <pytest_invenio.user.UserFixtureBase object at 0x7f880720e750>
+user_moderator = <pytest_invenio.user.UserFixtureBase object at 0x7f880720ee10>
+db = <SQLAlchemy postgresql+psycopg2://invenio:***@localhost:5432/invenio>
+
+    def test_deactivate_user(client, headers, user_pub, user_moderator, db):
+        """Tests deactivate user endpoint."""
+        client = user_moderator.login(client)
+        res = client.post(f"/users/{user_pub.id}/deactivate", headers=headers)
+        assert res.status_code == 200
+    
+        res = client.get(f"/users/{user_pub.id}")
+        assert res.status_code == 200
+>       assert res.json["active"] == False
+               ^^^^^^^^^^^^^^^^^^
+E       KeyError: 'active'
+
+tests/resources/test_resources_users.py:216: KeyError
+_______________________________ test_groups_sort _______________________________
+
+app = <Flask 'invenio'>
+groups = [<Role it-dep>, <Role hr-dep>, <Role not-managed-dep>, <Role administration-moderation>, <Role admin>]
+group_service = <invenio_users_resources.services.groups.service.GroupsService object at 0x7f8806a9ed70>
+
+    def test_groups_sort(app, groups, group_service):
+        """Test default sort."""
+        sorted_groups = sorted(groups, key=attrgetter("name"))
+        res = group_service.search(system_identity).to_dict()
+        assert "name" == res["sortBy"]
+        assert res["hits"]["total"] > 0
+        hits = res["hits"]["hits"]
+>       assert sorted_groups[0].id == hits[0]["id"]
+                                      ^^^^^^^^^^^^^
+E       KeyError: 'id'
+
+tests/services/test_service_groups.py:24: KeyError
+_______________________________ test_groups_crud _______________________________
+
+app = <Flask 'invenio'>
+group_service = <invenio_users_resources.services.groups.service.GroupsService object at 0x7f8806a9ed70>
+user_pub = <pytest_invenio.user.UserFixtureBase object at 0x7f8806743f50>
+
+    def test_groups_crud(app, group_service, user_pub):
+        """Test creating, updating and deleting a group by name."""
+    
+        payload = {
+            "name": "test-role",
+            "description": "Initial description",
+        }
+    
+        item = group_service.create(system_identity, payload).to_dict()
+>       assert payload["name"] == item["id"]
+                                  ^^^^^^^^^^
+E       KeyError: 'id'
+
+tests/services/test_service_groups.py:131: KeyError
+______________________ test_group_update_validation_error ______________________
+
+app = <Flask 'invenio'>
+group_service = <invenio_users_resources.services.groups.service.GroupsService object at 0x7f8806a9ed70>
+
+    def test_group_update_validation_error(app, group_service):
+        """Ensure validation errors bubble up cleanly."""
+        item = group_service.create(
+            system_identity,
+            {
+                "name": "valid-role-name",
+                "description": "Valid description",
+            },
+        ).to_dict()
+    
+        invalid_description = "x" * 256
+    
+        with pytest.raises(GroupValidationError) as err:
+            group_service.update(
+                system_identity,
+>               item["id"],
+                ^^^^^^^^^^
+                {"description": invalid_description},
+            )
+E           KeyError: 'id'
+
+tests/services/test_service_groups.py:184: KeyError
+____________________ test_groups_manage_permission_required ____________________
+
+app = <Flask 'invenio'>
+group_service = <invenio_users_resources.services.groups.service.GroupsService object at 0x7f8806a9ed70>
+user_pub = <pytest_invenio.user.UserFixtureBase object at 0x7f8806743f50>
+user_pubres = <pytest_invenio.user.UserFixtureBase object at 0x7f8806740650>
+user_moderator = <pytest_invenio.user.UserFixtureBase object at 0x7f8806743dd0>
+groups = [<Role it-dep>, <Role hr-dep>, <Role not-managed-dep>, <Role administration-moderation>, <Role admin>]
+
+    def test_groups_manage_permission_required(
+        app, group_service, user_pub, user_pubres, user_moderator, groups
+    ):
+        """Ensure non managers cannot mutate groups."""
+    
+        payload = {"name": "perm-check-role"}
+        with pytest.raises(PermissionDeniedError):
+            group_service.create(user_pub.identity, payload)
+        with pytest.raises(PermissionDeniedError):
+            group_service.create(user_pubres.identity, {"name": "perm-check-role-2"})
+    
+        target = groups[0]
+        with pytest.raises(PermissionDeniedError):
+            group_service.update(
+                user_pub.identity,
+                target.id,
+                {"description": "attempted change"},
+            )
+    
+        with pytest.raises(PermissionDeniedError):
+            group_service.delete(user_pub.identity, target.id)
+    
+        created = group_service.create(
+            user_moderator.identity,
+            {"name": "perm-check-role-admin", "description": "managed"},
+        ).to_dict()
+>       assert "perm-check-role-admin" == created["id"]
+                                          ^^^^^^^^^^^^^
+E       KeyError: 'id'
+
+tests/services/test_service_groups.py:217: KeyError
+__________________ test_protected_group_not_editable_via_api ___________________
+
+app = <Flask 'invenio'>
+group_service = <invenio_users_resources.services.groups.service.GroupsService object at 0x7f8806a9ed70>
+user_moderator = <pytest_invenio.user.UserFixtureBase object at 0x7f8806743dd0>
+user_admin = <pytest_invenio.user.UserFixtureBase object at 0x7f880667cad0>
+superadmin_group = <Role admin>
+
+    def test_protected_group_not_editable_via_api(
+        app, group_service, user_moderator, user_admin, superadmin_group
+    ):
+        """Protected groups cannot be edited or removed via API."""
+    
+        app.config["USERS_RESOURCES_PROTECTED_GROUP_NAMES"] = [
+            "admin",
+            "administration",
+            "administration-moderation",
+            "superuser-access",
+        ]
+    
+        with pytest.raises(PermissionDeniedError):
+            group_service.update(
+                user_moderator.identity,
+                superadmin_group.id,
+                {"description": "attempted change"},
+            )
+        with pytest.raises(PermissionDeniedError):
+            group_service.update(
+                user_admin.identity,
+                superadmin_group.id,
+                {"description": "attempted change"},
+            )
+    
+        with pytest.raises(PermissionDeniedError):
+            group_service.delete(user_moderator.identity, superadmin_group.id)
+        with pytest.raises(PermissionDeniedError):
+            group_service.delete(user_admin.identity, superadmin_group.id)
+    
+        # System process can still manage it (e.g. via CLI)
+        result = group_service.update(
+            system_identity,
+            superadmin_group.id,
+            {"description": superadmin_group.description},
+        )
+>       assert result["description"] == superadmin_group.description
+               ^^^^^^^^^^^^^^^^^^^^^
+
+tests/services/test_service_groups.py:265: 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+self = <invenio_users_resources.services.groups.results.GroupItem object at 0x7f880680a180>
+key = 'description'
+
+    def __getitem__(self, key):
+        """Key a key from the data."""
+>       return self.data[key]
+               ^^^^^^^^^^^^^^
+E       KeyError: 'description'
+
+invenio_users_resources/services/groups/results.py:38: KeyError
+__________________ test_protected_group_not_creatable_via_api __________________
+
+app = <Flask 'invenio'>
+group_service = <invenio_users_resources.services.groups.service.GroupsService object at 0x7f8806a9ed70>
+user_moderator = <pytest_invenio.user.UserFixtureBase object at 0x7f8806743dd0>
+user_admin = <pytest_invenio.user.UserFixtureBase object at 0x7f880667cad0>
+
+    def test_protected_group_not_creatable_via_api(
+        app, group_service, user_moderator, user_admin
+    ):
+        """Protected groups cannot be created via API by admins."""
+    
+        previous = app.config["USERS_RESOURCES_PROTECTED_GROUP_NAMES"]
+        app.config["USERS_RESOURCES_PROTECTED_GROUP_NAMES"] = ["protected-role"]
+    
+        payload = {"name": "protected-role", "description": "attempted creation"}
+    
+        try:
+            with pytest.raises(PermissionDeniedError):
+                group_service.create(user_moderator.identity, payload)
+            with pytest.raises(PermissionDeniedError):
+                group_service.create(user_admin.identity, payload)
+    
+            created = group_service.create(system_identity, payload).to_dict()
+>           assert created["name"] == "protected-role"
+                   ^^^^^^^^^^^^^^^
+E           KeyError: 'name'
+
+tests/services/test_service_groups.py:285: KeyError
+______________________ test_group_name_cannot_be_changed _______________________
+
+app = <Flask 'invenio'>
+group_service = <invenio_users_resources.services.groups.service.GroupsService object at 0x7f8806a9ed70>
+user_moderator = <pytest_invenio.user.UserFixtureBase object at 0x7f8806743dd0>
+
+    def test_group_name_cannot_be_changed(app, group_service, user_moderator):
+        """Role names are ignored on update because id/name must stay coupled."""
+    
+        created = group_service.create(
+            user_moderator.identity,
+            {"name": "temp-immutable-role", "description": "temp"},
+        ).to_dict()
+    
+        try:
+            updated = group_service.update(
+                system_identity,
+>               created["id"],
+                ^^^^^^^^^^^^^
+                {"name": "renamed-role"},
+            ).to_dict()
+E           KeyError: 'id'
+
+tests/services/test_service_groups.py:302: KeyError
+
+During handling of the above exception, another exception occurred:
+
+app = <Flask 'invenio'>
+group_service = <invenio_users_resources.services.groups.service.GroupsService object at 0x7f8806a9ed70>
+user_moderator = <pytest_invenio.user.UserFixtureBase object at 0x7f8806743dd0>
+
+    def test_group_name_cannot_be_changed(app, group_service, user_moderator):
+        """Role names are ignored on update because id/name must stay coupled."""
+    
+        created = group_service.create(
+            user_moderator.identity,
+            {"name": "temp-immutable-role", "description": "temp"},
+        ).to_dict()
+    
+        try:
+            updated = group_service.update(
+                system_identity,
+                created["id"],
+                {"name": "renamed-role"},
+            ).to_dict()
+            assert created["id"] == updated["id"]
+            assert created["name"] == updated["name"]
+        finally:
+>           group_service.delete(system_identity, created["id"])
+                                                  ^^^^^^^^^^^^^
+E           KeyError: 'id'
+
+tests/services/test_service_groups.py:308: KeyError
+_____________________ test_groups_update_requires_managed ______________________
+
+app = <Flask 'invenio'>
+group_service = <invenio_users_resources.services.groups.service.GroupsService object at 0x7f8806a9ed70>
+not_managed_group = <Role not-managed-dep>
+
+    def test_groups_update_requires_managed(app, group_service, not_managed_group):
+        """Unmanaged groups can only be updated by system process, not by regular admins."""
+    
+        # System process CAN update unmanaged groups
+        result = group_service.update(
+            system_identity,
+            not_managed_group.id,
+            {"description": "updated by system"},
+        )
+>       assert result["description"] == "updated by system"
+               ^^^^^^^^^^^^^^^^^^^^^
+
+tests/services/test_service_groups.py:320: 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+self = <invenio_users_resources.services.groups.results.GroupItem object at 0x7f880658bc50>
+key = 'description'
+
+    def __getitem__(self, key):
+        """Key a key from the data."""
+>       return self.data[key]
+               ^^^^^^^^^^^^^^
+E       KeyError: 'description'
+
+invenio_users_resources/services/groups/results.py:38: KeyError
+________________________ test_groups_recreate_same_name ________________________
+
+app = <Flask 'invenio'>
+group_service = <invenio_users_resources.services.groups.service.GroupsService object at 0x7f8806a9ed70>
+
+    def test_groups_recreate_same_name(app, group_service):
+        """Recreating a role with the same name should succeed."""
+    
+        payload = {"name": "recreate-role", "description": "first"}
+        group = group_service.create(system_identity, payload)
+>       assert group_service.delete(system_identity, group["id"])
+                                                     ^^^^^^^^^^^
+
+tests/services/test_service_groups.py:360: 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+self = <invenio_users_resources.services.groups.results.GroupItem object at 0x7f88065873d0>
+key = 'id'
+
+    def __getitem__(self, key):
+        """Key a key from the data."""
+>       return self.data[key]
+               ^^^^^^^^^^^^^^
+E       KeyError: 'id'
+
+invenio_users_resources/services/groups/results.py:38: KeyError
+______________________ test_super_admin_can_manage_groups ______________________
+
+app = <Flask 'invenio'>
+group_service = <invenio_users_resources.services.groups.service.GroupsService object at 0x7f8806a9ed70>
+user_admin = <pytest_invenio.user.UserFixtureBase object at 0x7f880667cad0>
+
+    def test_super_admin_can_manage_groups(app, group_service, user_admin):
+        """Super users can update and delete managed groups."""
+    
+        payload = {
+            "name": "superuser-managed-role",
+            "description": "temp description",
+        }
+    
+        # Created by system to focus the check on super user capabilities
+        created = group_service.create(system_identity, payload).to_dict()
+    
+        updated = group_service.update(
+            user_admin.identity,
+>           created["id"],
+            ^^^^^^^^^^^^^
+            {"description": "updated by superuser"},
+        ).to_dict()
+E       KeyError: 'id'
+
+tests/services/test_service_groups.py:381: KeyError
+_________________________ test_import_domain_blocklist _________________________
+
+mock_get = <MagicMock name='get' id='140222201048976'>, app = <Flask 'invenio'>
+db = <SQLAlchemy postgresql+psycopg2://invenio:***@localhost:5432/invenio>
+domains = {'cern.ch': {'category': 1, 'domain': 'cern.ch', 'flagged': False, 'flagged_source': '', ...}, 'inveniosoftware.org': ...': 'disposable', ...}, 'new.org': {'domain': 'new.org', 'flagged': False, 'flagged_source': '', 'status': 1, ...}, ...}
+domains_service = <invenio_users_resources.services.domains.service.DomainsService object at 0x7f88065b3bf0>
+clear_cache = None
+
+    @patch("invenio_users_resources.services.domains.tasks.requests.get")
+    def test_import_domain_blocklist(
+        mock_get, app, db, domains, domains_service, clear_cache
+    ):
+        # Mock the response from requests.get
+        mock_resp = MagicMock()
+        mock_resp.status_code = 200
+        mock_resp.content = b"spamdomain.com.\nnew.org\n"
+        mock_get.return_value = mock_resp
+    
+        domain = domains_service.read(system_identity, "new.org")
+>       assert domain.data["domain"] == "new.org"
+               ^^^^^^^^^^^^^^^^^^^^^
+E       KeyError: 'domain'
+
+tests/services/test_service_tasks_domains.py:22: KeyError
+___________________________ test_read_with_logged_in ___________________________
+
+user_service = <invenio_users_resources.services.users.service.UsersService object at 0x7f88067bc050>
+auth_identity = <function auth_identity.<locals>.make_identity at 0x7f8806c5f740>
+user_accented = <pytest_invenio.user.UserFixtureBase object at 0x7f8806c38d10>
+user_pub = <pytest_invenio.user.UserFixtureBase object at 0x7f8806742150>
+user_pubres = <pytest_invenio.user.UserFixtureBase object at 0x7f8806741cd0>
+user_res = <pytest_invenio.user.UserFixtureBase object at 0x7f8806c3b110>
+
+    def test_read_with_logged_in(
+        user_service, auth_identity, user_accented, user_pub, user_pubres, user_res
+    ):
+        """Logged in users can read public users only."""
+        random_identity = auth_identity(user_accented.id)
+        res = user_service.read(random_identity, user_pub.id).to_dict()
+>       assert res["username"] == "pub"
+               ^^^^^^^^^^^^^^^
+E       KeyError: 'username'
+
+tests/services/users/test_service_users.py:170: KeyError
+_____________________________ test_read_self[pub] ______________________________
+
+user_service = <invenio_users_resources.services.users.service.UsersService object at 0x7f88067bc050>
+users = {'accented': <pytest_invenio.user.UserFixtureBase object at 0x7f8806c38d10>, 'admin_user': <pytest_invenio.user.UserFi...bject at 0x7f8806c3ae10>, 'notification_disabled': <pytest_invenio.user.UserFixtureBase object at 0x7f8806c3bdd0>, ...}
+username = 'pub'
+
+    @pytest.mark.parametrize(
+        "username",
+        [
+            "pub",
+            "pub-res",
+            "res",
+        ],
+    )
+    def test_read_self(user_service, users, username):
+        """Users can read themselves."""
+        user = users[username]
+        res = user_service.read(user.identity, user.id).to_dict()
+>       assert res["username"] == username
+               ^^^^^^^^^^^^^^^
+E       KeyError: 'username'
+
+tests/services/users/test_service_users.py:205: KeyError
+___________________________ test_read_self[pub-res] ____________________________
+
+user_service = <invenio_users_resources.services.users.service.UsersService object at 0x7f88067bc050>
+users = {'accented': <pytest_invenio.user.UserFixtureBase object at 0x7f8806c38d10>, 'admin_user': <pytest_invenio.user.UserFi...bject at 0x7f8806c3ae10>, 'notification_disabled': <pytest_invenio.user.UserFixtureBase object at 0x7f8806c3bdd0>, ...}
+username = 'pub-res'
+
+    @pytest.mark.parametrize(
+        "username",
+        [
+            "pub",
+            "pub-res",
+            "res",
+        ],
+    )
+    def test_read_self(user_service, users, username):
+        """Users can read themselves."""
+        user = users[username]
+        res = user_service.read(user.identity, user.id).to_dict()
+>       assert res["username"] == username
+               ^^^^^^^^^^^^^^^
+E       KeyError: 'username'
+
+tests/services/users/test_service_users.py:205: KeyError
+_____________________________ test_read_self[res] ______________________________
+
+user_service = <invenio_users_resources.services.users.service.UsersService object at 0x7f88067bc050>
+users = {'accented': <pytest_invenio.user.UserFixtureBase object at 0x7f8806c38d10>, 'admin_user': <pytest_invenio.user.UserFi...bject at 0x7f8806c3ae10>, 'notification_disabled': <pytest_invenio.user.UserFixtureBase object at 0x7f8806c3bdd0>, ...}
+username = 'res'
+
+    @pytest.mark.parametrize(
+        "username",
+        [
+            "pub",
+            "pub-res",
+            "res",
+        ],
+    )
+    def test_read_self(user_service, users, username):
+        """Users can read themselves."""
+        user = users[username]
+        res = user_service.read(user.identity, user.id).to_dict()
+>       assert res["username"] == username
+               ^^^^^^^^^^^^^^^
+E       KeyError: 'username'
+
+tests/services/users/test_service_users.py:205: KeyError
+_______________________________ test_create_user _______________________________
+
+app = <Flask 'invenio'>
+db = <SQLAlchemy postgresql+psycopg2://invenio:***@localhost:5432/invenio>
+user_service = <invenio_users_resources.services.users.service.UsersService object at 0x7f88067bc050>
+user_moderator = <pytest_invenio.user.UserFixtureBase object at 0x7f8806c3a8d0>
+user_res = <pytest_invenio.user.UserFixtureBase object at 0x7f8806c3b110>
+clear_cache = None
+search_clear = <OpenSearch([{'host': 'localhost', 'port': 9200}])>
+
+    def test_create_user(
+        app, db, user_service, user_moderator, user_res, clear_cache, search_clear
+    ):
+        """Test user create."""
+        data = {
+            "username": "newuser",
+            "email": "newuser@inveniosoftware.org",
+        }
+        res = user_service.create(user_moderator.identity, data).to_dict()
+    
+>       ur = user_service.read(user_moderator.identity, res["id"])
+                                                        ^^^^^^^^^
+E       KeyError: 'id'
+
+tests/services/users/test_service_users.py:256: KeyError
+----------------------------- Captured stdout call -----------------------------
+Content-Type: multipart/mixed; boundary="===============6242443855250626111=="
+MIME-Version: 1.0
+Subject: Password reset instructions
+From: no-reply@localhost
+To: newuser@inveniosoftware.org
+Date: Thu, 25 Jun 2026 09:03:23 +0000
+Message-ID: <178237820336.5913.9613019801543990292@runnervmmklqx.qiuyrsidnlhupfjum1jxhk501e.gx.internal.cloudapp.net>
+
+--===============6242443855250626111==
+Content-Type: multipart/alternative; boundary="===============1194937593572842221=="
+MIME-Version: 1.0
+
+--===============1194937593572842221==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+
+Your new account has been created
+
+Click the link below to create a new password:
+
+http://localhost/lost-password/WyIxMSIsIiQ1JHJvdW5kcz01MzUwMDAkZkN2ekY0TTQvbEFiTjlYYyRTblptLlFYTEhMWVdrTjlSd2VMYmc3WWwvZ3JwcWFwdXVOOFlQYkdjb3IwIl0.ajzu2w.qtoamMzF6MMVTXDYntd5QDK8JwQ
+--===============1194937593572842221==
+Content-Type: text/html; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+
+<p>Your new account has been created</p>
+
+<p>
+  <a href="http://localhost/lost-password/WyIxMSIsIiQ1JHJvdW5kcz01MzUwMDAkZkN2ekY0TTQvbEFiTjlYYyRTblptLlFYTEhMWVdrTjlSd2VMYmc3WWwvZ3JwcWFwdXVOOFlQYkdjb3IwIl0.ajzu2w.qtoamMzF6MMVTXDYntd5QDK8JwQ">Click here to create a new password</a>
+</p>
+--===============1194937593572842221==--
+
+--===============6242443855250626111==--
+
+-------------------------------------------------------------------------------
+__________________________________ test_block __________________________________
+
+app = <Flask 'invenio'>
+db = <SQLAlchemy postgresql+psycopg2://invenio:***@localhost:5432/invenio>
+user_service = <invenio_users_resources.services.users.service.UsersService object at 0x7f88067bc050>
+user_moderator = <pytest_invenio.user.UserFixtureBase object at 0x7f8806c3a8d0>
+user_res = <pytest_invenio.user.UserFixtureBase object at 0x7f8806c3b110>
+clear_cache = None
+search_clear = <OpenSearch([{'host': 'localhost', 'port': 9200}])>
+
+    def test_block(
+        app, db, user_service, user_moderator, user_res, clear_cache, search_clear
+    ):
+        """Test user block."""
+    
+        with pytest.raises(PermissionDeniedError):
+            user_service.block(user_res.identity, user_res.id)
+    
+        blocked = user_service.block(user_moderator.identity, user_res.id)
+        assert blocked
+    
+        ur = user_service.read(user_res.identity, user_res.id)
+        # User can't see when it was blocked
+        assert not "blocked_at" in ur.data
+        # But can see it's not active
+>       assert ur.data["active"] is False
+               ^^^^^^^^^^^^^^^^^
+E       KeyError: 'active'
+
+tests/services/users/test_service_users.py:354: KeyError
+_________________________________ test_approve _________________________________
+
+app = <Flask 'invenio'>
+db = <SQLAlchemy postgresql+psycopg2://invenio:***@localhost:5432/invenio>
+user_service = <invenio_users_resources.services.users.service.UsersService object at 0x7f88067bc050>
+user_res = <pytest_invenio.user.UserFixtureBase object at 0x7f8806c3b110>
+user_moderator = <pytest_invenio.user.UserFixtureBase object at 0x7f8806c3a8d0>
+clear_cache = None
+search_clear = <OpenSearch([{'host': 'localhost', 'port': 9200}])>
+
+    def test_approve(
+        app, db, user_service, user_res, user_moderator, clear_cache, search_clear
+    ):
+        """Test approval of an user."""
+        with pytest.raises(PermissionDeniedError):
+            user_service.block(user_res.identity, user_res.id)
+    
+        approved = user_service.approve(user_moderator.identity, user_res.id)
+        assert approved
+    
+        ur = user_service.read(user_res.identity, user_res.id)
+        # User can't see when it was approved
+        assert not "verified_at" in ur.data
+        # But can see it's active
+>       assert ur.data["active"] is True
+               ^^^^^^^^^^^^^^^^^
+E       KeyError: 'active'
+
+tests/services/users/test_service_users.py:385: KeyError
+_______________________________ test_deactivate ________________________________
+
+app = <Flask 'invenio'>
+db = <SQLAlchemy postgresql+psycopg2://invenio:***@localhost:5432/invenio>
+user_service = <invenio_users_resources.services.users.service.UsersService object at 0x7f88067bc050>
+user_res = <pytest_invenio.user.UserFixtureBase object at 0x7f8806c3b110>
+user_moderator = <pytest_invenio.user.UserFixtureBase object at 0x7f8806c3a8d0>
+clear_cache = None
+
+    def test_deactivate(app, db, user_service, user_res, user_moderator, clear_cache):
+        """Test deactivation of an user."""
+        with pytest.raises(PermissionDeniedError):
+            user_service.block(user_res.identity, user_res.id)
+    
+        deactivated = user_service.deactivate(user_moderator.identity, user_res.id)
+        assert deactivated
+    
+        ur = user_service.read(user_res.identity, user_res.id)
+        # User can see it's not active
+>       assert ur.data["active"] is False
+               ^^^^^^^^^^^^^^^^^
+E       KeyError: 'active'
+
+tests/services/users/test_service_users.py:402: KeyError
+_________________________________ test_restore _________________________________
+
+app = <Flask 'invenio'>
+db = <SQLAlchemy postgresql+psycopg2://invenio:***@localhost:5432/invenio>
+user_service = <invenio_users_resources.services.users.service.UsersService object at 0x7f88067bc050>
+user_res = <pytest_invenio.user.UserFixtureBase object at 0x7f8806c3b110>
+user_moderator = <pytest_invenio.user.UserFixtureBase object at 0x7f8806c3a8d0>
+clear_cache = None
+
+    def test_restore(app, db, user_service, user_res, user_moderator, clear_cache):
+        """Test restore of a user."""
+        blocked = user_service.block(user_moderator.identity, user_res.id)
+        assert blocked
+    
+        ur = user_service.read(user_moderator.identity, user_res.id)
+>       assert ur.data["active"] is False
+               ^^^^^^^^^^^^^^^^^
+E       KeyError: 'active'
+
+tests/services/users/test_service_users.py:431: KeyError
+______________________ test_moderation_callbacks_failure _______________________
+
+user_service = <invenio_users_resources.services.users.service.UsersService object at 0x7f88075bb570>
+user_res = <pytest_invenio.user.UserFixtureBase object at 0x7f8806555b50>
+user_moderator = <pytest_invenio.user.UserFixtureBase object at 0x7f88065562d0>
+monkeypatch = <_pytest.monkeypatch.MonkeyPatch object at 0x7f8806a3f9a0>
+unblocked = None, clear_cache = None
+
+    def test_moderation_callbacks_failure(
+        user_service, user_res, user_moderator, monkeypatch, unblocked, clear_cache
+    ):
+        """Test moderation actions (post block).
+    
+        This aims to test multiple behaviours:
+        - If a callback fails, no changes are committed.
+        - Even if a callback fails, the user block is committed.
+        """
+    
+        def _block_action_success(user_id, uow=None, **kwargs):
+            """Action to execute after blocking a user."""
+            user_service.approve(system_identity, user_id, uow=uow)
+    
+        def _block_action_failure(user_id, uow=None, **kwargs):
+            """Action raises an exception."""
+            raise Exception("Callback failed")
+    
+        monkeypatch.setitem(
+            current_actions_registry,
+            "block",
+            [_block_action_success, _block_action_failure],
+        )
+        blocked = user_service.block(user_moderator.identity, user_res.id)
+        assert blocked
+    
+        # Registered callbacks will fail and their result won't be committed.
+        ur = user_service.read(user_moderator.identity, user_res.id)
+>       assert ur.data["active"] == False
+               ^^^^^^^^^^^^^^^^^
+E       KeyError: 'active'
+
+tests/services/users/test_user_moderation.py:70: KeyError
+----------------------------- Captured stderr call -----------------------------
+[2026-06-25 09:03:30,885] WARNING in tasks: Could not execute action 'block' for user: Error on lock: <Lock user_moderation_lock.3>: Lock failed to be acquired.
+------------------------------ Captured log call -------------------------------
+WARNING  invenio:tasks.py:115 Could not execute action 'block' for user: Error on lock: <Lock user_moderation_lock.3>: Lock failed to be acquired.
+=============================== warnings summary ===============================
+tests/resources/test_resources_groups.py::test_group_create_api
+tests/resources/test_resources_users.py::test_read_self_serialization
+tests/services/test_generators.py::test_group_not_managed_generator
+tests/services/test_service_groups.py::test_groups_sort
+tests/services/test_service_tasks_domains.py::test_import_domain_blocklist
+tests/services/users/test_service_users.py::test_search_restricted
+tests/services/users/test_user_moderation.py::test_moderation_callbacks_success
+tests/test_notifications.py::test_user_recipient_generator
+tests/test_user_roles_admin.py::test_read_includes_roles
+  /home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-users-resources/patched/.venv/lib/python3.14/site-packages/invenio_rest/ext.py:24: FutureWarning: CSRF validation will be enabled by default in the version 1.3.x
+    self.init_app(app)
+
+tests/resources/test_resources_groups.py: 1 warning
+tests/resources/test_resources_users.py: 4 warnings
+tests/services/users/test_service_users.py: 5 warnings
+tests/services/users/test_user_moderation.py: 5 warnings
+  /home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-users-resources/patched/.venv/lib/python3.14/site-packages/cachelib/redis_base.py:70: DeprecationWarning: Call to deprecated setex. (Use 'set' instead.) -- Deprecated since version 2.6.12.
+    result = self._write_client.setex(
+
+-- Docs: https://docs.pytest.org/en/stable/how-to/capture-warnings.html
+================================ tests coverage ================================
+_______________ coverage: platform linux, python 3.14.2-final-0 ________________
+
+Name                                                         Stmts   Miss  Cover   Missing
+------------------------------------------------------------------------------------------
+invenio_users_resources/__init__.py                              2      0   100%
+invenio_users_resources/config.py                               39      0   100%
+invenio_users_resources/entity_resolvers.py                     86     48    44%   31-40, 44-50, 54, 58, 62-63, 67-91, 103-104, 108, 112, 116, 120, 129-133, 137-142, 146-147, 157, 170-171, 175, 179, 183, 187
+invenio_users_resources/ext.py                                  64      5    92%   111-114, 122
+invenio_users_resources/forms.py                                14      5    64%   25-27, 33-34
+invenio_users_resources/models.py                               10      4    60%   16, 20, 24, 34
+invenio_users_resources/notifications/__init__.py                0      0   100%
+invenio_users_resources/notifications/filters.py                11      1    91%   18
+invenio_users_resources/notifications/generators.py             37     15    59%   20, 42, 46-48, 56-57, 62-63, 71-72, 75-80
+invenio_users_resources/permissions.py                           3      0   100%
+invenio_users_resources/proxies.py                              12      0   100%
+invenio_users_resources/records/__init__.py                      2      0   100%
+invenio_users_resources/records/api.py                         387     31    92%   88, 92, 101, 107, 146, 155, 157, 260-264, 285-286, 295, 302, 309, 316, 329-330, 334-335, 376, 447, 508, 545-553, 575, 589
+invenio_users_resources/records/dumpers/__init__.py              2      0   100%
+invenio_users_resources/records/dumpers/email.py                15      0   100%
+invenio_users_resources/records/hooks.py                        57     27    53%   18-25, 44-51, 54-61, 85, 90, 94, 100
+invenio_users_resources/records/mappings/__init__.py             0      0   100%
+invenio_users_resources/records/mappings/os-v1/__init__.py       0      0   100%
+invenio_users_resources/records/mappings/os-v2/__init__.py       0      0   100%
+invenio_users_resources/records/mappings/v7/__init__.py          0      0   100%
+invenio_users_resources/records/models.py                       98      6    94%   50, 81, 86, 179-181
+invenio_users_resources/records/systemfields/__init__.py        76      0   100%
+invenio_users_resources/resources/__init__.py                    4      0   100%
+invenio_users_resources/resources/domains/__init__.py            3      0   100%
+invenio_users_resources/resources/domains/config.py             11      0   100%
+invenio_users_resources/resources/domains/resource.py            6      0   100%
+invenio_users_resources/resources/groups/__init__.py             3      0   100%
+invenio_users_resources/resources/groups/config.py              24      0   100%
+invenio_users_resources/resources/groups/errors.py               8      0   100%
+invenio_users_resources/resources/groups/resource.py            39      3    92%   80, 85-89
+invenio_users_resources/resources/users/__init__.py              3      0   100%
+invenio_users_resources/resources/users/config.py               25      0   100%
+invenio_users_resources/resources/users/errors.py                4      0   100%
+invenio_users_resources/resources/users/resource.py            106      8    92%   47, 80, 87-92, 212-216, 230-234
+invenio_users_resources/services/__init__.py                     4      0   100%
+invenio_users_resources/services/common.py                      13      0   100%
+invenio_users_resources/services/domains/__init__.py             3      0   100%
+invenio_users_resources/services/domains/components.py          27     11    59%   32-37, 45-54
+invenio_users_resources/services/domains/config.py              27      0   100%
+invenio_users_resources/services/domains/facets.py               7      0   100%
+invenio_users_resources/services/domains/service.py              8      0   100%
+invenio_users_resources/services/domains/tasks.py               61     38    38%   20-25, 31-36, 51-74, 77-83, 98-99
+invenio_users_resources/services/generators.py                 149     13    91%   45, 62-67, 94, 103, 190, 205, 230, 281, 306
+invenio_users_resources/services/groups/__init__.py              3      0   100%
+invenio_users_resources/services/groups/config.py               32      0   100%
+invenio_users_resources/services/groups/facets.py                3      0   100%
+invenio_users_resources/services/groups/results.py              57      4    93%   34, 54, 72, 78
+invenio_users_resources/services/groups/service.py              74     13    82%   40-41, 46-47, 71, 74-75, 99-100, 156, 162-166
+invenio_users_resources/services/groups/tasks.py                21      8    62%   22-23, 29-34
+invenio_users_resources/services/params.py                       9      0   100%
+invenio_users_resources/services/permissions.py                 37      0   100%
+invenio_users_resources/services/results.py                     29      0   100%
+invenio_users_resources/services/schemas.py                    158     13    92%   235-238, 246, 249, 252, 295, 306-310, 317
+invenio_users_resources/services/users/__init__.py               3      0   100%
+invenio_users_resources/services/users/config.py                54      4    93%   70-73
+invenio_users_resources/services/users/facets.py                 8      0   100%
+invenio_users_resources/services/users/lock.py                  11      0   100%
+invenio_users_resources/services/users/results.py               93      9    90%   15, 21-23, 33, 83, 87, 124, 130
+invenio_users_resources/services/users/search_params.py         23      8    65%   32-50
+invenio_users_resources/services/users/service.py              226     21    91%   142, 148-149, 158, 164-166, 178, 355, 381-396, 408, 431, 443, 457
+invenio_users_resources/services/users/tasks.py                 54     10    81%   51-52, 58-63, 103-108
+invenio_users_resources/views.py                                11      0   100%
+------------------------------------------------------------------------------------------
+TOTAL                                                         2356    305    87%
+=========================== short test summary info ============================
+FAILED tests/resources/test_resources_domains.py::test_domains_read - KeyError: 'domain'
+FAILED tests/resources/test_resources_domains.py::test_domains_create - KeyError: 'domain'
+FAILED tests/resources/test_resources_domains.py::test_domains_update - KeyError: 'domain'
+FAILED tests/resources/test_resources_groups.py::test_group_create_api - KeyError: 'id'
+FAILED tests/resources/test_resources_groups.py::test_group_create_disabled_api - KeyError: 'id'
+FAILED tests/resources/test_resources_users.py::test_read_self_serialization - KeyError: 'id'
+FAILED tests/resources/test_resources_users.py::test_read_logged_in_serialization[pub] - KeyError: 'id'
+FAILED tests/resources/test_resources_users.py::test_read_logged_in_serialization[pub-res] - KeyError: 'id'
+FAILED tests/resources/test_resources_users.py::test_create_user - KeyError: 'id'
+FAILED tests/resources/test_resources_users.py::test_approve_user - KeyError: 'verified_at'
+FAILED tests/resources/test_resources_users.py::test_block_user - KeyError: 'blocked_at'
+FAILED tests/resources/test_resources_users.py::test_deactivate_user - KeyError: 'active'
+FAILED tests/services/test_service_groups.py::test_groups_sort - KeyError: 'id'
+FAILED tests/services/test_service_groups.py::test_groups_crud - KeyError: 'id'
+FAILED tests/services/test_service_groups.py::test_group_update_validation_error - KeyError: 'id'
+FAILED tests/services/test_service_groups.py::test_groups_manage_permission_required - KeyError: 'id'
+FAILED tests/services/test_service_groups.py::test_protected_group_not_editable_via_api - KeyError: 'description'
+FAILED tests/services/test_service_groups.py::test_protected_group_not_creatable_via_api - KeyError: 'name'
+FAILED tests/services/test_service_groups.py::test_group_name_cannot_be_changed - KeyError: 'id'
+FAILED tests/services/test_service_groups.py::test_groups_update_requires_managed - KeyError: 'description'
+FAILED tests/services/test_service_groups.py::test_groups_recreate_same_name - KeyError: 'id'
+FAILED tests/services/test_service_groups.py::test_super_admin_can_manage_groups - KeyError: 'id'
+FAILED tests/services/test_service_tasks_domains.py::test_import_domain_blocklist - KeyError: 'domain'
+FAILED tests/services/users/test_service_users.py::test_read_with_logged_in - KeyError: 'username'
+FAILED tests/services/users/test_service_users.py::test_read_self[pub] - KeyError: 'username'
+FAILED tests/services/users/test_service_users.py::test_read_self[pub-res] - KeyError: 'username'
+FAILED tests/services/users/test_service_users.py::test_read_self[res] - KeyError: 'username'
+FAILED tests/services/users/test_service_users.py::test_create_user - KeyError: 'id'
+FAILED tests/services/users/test_service_users.py::test_block - KeyError: 'active'
+FAILED tests/services/users/test_service_users.py::test_approve - KeyError: 'active'
+FAILED tests/services/users/test_service_users.py::test_deactivate - KeyError: 'active'
+FAILED tests/services/users/test_service_users.py::test_restore - KeyError: 'active'
+FAILED tests/services/users/test_user_moderation.py::test_moderation_callbacks_failure - KeyError: 'active'
+============ 33 failed, 355 passed, 24 warnings in 77.82s (0:01:17) ============
+ Container docker_services_cli-redis-1  Stopping
+ Container docker_services_cli-opensearch-1  Stopping
+ Container docker_services_cli-postgresql-1  Stopping
+ Container docker_services_cli-rabbitmq-1  Stopping
+ Container docker_services_cli-redis-1  Stopped
+ Container docker_services_cli-redis-1  Removing
+ Container docker_services_cli-redis-1  Removed
+ Container docker_services_cli-postgresql-1  Stopped
+ Container docker_services_cli-postgresql-1  Removing
+ Container docker_services_cli-postgresql-1  Removed
+ Container docker_services_cli-opensearch-1  Stopped
+ Container docker_services_cli-opensearch-1  Removing
+ Container docker_services_cli-opensearch-1  Removed
+ Container docker_services_cli-rabbitmq-1  Stopped
+ Container docker_services_cli-rabbitmq-1  Removing
+ Container docker_services_cli-rabbitmq-1  Removed
+ Network docker_services_cli_default  Removing
+ Network docker_services_cli_default  Removed

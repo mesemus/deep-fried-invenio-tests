@@ -1,0 +1,2018 @@
+running extract_messages
+extracting messages from invenio_vocabularies/__init__.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/cli.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/config.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/ext.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/factories.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/fixtures.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/jobs.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/patch_info.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/proxies.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/views.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/webpack.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/administration/__init__.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/administration/views/__init__.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/administration/views/vocabularies.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/alembic/17c703ce1eb7_create_names_table.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/alembic/3ba812d80559_add_internal_name_id.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/alembic/4a9a4fd235f8_create_vocabulary_schemes.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/alembic/4f365fced43f_create_vocabularies_tables.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/alembic/55a700f897b6_add_names_and_afiliations_pid_column.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/alembic/6312f33645c1_create_affiliations_table.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/alembic/676dd587542d_create_funders_vocabulary_table.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/alembic/8ff82dfb0be8_create_vocabularies_branch.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/alembic/__init__.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/alembic/af2457652217_drop_unique_constraint_from_internal_id.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/alembic/d00af88aac94_change_datetime_types.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/alembic/e1146238edd3_create_awards_table.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/contrib/__init__.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/contrib/affiliations/__init__.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/contrib/affiliations/affiliations.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/contrib/affiliations/api.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/contrib/affiliations/config.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/contrib/affiliations/datastreams.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/contrib/affiliations/facets.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/contrib/affiliations/models.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/contrib/affiliations/resources.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/contrib/affiliations/schema.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/contrib/affiliations/services.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/contrib/affiliations/jsonschemas/__init__.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/contrib/affiliations/mappings/__init__.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/contrib/affiliations/mappings/os-v1/__init__.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/contrib/affiliations/mappings/os-v2/__init__.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/contrib/affiliations/mappings/v7/__init__.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/contrib/awards/__init__.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/contrib/awards/api.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/contrib/awards/awards.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/contrib/awards/config.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/contrib/awards/datastreams.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/contrib/awards/models.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/contrib/awards/resources.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/contrib/awards/schema.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/contrib/awards/serializer.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/contrib/awards/services.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/contrib/awards/jsonschemas/__init__.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/contrib/awards/mappings/__init__.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/contrib/awards/mappings/os-v1/__init__.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/contrib/awards/mappings/os-v2/__init__.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/contrib/awards/mappings/v7/__init__.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/contrib/common/__init__.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/contrib/common/utils.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/contrib/common/openaire/__init__.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/contrib/common/openaire/datastreams.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/contrib/common/ror/__init__.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/contrib/common/ror/datastreams.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/contrib/funders/__init__.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/contrib/funders/api.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/contrib/funders/config.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/contrib/funders/datastreams.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/contrib/funders/facets.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/contrib/funders/funders.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/contrib/funders/models.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/contrib/funders/resources.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/contrib/funders/schema.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/contrib/funders/serializer.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/contrib/funders/services.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/contrib/funders/jsonschemas/__init__.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/contrib/funders/mappings/__init__.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/contrib/funders/mappings/os-v1/__init__.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/contrib/funders/mappings/os-v2/__init__.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/contrib/funders/mappings/v7/__init__.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/contrib/names/__init__.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/contrib/names/api.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/contrib/names/components.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/contrib/names/config.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/contrib/names/datastreams.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/contrib/names/models.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/contrib/names/names.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/contrib/names/permissions.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/contrib/names/resources.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/contrib/names/s3client.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/contrib/names/schema.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/contrib/names/services.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/contrib/names/jsonschemas/__init__.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/contrib/names/mappings/__init__.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/contrib/names/mappings/os-v1/__init__.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/contrib/names/mappings/os-v2/__init__.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/contrib/names/mappings/v7/__init__.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/contrib/subjects/__init__.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/contrib/subjects/api.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/contrib/subjects/config.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/contrib/subjects/datastreams.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/contrib/subjects/facets.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/contrib/subjects/models.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/contrib/subjects/resources.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/contrib/subjects/schema.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/contrib/subjects/services.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/contrib/subjects/subjects.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/contrib/subjects/euroscivoc/__init__.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/contrib/subjects/euroscivoc/datastreams.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/contrib/subjects/gemet/__init__.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/contrib/subjects/gemet/datastreams.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/contrib/subjects/jsonschemas/__init__.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/contrib/subjects/mappings/__init__.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/contrib/subjects/mappings/os-v1/__init__.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/contrib/subjects/mappings/os-v2/__init__.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/contrib/subjects/mappings/v7/__init__.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/contrib/subjects/mesh/__init__.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/contrib/subjects/mesh/datastreams.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/contrib/subjects/nvs/__init__.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/contrib/subjects/nvs/datastreams.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/datastreams/__init__.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/datastreams/datastreams.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/datastreams/errors.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/datastreams/factories.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/datastreams/readers.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/datastreams/tasks.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/datastreams/transformers.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/datastreams/writers.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/datastreams/xml.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/records/__init__.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/records/api.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/records/models.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/records/pidprovider.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/records/jsonschemas/__init__.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/records/mappings/__init__.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/records/mappings/os-v1/__init__.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/records/mappings/os-v2/__init__.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/records/mappings/v7/__init__.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/records/systemfields/__init__.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/records/systemfields/pid.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/records/systemfields/relations.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/resources/__init__.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/resources/config.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/resources/resource.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/resources/schema.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/resources/serializer.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/services/__init__.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/services/components.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/services/config.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/services/facets.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/services/generators.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/services/permissions.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/services/querystr.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/services/results.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/services/schema.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/services/service.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/services/tasks.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/services/custom_fields/__init__.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/services/custom_fields/subject.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/services/custom_fields/vocabulary.py (encoding="utf-8")
+extracting messages from invenio_vocabularies/templates/semantic-ui/invenio_vocabularies/subjects.html (encoding="utf-8")
+extracting messages from invenio_vocabularies/templates/semantic-ui/invenio_vocabularies/vocabularies-list.html (encoding="utf-8")
+extracting messages from invenio_vocabularies/templates/semantic-ui/invenio_vocabularies/vocabulary-details.html (encoding="utf-8")
+writing PO template file to /dev/null
+ postgresql Pulling 
+ redis Pulling 
+ opensearch Pulling 
+ f9dd052e142d Pulling fs layer 
+ e8c6d4883897 Pulling fs layer 
+ 648eb81b3252 Pulling fs layer 
+ eb77aa907276 Pulling fs layer 
+ 4f4fb700ef54 Pulling fs layer 
+ 0ffa8f8aba1e Pulling fs layer 
+ eb77aa907276 Waiting 
+ 2e81b9cb93cd Pulling fs layer 
+ 4f4fb700ef54 Waiting 
+ 0ffa8f8aba1e Waiting 
+ 2e81b9cb93cd Waiting 
+ b0a0cf830b12 Pulling fs layer 
+ dda3d8fbd5ed Pulling fs layer 
+ 283a477db7bb Pulling fs layer 
+ 91d2729fa4d5 Pulling fs layer 
+ 9739ced65621 Pulling fs layer 
+ ae3bb1b347a4 Pulling fs layer 
+ f8406d9c00ea Pulling fs layer 
+ c199bff16b05 Pulling fs layer 
+ e0d55fdb4d15 Pulling fs layer 
+ c1cb13b19080 Pulling fs layer 
+ 873532e5f8c7 Pulling fs layer 
+ 050d9f8c3b1c Pulling fs layer 
+ 710e142705f8 Pulling fs layer 
+ cb628c265f09 Pulling fs layer 
+ c199bff16b05 Waiting 
+ e0d55fdb4d15 Waiting 
+ b0a0cf830b12 Waiting 
+ dda3d8fbd5ed Waiting 
+ c1cb13b19080 Waiting 
+ 873532e5f8c7 Waiting 
+ 283a477db7bb Waiting 
+ 91d2729fa4d5 Waiting 
+ 9739ced65621 Waiting 
+ ae3bb1b347a4 Waiting 
+ f8406d9c00ea Waiting 
+ 710e142705f8 Waiting 
+ 050d9f8c3b1c Waiting 
+ cb628c265f09 Waiting 
+ 68629629b516 Pulling fs layer 
+ c5510c1247f7 Pulling fs layer 
+ 098849b20a3c Pulling fs layer 
+ ee7a04c62d66 Pulling fs layer 
+ 2a2f77d93543 Pulling fs layer 
+ 4f4fb700ef54 Pulling fs layer 
+ 013850a31d8d Pulling fs layer 
+ 68629629b516 Waiting 
+ c5510c1247f7 Waiting 
+ 098849b20a3c Waiting 
+ ee7a04c62d66 Waiting 
+ 2a2f77d93543 Waiting 
+ 4f4fb700ef54 Waiting 
+ 013850a31d8d Waiting 
+ e8c6d4883897 Downloading [>                                                  ]  48.51kB/4.398MB
+ f9dd052e142d Downloading [>                                                  ]  523.6kB/52.33MB
+ e8c6d4883897 Verifying Checksum 
+ e8c6d4883897 Download complete 
+ eb77aa907276 Downloading [>                                                  ]  528.6kB/907.7MB
+ f9dd052e142d Downloading [========================>                          ]  25.69MB/52.33MB
+ 648eb81b3252 Downloading [==================================================>]  1.561kB/1.561kB
+ 648eb81b3252 Verifying Checksum 
+ 648eb81b3252 Download complete 
+ eb77aa907276 Downloading [=>                                                 ]  29.89MB/907.7MB
+ 4f4fb700ef54 Downloading [==================================================>]      32B/32B
+ 4f4fb700ef54 Verifying Checksum 
+ 4f4fb700ef54 Download complete 
+ f9dd052e142d Verifying Checksum 
+ f9dd052e142d Download complete 
+ 0ffa8f8aba1e Downloading [==================================================>]     226B/226B
+ 0ffa8f8aba1e Verifying Checksum 
+ 0ffa8f8aba1e Download complete 
+ f9dd052e142d Extracting [>                                                  ]  524.3kB/52.33MB
+ 2e81b9cb93cd Downloading [==================================================>]  1.859kB/1.859kB
+ 2e81b9cb93cd Verifying Checksum 
+ 2e81b9cb93cd Download complete 
+ dda3d8fbd5ed Downloading [==================================================>]  1.165kB/1.165kB
+ dda3d8fbd5ed Download complete 
+ eb77aa907276 Downloading [===>                                               ]  61.31MB/907.7MB
+ b0a0cf830b12 Downloading [>                                                  ]  294.3kB/29.15MB
+ 283a477db7bb Downloading [>                                                  ]  48.51kB/4.533MB
+ 283a477db7bb Verifying Checksum 
+ 283a477db7bb Download complete 
+ 91d2729fa4d5 Downloading [>                                                  ]  15.74kB/1.45MB
+ f9dd052e142d Extracting [=>                                                 ]  1.573MB/52.33MB
+ 91d2729fa4d5 Verifying Checksum 
+ 91d2729fa4d5 Download complete 
+ eb77aa907276 Downloading [=====>                                             ]  91.19MB/907.7MB
+ b0a0cf830b12 Downloading [============================================>      ]  25.66MB/29.15MB
+ b0a0cf830b12 Verifying Checksum 
+ b0a0cf830b12 Download complete 
+ 9739ced65621 Downloading [>                                                  ]  81.28kB/8.069MB
+ ae3bb1b347a4 Downloading [>                                                  ]  15.74kB/1.196MB
+ b0a0cf830b12 Extracting [>                                                  ]  294.9kB/29.15MB
+ ae3bb1b347a4 Verifying Checksum 
+ ae3bb1b347a4 Download complete 
+ 9739ced65621 Verifying Checksum 
+ 9739ced65621 Download complete 
+ eb77aa907276 Downloading [======>                                            ]  117.3MB/907.7MB
+ f8406d9c00ea Downloading [==================================================>]     116B/116B
+ f8406d9c00ea Verifying Checksum 
+ f8406d9c00ea Download complete 
+ c199bff16b05 Downloading [==================================================>]  3.145kB/3.145kB
+ c199bff16b05 Verifying Checksum 
+ c199bff16b05 Download complete 
+ c1cb13b19080 Downloading [=================>                                 ]  3.502kB/9.925kB
+ c1cb13b19080 Downloading [==================================================>]  9.925kB/9.925kB
+ c1cb13b19080 Verifying Checksum 
+ c1cb13b19080 Download complete 
+ e0d55fdb4d15 Downloading [>                                                  ]  524.6kB/109MB
+ b0a0cf830b12 Extracting [======>                                            ]  3.834MB/29.15MB
+ 873532e5f8c7 Downloading [==================================================>]     128B/128B
+ 873532e5f8c7 Verifying Checksum 
+ 873532e5f8c7 Download complete 
+ eb77aa907276 Downloading [=======>                                           ]  142.9MB/907.7MB
+ f9dd052e142d Extracting [====>                                              ]  4.719MB/52.33MB
+ 050d9f8c3b1c Downloading [==================================================>]     169B/169B
+ 050d9f8c3b1c Verifying Checksum 
+ 050d9f8c3b1c Download complete 
+ e0d55fdb4d15 Downloading [===========>                                       ]  25.59MB/109MB
+ b0a0cf830b12 Extracting [===========>                                       ]  6.488MB/29.15MB
+ 710e142705f8 Downloading [================================>                  ]  3.502kB/5.421kB
+ 710e142705f8 Downloading [==================================================>]  5.421kB/5.421kB
+ 710e142705f8 Verifying Checksum 
+ 710e142705f8 Download complete 
+ eb77aa907276 Downloading [=========>                                         ]    169MB/907.7MB
+ cb628c265f09 Downloading [==================================================>]     184B/184B
+ cb628c265f09 Verifying Checksum 
+ cb628c265f09 Download complete 
+ e0d55fdb4d15 Downloading [=========================>                         ]   55.4MB/109MB
+ b0a0cf830b12 Extracting [===============>                                   ]  8.847MB/29.15MB
+ f9dd052e142d Extracting [=====>                                             ]  5.243MB/52.33MB
+ 68629629b516 Downloading [>                                                  ]  294.3kB/28.24MB
+ eb77aa907276 Downloading [==========>                                        ]  197.8MB/907.7MB
+ e0d55fdb4d15 Downloading [=======================================>           ]  85.77MB/109MB
+ b0a0cf830b12 Extracting [================>                                  ]  9.732MB/29.15MB
+ 68629629b516 Downloading [=========>                                         ]  5.603MB/28.24MB
+ f9dd052e142d Extracting [======>                                            ]  6.816MB/52.33MB
+ eb77aa907276 Downloading [============>                                      ]  227.8MB/907.7MB
+ e0d55fdb4d15 Verifying Checksum 
+ e0d55fdb4d15 Download complete 
+ c5510c1247f7 Downloading [==================================================>]  1.103kB/1.103kB
+ c5510c1247f7 Verifying Checksum 
+ c5510c1247f7 Download complete 
+ b0a0cf830b12 Extracting [==================>                                ]  10.91MB/29.15MB
+ 68629629b516 Verifying Checksum 
+ 68629629b516 Download complete 
+ eb77aa907276 Downloading [==============>                                    ]  256.6MB/907.7MB
+ f9dd052e142d Extracting [========>                                          ]  8.913MB/52.33MB
+ 098849b20a3c Downloading [==================================================>]     874B/874B
+ 098849b20a3c Verifying Checksum 
+ 098849b20a3c Download complete 
+ 68629629b516 Extracting [>                                                  ]  294.9kB/28.24MB
+ 2a2f77d93543 Downloading [==================================================>]      97B/97B
+ 2a2f77d93543 Download complete 
+ ee7a04c62d66 Downloading [>                                                  ]  163.2kB/15.35MB
+ b0a0cf830b12 Extracting [=======================>                           ]  13.57MB/29.15MB
+ 4f4fb700ef54 Downloading [==================================================>]      32B/32B
+ 4f4fb700ef54 Verifying Checksum 
+ 4f4fb700ef54 Download complete 
+ eb77aa907276 Downloading [===============>                                   ]  283.3MB/907.7MB
+ f9dd052e142d Extracting [===========>                                       ]  12.06MB/52.33MB
+ 013850a31d8d Downloading [==================================================>]     601B/601B
+ 013850a31d8d Verifying Checksum 
+ 013850a31d8d Download complete 
+ ee7a04c62d66 Verifying Checksum 
+ ee7a04c62d66 Download complete 
+ 68629629b516 Extracting [====>                                              ]  2.359MB/28.24MB
+ b0a0cf830b12 Extracting [===========================>                       ]  16.22MB/29.15MB
+ eb77aa907276 Downloading [================>                                  ]  304.1MB/907.7MB
+ f9dd052e142d Extracting [==============>                                    ]   15.2MB/52.33MB
+ 68629629b516 Extracting [=========>                                         ]  5.308MB/28.24MB
+ b0a0cf830b12 Extracting [==================================>                ]  20.05MB/29.15MB
+ eb77aa907276 Downloading [=================>                                 ]  326.5MB/907.7MB
+ f9dd052e142d Extracting [=================>                                 ]  18.35MB/52.33MB
+ 68629629b516 Extracting [=============>                                     ]  7.373MB/28.24MB
+ b0a0cf830b12 Extracting [======================================>            ]  22.71MB/29.15MB
+ eb77aa907276 Downloading [===================>                               ]  350.5MB/907.7MB
+ f9dd052e142d Extracting [=====================>                             ]  22.54MB/52.33MB
+ 68629629b516 Extracting [================>                                  ]  9.142MB/28.24MB
+ eb77aa907276 Downloading [====================>                              ]  380.4MB/907.7MB
+ f9dd052e142d Extracting [=========================>                         ]  26.21MB/52.33MB
+ 68629629b516 Extracting [==================>                                ]  10.62MB/28.24MB
+ eb77aa907276 Downloading [======================>                            ]  408.1MB/907.7MB
+ f9dd052e142d Extracting [==========================>                        ]  27.26MB/52.33MB
+ 68629629b516 Extracting [======================>                            ]  12.68MB/28.24MB
+ eb77aa907276 Downloading [========================>                          ]    437MB/907.7MB
+ b0a0cf830b12 Extracting [==========================================>        ]  24.77MB/29.15MB
+ f9dd052e142d Extracting [===========================>                       ]  28.31MB/52.33MB
+ 68629629b516 Extracting [===========================>                       ]  15.63MB/28.24MB
+ eb77aa907276 Downloading [=========================>                         ]  460.5MB/907.7MB
+ b0a0cf830b12 Extracting [==============================================>    ]  27.13MB/29.15MB
+ 68629629b516 Extracting [==================================>                ]  19.76MB/28.24MB
+ eb77aa907276 Downloading [==========================>                        ]  488.2MB/907.7MB
+ f9dd052e142d Extracting [============================>                      ]  29.36MB/52.33MB
+ b0a0cf830b12 Extracting [===============================================>   ]  27.72MB/29.15MB
+ eb77aa907276 Downloading [============================>                      ]  519.2MB/907.7MB
+ 68629629b516 Extracting [=========================================>         ]   23.3MB/28.24MB
+ b0a0cf830b12 Extracting [================================================>  ]  28.02MB/29.15MB
+ eb77aa907276 Downloading [==============================>                    ]  550.7MB/907.7MB
+ f9dd052e142d Extracting [=============================>                     ]  30.41MB/52.33MB
+ eb77aa907276 Downloading [================================>                  ]  583.2MB/907.7MB
+ 68629629b516 Extracting [==========================================>        ]  23.89MB/28.24MB
+ f9dd052e142d Extracting [===============================>                   ]  32.51MB/52.33MB
+ eb77aa907276 Downloading [=================================>                 ]  610.9MB/907.7MB
+ 68629629b516 Extracting [==============================================>    ]  26.25MB/28.24MB
+ f9dd052e142d Extracting [===============================>                   ]  33.03MB/52.33MB
+ eb77aa907276 Downloading [===================================>               ]  639.7MB/907.7MB
+ b0a0cf830b12 Extracting [================================================>  ]  28.31MB/29.15MB
+ 68629629b516 Extracting [===============================================>   ]  26.84MB/28.24MB
+ eb77aa907276 Downloading [=====================================>             ]  672.3MB/907.7MB
+ f9dd052e142d Extracting [=================================>                 ]   34.6MB/52.33MB
+ eb77aa907276 Downloading [======================================>            ]  702.8MB/907.7MB
+ b0a0cf830b12 Extracting [==================================================>]  29.15MB/29.15MB
+ f9dd052e142d Extracting [==================================>                ]  36.18MB/52.33MB
+ b0a0cf830b12 Pull complete 
+ dda3d8fbd5ed Extracting [==================================================>]  1.165kB/1.165kB
+ dda3d8fbd5ed Extracting [==================================================>]  1.165kB/1.165kB
+ eb77aa907276 Downloading [========================================>          ]  729.5MB/907.7MB
+ f9dd052e142d Extracting [===================================>               ]   36.7MB/52.33MB
+ eb77aa907276 Downloading [=========================================>         ]  757.8MB/907.7MB
+ eb77aa907276 Downloading [===========================================>       ]  790.3MB/907.7MB
+ f9dd052e142d Extracting [====================================>              ]  37.75MB/52.33MB
+ eb77aa907276 Downloading [============================================>      ]  815.4MB/907.7MB
+ f9dd052e142d Extracting [=====================================>             ]   38.8MB/52.33MB
+ eb77aa907276 Downloading [==============================================>    ]  842.1MB/907.7MB
+ eb77aa907276 Downloading [================================================>  ]  877.3MB/907.7MB
+ 68629629b516 Extracting [================================================>  ]  27.43MB/28.24MB
+ f9dd052e142d Extracting [======================================>            ]  39.85MB/52.33MB
+ eb77aa907276 Downloading [=================================================> ]  907.2MB/907.7MB
+ eb77aa907276 Verifying Checksum 
+ eb77aa907276 Download complete 
+ f9dd052e142d Extracting [========================================>          ]  42.47MB/52.33MB
+ 68629629b516 Extracting [==================================================>]  28.24MB/28.24MB
+ f9dd052e142d Extracting [==========================================>        ]  44.04MB/52.33MB
+ f9dd052e142d Extracting [=============================================>     ]  47.71MB/52.33MB
+ f9dd052e142d Extracting [=================================================> ]  51.38MB/52.33MB
+ 68629629b516 Pull complete 
+ f9dd052e142d Extracting [=================================================> ]   51.9MB/52.33MB
+ f9dd052e142d Extracting [==================================================>]  52.33MB/52.33MB
+ c5510c1247f7 Extracting [==================================================>]  1.103kB/1.103kB
+ c5510c1247f7 Extracting [==================================================>]  1.103kB/1.103kB
+ f9dd052e142d Pull complete 
+ e8c6d4883897 Extracting [>                                                  ]  65.54kB/4.398MB
+ e8c6d4883897 Extracting [========>                                          ]  720.9kB/4.398MB
+ e8c6d4883897 Extracting [==============>                                    ]  1.311MB/4.398MB
+ e8c6d4883897 Extracting [==================>                                ]  1.638MB/4.398MB
+ e8c6d4883897 Extracting [====================>                              ]  1.769MB/4.398MB
+ e8c6d4883897 Extracting [=====================>                             ]  1.901MB/4.398MB
+ e8c6d4883897 Extracting [=======================>                           ]  2.032MB/4.398MB
+ c5510c1247f7 Pull complete 
+ dda3d8fbd5ed Pull complete 
+ 283a477db7bb Extracting [>                                                  ]  65.54kB/4.533MB
+ 098849b20a3c Extracting [==================================================>]     874B/874B
+ 098849b20a3c Extracting [==================================================>]     874B/874B
+ 098849b20a3c Pull complete 
+ ee7a04c62d66 Extracting [>                                                  ]  163.8kB/15.35MB
+ e8c6d4883897 Extracting [==================================>                ]  3.015MB/4.398MB
+ 283a477db7bb Extracting [=================================>                 ]   3.08MB/4.533MB
+ ee7a04c62d66 Extracting [================>                                  ]  5.079MB/15.35MB
+ 283a477db7bb Extracting [==================================================>]  4.533MB/4.533MB
+ e8c6d4883897 Extracting [=======================================>           ]  3.473MB/4.398MB
+ ee7a04c62d66 Extracting [=====================================>             ]  11.47MB/15.35MB
+ 283a477db7bb Pull complete 
+ 91d2729fa4d5 Extracting [=>                                                 ]  32.77kB/1.45MB
+ e8c6d4883897 Extracting [==================================================>]  4.398MB/4.398MB
+ 91d2729fa4d5 Extracting [==================================================>]   1.45MB/1.45MB
+ e8c6d4883897 Pull complete 
+ 648eb81b3252 Extracting [==================================================>]  1.561kB/1.561kB
+ 648eb81b3252 Extracting [==================================================>]  1.561kB/1.561kB
+ 91d2729fa4d5 Pull complete 
+ 9739ced65621 Extracting [>                                                  ]   98.3kB/8.069MB
+ 648eb81b3252 Pull complete 
+ ee7a04c62d66 Extracting [==================================================>]  15.35MB/15.35MB
+ ee7a04c62d66 Pull complete 
+ 2a2f77d93543 Extracting [==================================================>]      97B/97B
+ 2a2f77d93543 Extracting [==================================================>]      97B/97B
+ 2a2f77d93543 Pull complete 
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Pull complete 
+ 013850a31d8d Extracting [==================================================>]     601B/601B
+ 013850a31d8d Extracting [==================================================>]     601B/601B
+ 013850a31d8d Pull complete 
+ redis Pulled 
+ eb77aa907276 Extracting [>                                                  ]  557.1kB/907.7MB
+ 9739ced65621 Extracting [==================>                                ]  3.047MB/8.069MB
+ eb77aa907276 Extracting [>                                                  ]  16.71MB/907.7MB
+ 9739ced65621 Extracting [=============================>                     ]  4.817MB/8.069MB
+ eb77aa907276 Extracting [=>                                                 ]  36.21MB/907.7MB
+ 9739ced65621 Extracting [========================================>          ]  6.586MB/8.069MB
+ 9739ced65621 Extracting [==================================================>]  8.069MB/8.069MB
+ eb77aa907276 Extracting [==>                                                ]  53.48MB/907.7MB
+ 9739ced65621 Pull complete 
+ ae3bb1b347a4 Extracting [=>                                                 ]  32.77kB/1.196MB
+ ae3bb1b347a4 Extracting [==================================================>]  1.196MB/1.196MB
+ eb77aa907276 Extracting [===>                                               ]   71.3MB/907.7MB
+ ae3bb1b347a4 Extracting [==================================================>]  1.196MB/1.196MB
+ ae3bb1b347a4 Pull complete 
+ f8406d9c00ea Extracting [==================================================>]     116B/116B
+ f8406d9c00ea Extracting [==================================================>]     116B/116B
+ f8406d9c00ea Pull complete 
+ c199bff16b05 Extracting [==================================================>]  3.145kB/3.145kB
+ c199bff16b05 Extracting [==================================================>]  3.145kB/3.145kB
+ c199bff16b05 Pull complete 
+ eb77aa907276 Extracting [====>                                              ]  81.89MB/907.7MB
+ e0d55fdb4d15 Extracting [>                                                  ]  557.1kB/109MB
+ eb77aa907276 Extracting [=====>                                             ]  92.47MB/907.7MB
+ e0d55fdb4d15 Extracting [==>                                                ]  6.128MB/109MB
+ eb77aa907276 Extracting [=====>                                             ]  99.16MB/907.7MB
+ e0d55fdb4d15 Extracting [====>                                              ]  8.913MB/109MB
+ eb77aa907276 Extracting [=====>                                             ]  106.4MB/907.7MB
+ e0d55fdb4d15 Extracting [=====>                                             ]  12.81MB/109MB
+ eb77aa907276 Extracting [======>                                            ]  114.2MB/907.7MB
+ e0d55fdb4d15 Extracting [=======>                                           ]  16.71MB/109MB
+ eb77aa907276 Extracting [======>                                            ]  121.4MB/907.7MB
+ e0d55fdb4d15 Extracting [=========>                                         ]  20.61MB/109MB
+ eb77aa907276 Extracting [=======>                                           ]  128.1MB/907.7MB
+ e0d55fdb4d15 Extracting [===========>                                       ]  24.51MB/109MB
+ eb77aa907276 Extracting [=======>                                           ]  134.3MB/907.7MB
+ e0d55fdb4d15 Extracting [=============>                                     ]  30.08MB/109MB
+ eb77aa907276 Extracting [=======>                                           ]  139.8MB/907.7MB
+ e0d55fdb4d15 Extracting [=================>                                 ]  37.88MB/109MB
+ eb77aa907276 Extracting [========>                                          ]  145.4MB/907.7MB
+ e0d55fdb4d15 Extracting [====================>                              ]  45.68MB/109MB
+ eb77aa907276 Extracting [========>                                          ]  150.4MB/907.7MB
+ e0d55fdb4d15 Extracting [=======================>                           ]  51.81MB/109MB
+ eb77aa907276 Extracting [========>                                          ]  157.6MB/907.7MB
+ e0d55fdb4d15 Extracting [=========================>                         ]  55.15MB/109MB
+ eb77aa907276 Extracting [=========>                                         ]  168.8MB/907.7MB
+ e0d55fdb4d15 Extracting [===========================>                       ]   59.6MB/109MB
+ eb77aa907276 Extracting [==========>                                        ]  184.9MB/907.7MB
+ e0d55fdb4d15 Extracting [==============================>                    ]   67.4MB/109MB
+ eb77aa907276 Extracting [==========>                                        ]  199.4MB/907.7MB
+ e0d55fdb4d15 Extracting [==================================>                ]  74.65MB/109MB
+ eb77aa907276 Extracting [===========>                                       ]  211.1MB/907.7MB
+ eb77aa907276 Extracting [============>                                      ]    220MB/907.7MB
+ e0d55fdb4d15 Extracting [====================================>              ]  80.22MB/109MB
+ eb77aa907276 Extracting [============>                                      ]  228.4MB/907.7MB
+ e0d55fdb4d15 Extracting [========================================>          ]  87.46MB/109MB
+ eb77aa907276 Extracting [============>                                      ]  235.6MB/907.7MB
+ e0d55fdb4d15 Extracting [==========================================>        ]  92.47MB/109MB
+ eb77aa907276 Extracting [=============>                                     ]    244MB/907.7MB
+ e0d55fdb4d15 Extracting [===========================================>       ]  95.26MB/109MB
+ eb77aa907276 Extracting [==============>                                    ]  256.8MB/907.7MB
+ e0d55fdb4d15 Extracting [============================================>      ]  97.48MB/109MB
+ eb77aa907276 Extracting [===============>                                   ]  274.1MB/907.7MB
+ e0d55fdb4d15 Extracting [==============================================>    ]  100.3MB/109MB
+ eb77aa907276 Extracting [================>                                  ]  293.6MB/907.7MB
+ e0d55fdb4d15 Extracting [===============================================>   ]  103.1MB/109MB
+ eb77aa907276 Extracting [=================>                                 ]  310.8MB/907.7MB
+ eb77aa907276 Extracting [==================>                                ]  328.1MB/907.7MB
+ e0d55fdb4d15 Extracting [===============================================>   ]  104.2MB/109MB
+ eb77aa907276 Extracting [===================>                               ]  345.9MB/907.7MB
+ e0d55fdb4d15 Extracting [================================================>  ]  105.3MB/109MB
+ eb77aa907276 Extracting [===================>                               ]  360.4MB/907.7MB
+ e0d55fdb4d15 Extracting [=================================================> ]    107MB/109MB
+ eb77aa907276 Extracting [====================>                              ]  366.5MB/907.7MB
+ eb77aa907276 Extracting [====================>                              ]  372.7MB/907.7MB
+ e0d55fdb4d15 Extracting [=================================================> ]  107.5MB/109MB
+ eb77aa907276 Extracting [=====================>                             ]  388.3MB/907.7MB
+ e0d55fdb4d15 Extracting [=================================================> ]  108.6MB/109MB
+ eb77aa907276 Extracting [======================>                            ]  406.1MB/907.7MB
+ e0d55fdb4d15 Extracting [==================================================>]    109MB/109MB
+ eb77aa907276 Extracting [=======================>                           ]  427.3MB/907.7MB
+ eb77aa907276 Extracting [========================>                          ]  451.8MB/907.7MB
+ eb77aa907276 Extracting [==========================>                        ]  476.8MB/907.7MB
+ eb77aa907276 Extracting [===========================>                       ]  501.9MB/907.7MB
+ eb77aa907276 Extracting [=============================>                     ]  528.6MB/907.7MB
+ eb77aa907276 Extracting [==============================>                    ]  555.4MB/907.7MB
+ eb77aa907276 Extracting [================================>                  ]    581MB/907.7MB
+ eb77aa907276 Extracting [=================================>                 ]  605.5MB/907.7MB
+ eb77aa907276 Extracting [==================================>                ]  631.1MB/907.7MB
+ eb77aa907276 Extracting [====================================>              ]  658.4MB/907.7MB
+ eb77aa907276 Extracting [=====================================>             ]  684.6MB/907.7MB
+ eb77aa907276 Extracting [=======================================>           ]  710.8MB/907.7MB
+ eb77aa907276 Extracting [========================================>          ]  736.4MB/907.7MB
+ eb77aa907276 Extracting [=========================================>         ]  755.4MB/907.7MB
+ eb77aa907276 Extracting [==========================================>        ]  776.5MB/907.7MB
+ eb77aa907276 Extracting [===========================================>       ]  797.1MB/907.7MB
+ eb77aa907276 Extracting [=============================================>     ]  817.8MB/907.7MB
+ eb77aa907276 Extracting [==============================================>    ]  837.8MB/907.7MB
+ eb77aa907276 Extracting [===============================================>   ]  857.3MB/907.7MB
+ eb77aa907276 Extracting [================================================>  ]  877.4MB/907.7MB
+ eb77aa907276 Extracting [=================================================> ]  899.1MB/907.7MB
+ eb77aa907276 Extracting [==================================================>]  907.7MB/907.7MB
+ e0d55fdb4d15 Pull complete 
+ c1cb13b19080 Extracting [==================================================>]  9.925kB/9.925kB
+ eb77aa907276 Pull complete 
+ c1cb13b19080 Extracting [==================================================>]  9.925kB/9.925kB
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Pull complete 
+ 0ffa8f8aba1e Extracting [==================================================>]     226B/226B
+ 0ffa8f8aba1e Extracting [==================================================>]     226B/226B
+ c1cb13b19080 Pull complete 
+ 873532e5f8c7 Extracting [==================================================>]     128B/128B
+ 873532e5f8c7 Extracting [==================================================>]     128B/128B
+ 0ffa8f8aba1e Pull complete 
+ 2e81b9cb93cd Extracting [==================================================>]  1.859kB/1.859kB
+ 2e81b9cb93cd Extracting [==================================================>]  1.859kB/1.859kB
+ 873532e5f8c7 Pull complete 
+ 050d9f8c3b1c Extracting [==================================================>]     169B/169B
+ 050d9f8c3b1c Extracting [==================================================>]     169B/169B
+ 2e81b9cb93cd Pull complete 
+ 050d9f8c3b1c Pull complete 
+ 710e142705f8 Extracting [==================================================>]  5.421kB/5.421kB
+ 710e142705f8 Extracting [==================================================>]  5.421kB/5.421kB
+ opensearch Pulled 
+ 710e142705f8 Pull complete 
+ cb628c265f09 Extracting [==================================================>]     184B/184B
+ cb628c265f09 Extracting [==================================================>]     184B/184B
+ cb628c265f09 Pull complete 
+ postgresql Pulled 
+ Network docker_services_cli_default  Creating
+ Network docker_services_cli_default  Created
+ Container docker_services_cli-postgresql-1  Creating
+ Container docker_services_cli-redis-1  Creating
+ Container docker_services_cli-opensearch-1  Creating
+ Container docker_services_cli-opensearch-1  Created
+ Container docker_services_cli-redis-1  Created
+ Container docker_services_cli-postgresql-1  Created
+ Container docker_services_cli-opensearch-1  Starting
+ Container docker_services_cli-redis-1  Starting
+ Container docker_services_cli-postgresql-1  Starting
+ Container docker_services_cli-postgresql-1  Started
+ Container docker_services_cli-redis-1  Started
+ Container docker_services_cli-opensearch-1  Started
+============================= test session starts ==============================
+platform linux -- Python 3.14.2, pytest-8.4.2, pluggy-1.6.0
+rootdir: /home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-vocabularies/patched
+configfile: setup.cfg
+testpaths: tests, invenio_vocabularies
+plugins: flask-1.3.0, black-0.6.0, github-actions-annotate-failures-0.4.2, anyio-4.14.1, pycodestyle-2.5.0, cov-7.1.0, invenio-4.0.1, pydocstyle-2.4.0, isort-4.0.0, pytest_httpserver-1.1.5
+collected 944 items
+::warning file=workdir/tests/invenio-vocabularies/patched/tests/resources/test_tasks_resources.py,line=16::cannot collect test class 'TestReader' because it has a __init__ constructor (from: tests/resources/test_tasks_resources.py)
+::warning file=workdir/tests/invenio-vocabularies/patched/tests/resources/test_tasks_resources.py,line=37::cannot collect test class 'TestWriter' because it has a __init__ constructor (from: tests/resources/test_tasks_resources.py)
+
+tests/conftest.py ...                                                    [  0%]
+tests/contrib/affiliations/conftest.py ...                               [  0%]
+tests/contrib/affiliations/test_affiliations_api.py ....::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/invenio_indexer/api.py,line=113::The 'record_to_index' function is no longer expected to return a tuple (index, doc_type), instead it should only return the index. Support for the tuple will be removed in a future version of 'invenio-indexer'.
+.                [  1%]
+tests/contrib/affiliations/test_affiliations_datastreams.py ...::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/invenio_search/ext.py,line=123::OpenSearch v2 mappings files not found, falling back to Elasticsearch v7 mappings for module mock_module.mappings. Please add the missing OpenSearch os-v2 mappings.
+::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/invenio_rest/ext.py,line=24::CSRF validation will be enabled by default in the version 1.3.x
+.....::error file=workdir/tests/invenio-vocabularies/patched/tests/contrib/affiliations/test_affiliations_datastreams.py,line=249::test_openaire_affiliations_service_writer%0A%0AKeyError: 'revision_id'
+F... [  2%]
+.                                                                        [  2%]
+tests/contrib/affiliations/test_affiliations_jsonschema.py ...::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/invenio_search/ext.py,line=123::OpenSearch v2 mappings files not found, falling back to Elasticsearch v7 mappings for module mock_module.mappings. Please add the missing OpenSearch os-v2 mappings.
+::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/invenio_rest/ext.py,line=24::CSRF validation will be enabled by default in the version 1.3.x
+...        [  3%]
+tests/contrib/affiliations/test_affiliations_resource.py ...::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/invenio_search/ext.py,line=123::OpenSearch v2 mappings files not found, falling back to Elasticsearch v7 mappings for module mock_module.mappings. Please add the missing OpenSearch os-v2 mappings.
+::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/invenio_rest/ext.py,line=24::CSRF validation will be enabled by default in the version 1.3.x
+.....        [  4%]
+tests/contrib/affiliations/test_affiliations_schema.py ...::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/invenio_search/ext.py,line=123::OpenSearch v2 mappings files not found, falling back to Elasticsearch v7 mappings for module mock_module.mappings. Please add the missing OpenSearch os-v2 mappings.
+::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/invenio_rest/ext.py,line=24::CSRF validation will be enabled by default in the version 1.3.x
+::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/marshmallow/schema.py,line=845::In ModePIDFieldVocabularyMixin the context_schema is not defined, check why not!
+.::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/marshmallow/schema.py,line=845::In ModePIDFieldVocabularyMixin the context_schema is not defined, check why not!
+.....         [  4%]
+tests/contrib/affiliations/test_affiliations_service.py ..::error file=workdir/tests/invenio-vocabularies/patched/tests/contrib/affiliations/test_affiliations_service.py,line=59::test_simple_flow%0A%0AAssertionError: assert {'id', 'links'} == {'created', '...d', 'updated'}%0A  %0A  Extra items in the right set:%0A  'created'%0A  'updated'%0A  'revision_id'%0A  %0A  Full diff:%0A    {%0A  -     'created',%0A        'id',%0A        'links',%0A  -     'revision_id',%0A  -     'updated',%0A    }
+F::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/invenio_search/ext.py,line=123::OpenSearch v2 mappings files not found, falling back to Elasticsearch v7 mappings for module mock_module.mappings. Please add the missing OpenSearch os-v2 mappings.
+::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/invenio_rest/ext.py,line=24::CSRF validation will be enabled by default in the version 1.3.x
+...           [  5%]
+tests/contrib/awards/conftest.py ...                                     [  5%]
+tests/contrib/awards/test_awards_api.py ...::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/invenio_search/ext.py,line=123::OpenSearch v2 mappings files not found, falling back to Elasticsearch v7 mappings for module mock_module.mappings. Please add the missing OpenSearch os-v2 mappings.
+::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/invenio_rest/ext.py,line=24::CSRF validation will be enabled by default in the version 1.3.x
+..                            [  6%]
+tests/contrib/awards/test_awards_datastreams.py ...::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/invenio_search/ext.py,line=123::OpenSearch v2 mappings files not found, falling back to Elasticsearch v7 mappings for module mock_module.mappings. Please add the missing OpenSearch os-v2 mappings.
+::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/invenio_rest/ext.py,line=24::CSRF validation will be enabled by default in the version 1.3.x
+........              [  7%]
+tests/contrib/awards/test_awards_jsonschema.py ...::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/invenio_search/ext.py,line=123::OpenSearch v2 mappings files not found, falling back to Elasticsearch v7 mappings for module mock_module.mappings. Please add the missing OpenSearch os-v2 mappings.
+::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/invenio_rest/ext.py,line=24::CSRF validation will be enabled by default in the version 1.3.x
+..                     [  8%]
+tests/contrib/awards/test_awards_resource.py ...::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/invenio_search/ext.py,line=123::OpenSearch v2 mappings files not found, falling back to Elasticsearch v7 mappings for module mock_module.mappings. Please add the missing OpenSearch os-v2 mappings.
+::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/invenio_rest/ext.py,line=24::CSRF validation will be enabled by default in the version 1.3.x
+.....::error file=workdir/tests/invenio-vocabularies/patched/tests/contrib/awards/test_awards_resource.py,line=178::test_awards_delete%0A%0AAssertionError: assert {'id', 'links'} == {'created', '...d', 'updated'}%0A  %0A  Extra items in the right set:%0A  'created'%0A  'updated'%0A  'revision_id'%0A  %0A  Full diff:%0A    {%0A  -     'created',%0A        'id',%0A        'links',%0A  -     'revision_id',%0A  -     'updated',%0A    }
+F::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/flask_security/utils.py,line=77::Remember me support has been removed.
+.::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/flask_security/utils.py,line=77::Remember me support has been removed.
+.::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/flask_security/utils.py,line=77::Remember me support has been removed.
+                 [  9%]
+tests/contrib/awards/test_awards_schema.py ...::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/invenio_search/ext.py,line=123::OpenSearch v2 mappings files not found, falling back to Elasticsearch v7 mappings for module mock_module.mappings. Please add the missing OpenSearch os-v2 mappings.
+::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/invenio_rest/ext.py,line=24::CSRF validation will be enabled by default in the version 1.3.x
+::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/marshmallow/schema.py,line=845::In ModePIDFieldVocabularyMixin the context_schema is not defined, check why not!
+.::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/marshmallow/schema.py,line=845::In ModePIDFieldVocabularyMixin the context_schema is not defined, check why not!
+....::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/marshmallow/schema.py,line=845::In ModePIDFieldVocabularyMixin the context_schema is not defined, check why not!
+.::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/marshmallow/schema.py,line=845::In ModePIDFieldVocabularyMixin the context_schema is not defined, check why not!
+..........           [ 11%]
+tests/contrib/awards/test_awards_service.py ..::error file=workdir/tests/invenio-vocabularies/patched/tests/contrib/awards/test_awards_service.py,line=68::test_simple_flow%0A%0AAssertionError: assert {'id', 'links'} == {'created', '...d', 'updated'}%0A  %0A  Extra items in the right set:%0A  'created'%0A  'updated'%0A  'revision_id'%0A  %0A  Full diff:%0A    {%0A  -     'created',%0A        'id',%0A        'links',%0A  -     'revision_id',%0A  -     'updated',%0A    }
+F::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/invenio_search/ext.py,line=123::OpenSearch v2 mappings files not found, falling back to Elasticsearch v7 mappings for module mock_module.mappings. Please add the missing OpenSearch os-v2 mappings.
+::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/invenio_rest/ext.py,line=24::CSRF validation will be enabled by default in the version 1.3.x
+.....                     [ 12%]
+tests/contrib/common/openaire/test_openaire_datastreams.py .......       [ 12%]
+tests/contrib/common/ror/test_ror_datastreams.py ..........::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/invenio_search/ext.py,line=123::OpenSearch v2 mappings files not found, falling back to Elasticsearch v7 mappings for module mock_module.mappings. Please add the missing OpenSearch os-v2 mappings.
+::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/invenio_rest/ext.py,line=24::CSRF validation will be enabled by default in the version 1.3.x
+              [ 13%]
+tests/contrib/funders/conftest.py ...                                    [ 14%]
+tests/contrib/funders/test_funders_api.py ...::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/invenio_search/ext.py,line=123::OpenSearch v2 mappings files not found, falling back to Elasticsearch v7 mappings for module mock_module.mappings. Please add the missing OpenSearch os-v2 mappings.
+::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/invenio_rest/ext.py,line=24::CSRF validation will be enabled by default in the version 1.3.x
+..                          [ 14%]
+tests/contrib/funders/test_funders_datastreams.py ...::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/invenio_search/ext.py,line=123::OpenSearch v2 mappings files not found, falling back to Elasticsearch v7 mappings for module mock_module.mappings. Please add the missing OpenSearch os-v2 mappings.
+::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/invenio_rest/ext.py,line=24::CSRF validation will be enabled by default in the version 1.3.x
+....                [ 15%]
+tests/contrib/funders/test_funders_jsonschema.py ...::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/invenio_search/ext.py,line=123::OpenSearch v2 mappings files not found, falling back to Elasticsearch v7 mappings for module mock_module.mappings. Please add the missing OpenSearch os-v2 mappings.
+::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/invenio_rest/ext.py,line=24::CSRF validation will be enabled by default in the version 1.3.x
+...                  [ 16%]
+tests/contrib/funders/test_funders_resource.py ...::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/invenio_search/ext.py,line=123::OpenSearch v2 mappings files not found, falling back to Elasticsearch v7 mappings for module mock_module.mappings. Please add the missing OpenSearch os-v2 mappings.
+::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/invenio_rest/ext.py,line=24::CSRF validation will be enabled by default in the version 1.3.x
+.....::error file=workdir/tests/invenio-vocabularies/patched/tests/contrib/funders/test_funders_resource.py,line=162::test_funders_delete%0A%0AAssertionError: assert {'id', 'links'} == {'created', '...d', 'updated'}%0A  %0A  Extra items in the right set:%0A  'created'%0A  'updated'%0A  'revision_id'%0A  %0A  Full diff:%0A    {%0A  -     'created',%0A        'id',%0A        'links',%0A  -     'revision_id',%0A  -     'updated',%0A    }
+F::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/flask_security/utils.py,line=77::Remember me support has been removed.
+.::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/flask_security/utils.py,line=77::Remember me support has been removed.
+.::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/flask_security/utils.py,line=77::Remember me support has been removed.
+               [ 17%]
+tests/contrib/funders/test_funders_schema.py ...::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/invenio_search/ext.py,line=123::OpenSearch v2 mappings files not found, falling back to Elasticsearch v7 mappings for module mock_module.mappings. Please add the missing OpenSearch os-v2 mappings.
+::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/invenio_rest/ext.py,line=24::CSRF validation will be enabled by default in the version 1.3.x
+::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/marshmallow/schema.py,line=845::In ModePIDFieldVocabularyMixin the context_schema is not defined, check why not!
+.::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/marshmallow/schema.py,line=845::In ModePIDFieldVocabularyMixin the context_schema is not defined, check why not!
+........                [ 18%]
+tests/contrib/funders/test_funders_service.py ..::error file=workdir/tests/invenio-vocabularies/patched/tests/contrib/funders/test_funders_service.py,line=70::test_simple_flow%0A%0AAssertionError: assert {'id', 'links'} == {'created', '...d', 'updated'}%0A  %0A  Extra items in the right set:%0A  'created'%0A  'updated'%0A  'revision_id'%0A  %0A  Full diff:%0A    {%0A  -     'created',%0A        'id',%0A        'links',%0A  -     'revision_id',%0A  -     'updated',%0A    }
+F::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/invenio_search/ext.py,line=123::OpenSearch v2 mappings files not found, falling back to Elasticsearch v7 mappings for module mock_module.mappings. Please add the missing OpenSearch os-v2 mappings.
+::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/invenio_rest/ext.py,line=24::CSRF validation will be enabled by default in the version 1.3.x
+E.::error file=workdir/tests/invenio-vocabularies/patched/tests/contrib/funders/test_funders_service.py,line=95::test_indexed_at_query%0A%0Ainvenio_pidstore.errors.PIDAlreadyExists
+F                     [ 19%]
+tests/contrib/names/conftest.py ...                                      [ 19%]
+tests/contrib/names/test_name_permissions.py ...::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/invenio_search/ext.py,line=123::OpenSearch v2 mappings files not found, falling back to Elasticsearch v7 mappings for module mock_module.mappings. Please add the missing OpenSearch os-v2 mappings.
+::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/invenio_rest/ext.py,line=24::CSRF validation will be enabled by default in the version 1.3.x
+                         [ 19%]
+tests/contrib/names/test_names_api.py ...::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/invenio_search/ext.py,line=123::OpenSearch v2 mappings files not found, falling back to Elasticsearch v7 mappings for module mock_module.mappings. Please add the missing OpenSearch os-v2 mappings.
+::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/invenio_rest/ext.py,line=24::CSRF validation will be enabled by default in the version 1.3.x
+.::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/invenio_indexer/api.py,line=113::The 'record_to_index' function is no longer expected to return a tuple (index, doc_type), instead it should only return the index. Support for the tuple will be removed in a future version of 'invenio-indexer'.
+.                              [ 20%]
+tests/contrib/names/test_names_datastreams.py ....::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/invenio_search/ext.py,line=123::OpenSearch v2 mappings files not found, falling back to Elasticsearch v7 mappings for module mock_module.mappings. Please add the missing OpenSearch os-v2 mappings.
+::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/invenio_rest/ext.py,line=24::CSRF validation will be enabled by default in the version 1.3.x
+.................      [ 22%]
+tests/contrib/names/test_names_jsonschema.py ...::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/invenio_search/ext.py,line=123::OpenSearch v2 mappings files not found, falling back to Elasticsearch v7 mappings for module mock_module.mappings. Please add the missing OpenSearch os-v2 mappings.
+::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/invenio_rest/ext.py,line=24::CSRF validation will be enabled by default in the version 1.3.x
+...                      [ 23%]
+tests/contrib/names/test_names_resource.py ...::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/invenio_search/ext.py,line=123::OpenSearch v2 mappings files not found, falling back to Elasticsearch v7 mappings for module mock_module.mappings. Please add the missing OpenSearch os-v2 mappings.
+::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/invenio_rest/ext.py,line=24::CSRF validation will be enabled by default in the version 1.3.x
+.::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/flask_security/utils.py,line=77::Remember me support has been removed.
+..::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/flask_security/utils.py,line=77::Remember me support has been removed.
+.::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/flask_security/utils.py,line=77::Remember me support has been removed.
+.::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/flask_security/utils.py,line=77::Remember me support has been removed.
+.::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/flask_security/utils.py,line=77::Remember me support has been removed.
+                     [ 24%]
+tests/contrib/names/test_names_schema.py ...::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/invenio_search/ext.py,line=123::OpenSearch v2 mappings files not found, falling back to Elasticsearch v7 mappings for module mock_module.mappings. Please add the missing OpenSearch os-v2 mappings.
+::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/invenio_rest/ext.py,line=24::CSRF validation will be enabled by default in the version 1.3.x
+::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/marshmallow/schema.py,line=845::In ModePIDFieldVocabularyMixin the context_schema is not defined, check why not!
+.::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/marshmallow/schema.py,line=845::In ModePIDFieldVocabularyMixin the context_schema is not defined, check why not!
+.::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/marshmallow/schema.py,line=845::In ModePIDFieldVocabularyMixin the context_schema is not defined, check why not!
+.::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/marshmallow/schema.py,line=845::In ModePIDFieldVocabularyMixin the context_schema is not defined, check why not!
+                          [ 24%]
+tests/contrib/names/test_names_service.py ..::error file=workdir/tests/invenio-vocabularies/patched/tests/contrib/names/test_names_service.py,line=68::test_simple_flow%0A%0AAssertionError: assert {'id', 'links'} == {'created', '...d', 'updated'}%0A  %0A  Extra items in the right set:%0A  'internal_id'%0A  'created'%0A  'updated'%0A  'revision_id'%0A  %0A  Full diff:%0A    {%0A  -     'created',%0A        'id',%0A  -     'internal_id',%0A        'links',%0A  -     'revision_id',%0A  -     'updated',%0A    }
+F::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/invenio_search/ext.py,line=123::OpenSearch v2 mappings files not found, falling back to Elasticsearch v7 mappings for module mock_module.mappings. Please add the missing OpenSearch os-v2 mappings.
+::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/invenio_rest/ext.py,line=24::CSRF validation will be enabled by default in the version 1.3.x
+....                        [ 25%]
+tests/contrib/subjects/conftest.py ...                                   [ 25%]
+tests/contrib/subjects/euroscivoc/test_subjects_euroscivoc_datastream.py . [ 26%]
+...                                                                      [ 26%]
+tests/contrib/subjects/gemet/test_subjects_gemet_datastream.py ...       [ 26%]
+tests/contrib/subjects/nvs/test_subjects_nvs_datastream.py ....          [ 27%]
+tests/contrib/subjects/test_subjects_api.py ...::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/invenio_search/ext.py,line=123::OpenSearch v2 mappings files not found, falling back to Elasticsearch v7 mappings for module mock_module.mappings. Please add the missing OpenSearch os-v2 mappings.
+::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/invenio_rest/ext.py,line=24::CSRF validation will be enabled by default in the version 1.3.x
+::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/invenio_indexer/api.py,line=113::The 'record_to_index' function is no longer expected to return a tuple (index, doc_type), instead it should only return the index. Support for the tuple will be removed in a future version of 'invenio-indexer'.
+.                         [ 27%]
+tests/contrib/subjects/test_subjects_datastreams.py ...::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/invenio_search/ext.py,line=123::OpenSearch v2 mappings files not found, falling back to Elasticsearch v7 mappings for module mock_module.mappings. Please add the missing OpenSearch os-v2 mappings.
+::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/invenio_rest/ext.py,line=24::CSRF validation will be enabled by default in the version 1.3.x
+...               [ 28%]
+tests/contrib/subjects/test_subjects_facets.py ....                      [ 28%]
+tests/contrib/subjects/test_subjects_jsonschema.py ...::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/invenio_search/ext.py,line=123::OpenSearch v2 mappings files not found, falling back to Elasticsearch v7 mappings for module mock_module.mappings. Please add the missing OpenSearch os-v2 mappings.
+::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/invenio_rest/ext.py,line=24::CSRF validation will be enabled by default in the version 1.3.x
+...                [ 29%]
+tests/contrib/subjects/test_subjects_resource.py ...::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/invenio_search/ext.py,line=123::OpenSearch v2 mappings files not found, falling back to Elasticsearch v7 mappings for module mock_module.mappings. Please add the missing OpenSearch os-v2 mappings.
+::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/invenio_rest/ext.py,line=24::CSRF validation will be enabled by default in the version 1.3.x
+....                 [ 29%]
+tests/contrib/subjects/test_subjects_schema.py ...::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/invenio_search/ext.py,line=123::OpenSearch v2 mappings files not found, falling back to Elasticsearch v7 mappings for module mock_module.mappings. Please add the missing OpenSearch os-v2 mappings.
+::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/invenio_rest/ext.py,line=24::CSRF validation will be enabled by default in the version 1.3.x
+.                      [ 30%]
+tests/contrib/subjects/test_subjects_service.py ...::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/invenio_search/ext.py,line=123::OpenSearch v2 mappings files not found, falling back to Elasticsearch v7 mappings for module mock_module.mappings. Please add the missing OpenSearch os-v2 mappings.
+::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/invenio_rest/ext.py,line=24::CSRF validation will be enabled by default in the version 1.3.x
+.                     [ 30%]
+tests/custom_fields/test_custom_fields.py .......::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/invenio_search/ext.py,line=123::OpenSearch v2 mappings files not found, falling back to Elasticsearch v7 mappings for module mock_module.mappings. Please add the missing OpenSearch os-v2 mappings.
+::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/invenio_rest/ext.py,line=24::CSRF validation will be enabled by default in the version 1.3.x
+.::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/cachelib/redis_base.py,line=70::Call to deprecated setex. (Use 'set' instead.) -- Deprecated since version 2.6.12.
+..                     [ 31%]
+tests/datastreams/conftest.py ...                                        [ 32%]
+tests/datastreams/test_datastreams.py ...::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/invenio_search/ext.py,line=123::OpenSearch v2 mappings files not found, falling back to Elasticsearch v7 mappings for module mock_module.mappings. Please add the missing OpenSearch os-v2 mappings.
+::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/invenio_rest/ext.py,line=24::CSRF validation will be enabled by default in the version 1.3.x
+..                              [ 32%]
+tests/datastreams/test_datastreams_tasks.py ...::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/invenio_search/ext.py,line=123::OpenSearch v2 mappings files not found, falling back to Elasticsearch v7 mappings for module mock_module.mappings. Please add the missing OpenSearch os-v2 mappings.
+::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/invenio_rest/ext.py,line=24::CSRF validation will be enabled by default in the version 1.3.x
+.                         [ 33%]
+tests/datastreams/test_fixtures.py ...::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/invenio_search/ext.py,line=123::OpenSearch v2 mappings files not found, falling back to Elasticsearch v7 mappings for module mock_module.mappings. Please add the missing OpenSearch os-v2 mappings.
+::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/invenio_rest/ext.py,line=24::CSRF validation will be enabled by default in the version 1.3.x
+                                   [ 33%]
+tests/datastreams/test_readers.py ............::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/invenio_search/ext.py,line=123::OpenSearch v2 mappings files not found, falling back to Elasticsearch v7 mappings for module mock_module.mappings. Please add the missing OpenSearch os-v2 mappings.
+::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/invenio_rest/ext.py,line=24::CSRF validation will be enabled by default in the version 1.3.x
+..                         [ 34%]
+tests/datastreams/test_transformers.py ....                              [ 35%]
+tests/datastreams/test_writers.py ...::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/invenio_search/ext.py,line=123::OpenSearch v2 mappings files not found, falling back to Elasticsearch v7 mappings for module mock_module.mappings. Please add the missing OpenSearch os-v2 mappings.
+::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/invenio_rest/ext.py,line=24::CSRF validation will be enabled by default in the version 1.3.x
+.......                             [ 36%]
+tests/mock_module/__init__.py ...                                        [ 36%]
+tests/mock_module/api.py ...                                             [ 37%]
+tests/mock_module/jsonschemas/__init__.py ...                            [ 37%]
+tests/mock_module/mappings/__init__.py ...                               [ 37%]
+tests/mock_module/mappings/v6/__init__.py ...                            [ 38%]
+tests/mock_module/mappings/v7/__init__.py ...                            [ 38%]
+tests/mock_module/models.py ...                                          [ 38%]
+tests/records/conftest.py ...                                            [ 38%]
+tests/records/test_api.py ...::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/invenio_search/ext.py,line=123::OpenSearch v2 mappings files not found, falling back to Elasticsearch v7 mappings for module mock_module.mappings. Please add the missing OpenSearch os-v2 mappings.
+::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/invenio_rest/ext.py,line=24::CSRF validation will be enabled by default in the version 1.3.x
+.::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/invenio_indexer/api.py,line=113::The 'record_to_index' function is no longer expected to return a tuple (index, doc_type), instead it should only return the index. Support for the tuple will be removed in a future version of 'invenio-indexer'.
+.                                          [ 39%]
+tests/records/test_jsonschema.py ...::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/invenio_search/ext.py,line=123::OpenSearch v2 mappings files not found, falling back to Elasticsearch v7 mappings for module mock_module.mappings. Please add the missing OpenSearch os-v2 mappings.
+::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/invenio_rest/ext.py,line=24::CSRF validation will be enabled by default in the version 1.3.x
+......                               [ 40%]
+tests/records/test_models.py ...::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/invenio_search/ext.py,line=123::OpenSearch v2 mappings files not found, falling back to Elasticsearch v7 mappings for module mock_module.mappings. Please add the missing OpenSearch os-v2 mappings.
+::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/invenio_rest/ext.py,line=24::CSRF validation will be enabled by default in the version 1.3.x
+                                         [ 40%]
+tests/records/test_relationship.py ...::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/invenio_search/ext.py,line=123::OpenSearch v2 mappings files not found, falling back to Elasticsearch v7 mappings for module mock_module.mappings. Please add the missing OpenSearch os-v2 mappings.
+::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/invenio_rest/ext.py,line=24::CSRF validation will be enabled by default in the version 1.3.x
+....::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/invenio_indexer/api.py,line=113::The 'record_to_index' function is no longer expected to return a tuple (index, doc_type), instead it should only return the index. Support for the tuple will be removed in a future version of 'invenio-indexer'.
+                               [ 41%]
+tests/resources/conftest.py ...                                          [ 41%]
+tests/resources/test_resources_l10n.py ...::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/invenio_search/ext.py,line=123::OpenSearch v2 mappings files not found, falling back to Elasticsearch v7 mappings for module mock_module.mappings. Please add the missing OpenSearch os-v2 mappings.
+::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/invenio_rest/ext.py,line=24::CSRF validation will be enabled by default in the version 1.3.x
+.                              [ 42%]
+tests/resources/test_tasks_resources.py ...::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/invenio_search/ext.py,line=123::OpenSearch v2 mappings files not found, falling back to Elasticsearch v7 mappings for module mock_module.mappings. Please add the missing OpenSearch os-v2 mappings.
+::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/invenio_rest/ext.py,line=24::CSRF validation will be enabled by default in the version 1.3.x
+::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/flask_security/utils.py,line=77::Remember me support has been removed.
+                              [ 42%]
+tests/resources/test_vocabularies_admin_resource.py ...::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/invenio_search/ext.py,line=123::OpenSearch v2 mappings files not found, falling back to Elasticsearch v7 mappings for module mock_module.mappings. Please add the missing OpenSearch os-v2 mappings.
+::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/invenio_rest/ext.py,line=24::CSRF validation will be enabled by default in the version 1.3.x
+                  [ 42%]
+tests/resources/test_vocabularies_resource.py ...::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/invenio_search/ext.py,line=123::OpenSearch v2 mappings files not found, falling back to Elasticsearch v7 mappings for module mock_module.mappings. Please add the missing OpenSearch os-v2 mappings.
+::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/invenio_rest/ext.py,line=24::CSRF validation will be enabled by default in the version 1.3.x
+......                  [ 43%]
+tests/services/conftest.py ...                                           [ 44%]
+tests/services/test_labels.py ...::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/invenio_search/ext.py,line=123::OpenSearch v2 mappings files not found, falling back to Elasticsearch v7 mappings for module mock_module.mappings. Please add the missing OpenSearch os-v2 mappings.
+::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/invenio_rest/ext.py,line=24::CSRF validation will be enabled by default in the version 1.3.x
+..                                      [ 44%]
+tests/services/test_permissions.py ...::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/invenio_search/ext.py,line=123::OpenSearch v2 mappings files not found, falling back to Elasticsearch v7 mappings for module mock_module.mappings. Please add the missing OpenSearch os-v2 mappings.
+::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/invenio_rest/ext.py,line=24::CSRF validation will be enabled by default in the version 1.3.x
+.                                  [ 45%]
+tests/services/test_schema.py ..........                                 [ 46%]
+tests/services/test_service.py ...::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/invenio_search/ext.py,line=123::OpenSearch v2 mappings files not found, falling back to Elasticsearch v7 mappings for module mock_module.mappings. Please add the missing OpenSearch os-v2 mappings.
+::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/invenio_rest/ext.py,line=24::CSRF validation will be enabled by default in the version 1.3.x
+......::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/cachelib/redis_base.py,line=70::Call to deprecated setex. (Use 'set' instead.) -- Deprecated since version 2.6.12.
+..                               [ 47%]
+tests/test_alembic.py ...::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/invenio_search/ext.py,line=123::OpenSearch v2 mappings files not found, falling back to Elasticsearch v7 mappings for module mock_module.mappings. Please add the missing OpenSearch os-v2 mappings.
+::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/invenio_rest/ext.py,line=24::CSRF validation will be enabled by default in the version 1.3.x
+::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/alembic/config.py,line=580::No path_separator found in configuration; falling back to legacy splitting on spaces/commas for version_locations.  Consider adding path_separator=os to Alembic config.
+::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/invenio_oauthclient/alembic/bff1f190b9bd_add_timestamp_oauthclient.py,line=22::datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/alembic/ddl/postgresql.py,line=202::autoincrement and existing_autoincrement only make sense for MySQL
+::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/invenio_oauthclient/alembic/97bbc733896c_create_oauthclient_tables.py,line=71::The from_engine() method on Inspector is deprecated and will be removed in a future release.  Please use the sqlalchemy.inspect() function on an Engine or Connection in order to acquire an Inspector. (deprecated since: 1.4)
+::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/invenio_accounts/alembic/9848d0149abd_create_accounts_tables.py,line=100::The from_engine() method on Inspector is deprecated and will be removed in a future release.  Please use the sqlalchemy.inspect() function on an Engine or Connection in order to acquire an Inspector. (deprecated since: 1.4)
+                                                [ 47%]
+tests/test_cli.py ...::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/invenio_search/ext.py,line=123::OpenSearch v2 mappings files not found, falling back to Elasticsearch v7 mappings for module mock_module.mappings. Please add the missing OpenSearch os-v2 mappings.
+::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/invenio_rest/ext.py,line=24::CSRF validation will be enabled by default in the version 1.3.x
+.                                                   [ 48%]
+tests/test_factory.py ...::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/invenio_search/ext.py,line=123::OpenSearch v2 mappings files not found, falling back to Elasticsearch v7 mappings for module mock_module.mappings. Please add the missing OpenSearch os-v2 mappings.
+::warning file=workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/invenio_rest/ext.py,line=24::CSRF validation will be enabled by default in the version 1.3.x
+......                                          [ 49%]
+tests/test_invenio_vocabularies.py ....                                  [ 49%]
+invenio_vocabularies/__init__.py ...                                     [ 49%]
+invenio_vocabularies/administration/__init__.py ...                      [ 50%]
+invenio_vocabularies/administration/views/__init__.py ...                [ 50%]
+invenio_vocabularies/administration/views/vocabularies.py ...            [ 50%]
+invenio_vocabularies/alembic/__init__.py ...                             [ 51%]
+invenio_vocabularies/alembic/17c703ce1eb7_create_names_table.py ...      [ 51%]
+invenio_vocabularies/alembic/3ba812d80559_add_internal_name_id.py ...    [ 51%]
+invenio_vocabularies/alembic/4a9a4fd235f8_create_vocabulary_schemes.py . [ 51%]
+..                                                                       [ 52%]
+invenio_vocabularies/alembic/4f365fced43f_create_vocabularies_tables.py . [ 52%]
+..                                                                       [ 52%]
+invenio_vocabularies/alembic/55a700f897b6_add_names_and_afiliations_pid_column.py . [ 52%]
+..                                                                       [ 52%]
+invenio_vocabularies/alembic/6312f33645c1_create_affiliations_table.py . [ 52%]
+..                                                                       [ 52%]
+invenio_vocabularies/alembic/676dd587542d_create_funders_vocabulary_table.py . [ 53%]
+..                                                                       [ 53%]
+invenio_vocabularies/alembic/8ff82dfb0be8_create_vocabularies_branch.py . [ 53%]
+..                                                                       [ 53%]
+invenio_vocabularies/alembic/af2457652217_drop_unique_constraint_from_internal_id.py . [ 53%]
+..                                                                       [ 53%]
+invenio_vocabularies/alembic/d00af88aac94_change_datetime_types.py ...   [ 54%]
+invenio_vocabularies/alembic/e1146238edd3_create_awards_table.py ...     [ 54%]
+invenio_vocabularies/cli.py ...                                          [ 54%]
+invenio_vocabularies/config.py ...                                       [ 55%]
+invenio_vocabularies/contrib/__init__.py ...                             [ 55%]
+invenio_vocabularies/contrib/affiliations/__init__.py ...                [ 55%]
+invenio_vocabularies/contrib/affiliations/affiliations.py ...            [ 56%]
+invenio_vocabularies/contrib/affiliations/api.py ...                     [ 56%]
+invenio_vocabularies/contrib/affiliations/config.py ...                  [ 56%]
+invenio_vocabularies/contrib/affiliations/datastreams.py ...             [ 57%]
+invenio_vocabularies/contrib/affiliations/facets.py ...                  [ 57%]
+invenio_vocabularies/contrib/affiliations/jsonschemas/__init__.py ...    [ 57%]
+invenio_vocabularies/contrib/affiliations/mappings/__init__.py ...       [ 58%]
+invenio_vocabularies/contrib/affiliations/mappings/os-v1/__init__.py ... [ 58%]
+                                                                         [ 58%]
+invenio_vocabularies/contrib/affiliations/mappings/os-v2/__init__.py ... [ 58%]
+                                                                         [ 58%]
+invenio_vocabularies/contrib/affiliations/mappings/v7/__init__.py ...    [ 59%]
+invenio_vocabularies/contrib/affiliations/models.py ...                  [ 59%]
+invenio_vocabularies/contrib/affiliations/resources.py ...               [ 59%]
+invenio_vocabularies/contrib/affiliations/schema.py ...                  [ 59%]
+invenio_vocabularies/contrib/affiliations/services.py ...                [ 60%]
+invenio_vocabularies/contrib/awards/__init__.py ...                      [ 60%]
+invenio_vocabularies/contrib/awards/api.py ...                           [ 60%]
+invenio_vocabularies/contrib/awards/awards.py ...                        [ 61%]
+invenio_vocabularies/contrib/awards/config.py ...                        [ 61%]
+invenio_vocabularies/contrib/awards/datastreams.py ...                   [ 61%]
+invenio_vocabularies/contrib/awards/jsonschemas/__init__.py ...          [ 62%]
+invenio_vocabularies/contrib/awards/mappings/__init__.py ...             [ 62%]
+invenio_vocabularies/contrib/awards/mappings/os-v1/__init__.py ...       [ 62%]
+invenio_vocabularies/contrib/awards/mappings/os-v2/__init__.py ...       [ 63%]
+invenio_vocabularies/contrib/awards/mappings/v7/__init__.py ...          [ 63%]
+invenio_vocabularies/contrib/awards/models.py ...                        [ 63%]
+invenio_vocabularies/contrib/awards/resources.py ...                     [ 64%]
+invenio_vocabularies/contrib/awards/schema.py ...                        [ 64%]
+invenio_vocabularies/contrib/awards/serializer.py ...                    [ 64%]
+invenio_vocabularies/contrib/awards/services.py ...                      [ 65%]
+invenio_vocabularies/contrib/common/__init__.py ...                      [ 65%]
+invenio_vocabularies/contrib/common/openaire/__init__.py ...             [ 65%]
+invenio_vocabularies/contrib/common/openaire/datastreams.py ...          [ 65%]
+invenio_vocabularies/contrib/common/ror/__init__.py ...                  [ 66%]
+invenio_vocabularies/contrib/common/ror/datastreams.py ...               [ 66%]
+invenio_vocabularies/contrib/common/utils.py ...                         [ 66%]
+invenio_vocabularies/contrib/funders/__init__.py ...                     [ 67%]
+invenio_vocabularies/contrib/funders/api.py ...                          [ 67%]
+invenio_vocabularies/contrib/funders/config.py ...                       [ 67%]
+invenio_vocabularies/contrib/funders/datastreams.py ...                  [ 68%]
+invenio_vocabularies/contrib/funders/facets.py ...                       [ 68%]
+invenio_vocabularies/contrib/funders/funders.py ...                      [ 68%]
+invenio_vocabularies/contrib/funders/jsonschemas/__init__.py ...         [ 69%]
+invenio_vocabularies/contrib/funders/mappings/__init__.py ...            [ 69%]
+invenio_vocabularies/contrib/funders/mappings/os-v1/__init__.py ...      [ 69%]
+invenio_vocabularies/contrib/funders/mappings/os-v2/__init__.py ...      [ 70%]
+invenio_vocabularies/contrib/funders/mappings/v7/__init__.py ...         [ 70%]
+invenio_vocabularies/contrib/funders/models.py ...                       [ 70%]
+invenio_vocabularies/contrib/funders/resources.py ...                    [ 71%]
+invenio_vocabularies/contrib/funders/schema.py ...                       [ 71%]
+invenio_vocabularies/contrib/funders/serializer.py ...                   [ 71%]
+invenio_vocabularies/contrib/funders/services.py ...                     [ 72%]
+invenio_vocabularies/contrib/names/__init__.py ...                       [ 72%]
+invenio_vocabularies/contrib/names/api.py ...                            [ 72%]
+invenio_vocabularies/contrib/names/components.py ...                     [ 72%]
+invenio_vocabularies/contrib/names/config.py ...                         [ 73%]
+invenio_vocabularies/contrib/names/datastreams.py ...                    [ 73%]
+invenio_vocabularies/contrib/names/jsonschemas/__init__.py ...           [ 73%]
+invenio_vocabularies/contrib/names/mappings/__init__.py ...              [ 74%]
+invenio_vocabularies/contrib/names/mappings/os-v1/__init__.py ...        [ 74%]
+invenio_vocabularies/contrib/names/mappings/os-v2/__init__.py ...        [ 74%]
+invenio_vocabularies/contrib/names/mappings/v7/__init__.py ...           [ 75%]
+invenio_vocabularies/contrib/names/models.py ...                         [ 75%]
+invenio_vocabularies/contrib/names/names.py ...                          [ 75%]
+invenio_vocabularies/contrib/names/permissions.py ...                    [ 76%]
+invenio_vocabularies/contrib/names/resources.py ...                      [ 76%]
+invenio_vocabularies/contrib/names/s3client.py ...                       [ 76%]
+invenio_vocabularies/contrib/names/schema.py ...                         [ 77%]
+invenio_vocabularies/contrib/names/services.py ...                       [ 77%]
+invenio_vocabularies/contrib/subjects/__init__.py ...                    [ 77%]
+invenio_vocabularies/contrib/subjects/api.py ...                         [ 78%]
+invenio_vocabularies/contrib/subjects/config.py ...                      [ 78%]
+invenio_vocabularies/contrib/subjects/datastreams.py ...                 [ 78%]
+invenio_vocabularies/contrib/subjects/euroscivoc/__init__.py ...         [ 79%]
+invenio_vocabularies/contrib/subjects/euroscivoc/datastreams.py ...      [ 79%]
+invenio_vocabularies/contrib/subjects/facets.py ...                      [ 79%]
+invenio_vocabularies/contrib/subjects/gemet/__init__.py ...              [ 79%]
+invenio_vocabularies/contrib/subjects/gemet/datastreams.py ...           [ 80%]
+invenio_vocabularies/contrib/subjects/jsonschemas/__init__.py ...        [ 80%]
+invenio_vocabularies/contrib/subjects/mappings/__init__.py ...           [ 80%]
+invenio_vocabularies/contrib/subjects/mappings/os-v1/__init__.py ...     [ 81%]
+invenio_vocabularies/contrib/subjects/mappings/os-v2/__init__.py ...     [ 81%]
+invenio_vocabularies/contrib/subjects/mappings/v7/__init__.py ...        [ 81%]
+invenio_vocabularies/contrib/subjects/mesh/__init__.py ...               [ 82%]
+invenio_vocabularies/contrib/subjects/mesh/datastreams.py ...            [ 82%]
+invenio_vocabularies/contrib/subjects/models.py ...                      [ 82%]
+invenio_vocabularies/contrib/subjects/nvs/__init__.py ...                [ 83%]
+invenio_vocabularies/contrib/subjects/nvs/datastreams.py ...             [ 83%]
+invenio_vocabularies/contrib/subjects/resources.py ...                   [ 83%]
+invenio_vocabularies/contrib/subjects/schema.py ...                      [ 84%]
+invenio_vocabularies/contrib/subjects/services.py ...                    [ 84%]
+invenio_vocabularies/contrib/subjects/subjects.py ...                    [ 84%]
+invenio_vocabularies/datastreams/__init__.py ...                         [ 85%]
+invenio_vocabularies/datastreams/datastreams.py ...                      [ 85%]
+invenio_vocabularies/datastreams/errors.py ...                           [ 85%]
+invenio_vocabularies/datastreams/factories.py ...                        [ 86%]
+invenio_vocabularies/datastreams/readers.py ...                          [ 86%]
+invenio_vocabularies/datastreams/tasks.py ...                            [ 86%]
+invenio_vocabularies/datastreams/transformers.py ...                     [ 86%]
+invenio_vocabularies/datastreams/writers.py ...                          [ 87%]
+invenio_vocabularies/datastreams/xml.py ...                              [ 87%]
+invenio_vocabularies/ext.py ...                                          [ 87%]
+invenio_vocabularies/factories.py ...                                    [ 88%]
+invenio_vocabularies/fixtures.py ...                                     [ 88%]
+invenio_vocabularies/jobs.py ...                                         [ 88%]
+invenio_vocabularies/patch_info.py ...                                   [ 89%]
+invenio_vocabularies/proxies.py ...                                      [ 89%]
+invenio_vocabularies/records/__init__.py ...                             [ 89%]
+invenio_vocabularies/records/api.py ...                                  [ 90%]
+invenio_vocabularies/records/jsonschemas/__init__.py ...                 [ 90%]
+invenio_vocabularies/records/mappings/__init__.py ...                    [ 90%]
+invenio_vocabularies/records/mappings/os-v1/__init__.py ...              [ 91%]
+invenio_vocabularies/records/mappings/os-v2/__init__.py ...              [ 91%]
+invenio_vocabularies/records/mappings/v7/__init__.py ...                 [ 91%]
+invenio_vocabularies/records/models.py ...                               [ 92%]
+invenio_vocabularies/records/pidprovider.py ...                          [ 92%]
+invenio_vocabularies/records/systemfields/__init__.py ...                [ 92%]
+invenio_vocabularies/records/systemfields/pid.py ...                     [ 93%]
+invenio_vocabularies/records/systemfields/relations.py ...               [ 93%]
+invenio_vocabularies/resources/__init__.py ...                           [ 93%]
+invenio_vocabularies/resources/config.py ...                             [ 93%]
+invenio_vocabularies/resources/resource.py ...                           [ 94%]
+invenio_vocabularies/resources/schema.py ...                             [ 94%]
+invenio_vocabularies/resources/serializer.py ...                         [ 94%]
+invenio_vocabularies/services/__init__.py ...                            [ 95%]
+invenio_vocabularies/services/components.py ...                          [ 95%]
+invenio_vocabularies/services/config.py ...                              [ 95%]
+invenio_vocabularies/services/custom_fields/__init__.py ...              [ 96%]
+invenio_vocabularies/services/custom_fields/subject.py ...               [ 96%]
+invenio_vocabularies/services/custom_fields/vocabulary.py ...            [ 96%]
+invenio_vocabularies/services/facets.py ...                              [ 97%]
+invenio_vocabularies/services/generators.py ...                          [ 97%]
+invenio_vocabularies/services/permissions.py ...                         [ 97%]
+invenio_vocabularies/services/querystr.py ...                            [ 98%]
+invenio_vocabularies/services/results.py ...                             [ 98%]
+invenio_vocabularies/services/schema.py ...                              [ 98%]
+invenio_vocabularies/services/service.py ...                             [ 99%]
+invenio_vocabularies/services/tasks.py ...                               [ 99%]
+invenio_vocabularies/views.py ...                                        [ 99%]
+invenio_vocabularies/webpack.py ...                                      [100%]
+
+==================================== ERRORS ====================================
+________________ ERROR at setup of test_pid_already_registered _________________
+
+identity = <Identity id="1" auth_type="None" provides={Need(method='system_role', value='system_process'), Need(method='id', value=1), Need(method='system_role', value='any_user')}>
+service = <invenio_records_resources.factories.factory.FunderService object at 0x7f52f41528e0>
+funder_full_data = {'acronym': 'CERN', 'country': 'CH', 'country_name': 'Switzerland', 'id': '01ggx4157', ...}
+indexer = <invenio_indexer.api.RecordIndexer object at 0x7f52f913eb70>
+
+    @pytest.fixture(scope="function")
+    def example_funder(identity, service, funder_full_data, indexer):
+        """Creates and hard deletes a funder."""
+>       funder = service.create(identity, funder_full_data)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+tests/contrib/funders/conftest.py:63: 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+.venv/lib/python3.14/site-packages/invenio_db/uow.py:247: in inner
+    res = f(self, *args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^^^^
+.venv/lib/python3.14/site-packages/invenio_records_resources/services/records/service.py:342: in create
+    return self._create(
+.venv/lib/python3.14/site-packages/invenio_db/uow.py:251: in inner
+    return f(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+.venv/lib/python3.14/site-packages/invenio_records_resources/services/records/service.py:378: in _create
+    self.run_components(
+.venv/lib/python3.14/site-packages/invenio_records_resources/services/base/service.py:67: in run_components
+    getattr(component, action)(*args, **kwargs)
+invenio_vocabularies/services/components.py:44: in create
+    self.service.record_cls.pid.create(record)
+.venv/lib/python3.14/site-packages/invenio_records_resources/records/systemfields/pid.py:228: in create
+    self.field._provider.create(pid_value, record, self.field.model_field_name)
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+cls = <class 'invenio_records_resources.records.providers.ModelPIDProvider'>
+pid_value = '01ggx4157'
+record = {'$schema': 'local://funders/funder-v1.0.0.json', 'title': {'en': 'European Organization for Nuclear Research', 'fr': ...fier': '10.13039/100012470', 'scheme': 'doi'}], 'acronym': 'CERN', 'status': 'active', 'types': ['facility', 'funder']}
+model_field_name = 'pid', kwargs = {}, filters = {'pid': '01ggx4157'}
+obj = <FunderMetadata 75d52675-fd64-4484-af67-e86924a70ed4>
+
+    @classmethod
+    def create(cls, pid_value, record, model_field_name, **kwargs):
+        """Sets the pid in the record model.
+    
+        Checks for duplicates.
+        """
+        filters = {model_field_name: pid_value}
+        obj = record.model_cls.query.filter_by(**filters).one_or_none()
+        if obj:
+>           raise PIDAlreadyExists(
+                pid_value=pid_value,
+                pid_type=record.__class__.__name__,  # FIXME: is informative
+            )
+E           invenio_pidstore.errors.PIDAlreadyExists
+
+.venv/lib/python3.14/site-packages/invenio_records_resources/records/providers.py:26: PIDAlreadyExists
+=================================== FAILURES ===================================
+__________________ test_openaire_affiliations_service_writer ___________________
+
+app = <Flask 'invenio'>
+search_clear = <OpenSearch([{'host': 'localhost', 'port': 9200}])>
+affiliation_full_data = {'acronym': 'CERN', 'country': 'CH', 'country_name': 'Switzerland', 'id': '01ggx4157', ...}
+openaire_affiliation_full_data = {'id': '01ggx4157', 'identifiers': [{'identifier': '999988133', 'scheme': 'pic'}]}
+service = <invenio_records_resources.factories.factory.AffiliationService object at 0x7f52f68007d0>
+
+    def test_openaire_affiliations_service_writer(
+        app,
+        search_clear,
+        affiliation_full_data,
+        openaire_affiliation_full_data,
+        service,
+    ):
+        """Test writing and updating an OpenAIRE affiliation entry."""
+        # create vocabulary with original service writer
+        orig_writer = AffiliationsServiceWriter()
+    
+        orig_affiliation_rec = orig_writer.write(StreamEntry(affiliation_full_data))
+    
+        orig_affiliation_dict = orig_affiliation_rec.entry.to_dict()
+        Affiliation.index.refresh()  # refresh index to make changes live
+    
+        # update vocabulary and check changes vocabulary with OpenAIRE service writer
+        writer = OpenAIREAffiliationsServiceWriter()
+    
+        _ = writer.write(StreamEntry(openaire_affiliation_full_data))
+        Affiliation.index.refresh()  # refresh index to make changes live
+        affiliation_rec = service.read(system_identity, orig_affiliation_rec.entry.id)
+        affiliation_dict = affiliation_rec.to_dict()
+    
+        assert _.entry.id == orig_affiliation_rec.entry.id
+    
+        # updating fields changing from one update to the other
+>       orig_affiliation_dict["revision_id"] = affiliation_dict["revision_id"]
+                                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+E       KeyError: 'revision_id'
+
+tests/contrib/affiliations/test_affiliations_datastreams.py:249: KeyError
+----------------------------- Captured stderr call -----------------------------
+[2026-06-25 09:01:39,861] DEBUG in writers: Writing entry: {'acronym': 'CERN', 'id': '01ggx4157', 'identifiers': [{'identifier': '03yrm5c26', 'scheme': 'ror'}], 'name': 'Test affiliation', 'title': {'en': 'Test affiliation', 'es': 'Afiliacion de test'}, 'country': 'CH', 'country_name': 'Switzerland', 'location_name': 'Geneva', 'status': 'active', 'types': ['facility', 'funder']}
+[2026-06-25 09:01:39,861] DEBUG in writers: Inserting entry.
+[2026-06-25 09:01:39,919] DEBUG in writers: Writing entry: {'id': '01ggx4157', 'identifiers': [{'identifier': '999988133', 'scheme': 'pic'}]}
+[2026-06-25 09:01:39,919] DEBUG in writers: Attempting to update entry.
+------------------------------ Captured log call -------------------------------
+DEBUG    invenio:writers.py:98 Writing entry: {'acronym': 'CERN', 'id': '01ggx4157', 'identifiers': [{'identifier': '03yrm5c26', 'scheme': 'ror'}], 'name': 'Test affiliation', 'title': {'en': 'Test affiliation', 'es': 'Afiliacion de test'}, 'country': 'CH', 'country_name': 'Switzerland', 'location_name': 'Geneva', 'status': 'active', 'types': ['facility', 'funder']}
+DEBUG    invenio:writers.py:103 Inserting entry.
+DEBUG    invenio:writers.py:98 Writing entry: {'id': '01ggx4157', 'identifiers': [{'identifier': '999988133', 'scheme': 'pic'}]}
+DEBUG    invenio:writers.py:113 Attempting to update entry.
+_______________________________ test_simple_flow _______________________________
+
+app = <Flask 'invenio'>
+db = <SQLAlchemy postgresql+psycopg2://invenio:***@localhost:5432/invenio>
+service = <invenio_records_resources.factories.factory.AffiliationService object at 0x7f52f54395b0>
+identity = <Identity id="1" auth_type="None" provides={Need(method='system_role', value='system_process'), Need(method='id', value=1), Need(method='system_role', value='any_user')}>
+affiliation_full_data = {'acronym': 'CERN', 'country': 'CH', 'country_name': 'Switzerland', 'id': '01ggx4157', ...}
+
+    def test_simple_flow(app, db, service, identity, affiliation_full_data):
+        """Test a simple vocabulary service flow."""
+        # Service
+        assert service.id == "affiliations"
+        assert service.config.indexer_queue_name == "affiliations"
+    
+        # Create it
+        item = service.create(identity, affiliation_full_data)
+        id_ = item.id
+    
+        assert item.id == affiliation_full_data["id"]
+        for k, v in affiliation_full_data.items():
+            assert item.data[k] == v
+    
+        # Read it
+        read_item = service.read(identity, "01ggx4157")
+        assert item.id == read_item.id
+        assert item.data == read_item.data
+    
+        # Refresh index to make changes live.
+        Affiliation.index.refresh()
+    
+        # Search it
+        res = service.search(identity, q=f"id:{id_}", size=25, page=1)
+        assert res.total == 1
+        assert list(res.hits)[0] == read_item.data
+    
+        # Update it
+        data = read_item.data
+        data["title"]["en"] = "New title"
+        update_item = service.update(identity, id_, data)
+        assert item.id == update_item.id
+        assert update_item["title"]["en"] == "New title"
+    
+        # Delete it
+        assert service.delete(identity, id_)
+    
+        # Refresh to make changes live
+        Affiliation.index.refresh()
+    
+        # Fail to retrieve it
+        # - db
+        base_keys = {"created", "updated", "id", "links", "revision_id"}
+        deleted_rec = service.read(identity, id_).to_dict()
+>       assert set(deleted_rec.keys()) == base_keys
+E       AssertionError: assert {'id', 'links'} == {'created', '...d', 'updated'}
+E         
+E         Extra items in the right set:
+E         'created'
+E         'updated'
+E         'revision_id'
+E         
+E         Full diff:
+E           {
+E         -     'created',
+E               'id',
+E               'links',
+E         -     'revision_id',
+E         -     'updated',
+E           }
+
+tests/contrib/affiliations/test_affiliations_service.py:59: AssertionError
+---------------------------- Captured stderr setup -----------------------------
+[2026-06-25 09:01:54,852] WARNING in ext: JSONSCHEMAS_HOST is set to localhost
+[2026-06-25 09:01:54,989] DEBUG in ext: Flask-DebugToolbar extension not installed.
+------------------------------ Captured log setup ------------------------------
+WARNING  invenio:ext.py:286 JSONSCHEMAS_HOST is set to localhost
+DEBUG    invenio:ext.py:171 Flask-DebugToolbar extension not installed.
+______________________________ test_awards_delete ______________________________
+
+client_with_credentials = <FlaskClient <Flask 'invenio'>>
+h = {'accept': 'application/json'}, prefix = 'awards'
+identity = <Identity id="1" auth_type="None" provides={Need(method='system_role', value='system_process'), Need(method='id', value=1), Need(method='system_role', value='any_user')}>
+service = <invenio_records_resources.factories.factory.AwardService object at 0x7f52f4e94850>
+award_full_data = {'acronym': 'HIT-CF', 'funder': {'id': '00k4n6c32'}, 'id': '755021', 'identifiers': [{'identifier': 'https://cordis.europa.eu/project/id/755021', 'scheme': 'url'}], ...}
+example_funder_ec = <invenio_records_resources.services.records.results.RecordItem object at 0x7f52f81bd590>
+
+    def test_awards_delete(
+        client_with_credentials,
+        h,
+        prefix,
+        identity,
+        service,
+        award_full_data,
+        example_funder_ec,
+    ):
+        """Test a successful delete."""
+        award = service.create(identity, award_full_data)
+        id_ = award.id
+        res = client_with_credentials.delete(f"{prefix}/{id_}", headers=h)
+        assert res.status_code == 204
+    
+        # only the metadata is removed from the record, it is still resolvable
+        res = client_with_credentials.get(f"{prefix}/{id_}", headers=h)
+        assert res.status_code == 200
+        base_keys = {"created", "updated", "id", "links", "revision_id"}
+>       assert set(res.json.keys()) == base_keys
+E       AssertionError: assert {'id', 'links'} == {'created', '...d', 'updated'}
+E         
+E         Extra items in the right set:
+E         'created'
+E         'updated'
+E         'revision_id'
+E         
+E         Full diff:
+E           {
+E         -     'created',
+E               'id',
+E               'links',
+E         -     'revision_id',
+E         -     'updated',
+E           }
+
+tests/contrib/awards/test_awards_resource.py:178: AssertionError
+_______________________________ test_simple_flow _______________________________
+
+app = <Flask 'invenio'>
+service = <invenio_records_resources.factories.factory.AwardService object at 0x7f52f46975c0>
+identity = <Identity id="1" auth_type="None" provides={Need(method='system_role', value='system_process'), Need(method='id', value=1), Need(method='system_role', value='any_user')}>
+award_full_data = {'acronym': 'HIT-CF', 'funder': {'id': '00k4n6c32'}, 'id': '755021', 'identifiers': [{'identifier': 'https://cordis.europa.eu/project/id/755021', 'scheme': 'url'}], ...}
+example_funder_ec = <invenio_records_resources.services.records.results.RecordItem object at 0x7f52f7c9e5d0>
+
+    def test_simple_flow(app, service, identity, award_full_data, example_funder_ec):
+        """Test a simple vocabulary service flow."""
+        # Service
+        assert service.id == "awards"
+        assert service.config.indexer_queue_name == "awards"
+    
+        # Create it
+        item = service.create(identity, award_full_data)
+        id_ = item.id
+    
+        # add dereferenced data
+        expected_data = deepcopy(award_full_data)
+        expected_data["funder"]["name"] = "EC"
+    
+        assert id_ == award_full_data["id"]
+        for k, v in expected_data.items():
+            assert item.data[k] == v
+    
+        # Read it
+        read_item = service.read(identity, "755021")
+        assert item.id == read_item.id
+        assert item.data == read_item.data
+    
+        # Refresh index to make changes live.
+        Award.index.refresh()
+    
+        # Search it
+        res = service.search(identity, q=f"id:{id_}", size=25, page=1)
+        assert res.total == 1
+        assert list(res.hits)[0] == read_item.data
+    
+        # Update it
+        data = read_item.data
+        data["title"]["en"] = "New title"
+        update_item = service.update(identity, id_, data)
+        # the pid is not save to the json metadata
+        assert not update_item._record.get("pid")
+        assert item.id == update_item.id
+        assert update_item["title"]["en"] == "New title"
+    
+        # Delete it
+        assert service.delete(identity, id_)
+    
+        # Refresh to make changes live
+        Award.index.refresh()
+    
+        # Fail to retrieve it
+        # - db
+        # only the metadata is removed from the record, it is still resolvable
+        base_keys = {"created", "updated", "id", "links", "revision_id"}
+        deleted_rec = service.read(identity, id_).to_dict()
+>       assert set(deleted_rec.keys()) == base_keys
+E       AssertionError: assert {'id', 'links'} == {'created', '...d', 'updated'}
+E         
+E         Extra items in the right set:
+E         'created'
+E         'updated'
+E         'revision_id'
+E         
+E         Full diff:
+E           {
+E         -     'created',
+E               'id',
+E               'links',
+E         -     'revision_id',
+E         -     'updated',
+E           }
+
+tests/contrib/awards/test_awards_service.py:68: AssertionError
+---------------------------- Captured stderr setup -----------------------------
+[2026-06-25 09:02:16,563] WARNING in ext: JSONSCHEMAS_HOST is set to localhost
+[2026-06-25 09:02:16,701] DEBUG in ext: Flask-DebugToolbar extension not installed.
+------------------------------ Captured log setup ------------------------------
+WARNING  invenio:ext.py:286 JSONSCHEMAS_HOST is set to localhost
+DEBUG    invenio:ext.py:171 Flask-DebugToolbar extension not installed.
+_____________________________ test_funders_delete ______________________________
+
+client_with_credentials = <FlaskClient <Flask 'invenio'>>
+h = {'accept': 'application/json'}, prefix = 'funders'
+identity = <Identity id="1" auth_type="None" provides={Need(method='system_role', value='system_process'), Need(method='id', value=1), Need(method='system_role', value='any_user')}>
+service = <invenio_records_resources.factories.factory.FunderService object at 0x7f52f4893dd0>
+funder_full_data = {'acronym': 'CERN', 'country': 'CH', 'country_name': 'Switzerland', 'id': '01ggx4157', ...}
+
+    def test_funders_delete(
+        client_with_credentials, h, prefix, identity, service, funder_full_data
+    ):
+        """Test a successful delete."""
+        funder = service.create(identity, funder_full_data)
+        id_ = funder.id
+        res = client_with_credentials.delete(f"{prefix}/{id_}", headers=h)
+        assert res.status_code == 204
+    
+        # only the metadata is removed from the record, it is still resolvable
+        res = client_with_credentials.get(f"{prefix}/{id_}", headers=h)
+        assert res.status_code == 200
+        base_keys = {"created", "updated", "id", "links", "revision_id"}
+>       assert set(res.json.keys()) == base_keys
+E       AssertionError: assert {'id', 'links'} == {'created', '...d', 'updated'}
+E         
+E         Extra items in the right set:
+E         'created'
+E         'updated'
+E         'revision_id'
+E         
+E         Full diff:
+E           {
+E         -     'created',
+E               'id',
+E               'links',
+E         -     'revision_id',
+E         -     'updated',
+E           }
+
+tests/contrib/funders/test_funders_resource.py:162: AssertionError
+_______________________________ test_simple_flow _______________________________
+
+app = <Flask 'invenio'>
+service = <invenio_records_resources.factories.factory.FunderService object at 0x7f52f41528e0>
+identity = <Identity id="1" auth_type="None" provides={Need(method='system_role', value='system_process'), Need(method='id', value=1), Need(method='system_role', value='any_user')}>
+funder_full_data = {'acronym': 'CERN', 'country': 'CH', 'country_name': 'Switzerland', 'id': '01ggx4157', ...}
+
+    def test_simple_flow(app, service, identity, funder_full_data):
+        """Test a simple vocabulary service flow."""
+        # Service
+        assert service.id == "funders"
+        assert service.config.indexer_queue_name == "funders"
+    
+        # Create it
+        item = service.create(identity, funder_full_data)
+        id_ = item.id
+    
+        assert item.id == funder_full_data["id"]
+        for k, v in funder_full_data.items():
+            assert item.data[k] == v
+    
+        # Read it
+        read_item = service.read(identity, "01ggx4157")
+    
+        assert item.id == read_item.id
+        assert item.data == read_item.data
+    
+        # Refresh index to make changes live.
+        Funder.index.refresh()
+    
+        # Search it
+        res = service.search(identity, q=f"id:{id_}", size=25, page=1)
+        assert res.total == 1
+        assert list(res.hits)[0] == read_item.data
+    
+        # Update its country
+        data = read_item.data
+        data["country"] = "New country"
+        update_item = service.update(identity, id_, data)
+        assert item.id == update_item.id
+        assert update_item["country"] == "New country"
+    
+        # Update its title
+        data = read_item.data
+        data["title"]["en"] = "New title"
+        update_item = service.update(identity, id_, data)
+        # the pid is not save to the json metadata
+        assert not update_item._record.get("pid")
+        assert item.id == update_item.id
+        assert update_item["title"]["en"] == "New title"
+    
+        # Delete it
+        assert service.delete(identity, id_)
+    
+        # Refresh to make changes live
+        Funder.index.refresh()
+    
+        # Fail to retrieve it
+        # - db
+        # only the metadata is removed from the record, it is still resolvable
+        base_keys = {"created", "updated", "id", "links", "revision_id"}
+        deleted_rec = service.read(identity, id_).to_dict()
+>       assert set(deleted_rec.keys()) == base_keys
+E       AssertionError: assert {'id', 'links'} == {'created', '...d', 'updated'}
+E         
+E         Extra items in the right set:
+E         'created'
+E         'updated'
+E         'revision_id'
+E         
+E         Full diff:
+E           {
+E         -     'created',
+E               'id',
+E               'links',
+E         -     'revision_id',
+E         -     'updated',
+E           }
+
+tests/contrib/funders/test_funders_service.py:70: AssertionError
+---------------------------- Captured stderr setup -----------------------------
+[2026-06-25 09:02:37,308] WARNING in ext: JSONSCHEMAS_HOST is set to localhost
+[2026-06-25 09:02:37,444] DEBUG in ext: Flask-DebugToolbar extension not installed.
+------------------------------ Captured log setup ------------------------------
+WARNING  invenio:ext.py:286 JSONSCHEMAS_HOST is set to localhost
+DEBUG    invenio:ext.py:171 Flask-DebugToolbar extension not installed.
+____________________________ test_indexed_at_query _____________________________
+
+app = <Flask 'invenio'>
+db = <SQLAlchemy postgresql+psycopg2://invenio:***@localhost:5432/invenio>
+service = <invenio_records_resources.factories.factory.FunderService object at 0x7f52f41528e0>
+identity = <Identity id="1" auth_type="None" provides={Need(method='system_role', value='system_process'), Need(method='id', value=1), Need(method='system_role', value='any_user')}>
+funder_full_data = {'acronym': 'CERN', 'country': 'CH', 'country_name': 'Switzerland', 'id': '01ggx4157', ...}
+
+    def test_indexed_at_query(app, db, service, identity, funder_full_data):
+        before = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%S.%f")
+>       _ = service.create(identity, funder_full_data)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+tests/contrib/funders/test_funders_service.py:95: 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+.venv/lib/python3.14/site-packages/invenio_db/uow.py:247: in inner
+    res = f(self, *args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^^^^
+.venv/lib/python3.14/site-packages/invenio_records_resources/services/records/service.py:342: in create
+    return self._create(
+.venv/lib/python3.14/site-packages/invenio_db/uow.py:251: in inner
+    return f(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+.venv/lib/python3.14/site-packages/invenio_records_resources/services/records/service.py:378: in _create
+    self.run_components(
+.venv/lib/python3.14/site-packages/invenio_records_resources/services/base/service.py:67: in run_components
+    getattr(component, action)(*args, **kwargs)
+invenio_vocabularies/services/components.py:44: in create
+    self.service.record_cls.pid.create(record)
+.venv/lib/python3.14/site-packages/invenio_records_resources/records/systemfields/pid.py:228: in create
+    self.field._provider.create(pid_value, record, self.field.model_field_name)
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+cls = <class 'invenio_records_resources.records.providers.ModelPIDProvider'>
+pid_value = '01ggx4157'
+record = {'$schema': 'local://funders/funder-v1.0.0.json', 'title': {'en': 'European Organization for Nuclear Research', 'fr': ...fier': '10.13039/100012470', 'scheme': 'doi'}], 'acronym': 'CERN', 'status': 'active', 'types': ['facility', 'funder']}
+model_field_name = 'pid', kwargs = {}, filters = {'pid': '01ggx4157'}
+obj = <FunderMetadata 75d52675-fd64-4484-af67-e86924a70ed4>
+
+    @classmethod
+    def create(cls, pid_value, record, model_field_name, **kwargs):
+        """Sets the pid in the record model.
+    
+        Checks for duplicates.
+        """
+        filters = {model_field_name: pid_value}
+        obj = record.model_cls.query.filter_by(**filters).one_or_none()
+        if obj:
+>           raise PIDAlreadyExists(
+                pid_value=pid_value,
+                pid_type=record.__class__.__name__,  # FIXME: is informative
+            )
+E           invenio_pidstore.errors.PIDAlreadyExists
+
+.venv/lib/python3.14/site-packages/invenio_records_resources/records/providers.py:26: PIDAlreadyExists
+_______________________________ test_simple_flow _______________________________
+
+app = <Flask 'invenio'>
+service = <invenio_vocabularies.contrib.names.services.NamesService object at 0x7f52f2fa7e00>
+identity = <Identity id="1" auth_type="None" provides={Need(method='system_role', value='system_process'), Need(method='id', value=1), Need(method='system_role', value='any_user')}>
+name_full_data = {'affiliations': [{'id': 'cern'}, {'name': 'CustomORG'}], 'family_name': 'Doe', 'given_name': 'John', 'id': '0000-0001-8135-3489', ...}
+example_affiliation = <invenio_records_resources.services.records.results.RecordItem object at 0x7f52f8494190>
+
+    def test_simple_flow(app, service, identity, name_full_data, example_affiliation):
+        """Test a simple vocabulary service flow."""
+        # Service
+        assert service.id == "names"
+        assert service.config.indexer_queue_name == "names"
+    
+        # Create it
+        item = service.create(identity, name_full_data)
+    
+        id_ = item.id
+    
+        # add dereferenced values
+        expected_data = deepcopy(name_full_data)
+        expected_data["affiliations"][0][
+            "name"
+        ] = "European Organization for Nuclear Research"
+    
+        for k, v in expected_data.items():
+            assert item.data[k] == v
+    
+        # Read it
+        read_item = service.read(identity, id_)
+        assert item.id == read_item.id
+        assert item.data == read_item.data
+    
+        # Refresh index to make changes live.
+        Name.index.refresh()
+    
+        # Search it
+        res = service.search(identity, q=f"id:{id_}", size=25, page=1)
+        assert res.total == 1
+        assert list(res.hits)[0] == read_item.data
+    
+        # Update it
+        data = read_item.data
+        data["given_name"] = "Jane"
+        update_item = service.update(identity, id_, data)
+        assert item.id == update_item.id
+        assert update_item["given_name"] == "Jane"
+        assert update_item["name"] == "Doe, Jane"  # automatic update
+    
+        # Delete it
+        assert service.delete(identity, id_)
+    
+        # Refresh to make changes live
+        Name.index.refresh()
+    
+        # Fail to retrieve it
+        # - db
+        # only the metadata is removed from the record, it is still resolvable
+        base_keys = {"created", "updated", "id", "links", "revision_id", "internal_id"}
+        deleted_rec = service.read(identity, id_).to_dict()
+>       assert set(deleted_rec.keys()) == base_keys
+E       AssertionError: assert {'id', 'links'} == {'created', '...d', 'updated'}
+E         
+E         Extra items in the right set:
+E         'internal_id'
+E         'created'
+E         'updated'
+E         'revision_id'
+E         
+E         Full diff:
+E           {
+E         -     'created',
+E               'id',
+E         -     'internal_id',
+E               'links',
+E         -     'revision_id',
+E         -     'updated',
+E           }
+
+tests/contrib/names/test_names_service.py:68: AssertionError
+---------------------------- Captured stderr setup -----------------------------
+[2026-06-25 09:03:01,036] WARNING in ext: JSONSCHEMAS_HOST is set to localhost
+[2026-06-25 09:03:01,177] DEBUG in ext: Flask-DebugToolbar extension not installed.
+------------------------------ Captured log setup ------------------------------
+WARNING  invenio:ext.py:286 JSONSCHEMAS_HOST is set to localhost
+DEBUG    invenio:ext.py:171 Flask-DebugToolbar extension not installed.
+=============================== warnings summary ===============================
+tests/resources/test_tasks_resources.py:16
+  /home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-vocabularies/patched/tests/resources/test_tasks_resources.py:16: PytestCollectionWarning: cannot collect test class 'TestReader' because it has a __init__ constructor (from: tests/resources/test_tasks_resources.py)
+    class TestReader(BaseReader):
+
+tests/resources/test_tasks_resources.py:37
+  /home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-vocabularies/patched/tests/resources/test_tasks_resources.py:37: PytestCollectionWarning: cannot collect test class 'TestWriter' because it has a __init__ constructor (from: tests/resources/test_tasks_resources.py)
+    class TestWriter(BaseWriter):
+
+tests/contrib/affiliations/test_affiliations_api.py::test_affiliation_indexing
+tests/contrib/names/test_names_api.py::test_name_indexing
+tests/contrib/subjects/test_subjects_api.py::test_subject_indexing
+tests/records/test_api.py::test_record_indexing
+tests/records/test_relationship.py::test_indexing
+  /home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/invenio_indexer/api.py:113: DeprecationWarning: The 'record_to_index' function is no longer expected to return a tuple (index, doc_type), instead it should only return the index. Support for the tuple will be removed in a future version of 'invenio-indexer'.
+    warnings.warn(
+
+tests/contrib/affiliations/test_affiliations_datastreams.py: 1 warning
+tests/contrib/affiliations/test_affiliations_jsonschema.py: 1 warning
+tests/contrib/affiliations/test_affiliations_resource.py: 1 warning
+tests/contrib/affiliations/test_affiliations_schema.py: 1 warning
+tests/contrib/affiliations/test_affiliations_service.py: 1 warning
+tests/contrib/awards/test_awards_api.py: 1 warning
+tests/contrib/awards/test_awards_datastreams.py: 1 warning
+tests/contrib/awards/test_awards_jsonschema.py: 1 warning
+tests/contrib/awards/test_awards_resource.py: 1 warning
+tests/contrib/awards/test_awards_schema.py: 1 warning
+tests/contrib/awards/test_awards_service.py: 1 warning
+tests/contrib/common/ror/test_ror_datastreams.py: 1 warning
+tests/contrib/funders/test_funders_api.py: 1 warning
+tests/contrib/funders/test_funders_datastreams.py: 1 warning
+tests/contrib/funders/test_funders_jsonschema.py: 1 warning
+tests/contrib/funders/test_funders_resource.py: 1 warning
+tests/contrib/funders/test_funders_schema.py: 1 warning
+tests/contrib/funders/test_funders_service.py: 1 warning
+tests/contrib/names/test_name_permissions.py: 1 warning
+tests/contrib/names/test_names_api.py: 1 warning
+tests/contrib/names/test_names_datastreams.py: 1 warning
+tests/contrib/names/test_names_jsonschema.py: 1 warning
+tests/contrib/names/test_names_resource.py: 1 warning
+tests/contrib/names/test_names_schema.py: 1 warning
+tests/contrib/names/test_names_service.py: 1 warning
+tests/contrib/subjects/test_subjects_api.py: 1 warning
+tests/contrib/subjects/test_subjects_datastreams.py: 1 warning
+tests/contrib/subjects/test_subjects_jsonschema.py: 1 warning
+tests/contrib/subjects/test_subjects_resource.py: 1 warning
+tests/contrib/subjects/test_subjects_schema.py: 1 warning
+tests/contrib/subjects/test_subjects_service.py: 1 warning
+tests/custom_fields/test_custom_fields.py: 1 warning
+tests/datastreams/test_datastreams.py: 1 warning
+tests/datastreams/test_datastreams_tasks.py: 1 warning
+tests/datastreams/test_fixtures.py: 1 warning
+tests/datastreams/test_readers.py: 1 warning
+tests/datastreams/test_writers.py: 1 warning
+tests/records/test_api.py: 1 warning
+tests/records/test_jsonschema.py: 1 warning
+tests/records/test_models.py: 1 warning
+tests/records/test_relationship.py: 1 warning
+tests/resources/test_resources_l10n.py: 1 warning
+tests/resources/test_tasks_resources.py: 1 warning
+tests/resources/test_vocabularies_admin_resource.py: 1 warning
+tests/resources/test_vocabularies_resource.py: 1 warning
+tests/services/test_labels.py: 1 warning
+tests/services/test_permissions.py: 1 warning
+tests/services/test_service.py: 1 warning
+tests/test_alembic.py: 1 warning
+tests/test_cli.py: 1 warning
+tests/test_factory.py: 1 warning
+  /home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/invenio_search/ext.py:123: UserWarning: OpenSearch v2 mappings files not found, falling back to Elasticsearch v7 mappings for module mock_module.mappings. Please add the missing OpenSearch os-v2 mappings.
+    warnings.warn(
+
+tests/contrib/affiliations/test_affiliations_datastreams.py: 1 warning
+tests/contrib/affiliations/test_affiliations_jsonschema.py: 1 warning
+tests/contrib/affiliations/test_affiliations_resource.py: 1 warning
+tests/contrib/affiliations/test_affiliations_schema.py: 1 warning
+tests/contrib/affiliations/test_affiliations_service.py: 1 warning
+tests/contrib/awards/test_awards_api.py: 1 warning
+tests/contrib/awards/test_awards_datastreams.py: 1 warning
+tests/contrib/awards/test_awards_jsonschema.py: 1 warning
+tests/contrib/awards/test_awards_resource.py: 1 warning
+tests/contrib/awards/test_awards_schema.py: 1 warning
+tests/contrib/awards/test_awards_service.py: 1 warning
+tests/contrib/common/ror/test_ror_datastreams.py: 1 warning
+tests/contrib/funders/test_funders_api.py: 1 warning
+tests/contrib/funders/test_funders_datastreams.py: 1 warning
+tests/contrib/funders/test_funders_jsonschema.py: 1 warning
+tests/contrib/funders/test_funders_resource.py: 1 warning
+tests/contrib/funders/test_funders_schema.py: 1 warning
+tests/contrib/funders/test_funders_service.py: 1 warning
+tests/contrib/names/test_name_permissions.py: 1 warning
+tests/contrib/names/test_names_api.py: 1 warning
+tests/contrib/names/test_names_datastreams.py: 1 warning
+tests/contrib/names/test_names_jsonschema.py: 1 warning
+tests/contrib/names/test_names_resource.py: 1 warning
+tests/contrib/names/test_names_schema.py: 1 warning
+tests/contrib/names/test_names_service.py: 1 warning
+tests/contrib/subjects/test_subjects_api.py: 1 warning
+tests/contrib/subjects/test_subjects_datastreams.py: 1 warning
+tests/contrib/subjects/test_subjects_jsonschema.py: 1 warning
+tests/contrib/subjects/test_subjects_resource.py: 1 warning
+tests/contrib/subjects/test_subjects_schema.py: 1 warning
+tests/contrib/subjects/test_subjects_service.py: 1 warning
+tests/custom_fields/test_custom_fields.py: 1 warning
+tests/datastreams/test_datastreams.py: 1 warning
+tests/datastreams/test_datastreams_tasks.py: 1 warning
+tests/datastreams/test_fixtures.py: 1 warning
+tests/datastreams/test_readers.py: 1 warning
+tests/datastreams/test_writers.py: 1 warning
+tests/records/test_api.py: 1 warning
+tests/records/test_jsonschema.py: 1 warning
+tests/records/test_models.py: 1 warning
+tests/records/test_relationship.py: 1 warning
+tests/resources/test_resources_l10n.py: 1 warning
+tests/resources/test_tasks_resources.py: 1 warning
+tests/resources/test_vocabularies_admin_resource.py: 1 warning
+tests/resources/test_vocabularies_resource.py: 1 warning
+tests/services/test_labels.py: 1 warning
+tests/services/test_permissions.py: 1 warning
+tests/services/test_service.py: 1 warning
+tests/test_alembic.py: 1 warning
+tests/test_cli.py: 1 warning
+tests/test_factory.py: 1 warning
+  /home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/invenio_rest/ext.py:24: FutureWarning: CSRF validation will be enabled by default in the version 1.3.x
+    self.init_app(app)
+
+tests/contrib/affiliations/test_affiliations_schema.py: 2 warnings
+tests/contrib/awards/test_awards_schema.py: 4 warnings
+tests/contrib/funders/test_funders_schema.py: 2 warnings
+tests/contrib/names/test_names_schema.py: 4 warnings
+  /home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/marshmallow/schema.py:845: UserWarning: In ModePIDFieldVocabularyMixin the context_schema is not defined, check why not!
+    validator_func(output, partial=partial, many=many)
+
+tests/contrib/awards/test_awards_resource.py: 3 warnings
+tests/contrib/funders/test_funders_resource.py: 3 warnings
+tests/contrib/names/test_names_resource.py: 5 warnings
+tests/resources/test_tasks_resources.py: 1 warning
+  /home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/flask_security/utils.py:77: DeprecationWarning: Remember me support has been removed.
+    warnings.warn("Remember me support has been removed.", DeprecationWarning)
+
+tests/custom_fields/test_custom_fields.py::test_options
+tests/services/test_service.py::test_read_all_cache
+  /home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/cachelib/redis_base.py:70: DeprecationWarning: Call to deprecated setex. (Use 'set' instead.) -- Deprecated since version 2.6.12.
+    result = self._write_client.setex(
+
+tests/test_alembic.py::test_alembic
+  /home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/alembic/config.py:580: DeprecationWarning: No path_separator found in configuration; falling back to legacy splitting on spaces/commas for version_locations.  Consider adding path_separator=os to Alembic config.
+    util.warn_deprecated(
+
+tests/test_alembic.py::test_alembic
+  /home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/invenio_oauthclient/alembic/bff1f190b9bd_add_timestamp_oauthclient.py:22: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+    current_date = datetime.utcnow()
+
+tests/test_alembic.py::test_alembic
+  /home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/alembic/ddl/postgresql.py:202: UserWarning: autoincrement and existing_autoincrement only make sense for MySQL
+    super().alter_column(
+
+tests/test_alembic.py::test_alembic
+  /home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/invenio_oauthclient/alembic/97bbc733896c_create_oauthclient_tables.py:71: SADeprecationWarning: The from_engine() method on Inspector is deprecated and will be removed in a future release.  Please use the sqlalchemy.inspect() function on an Engine or Connection in order to acquire an Inspector. (deprecated since: 1.4)
+    insp = Inspector.from_engine(ctx.connection.engine)
+
+tests/test_alembic.py::test_alembic
+  /home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-vocabularies/patched/.venv/lib/python3.14/site-packages/invenio_accounts/alembic/9848d0149abd_create_accounts_tables.py:100: SADeprecationWarning: The from_engine() method on Inspector is deprecated and will be removed in a future release.  Please use the sqlalchemy.inspect() function on an Engine or Connection in order to acquire an Inspector. (deprecated since: 1.4)
+    insp = Inspector.from_engine(ctx.connection.engine)
+
+-- Docs: https://docs.pytest.org/en/stable/how-to/capture-warnings.html
+================================ tests coverage ================================
+_______________ coverage: platform linux, python 3.14.2-final-0 ________________
+
+Name                                                                                   Stmts   Miss  Cover   Missing
+--------------------------------------------------------------------------------------------------------------------
+invenio_vocabularies/__init__.py                                                           3      0   100%
+invenio_vocabularies/administration/__init__.py                                            0      0   100%
+invenio_vocabularies/administration/views/__init__.py                                      0      0   100%
+invenio_vocabularies/administration/views/vocabularies.py                                 21      0   100%
+invenio_vocabularies/alembic/3ba812d80559_add_internal_name_id.py                         13      0   100%
+invenio_vocabularies/alembic/4a9a4fd235f8_create_vocabulary_schemes.py                    10      0   100%
+invenio_vocabularies/alembic/4f365fced43f_create_vocabularies_tables.py                   16      0   100%
+invenio_vocabularies/alembic/8ff82dfb0be8_create_vocabularies_branch.py                   10      0   100%
+invenio_vocabularies/alembic/17c703ce1eb7_create_names_table.py                           12      0   100%
+invenio_vocabularies/alembic/55a700f897b6_add_names_and_afiliations_pid_column.py         21      0   100%
+invenio_vocabularies/alembic/676dd587542d_create_funders_vocabulary_table.py              12      0   100%
+invenio_vocabularies/alembic/6312f33645c1_create_affiliations_table.py                    12      0   100%
+invenio_vocabularies/alembic/__init__.py                                                   0      0   100%
+invenio_vocabularies/alembic/af2457652217_drop_unique_constraint_from_internal_id.py      13      0   100%
+invenio_vocabularies/alembic/d00af88aac94_change_datetime_types.py                        13      0   100%
+invenio_vocabularies/alembic/e1146238edd3_create_awards_table.py                          12      0   100%
+invenio_vocabularies/cli.py                                                              107     46    57%   37, 39-41, 45-46, 56, 75-84, 95-96, 102, 109, 125-137, 152-171
+invenio_vocabularies/config.py                                                            69      2    97%   52, 58
+invenio_vocabularies/contrib/__init__.py                                                   0      0   100%
+invenio_vocabularies/contrib/affiliations/__init__.py                                      3      0   100%
+invenio_vocabularies/contrib/affiliations/affiliations.py                                 11      0   100%
+invenio_vocabularies/contrib/affiliations/api.py                                           2      0   100%
+invenio_vocabularies/contrib/affiliations/config.py                                       17      0   100%
+invenio_vocabularies/contrib/affiliations/datastreams.py                                  96     32    67%   40-42, 110-111, 124-176
+invenio_vocabularies/contrib/affiliations/facets.py                                        7      3    57%   21-27, 31
+invenio_vocabularies/contrib/affiliations/jsonschemas/__init__.py                          0      0   100%
+invenio_vocabularies/contrib/affiliations/mappings/__init__.py                             0      0   100%
+invenio_vocabularies/contrib/affiliations/mappings/os-v1/__init__.py                       0      0   100%
+invenio_vocabularies/contrib/affiliations/mappings/os-v2/__init__.py                       0      0   100%
+invenio_vocabularies/contrib/affiliations/mappings/v7/__init__.py                          0      0   100%
+invenio_vocabularies/contrib/affiliations/models.py                                        2      0   100%
+invenio_vocabularies/contrib/affiliations/resources.py                                     3      0   100%
+invenio_vocabularies/contrib/affiliations/schema.py                                       23      0   100%
+invenio_vocabularies/contrib/affiliations/services.py                                      3      0   100%
+invenio_vocabularies/contrib/awards/__init__.py                                            3      0   100%
+invenio_vocabularies/contrib/awards/api.py                                                 2      0   100%
+invenio_vocabularies/contrib/awards/awards.py                                             17      0   100%
+invenio_vocabularies/contrib/awards/config.py                                             16      0   100%
+invenio_vocabularies/contrib/awards/datastreams.py                                       121     24    80%   60, 101, 116, 118, 120, 130, 136-157, 200, 237, 246, 278-281, 287
+invenio_vocabularies/contrib/awards/jsonschemas/__init__.py                                0      0   100%
+invenio_vocabularies/contrib/awards/mappings/__init__.py                                   0      0   100%
+invenio_vocabularies/contrib/awards/mappings/os-v1/__init__.py                             0      0   100%
+invenio_vocabularies/contrib/awards/mappings/os-v2/__init__.py                             0      0   100%
+invenio_vocabularies/contrib/awards/mappings/v7/__init__.py                                0      0   100%
+invenio_vocabularies/contrib/awards/models.py                                              2      0   100%
+invenio_vocabularies/contrib/awards/resources.py                                           3      0   100%
+invenio_vocabularies/contrib/awards/schema.py                                             47      0   100%
+invenio_vocabularies/contrib/awards/serializer.py                                         21      0   100%
+invenio_vocabularies/contrib/awards/services.py                                            3      0   100%
+invenio_vocabularies/contrib/common/__init__.py                                            0      0   100%
+invenio_vocabularies/contrib/common/openaire/__init__.py                                   0      0   100%
+invenio_vocabularies/contrib/common/openaire/datastreams.py                               33      1    97%   40
+invenio_vocabularies/contrib/common/ror/__init__.py                                        0      0   100%
+invenio_vocabularies/contrib/common/ror/datastreams.py                                   120      5    96%   91, 157, 178, 180, 188
+invenio_vocabularies/contrib/common/utils.py                                               7      0   100%
+invenio_vocabularies/contrib/funders/__init__.py                                           3      0   100%
+invenio_vocabularies/contrib/funders/api.py                                                2      0   100%
+invenio_vocabularies/contrib/funders/config.py                                            17      0   100%
+invenio_vocabularies/contrib/funders/datastreams.py                                       24      5    79%   33-39
+invenio_vocabularies/contrib/funders/facets.py                                             7      0   100%
+invenio_vocabularies/contrib/funders/funders.py                                           12      0   100%
+invenio_vocabularies/contrib/funders/jsonschemas/__init__.py                               0      0   100%
+invenio_vocabularies/contrib/funders/mappings/__init__.py                                  0      0   100%
+invenio_vocabularies/contrib/funders/mappings/os-v1/__init__.py                            0      0   100%
+invenio_vocabularies/contrib/funders/mappings/os-v2/__init__.py                            0      0   100%
+invenio_vocabularies/contrib/funders/mappings/v7/__init__.py                               0      0   100%
+invenio_vocabularies/contrib/funders/models.py                                             2      0   100%
+invenio_vocabularies/contrib/funders/resources.py                                          3      0   100%
+invenio_vocabularies/contrib/funders/schema.py                                            21      0   100%
+invenio_vocabularies/contrib/funders/serializer.py                                        14      0   100%
+invenio_vocabularies/contrib/funders/services.py                                           3      0   100%
+invenio_vocabularies/contrib/names/__init__.py                                             3      0   100%
+invenio_vocabularies/contrib/names/api.py                                                  2      0   100%
+invenio_vocabularies/contrib/names/components.py                                           7      0   100%
+invenio_vocabularies/contrib/names/config.py                                              15      0   100%
+invenio_vocabularies/contrib/names/datastreams.py                                        204     65    68%   38-40, 45-53, 64-102, 106-141, 146-168, 172-175, 186, 213, 226, 317, 365-366
+invenio_vocabularies/contrib/names/jsonschemas/__init__.py                                 0      0   100%
+invenio_vocabularies/contrib/names/mappings/__init__.py                                    0      0   100%
+invenio_vocabularies/contrib/names/mappings/os-v1/__init__.py                              0      0   100%
+invenio_vocabularies/contrib/names/mappings/os-v2/__init__.py                              0      0   100%
+invenio_vocabularies/contrib/names/mappings/v7/__init__.py                                 0      0   100%
+invenio_vocabularies/contrib/names/models.py                                               2      0   100%
+invenio_vocabularies/contrib/names/names.py                                               15      0   100%
+invenio_vocabularies/contrib/names/permissions.py                                          6      0   100%
+invenio_vocabularies/contrib/names/resources.py                                           20      0   100%
+invenio_vocabularies/contrib/names/s3client.py                                            20     12    40%   10-11, 19-22, 26-27, 35-41
+invenio_vocabularies/contrib/names/schema.py                                              56      2    96%   108, 110
+invenio_vocabularies/contrib/names/services.py                                            21      5    76%   36, 46-49
+invenio_vocabularies/contrib/subjects/__init__.py                                          4      0   100%
+invenio_vocabularies/contrib/subjects/api.py                                               2      0   100%
+invenio_vocabularies/contrib/subjects/config.py                                           19      0   100%
+invenio_vocabularies/contrib/subjects/datastreams.py                                      21      0   100%
+invenio_vocabularies/contrib/subjects/euroscivoc/__init__.py                               0      0   100%
+invenio_vocabularies/contrib/subjects/euroscivoc/datastreams.py                           18      0   100%
+invenio_vocabularies/contrib/subjects/facets.py                                            4      0   100%
+invenio_vocabularies/contrib/subjects/gemet/__init__.py                                    0      0   100%
+invenio_vocabularies/contrib/subjects/gemet/datastreams.py                                39      2    95%   13-14
+invenio_vocabularies/contrib/subjects/jsonschemas/__init__.py                              0      0   100%
+invenio_vocabularies/contrib/subjects/mappings/__init__.py                                 0      0   100%
+invenio_vocabularies/contrib/subjects/mappings/os-v1/__init__.py                           0      0   100%
+invenio_vocabularies/contrib/subjects/mappings/os-v2/__init__.py                           0      0   100%
+invenio_vocabularies/contrib/subjects/mappings/v7/__init__.py                              0      0   100%
+invenio_vocabularies/contrib/subjects/mesh/__init__.py                                     0      0   100%
+invenio_vocabularies/contrib/subjects/mesh/datastreams.py                                 19     10    47%   18-33
+invenio_vocabularies/contrib/subjects/models.py                                            2      0   100%
+invenio_vocabularies/contrib/subjects/nvs/__init__.py                                      0      0   100%
+invenio_vocabularies/contrib/subjects/nvs/datastreams.py                                  33      3    91%   15-16, 68
+invenio_vocabularies/contrib/subjects/resources.py                                         4      0   100%
+invenio_vocabularies/contrib/subjects/schema.py                                           38      5    87%   27-34
+invenio_vocabularies/contrib/subjects/services.py                                         10      4    60%   20-25
+invenio_vocabularies/contrib/subjects/subjects.py                                         11      0   100%
+invenio_vocabularies/datastreams/__init__.py                                               3      0   100%
+invenio_vocabularies/datastreams/datastreams.py                                          131     40    69%   40-47, 90-91, 108-109, 119, 136-138, 186-202, 214-215, 229-247, 251
+invenio_vocabularies/datastreams/errors.py                                                 6      1    83%   24
+invenio_vocabularies/datastreams/factories.py                                             41      2    95%   35-36
+invenio_vocabularies/datastreams/readers.py                                              231     48    79%   30-31, 36-37, 42-43, 61, 127-131, 138, 199-208, 217-221, 229-231, 235-241, 266, 341, 346, 388-399, 420, 427, 433
+invenio_vocabularies/datastreams/tasks.py                                                 46     14    70%   26-29, 40-53, 72-75, 85-92, 108
+invenio_vocabularies/datastreams/transformers.py                                          56      6    89%   16-17, 30, 84, 114, 118
+invenio_vocabularies/datastreams/writers.py                                              108     22    80%   41, 51, 123, 130-162
+invenio_vocabularies/datastreams/xml.py                                                   20      0   100%
+invenio_vocabularies/ext.py                                                               71      1    99%   143
+invenio_vocabularies/factories.py                                                         84     10    88%   44-45, 82, 104, 115, 126, 137, 148, 159, 170
+invenio_vocabularies/fixtures.py                                                          22      0   100%
+invenio_vocabularies/jobs.py                                                              72     17    76%   42, 80, 116, 151, 179-184, 196-209, 222, 235
+invenio_vocabularies/patch_info.py                                                         6      2    67%   685-687
+invenio_vocabularies/proxies.py                                                            8      0   100%
+invenio_vocabularies/records/__init__.py                                                   0      0   100%
+invenio_vocabularies/records/api.py                                                       16      0   100%
+invenio_vocabularies/records/jsonschemas/__init__.py                                       0      0   100%
+invenio_vocabularies/records/mappings/__init__.py                                          0      0   100%
+invenio_vocabularies/records/mappings/os-v1/__init__.py                                    0      0   100%
+invenio_vocabularies/records/mappings/os-v2/__init__.py                                    0      0   100%
+invenio_vocabularies/records/mappings/v7/__init__.py                                       0      0   100%
+invenio_vocabularies/records/models.py                                                    40      0   100%
+invenio_vocabularies/records/pidprovider.py                                               28      0   100%
+invenio_vocabularies/records/systemfields/__init__.py                                      2      0   100%
+invenio_vocabularies/records/systemfields/pid.py                                          38      1    97%   58
+invenio_vocabularies/records/systemfields/relations.py                                    18      9    50%   22-23, 28-40, 44
+invenio_vocabularies/resources/__init__.py                                                 4      0   100%
+invenio_vocabularies/resources/config.py                                                  28      0   100%
+invenio_vocabularies/resources/resource.py                                                58      8    86%   63-67, 86-96, 102-111
+invenio_vocabularies/resources/schema.py                                                   5      0   100%
+invenio_vocabularies/resources/serializer.py                                              18      1    94%   20
+invenio_vocabularies/services/__init__.py                                                  3      0   100%
+invenio_vocabularies/services/components.py                                               24      2    92%   22-23
+invenio_vocabularies/services/config.py                                                   47      1    98%   32
+invenio_vocabularies/services/custom_fields/__init__.py                                    3      0   100%
+invenio_vocabularies/services/custom_fields/subject.py                                    15      2    87%   31-40
+invenio_vocabularies/services/custom_fields/vocabulary.py                                 37      0   100%
+invenio_vocabularies/services/facets.py                                                   51      2    96%   106-107
+invenio_vocabularies/services/generators.py                                               12      0   100%
+invenio_vocabularies/services/permissions.py                                              11      0   100%
+invenio_vocabularies/services/querystr.py                                                 26     16    38%   19-23, 27-28, 32-36, 43-52
+invenio_vocabularies/services/results.py                                                  51      2    96%   56-57
+invenio_vocabularies/services/schema.py                                                   73      0   100%
+invenio_vocabularies/services/service.py                                                  67      5    93%   26, 37, 130, 140-146
+invenio_vocabularies/services/tasks.py                                                    14      3    79%   27-30, 33
+invenio_vocabularies/views.py                                                             16      0   100%
+invenio_vocabularies/webpack.py                                                            2      0   100%
+--------------------------------------------------------------------------------------------------------------------
+TOTAL                                                                                   3221    441    86%
+=========================== short test summary info ============================
+FAILED tests/contrib/affiliations/test_affiliations_datastreams.py::test_openaire_affiliations_service_writer - KeyError: 'revision_id'
+FAILED tests/contrib/affiliations/test_affiliations_service.py::test_simple_flow - AssertionError: assert {'id', 'links'} == {'created', '...d', 'updated'}
+  
+  Extra items in the right set:
+  'created'
+  'updated'
+  'revision_id'
+  
+  Full diff:
+    {
+  -     'created',
+        'id',
+        'links',
+  -     'revision_id',
+  -     'updated',
+    }
+FAILED tests/contrib/awards/test_awards_resource.py::test_awards_delete - AssertionError: assert {'id', 'links'} == {'created', '...d', 'updated'}
+  
+  Extra items in the right set:
+  'created'
+  'updated'
+  'revision_id'
+  
+  Full diff:
+    {
+  -     'created',
+        'id',
+        'links',
+  -     'revision_id',
+  -     'updated',
+    }
+FAILED tests/contrib/awards/test_awards_service.py::test_simple_flow - AssertionError: assert {'id', 'links'} == {'created', '...d', 'updated'}
+  
+  Extra items in the right set:
+  'created'
+  'updated'
+  'revision_id'
+  
+  Full diff:
+    {
+  -     'created',
+        'id',
+        'links',
+  -     'revision_id',
+  -     'updated',
+    }
+FAILED tests/contrib/funders/test_funders_resource.py::test_funders_delete - AssertionError: assert {'id', 'links'} == {'created', '...d', 'updated'}
+  
+  Extra items in the right set:
+  'created'
+  'updated'
+  'revision_id'
+  
+  Full diff:
+    {
+  -     'created',
+        'id',
+        'links',
+  -     'revision_id',
+  -     'updated',
+    }
+FAILED tests/contrib/funders/test_funders_service.py::test_simple_flow - AssertionError: assert {'id', 'links'} == {'created', '...d', 'updated'}
+  
+  Extra items in the right set:
+  'created'
+  'updated'
+  'revision_id'
+  
+  Full diff:
+    {
+  -     'created',
+        'id',
+        'links',
+  -     'revision_id',
+  -     'updated',
+    }
+FAILED tests/contrib/funders/test_funders_service.py::test_indexed_at_query - invenio_pidstore.errors.PIDAlreadyExists
+FAILED tests/contrib/names/test_names_service.py::test_simple_flow - AssertionError: assert {'id', 'links'} == {'created', '...d', 'updated'}
+  
+  Extra items in the right set:
+  'internal_id'
+  'created'
+  'updated'
+  'revision_id'
+  
+  Full diff:
+    {
+  -     'created',
+        'id',
+  -     'internal_id',
+        'links',
+  -     'revision_id',
+  -     'updated',
+    }
+ERROR tests/contrib/funders/test_funders_service.py::test_pid_already_registered - invenio_pidstore.errors.PIDAlreadyExists
+======= 8 failed, 935 passed, 140 warnings, 1 error in 244.50s (0:04:04) =======
+ Container docker_services_cli-redis-1  Stopping
+ Container docker_services_cli-opensearch-1  Stopping
+ Container docker_services_cli-postgresql-1  Stopping
+ Container docker_services_cli-redis-1  Stopped
+ Container docker_services_cli-redis-1  Removing
+ Container docker_services_cli-redis-1  Removed
+ Container docker_services_cli-opensearch-1  Stopped
+ Container docker_services_cli-opensearch-1  Removing
+ Container docker_services_cli-opensearch-1  Removed
+ Container docker_services_cli-postgresql-1  Stopped
+ Container docker_services_cli-postgresql-1  Removing
+ Container docker_services_cli-postgresql-1  Removed
+ Network docker_services_cli_default  Removing
+ Network docker_services_cli_default  Removed

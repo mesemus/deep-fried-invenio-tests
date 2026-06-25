@@ -1,0 +1,202 @@
+[
+  {
+    "hash": "510b2cd",
+    "message": "support for TZDateTime"
+  },
+  {
+    "hash": "2559bff",
+    "message": "isodatestring serializer"
+  },
+  {
+    "hash": "78b5de9",
+    "message": "TrimmedString inliner"
+  },
+  {
+    "hash": "e0fe797",
+    "message": "feat: support for DeepFriedMarshmallow"
+  },
+  {
+    "hash": "a77f79f",
+    "message": "release: v0.15.0"
+  },
+  {
+    "hash": "f7bdf90",
+    "message": "chore(setup): bump dependencies"
+  },
+  {
+    "hash": "06379fc",
+    "message": "chore(git-blame): ignore SPDX license header commit"
+  },
+  {
+    "hash": "2981478",
+    "message": "chore(licenses): update license headers to use SPDX"
+  },
+  {
+    "hash": "72823f5",
+    "message": "release: v0.14.1"
+  },
+  {
+    "hash": "aad1e37",
+    "message": "fix: variable could not exist"
+  },
+  {
+    "hash": "3cd7fd5",
+    "message": "release: v0.14.0"
+  },
+  {
+    "hash": "d18b41d",
+    "message": "fix: remove unused code"
+  },
+  {
+    "hash": "82d1706",
+    "message": "fix(datetime): due to utcnow migration"
+  },
+  {
+    "hash": "4d28578",
+    "message": "fix: RemovedInMarshmallow4Warning for context"
+  },
+  {
+    "hash": "1854574",
+    "message": "fix: change to reusable workflows"
+  },
+  {
+    "hash": "8d6dd53",
+    "message": "fix: translations not compiled"
+  },
+  {
+    "hash": "ae09efe",
+    "message": "\ud83d\udce6 release: v0.13.1"
+  },
+  {
+    "hash": "397cfc5",
+    "message": "i18n: pulled translations (#105)"
+  },
+  {
+    "hash": "af92e79",
+    "message": "release: v0.13.0"
+  },
+  {
+    "hash": "42cca0e",
+    "message": "i18n: pulled translations"
+  },
+  {
+    "hash": "b71fe4e",
+    "message": "release: v0.12.1"
+  },
+  {
+    "hash": "6d22481",
+    "message": "fix: missing locale"
+  },
+  {
+    "hash": "d7e1f54",
+    "message": "release: v0.12.0"
+  },
+  {
+    "hash": "8ed20ed",
+    "message": "validator: add lvl2 tests"
+  },
+  {
+    "hash": "86b0ebe",
+    "message": "Update marshmallow_utils/fields/edtfdatestring.py"
+  },
+  {
+    "hash": "43a7185",
+    "message": "CI: update test OS"
+  },
+  {
+    "hash": "118d98c",
+    "message": "date: add EDTFLevel2 validator"
+  },
+  {
+    "hash": "f721e9c",
+    "message": "\ud83d\udce6 release: v0.11.1"
+  },
+  {
+    "hash": "2080692",
+    "message": "chore: explicitly set long description type to RST"
+  },
+  {
+    "hash": "ec085bb",
+    "message": "chore: fix RST formatting in CHANGES.rst"
+  },
+  {
+    "hash": "80ca9c1",
+    "message": "ci: use reusable PyPI publish workflow"
+  },
+  {
+    "hash": "506ddb0",
+    "message": "\ud83d\udce6 release: v0.11.0"
+  },
+  {
+    "hash": "7d486a5",
+    "message": "html: add all safe attributes from OWASP"
+  },
+  {
+    "hash": "d7bf15a",
+    "message": "html: updated allowed tags and styles"
+  },
+  {
+    "hash": "cbcdec9",
+    "message": "fix: setuptools require underscores instead of dashes"
+  },
+  {
+    "hash": "354746d",
+    "message": "removed_drepecaded_languages"
+  },
+  {
+    "hash": "017bc7e",
+    "message": "release: v0.10.0"
+  },
+  {
+    "hash": "752d74b",
+    "message": "identifiers: relax deduplication rules on Identifiers"
+  },
+  {
+    "hash": "277d6fd",
+    "message": "\ud83d\udce6 release: v0.9.3"
+  },
+  {
+    "hash": "b3449c9",
+    "message": "setup: upgrade babel-edtf to 1.2.0 and edtf to 5.0.0 and fix bug with dates and times with hour 23"
+  },
+  {
+    "hash": "c7b23a7",
+    "message": "\ud83d\udce6 release: v0.9.2"
+  },
+  {
+    "hash": "5a1e3be",
+    "message": "babel: better handling for missing locales in catalog"
+  },
+  {
+    "hash": "b94dcaa",
+    "message": "release: v0.9.1"
+  },
+  {
+    "hash": "bf7f677",
+    "message": "fix: translation should fallback to en translation"
+  },
+  {
+    "hash": "3284733",
+    "message": "\ud83d\udce6 release: v0.9.0"
+  },
+  {
+    "hash": "3990911",
+    "message": "ci: update Python and GH action versions"
+  },
+  {
+    "hash": "7d8b155",
+    "message": "validators: implement LazyOneOf"
+  },
+  {
+    "hash": "bb1913c",
+    "message": "release: v0.8.2"
+  },
+  {
+    "hash": "5a08cb5",
+    "message": "html: updating allowed html attributes"
+  },
+  {
+    "hash": "754fba0",
+    "message": "release: v0.8.1"
+  }
+]

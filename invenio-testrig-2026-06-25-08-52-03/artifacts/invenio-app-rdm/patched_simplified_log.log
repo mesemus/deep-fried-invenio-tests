@@ -1,0 +1,779 @@
+ redis Pulling 
+ opensearch Pulling 
+ rabbitmq Pulling 
+ postgresql Pulling 
+ redis Pulled 
+ rabbitmq Pulled 
+ postgresql Pulled 
+ opensearch Pulled 
+ Network docker_services_cli_default  Creating
+ Network docker_services_cli_default  Created
+ Container docker_services_cli-postgresql-1  Creating
+ Container docker_services_cli-opensearch-1  Creating
+ Container docker_services_cli-rabbitmq-1  Creating
+ Container docker_services_cli-redis-1  Creating
+ Container docker_services_cli-postgresql-1  Created
+ Container docker_services_cli-opensearch-1  Created
+ Container docker_services_cli-redis-1  Created
+ Container docker_services_cli-rabbitmq-1  Created
+ Container docker_services_cli-opensearch-1  Starting
+ Container docker_services_cli-rabbitmq-1  Starting
+ Container docker_services_cli-redis-1  Starting
+ Container docker_services_cli-postgresql-1  Starting
+ Container docker_services_cli-postgresql-1  Started
+ Container docker_services_cli-redis-1  Started
+ Container docker_services_cli-rabbitmq-1  Started
+ Container docker_services_cli-opensearch-1  Started
+============================= test session starts ==============================
+platform linux -- Python 3.14.2, pytest-8.4.2, pluggy-1.6.0
+rootdir: /home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-app-rdm/patched
+configfile: setup.cfg
+testpaths: tests, invenio_app_rdm
+plugins: flask-1.3.0, black-0.6.0, github-actions-annotate-failures-0.4.2, pycodestyle-2.5.0, cov-7.1.0, invenio-4.0.1, pydocstyle-2.4.0, isort-4.0.0, Faker-40.23.0, time-machine-2.19.0
+collected 352 items
+tests/__init__.py ...                                                    [  0%]
+tests/api/__init__.py ...                                                [  1%]
+tests/api/conftest.py ...                                                [  2%]
+tests/api/test_protect_files_rest.py ...                                 [  3%]
+tests/api/test_record_api.py 
+::error file=workdir/tests/invenio-app-rdm/patched/tests/api/test_record_api.py,line=74::test_record_draft_publish%0A%0AAssertionError: assert 'revision_id' in dict_keys(['id', 'links', 'parent', 'versions', 'pids', 'metadata', 'custom_fields', 'access', 'files', 'media_files', 'stats'])
+F
+s
+                                    [  5%]
+tests/api/test_stats_api.py 
+                                          [  6%]
+tests/conftest.py ...                                                    [  7%]
+tests/fixtures/__init__.py ...                                           [  8%]
+tests/fixtures/conftest.py ...                                           [  9%]
+tests/fixtures/test_cli.py 
+                                           [  9%]
+tests/fixtures/test_fixtures.py 
+                                     [ 11%]
+tests/mock_module/__init__.py ...                                        [ 11%]
+tests/mock_module/views.py ...                                           [ 12%]
+tests/redirector/__init__.py ...                                         [ 13%]
+tests/redirector/conftest.py ...                                         [ 14%]
+tests/redirector/test_redirector.py 
+                                  [ 15%]
+tests/test_migrate_13_0_to_14_0.py 
+                                   [ 16%]
+tests/test_tasks.py 
+                                               [ 17%]
+tests/test_utils.py ......                                               [ 19%]
+tests/test_version.py ...                                                [ 20%]
+tests/test_views.py ...                                                  [ 21%]
+tests/ui/__init__.py ...                                                 [ 22%]
+tests/ui/conftest.py ...                                                 [ 23%]
+tests/ui/test_deposits.py 
+                                           [ 24%]
+tests/ui/test_export_formats.py 
+                                      [ 25%]
+tests/ui/test_file_download.py 
+::error file=workdir/tests/invenio-app-rdm/patched/tests/ui/test_file_download.py,line=101::test_deleted_record_file_redirects%0A%0Ajinja2.exceptions.UndefinedError: 'dict object' has no attribute 'tombstone'
+F
+                                     [ 26%]
+tests/ui/test_filters.py ....                                            [ 27%]
+tests/ui/test_robotstxt.py 
+                                           [ 28%]
+tests/ui/test_signposting_ui.py ..::error file=workdir/tests/invenio-app-rdm/patched/tests/ui/test_signposting_ui.py,line=32::test_link_in_landing_page_response_headers[True-head]%0A%0Awerkzeug.exceptions.BadRequestKeyError: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand
+F
+::error file=workdir/tests/invenio-app-rdm/patched/tests/ui/test_signposting_ui.py,line=32::test_link_in_landing_page_response_headers[True-get]%0A%0Awerkzeug.exceptions.BadRequestKeyError: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand
+F
+::error file=workdir/tests/invenio-app-rdm/patched/tests/ui/test_signposting_ui.py,line=32::test_link_in_landing_page_response_headers[False-head]%0A%0Awerkzeug.exceptions.BadRequestKeyError: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand
+F
+::error file=workdir/tests/invenio-app-rdm/patched/tests/ui/test_signposting_ui.py,line=32::test_link_in_landing_page_response_headers[False-get]%0A%0Awerkzeug.exceptions.BadRequestKeyError: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand
+F
+                               [ 31%]
+tests/ui/test_sitemaps.py 
+                                           [ 32%]
+tests/ui/test_stats_ui.py ..::error file=workdir/tests/invenio-app-rdm/patched/tests/ui/test_stats_ui.py,line=29::test_record_view_events%0A%0Aassert 404 == 200%0A +  where 404 = <WrapperTestResponse streamed [404 NOT FOUND]>.status_code
+F
+::error file=workdir/tests/invenio-app-rdm/patched/tests/ui/test_stats_ui.py,line=61::test_record_view_statistics%0A%0Aassert 404 == 200%0A +  where 404 = <WrapperTestResponse streamed [404 NOT FOUND]>.status_code
+F
+                                           [ 33%]
+invenio_app_rdm/__init__.py ...                                          [ 34%]
+invenio_app_rdm/administration/__init__.py ...                           [ 35%]
+invenio_app_rdm/administration/audit_logs/__init__.py ...                [ 36%]
+invenio_app_rdm/administration/audit_logs/audit_logs.py ...              [ 36%]
+invenio_app_rdm/administration/domains/__init__.py ...                   [ 37%]
+invenio_app_rdm/administration/domains/domains.py ...                    [ 38%]
+invenio_app_rdm/administration/moderation/__init__.py ...                [ 39%]
+invenio_app_rdm/administration/moderation/requests.py ...                [ 40%]
+invenio_app_rdm/administration/records/__init__.py ...                   [ 41%]
+invenio_app_rdm/administration/records/records.py ...                    [ 42%]
+invenio_app_rdm/administration/roles/__init__.py ...                     [ 42%]
+invenio_app_rdm/administration/roles/roles.py ...                        [ 43%]
+invenio_app_rdm/administration/user_moderation/__init__.py ...           [ 44%]
+invenio_app_rdm/administration/user_moderation/user_moderation.py ...    [ 45%]
+invenio_app_rdm/administration/users/__init__.py ...                     [ 46%]
+invenio_app_rdm/administration/users/permissions.py ...                  [ 47%]
+invenio_app_rdm/administration/users/users.py ...                        [ 48%]
+invenio_app_rdm/administration/views/__init__.py ...                     [ 48%]
+invenio_app_rdm/administration/views/ui.py ...                           [ 49%]
+invenio_app_rdm/cli.py ...                                               [ 50%]
+invenio_app_rdm/communities_ui/__init__.py ...                           [ 51%]
+invenio_app_rdm/communities_ui/searchapp.py ...                          [ 52%]
+invenio_app_rdm/communities_ui/sitemap.py ...                            [ 53%]
+invenio_app_rdm/communities_ui/views/__init__.py ...                     [ 53%]
+invenio_app_rdm/communities_ui/views/communities.py ...                  [ 54%]
+invenio_app_rdm/communities_ui/views/ui.py ...                           [ 55%]
+invenio_app_rdm/config.py ...                                            [ 56%]
+invenio_app_rdm/ext.py ...                                               [ 57%]
+invenio_app_rdm/fixtures/__init__.py ...                                 [ 58%]
+invenio_app_rdm/fixtures/oai_sets.py ...                                 [ 59%]
+invenio_app_rdm/fixtures/pages.py ...                                    [ 59%]
+invenio_app_rdm/records_ui/__init__.py ...                               [ 60%]
+invenio_app_rdm/records_ui/previewer/__init__.py ...                     [ 61%]
+invenio_app_rdm/records_ui/previewer/iiif_simple.py ...                  [ 62%]
+invenio_app_rdm/records_ui/previewer/previewable_zip.py ...              [ 63%]
+invenio_app_rdm/records_ui/searchapp.py ...                              [ 64%]
+invenio_app_rdm/records_ui/sitemap.py ...                                [ 65%]
+invenio_app_rdm/records_ui/utils.py ...                                  [ 65%]
+invenio_app_rdm/records_ui/views/__init__.py ...                         [ 66%]
+invenio_app_rdm/records_ui/views/decorators.py ...                       [ 67%]
+invenio_app_rdm/records_ui/views/deposits.py ...                         [ 68%]
+invenio_app_rdm/records_ui/views/filters.py ...                          [ 69%]
+invenio_app_rdm/records_ui/views/records.py ...                          [ 70%]
+invenio_app_rdm/redirector/__init__.py ...                               [ 71%]
+invenio_app_rdm/redirector/resource.py ...                               [ 71%]
+invenio_app_rdm/redirector/views.py ...                                  [ 72%]
+invenio_app_rdm/requests_ui/__init__.py ...                              [ 73%]
+invenio_app_rdm/requests_ui/views/__init__.py ...                        [ 74%]
+invenio_app_rdm/requests_ui/views/requests.py ...                        [ 75%]
+invenio_app_rdm/requests_ui/views/ui.py ...                              [ 76%]
+invenio_app_rdm/tasks.py ...                                             [ 76%]
+invenio_app_rdm/theme/__init__.py ...                                    [ 77%]
+invenio_app_rdm/theme/views.py ...                                       [ 78%]
+invenio_app_rdm/theme/webpack.py ...                                     [ 79%]
+invenio_app_rdm/upgrade_scripts/__init__.py ...                          [ 80%]
+invenio_app_rdm/upgrade_scripts/fix_migrated_records_from_1_0_to_2_0.py . [ 80%]
+                                                                       [ 81%]
+invenio_app_rdm/upgrade_scripts/fix_migrated_records_from_8_0_to_9_0.py . [ 81%]
+                                                                       [ 82%]
+invenio_app_rdm/upgrade_scripts/migrate_10_0_to_11_0.py ...              [ 82%]
+invenio_app_rdm/upgrade_scripts/migrate_11_0_to_12_0.py ...              [ 83%]
+invenio_app_rdm/upgrade_scripts/migrate_12_0_to_13_0.py ...              [ 84%]
+invenio_app_rdm/upgrade_scripts/migrate_13_0_to_14_0.py ...              [ 85%]
+invenio_app_rdm/upgrade_scripts/migrate_1_0_records_to_2_0.py ...        [ 86%]
+invenio_app_rdm/upgrade_scripts/migrate_2_0_to_3_0.py ...                [ 87%]
+invenio_app_rdm/upgrade_scripts/migrate_3_0_to_4_0.py ...                [ 88%]
+invenio_app_rdm/upgrade_scripts/migrate_4_0_to_6_0.py ...                [ 88%]
+invenio_app_rdm/upgrade_scripts/migrate_6_0_to_7_0.py ...                [ 89%]
+invenio_app_rdm/upgrade_scripts/migrate_7_0_to_8_0.py ...                [ 90%]
+invenio_app_rdm/upgrade_scripts/migrate_8_0_to_9_0.py ...                [ 91%]
+invenio_app_rdm/upgrade_scripts/migrate_9_0_to_10_0.py ...               [ 92%]
+invenio_app_rdm/upgrade_scripts/prepare_migration_13_0_to_14_0.py ...    [ 93%]
+invenio_app_rdm/users/schemas.py ...                                     [ 94%]
+invenio_app_rdm/users_ui/__init__.py ...                                 [ 94%]
+invenio_app_rdm/users_ui/searchapp.py ...                                [ 95%]
+invenio_app_rdm/users_ui/views/__init__.py ...                           [ 96%]
+invenio_app_rdm/users_ui/views/dashboard.py ...                          [ 97%]
+invenio_app_rdm/users_ui/views/ui.py ...                                 [ 98%]
+invenio_app_rdm/utils/files.py ...                                       [ 99%]
+invenio_app_rdm/views.py ...                                             [100%]
+=================================== FAILURES ===================================
+__________________________ test_record_draft_publish ___________________________
+client_with_login = <FlaskClient <Flask 'invenio'>>
+headers = {'accept': 'application/json', 'content-type': 'application/json'}
+running_app = RunningApp(app=<Flask 'invenio'>, location=pytest-location, resource_type_item=<invenio_records_resources.services.rec...m object at 0x7fdcf4558530>, <invenio_records_resources.services.records.results.RecordItem object at 0x7fdcf4539490>])
+minimal_record = {'access': {'files': 'public', 'record': 'public'}, 'files': {'enabled': False}, 'metadata': {'creators': [{'person_or...': 'personal'}}], 'publication_date': '2020-06-01', 'resource_type': {'id': 'image-photo'}, 'title': 'A Romans story'}}
+es_clear = <OpenSearch([{'host': 'localhost', 'port': 9200}])>
+    def test_record_draft_publish(
+        client_with_login, headers, running_app, minimal_record, es_clear
+    ):
+        """Test draft publication of a non-existing record
+        It has to first create said draft and includes record read
+        """
+        # Create the draft
+        client = client_with_login
+        response = client.post(LIST_RECORDS_API_URL, json=minimal_record, headers=headers)
+        assert response.status_code == 201
+        recid = response.json["id"]
+        # Publish it
+        response = client.post(
+            DRAFT_ACTION_API_URL.format(recid, "publish"), headers=headers
+        )
+        assert response.status_code == 202
+        response_fields = response.json.keys()
+        fields_to_check = ["id", "metadata", "revision_id", "created", "updated", "links"]
+        for field in fields_to_check:
+>           assert field in response_fields
+E           AssertionError: assert 'revision_id' in dict_keys(['id', 'links', 'parent', 'versions', 'pids', 'metadata', 'custom_fields', 'access', 'files', 'media_files', 'stats'])
+tests/api/test_record_api.py:74: AssertionError
+----------------------------- Captured stderr call -----------------------------
+[2026-06-25 08:56:02,054] WARNING in api: NotFoundError(404, 'index_not_found_exception', 'no such index [stats-record-view]', stats-record-view, index_or_alias)
+[2026-06-25 08:56:02,056] WARNING in api: NotFoundError(404, 'index_not_found_exception', 'no such index [stats-file-download]', stats-file-download, index_or_alias)
+------------------------------ Captured log call -------------------------------
+WARNING  opensearch:base.py:280 POST http://localhost:9200/stats-record-view/_search [status:404 request:0.005s]
+WARNING  invenio:api.py:34 NotFoundError(404, 'index_not_found_exception', 'no such index [stats-record-view]', stats-record-view, index_or_alias)
+WARNING  opensearch:base.py:280 POST http://localhost:9200/stats-file-download/_search [status:404 request:0.001s]
+WARNING  invenio:api.py:50 NotFoundError(404, 'index_not_found_exception', 'no such index [stats-file-download]', stats-file-download, index_or_alias)
+______________________ test_deleted_record_file_redirects ______________________
+self = <Flask 'invenio'>
+    def full_dispatch_request(self) -> Response:
+        """Dispatches the request and on top of that performs request
+        pre and postprocessing as well as HTTP exception catching and
+        error handling
+        .. versionadded:: 0.7
+        """
+        self._got_first_request = True
+        try:
+            request_started.send(self, _async_wrapper=self.ensure_sync)
+            rv = self.preprocess_request()
+            if rv is None:
+>               rv = self.dispatch_request()
+                     ^^^^^^^^^^^^^^^^^^^^^^^
+venv/lib/python3.14/site-packages/flask/app.py:917: 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+venv/lib/python3.14/site-packages/flask/app.py:902: in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+invenio_app_rdm/records_ui/views/decorators.py:107: in view
+    return f(**kwargs)
+           ^^^^^^^^^^^
+invenio_app_rdm/records_ui/views/decorators.py:147: in view
+    return f(**kwargs)
+           ^^^^^^^^^^^
+invenio_app_rdm/records_ui/views/decorators.py:131: in view
+    return f(**kwargs)
+           ^^^^^^^^^^^
+invenio_app_rdm/records_ui/views/decorators.py:193: in view
+    record = service().read(
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+self = <invenio_rdm_records.services.services.RDMRecordService object at 0x7fdcee5b3430>
+identity = <AnonymousIdentity id="None" auth_type="None" provides={Need(method='system_role', value='any_user')}>
+id_ = '7q1ne-rzj54', expand = True, include_deleted = False
+    def read(self, identity, id_, expand=False, include_deleted=False):
+        """Retrieve a record."""
+        record = self.record_cls.pid.resolve(id_)
+        result = super().read(identity, id_, expand=expand)
+        if not include_deleted and record.deletion_status.is_deleted:
+>           raise RecordDeletedException(record, result_item=result)
+E           invenio_rdm_records.services.errors.RecordDeletedException: {'id': '7q1ne-rzj54', 'pid': {'pk': 16, 'status': 'R', 'obj_type': 'rec', 'pid_type': 'recid'}, 'pids': {'oai': {'provider': 'oai', 'identifier': 'oai:oai:invenio-app-rdm.org::7q1ne-rzj54'}}, 'files': {'enabled': True}, 'access': {'files': 'public', 'record': 'public', 'embargo': {'until': None, 'active': False, 'reason': None}}, '$schema': 'local://records/record-v6.0.0.json', 'metadata': {'title': 'A Romans story', 'creators': [{'person_or_org': {'name': 'Doe, John Doe', 'type': 'personal', 'given_name': 'John Doe', 'family_name': 'Doe'}}], 'resource_type': {'id': 'image-photo'}, 'publication_date': '2020-06-01'}, 'tombstone': {'note': '', 'is_visible': True, 'removed_by': {'user': 'system'}, 'removal_date': '2026-06-25T08:57:02.770263+00:00', 'citation_text': 'Doe, J. D. (2020). A Romans story.'}, 'media_files': {'enabled': False}, 'custom_fields': {}, 'internal_notes': []}
+venv/lib/python3.14/site-packages/invenio_rdm_records/services/services.py:680: RecordDeletedException
+During handling of the above exception, another exception occurred:
+client = <FlaskClient <Flask 'invenio'>>
+record_with_file = <invenio_records_resources.services.records.results.RecordItem object at 0x7fdced88e210>
+    def test_deleted_record_file_redirects(client, record_with_file):
+        """Test that accessing files from deleted records redirects to tombstone."""
+        record_id = record_with_file.id
+        file_name = "article.txt"
+        # Check that the file is properly accessible before the deletion
+        file_url = url_for(
+            "invenio_app_rdm_records.record_file_download",
+            pid_value=record_id,
+            filename=file_name,
+        )
+        response = client.get(file_url)
+        assert response.status_code == 200
+        # Delete the record
+        service.delete_record(system_identity, record_id, {})
+        # Check that accessing the file now redirects to the record page
+        response = client.get(file_url)
+        assert response.status_code == 302
+        expected_record_url = url_for(
+            "invenio_app_rdm_records.record_detail",
+            pid_value=record_id,
+        )
+        assert response.location.endswith(expected_record_url)
+        # Check that the record page shows the tombstone
+>       response = client.get(response.location)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+tests/ui/test_file_download.py:101: 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+venv/lib/python3.14/site-packages/werkzeug/test.py:1162: in get
+    return self.open(*args, **kw)
+           ^^^^^^^^^^^^^^^^^^^^^^
+venv/lib/python3.14/site-packages/flask/testing.py:235: in open
+    response = super().open(
+venv/lib/python3.14/site-packages/werkzeug/test.py:1116: in open
+    response_parts = self.run_wsgi_app(request.environ, buffered=buffered)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+venv/lib/python3.14/site-packages/werkzeug/test.py:988: in run_wsgi_app
+    rv = run_wsgi_app(self.application, environ, buffered=buffered)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+venv/lib/python3.14/site-packages/werkzeug/test.py:1264: in run_wsgi_app
+    app_rv = app(environ, start_response)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+venv/lib/python3.14/site-packages/flask/app.py:1536: in __call__
+    return self.wsgi_app(environ, start_response)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+venv/lib/python3.14/site-packages/flask/app.py:1514: in wsgi_app
+    response = self.handle_exception(e)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+venv/lib/python3.14/site-packages/flask/app.py:1511: in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+venv/lib/python3.14/site-packages/flask/app.py:919: in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+venv/lib/python3.14/site-packages/flask/app.py:809: in handle_user_exception
+    return self.ensure_sync(handler)(e)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+invenio_app_rdm/records_ui/views/records.py:607: in record_tombstone_error
+    render_template(
+venv/lib/python3.14/site-packages/flask/templating.py:151: in render_template
+    return _render(app, template, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+venv/lib/python3.14/site-packages/flask/templating.py:132: in _render
+    rv = template.render(context)
+         ^^^^^^^^^^^^^^^^^^^^^^^^
+venv/lib/python3.14/site-packages/jinja2/environment.py:1295: in render
+    self.environment.handle_exception()
+venv/lib/python3.14/site-packages/jinja2/environment.py:942: in handle_exception
+    raise rewrite_traceback_stack(source=source)
+invenio_app_rdm/records_ui/templates/semantic-ui/invenio_app_rdm/records/tombstone.html:10: in top-level template code
+    {%- if record.ui.tombstone.removal_reason %}
+    ^^^^^^^^^^^^^^^^^^^^^^^^^
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+self = <flask.templating.Environment object at 0x7fdcf9019e50>, obj = Undefined
+attribute = 'removal_reason'
+    def getattr(self, obj: t.Any, attribute: str) -> t.Any:
+        """Get an item or attribute of an object but prefer the attribute
+        Unlike :meth:`getitem` the attribute *must* be a string
+        """
+        try:
+>           return getattr(obj, attribute)
+                   ^^^^^^^^^^^^^^^^^^^^^^^
+E           jinja2.exceptions.UndefinedError: 'dict object' has no attribute 'tombstone'
+venv/lib/python3.14/site-packages/jinja2/environment.py:490: UndefinedError
+---------------------------- Captured stderr setup -----------------------------
+[2026-06-25 08:57:02,669] WARNING in api: NotFoundError(404, 'index_not_found_exception', 'no such index [stats-record-view]', stats-record-view, index_or_alias)
+[2026-06-25 08:57:02,670] WARNING in api: NotFoundError(404, 'index_not_found_exception', 'no such index [stats-file-download]', stats-file-download, index_or_alias)
+------------------------------ Captured log setup ------------------------------
+WARNING  opensearch:base.py:280 POST http://localhost:9200/stats-record-view/_search [status:404 request:0.002s]
+WARNING  invenio:api.py:34 NotFoundError(404, 'index_not_found_exception', 'no such index [stats-record-view]', stats-record-view, index_or_alias)
+WARNING  opensearch:base.py:280 POST http://localhost:9200/stats-file-download/_search [status:404 request:0.001s]
+WARNING  invenio:api.py:50 NotFoundError(404, 'index_not_found_exception', 'no such index [stats-file-download]', stats-file-download, index_or_alias)
+----------------------------- Captured stderr call -----------------------------
+[2026-06-25 08:57:02,817] WARNING in api: NotFoundError(404, 'index_not_found_exception', 'no such index [stats-record-view]', stats-record-view, index_or_alias)
+[2026-06-25 08:57:02,819] WARNING in api: NotFoundError(404, 'index_not_found_exception', 'no such index [stats-file-download]', stats-file-download, index_or_alias)
+------------------------------ Captured log call -------------------------------
+WARNING  opensearch:base.py:280 POST http://localhost:9200/stats-record-view/_search [status:404 request:0.002s]
+WARNING  invenio:api.py:34 NotFoundError(404, 'index_not_found_exception', 'no such index [stats-record-view]', stats-record-view, index_or_alias)
+WARNING  opensearch:base.py:280 POST http://localhost:9200/stats-file-download/_search [status:404 request:0.001s]
+WARNING  invenio:api.py:50 NotFoundError(404, 'index_not_found_exception', 'no such index [stats-file-download]', stats-file-download, index_or_alias)
+____________ test_link_in_landing_page_response_headers[True-head] _____________
+running_app = RunningApp(app=<Flask 'invenio'>, location=pytest-location, resource_type_item=<invenio_records_resources.services.rec...m object at 0x7fdcef989d10>, <invenio_records_resources.services.records.results.RecordItem object at 0x7fdcef989e50>])
+app = <Flask 'invenio'>, client = <FlaskClient <Flask 'invenio'>>
+record_with_file = <invenio_records_resources.services.records.results.RecordItem object at 0x7fdcecb1e530>
+http_method = 'head', level_1_enabled = True
+    @pytest.mark.parametrize("http_method", ["head", "get"])
+    @pytest.mark.parametrize("level_1_enabled", [True, False])
+    def test_link_in_landing_page_response_headers(
+        running_app, app, client, record_with_file, http_method, level_1_enabled
+    ):
+        previous_config = app.config[
+            "APP_RDM_RECORD_LANDING_PAGE_FAIR_SIGNPOSTING_LEVEL_1_ENABLED"
+        ]
+        if level_1_enabled:
+            app.config["APP_RDM_RECORD_LANDING_PAGE_FAIR_SIGNPOSTING_LEVEL_1_ENABLED"] = (
+                True
+            )
+        client_http_method = getattr(client, http_method)
+        res = client_http_method(f"/records/{record_with_file.id}")
+        # The link headers are already tested in details in `invenio-rdm-records` (see `test_signposting_serializer`)
+        # Here we still want to issue the HTTP call to the URL in order to make sure that the decorator is working properly,
+        # but the assertions are less detailed to avoid having to adapt this test every time we modify the logic in `invenio-rdm-records`
+>       link_headers = res.headers["Link"].split(" , ")
+                       ^^^^^^^^^^^^^^^^^^^
+tests/ui/test_signposting_ui.py:32: 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+venv/lib/python3.14/site-packages/werkzeug/datastructures/headers.py:83: in __getitem__
+    return self._get_key(key)
+           ^^^^^^^^^^^^^^^^^^
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+self = Headers([('Content-Type', 'text/html; charset=utf-8'), ('Content-Length', '7138'), ('Permissions-Policy', 'interest-co...un, 26 Jul 2026 08:57:15 GMT; Secure; HttpOnly; Path=/; SameSite=Lax'), ('X-Session-ID', 'f74debb216123481_6a3ced6b')])
+key = 'Link'
+    def _get_key(self, key: str) -> str:
+        ikey = key.lower()
+        for k, v in self._list:
+            if k.lower() == ikey:
+                return v
+>       raise BadRequestKeyError(key)
+E       werkzeug.exceptions.BadRequestKeyError: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand
+venv/lib/python3.14/site-packages/werkzeug/datastructures/headers.py:97: BadRequestKeyError
+---------------------------- Captured stderr setup -----------------------------
+[2026-06-25 08:57:12,026] DEBUG in entrypoint: Loading config for entry point invenio_app_rdm.config
+[2026-06-25 08:57:12,473] DEBUG in ext: Flask-DebugToolbar extension not installed
+[2026-06-25 08:57:15,463] WARNING in api: NotFoundError(404, 'index_not_found_exception', 'no such index [stats-record-view]', stats-record-view, index_or_alias)
+[2026-06-25 08:57:15,464] WARNING in api: NotFoundError(404, 'index_not_found_exception', 'no such index [stats-file-download]', stats-file-download, index_or_alias)
+------------------------------ Captured log setup ------------------------------
+DEBUG    invenio:entrypoint.py:40 Loading config for entry point invenio_app_rdm.config
+DEBUG    invenio:ext.py:171 Flask-DebugToolbar extension not installed
+WARNING  opensearch:base.py:280 POST http://localhost:9200/stats-record-view/_search [status:404 request:0.002s]
+WARNING  invenio:api.py:34 NotFoundError(404, 'index_not_found_exception', 'no such index [stats-record-view]', stats-record-view, index_or_alias)
+WARNING  opensearch:base.py:280 POST http://localhost:9200/stats-file-download/_search [status:404 request:0.001s]
+WARNING  invenio:api.py:50 NotFoundError(404, 'index_not_found_exception', 'no such index [stats-file-download]', stats-file-download, index_or_alias)
+_____________ test_link_in_landing_page_response_headers[True-get] _____________
+running_app = RunningApp(app=<Flask 'invenio'>, location=pytest-location, resource_type_item=<invenio_records_resources.services.rec...m object at 0x7fdcef989d10>, <invenio_records_resources.services.records.results.RecordItem object at 0x7fdcef989e50>])
+app = <Flask 'invenio'>, client = <FlaskClient <Flask 'invenio'>>
+record_with_file = <invenio_records_resources.services.records.results.RecordItem object at 0x7fdcecfed770>
+http_method = 'get', level_1_enabled = True
+    @pytest.mark.parametrize("http_method", ["head", "get"])
+    @pytest.mark.parametrize("level_1_enabled", [True, False])
+    def test_link_in_landing_page_response_headers(
+        running_app, app, client, record_with_file, http_method, level_1_enabled
+    ):
+        previous_config = app.config[
+            "APP_RDM_RECORD_LANDING_PAGE_FAIR_SIGNPOSTING_LEVEL_1_ENABLED"
+        ]
+        if level_1_enabled:
+            app.config["APP_RDM_RECORD_LANDING_PAGE_FAIR_SIGNPOSTING_LEVEL_1_ENABLED"] = (
+                True
+            )
+        client_http_method = getattr(client, http_method)
+        res = client_http_method(f"/records/{record_with_file.id}")
+        # The link headers are already tested in details in `invenio-rdm-records` (see `test_signposting_serializer`)
+        # Here we still want to issue the HTTP call to the URL in order to make sure that the decorator is working properly,
+        # but the assertions are less detailed to avoid having to adapt this test every time we modify the logic in `invenio-rdm-records`
+>       link_headers = res.headers["Link"].split(" , ")
+                       ^^^^^^^^^^^^^^^^^^^
+tests/ui/test_signposting_ui.py:32: 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+venv/lib/python3.14/site-packages/werkzeug/datastructures/headers.py:83: in __getitem__
+    return self._get_key(key)
+           ^^^^^^^^^^^^^^^^^^
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+self = Headers([('Content-Type', 'text/html; charset=utf-8'), ('Content-Length', '7138'), ('Permissions-Policy', 'interest-co...un, 26 Jul 2026 08:57:16 GMT; Secure; HttpOnly; Path=/; SameSite=Lax'), ('X-Session-ID', 'b4b316fe42f59fd8_6a3ced6c')])
+key = 'Link'
+    def _get_key(self, key: str) -> str:
+        ikey = key.lower()
+        for k, v in self._list:
+            if k.lower() == ikey:
+                return v
+>       raise BadRequestKeyError(key)
+E       werkzeug.exceptions.BadRequestKeyError: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand
+venv/lib/python3.14/site-packages/werkzeug/datastructures/headers.py:97: BadRequestKeyError
+---------------------------- Captured stderr setup -----------------------------
+[2026-06-25 08:57:15,953] WARNING in api: NotFoundError(404, 'index_not_found_exception', 'no such index [stats-record-view]', stats-record-view, index_or_alias)
+[2026-06-25 08:57:15,955] WARNING in api: NotFoundError(404, 'index_not_found_exception', 'no such index [stats-file-download]', stats-file-download, index_or_alias)
+------------------------------ Captured log setup ------------------------------
+WARNING  opensearch:base.py:280 POST http://localhost:9200/stats-record-view/_search [status:404 request:0.002s]
+WARNING  invenio:api.py:34 NotFoundError(404, 'index_not_found_exception', 'no such index [stats-record-view]', stats-record-view, index_or_alias)
+WARNING  opensearch:base.py:280 POST http://localhost:9200/stats-file-download/_search [status:404 request:0.001s]
+WARNING  invenio:api.py:50 NotFoundError(404, 'index_not_found_exception', 'no such index [stats-file-download]', stats-file-download, index_or_alias)
+____________ test_link_in_landing_page_response_headers[False-head] ____________
+running_app = RunningApp(app=<Flask 'invenio'>, location=pytest-location, resource_type_item=<invenio_records_resources.services.rec...m object at 0x7fdcef989d10>, <invenio_records_resources.services.records.results.RecordItem object at 0x7fdcef989e50>])
+app = <Flask 'invenio'>, client = <FlaskClient <Flask 'invenio'>>
+record_with_file = <invenio_records_resources.services.records.results.RecordItem object at 0x7fdcec9eae90>
+http_method = 'head', level_1_enabled = False
+    @pytest.mark.parametrize("http_method", ["head", "get"])
+    @pytest.mark.parametrize("level_1_enabled", [True, False])
+    def test_link_in_landing_page_response_headers(
+        running_app, app, client, record_with_file, http_method, level_1_enabled
+    ):
+        previous_config = app.config[
+            "APP_RDM_RECORD_LANDING_PAGE_FAIR_SIGNPOSTING_LEVEL_1_ENABLED"
+        ]
+        if level_1_enabled:
+            app.config["APP_RDM_RECORD_LANDING_PAGE_FAIR_SIGNPOSTING_LEVEL_1_ENABLED"] = (
+                True
+            )
+        client_http_method = getattr(client, http_method)
+        res = client_http_method(f"/records/{record_with_file.id}")
+        # The link headers are already tested in details in `invenio-rdm-records` (see `test_signposting_serializer`)
+        # Here we still want to issue the HTTP call to the URL in order to make sure that the decorator is working properly,
+        # but the assertions are less detailed to avoid having to adapt this test every time we modify the logic in `invenio-rdm-records`
+>       link_headers = res.headers["Link"].split(" , ")
+                       ^^^^^^^^^^^^^^^^^^^
+tests/ui/test_signposting_ui.py:32: 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+venv/lib/python3.14/site-packages/werkzeug/datastructures/headers.py:83: in __getitem__
+    return self._get_key(key)
+           ^^^^^^^^^^^^^^^^^^
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+self = Headers([('Content-Type', 'text/html; charset=utf-8'), ('Content-Length', '7138'), ('Permissions-Policy', 'interest-co...un, 26 Jul 2026 08:57:16 GMT; Secure; HttpOnly; Path=/; SameSite=Lax'), ('X-Session-ID', '698db6616ed00acc_6a3ced6c')])
+key = 'Link'
+    def _get_key(self, key: str) -> str:
+        ikey = key.lower()
+        for k, v in self._list:
+            if k.lower() == ikey:
+                return v
+>       raise BadRequestKeyError(key)
+E       werkzeug.exceptions.BadRequestKeyError: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand
+venv/lib/python3.14/site-packages/werkzeug/datastructures/headers.py:97: BadRequestKeyError
+---------------------------- Captured stderr setup -----------------------------
+[2026-06-25 08:57:16,336] WARNING in api: NotFoundError(404, 'index_not_found_exception', 'no such index [stats-record-view]', stats-record-view, index_or_alias)
+[2026-06-25 08:57:16,338] WARNING in api: NotFoundError(404, 'index_not_found_exception', 'no such index [stats-file-download]', stats-file-download, index_or_alias)
+------------------------------ Captured log setup ------------------------------
+WARNING  opensearch:base.py:280 POST http://localhost:9200/stats-record-view/_search [status:404 request:0.002s]
+WARNING  invenio:api.py:34 NotFoundError(404, 'index_not_found_exception', 'no such index [stats-record-view]', stats-record-view, index_or_alias)
+WARNING  opensearch:base.py:280 POST http://localhost:9200/stats-file-download/_search [status:404 request:0.001s]
+WARNING  invenio:api.py:50 NotFoundError(404, 'index_not_found_exception', 'no such index [stats-file-download]', stats-file-download, index_or_alias)
+____________ test_link_in_landing_page_response_headers[False-get] _____________
+running_app = RunningApp(app=<Flask 'invenio'>, location=pytest-location, resource_type_item=<invenio_records_resources.services.rec...m object at 0x7fdcef989d10>, <invenio_records_resources.services.records.results.RecordItem object at 0x7fdcef989e50>])
+app = <Flask 'invenio'>, client = <FlaskClient <Flask 'invenio'>>
+record_with_file = <invenio_records_resources.services.records.results.RecordItem object at 0x7fdceca52f30>
+http_method = 'get', level_1_enabled = False
+    @pytest.mark.parametrize("http_method", ["head", "get"])
+    @pytest.mark.parametrize("level_1_enabled", [True, False])
+    def test_link_in_landing_page_response_headers(
+        running_app, app, client, record_with_file, http_method, level_1_enabled
+    ):
+        previous_config = app.config[
+            "APP_RDM_RECORD_LANDING_PAGE_FAIR_SIGNPOSTING_LEVEL_1_ENABLED"
+        ]
+        if level_1_enabled:
+            app.config["APP_RDM_RECORD_LANDING_PAGE_FAIR_SIGNPOSTING_LEVEL_1_ENABLED"] = (
+                True
+            )
+        client_http_method = getattr(client, http_method)
+        res = client_http_method(f"/records/{record_with_file.id}")
+        # The link headers are already tested in details in `invenio-rdm-records` (see `test_signposting_serializer`)
+        # Here we still want to issue the HTTP call to the URL in order to make sure that the decorator is working properly,
+        # but the assertions are less detailed to avoid having to adapt this test every time we modify the logic in `invenio-rdm-records`
+>       link_headers = res.headers["Link"].split(" , ")
+                       ^^^^^^^^^^^^^^^^^^^
+tests/ui/test_signposting_ui.py:32: 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+venv/lib/python3.14/site-packages/werkzeug/datastructures/headers.py:83: in __getitem__
+    return self._get_key(key)
+           ^^^^^^^^^^^^^^^^^^
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+self = Headers([('Content-Type', 'text/html; charset=utf-8'), ('Content-Length', '7138'), ('Permissions-Policy', 'interest-co...un, 26 Jul 2026 08:57:16 GMT; Secure; HttpOnly; Path=/; SameSite=Lax'), ('X-Session-ID', '122f1cfa0e832877_6a3ced6c')])
+key = 'Link'
+    def _get_key(self, key: str) -> str:
+        ikey = key.lower()
+        for k, v in self._list:
+            if k.lower() == ikey:
+                return v
+>       raise BadRequestKeyError(key)
+E       werkzeug.exceptions.BadRequestKeyError: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand
+venv/lib/python3.14/site-packages/werkzeug/datastructures/headers.py:97: BadRequestKeyError
+---------------------------- Captured stderr setup -----------------------------
+[2026-06-25 08:57:16,718] WARNING in api: NotFoundError(404, 'index_not_found_exception', 'no such index [stats-record-view]', stats-record-view, index_or_alias)
+[2026-06-25 08:57:16,720] WARNING in api: NotFoundError(404, 'index_not_found_exception', 'no such index [stats-file-download]', stats-file-download, index_or_alias)
+------------------------------ Captured log setup ------------------------------
+WARNING  opensearch:base.py:280 POST http://localhost:9200/stats-record-view/_search [status:404 request:0.002s]
+WARNING  invenio:api.py:34 NotFoundError(404, 'index_not_found_exception', 'no such index [stats-record-view]', stats-record-view, index_or_alias)
+WARNING  opensearch:base.py:280 POST http://localhost:9200/stats-file-download/_search [status:404 request:0.001s]
+WARNING  invenio:api.py:50 NotFoundError(404, 'index_not_found_exception', 'no such index [stats-file-download]', stats-file-download, index_or_alias)
+___________________________ test_record_view_events ____________________________
+client = <FlaskClient <Flask 'invenio'>>
+running_app = RunningApp(app=<Flask 'invenio'>, location=pytest-location, resource_type_item=<invenio_records_resources.services.rec...m object at 0x7fdceca41c70>, <invenio_records_resources.services.records.results.RecordItem object at 0x7fdceca42030>])
+index_templates = None
+record = <invenio_records_resources.services.records.results.RecordItem object at 0x7fdcec83bcf0>
+empty_event_queues = None
+    def test_record_view_events(
+        client, running_app, index_templates, record, empty_event_queues
+    ):
+        """Test that landing page visits trigger events."""
+        res = client.get(f"/records/{record.id}")
+>       assert res.status_code == 200
+E       assert 404 == 200
+E        +  where 404 = <WrapperTestResponse streamed [404 NOT FOUND]>.status_code
+tests/ui/test_stats_ui.py:29: AssertionError
+---------------------------- Captured stderr setup -----------------------------
+[2026-06-25 08:57:24,157] DEBUG in entrypoint: Loading config for entry point invenio_app_rdm.config
+[2026-06-25 08:57:24,597] DEBUG in ext: Flask-DebugToolbar extension not installed
+[2026-06-25 08:57:27,468] WARNING in api: NotFoundError(404, 'index_not_found_exception', 'no such index [stats-record-view]', stats-record-view, index_or_alias)
+[2026-06-25 08:57:27,469] WARNING in api: NotFoundError(404, 'index_not_found_exception', 'no such index [stats-file-download]', stats-file-download, index_or_alias)
+------------------------------ Captured log setup ------------------------------
+DEBUG    invenio:entrypoint.py:40 Loading config for entry point invenio_app_rdm.config
+DEBUG    invenio:ext.py:171 Flask-DebugToolbar extension not installed
+WARNING  opensearch:base.py:280 POST http://localhost:9200/stats-record-view/_search [status:404 request:0.002s]
+WARNING  invenio:api.py:34 NotFoundError(404, 'index_not_found_exception', 'no such index [stats-record-view]', stats-record-view, index_or_alias)
+WARNING  opensearch:base.py:280 POST http://localhost:9200/stats-file-download/_search [status:404 request:0.001s]
+WARNING  invenio:api.py:50 NotFoundError(404, 'index_not_found_exception', 'no such index [stats-file-download]', stats-file-download, index_or_alias)
+_________________________ test_record_view_statistics __________________________
+client = <FlaskClient <Flask 'invenio'>>
+running_app = RunningApp(app=<Flask 'invenio'>, location=pytest-location, resource_type_item=<invenio_records_resources.services.rec...m object at 0x7fdceca41c70>, <invenio_records_resources.services.records.results.RecordItem object at 0x7fdceca42030>])
+index_templates = None
+record = <invenio_records_resources.services.records.results.RecordItem object at 0x7fdcec750370>
+empty_event_queues = None
+    def test_record_view_statistics(
+        client, running_app, index_templates, record, empty_event_queues
+    ):
+        """Test that landing page visits triggers events and indexes them."""
+        event_cfg = current_stats.events["record-view"]
+        event = event_cfg.cls(**event_cfg.params, double_click_window=0)
+        agg_cfg = current_stats.aggregations["record-view-agg"]
+        agg = agg_cfg.cls(agg_cfg.name, **agg_cfg.params)
+        query_cfg = current_stats.queries["record-view"]
+        query = query_cfg.cls(name=query_cfg.name, **query_cfg.params)
+        for i in range(3):
+            if i != 0:
+                # we need to sleep for a little while here because invenio-stats trims
+                # the sub-second part from the events before indexing them,
+                # (and thus collapses similar events if they are too close in time)
+                time.sleep(1.25)
+            res = client.get(f"/records/{record.id}")
+>           assert res.status_code == 200
+E           assert 404 == 200
+E            +  where 404 = <WrapperTestResponse streamed [404 NOT FOUND]>.status_code
+tests/ui/test_stats_ui.py:61: AssertionError
+---------------------------- Captured stderr setup -----------------------------
+[2026-06-25 08:57:27,818] WARNING in api: NotFoundError(404, 'index_not_found_exception', 'no such index [stats-record-view]', stats-record-view, index_or_alias)
+[2026-06-25 08:57:27,819] WARNING in api: NotFoundError(404, 'index_not_found_exception', 'no such index [stats-file-download]', stats-file-download, index_or_alias)
+------------------------------ Captured log setup ------------------------------
+WARNING  opensearch:base.py:280 POST http://localhost:9200/stats-record-view/_search [status:404 request:0.002s]
+WARNING  invenio:api.py:34 NotFoundError(404, 'index_not_found_exception', 'no such index [stats-record-view]', stats-record-view, index_or_alias)
+WARNING  opensearch:base.py:280 POST http://localhost:9200/stats-file-download/_search [status:404 request:0.001s]
+WARNING  invenio:api.py:50 NotFoundError(404, 'index_not_found_exception', 'no such index [stats-file-download]', stats-file-download, index_or_alias)
+=============================== warnings summary ===============================
+venv/lib/python3.14/site-packages/invenio_rdm_records/services/facets.py:72
+    warn(
+tests/api/test_record_api.py::test_record_read_non_existing_pid
+tests/api/test_stats_api.py::test_ui_event_emission
+tests/fixtures/test_cli.py::test_create_fixtures
+tests/fixtures/test_fixtures.py::test_load_oai_sets
+tests/redirector/test_redirector.py::test_redirector
+tests/test_migrate_13_0_to_14_0.py::TestMigration13To14::test_migration
+tests/test_tasks.py::test_task_file_integrity_report
+    self.init_app(app)
+tests/api/test_record_api.py::test_record_read_non_existing_pid
+tests/api/test_record_api.py::test_record_draft_create_and_read
+tests/api/test_record_api.py::test_record_draft_publish
+tests/api/test_record_api.py::test_read_record_with_redirected_pid
+tests/api/test_record_api.py::test_record_search
+    warn(
+tests/api/test_record_api.py::test_record_draft_create_and_read
+tests/api/test_record_api.py::test_record_draft_publish
+tests/api/test_record_api.py::test_read_record_with_redirected_pid
+tests/redirector/test_redirector.py::test_redirector
+tests/ui/test_deposits.py::test_resource_types
+tests/ui/test_file_download.py::test_file_download_with_and_without_preview_flag
+tests/ui/test_file_download.py::test_nonexistent_file_returns_404
+    result = self._write_client.setex(
+    self.redis.setex(key, ittl, value)
+  /home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-app-rdm/patched/.venv/lib/python3.14/site-packages/invenio_records/api.py:330: SAWarning: nested transaction already deassociated from connection
+    with db.session.begin_nested():
+  /home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-app-rdm/patched/.venv/lib/python3.14/site-packages/invenio_db/uow.py:189: SAWarning: nested transaction already deassociated from connection
+    self.session.commit()
+tests/fixtures/test_fixtures.py::test_load_pages
+  /home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-app-rdm/patched/.venv/lib/python3.14/site-packages/invenio_pages/records/models.py:53: SAWarning: nested transaction already deassociated from connection
+    with db.session.begin_nested():
+tests/test_migrate_13_0_to_14_0.py::TestMigration13To14::test_migration
+  /home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-app-rdm/patched/.venv/lib/python3.14/site-packages/invenio_records/api.py:491: SAWarning: nested transaction already deassociated from connection
+    with db.session.begin_nested():
+tests/test_migrate_13_0_to_14_0.py::TestMigration13To14::test_migration
+  /home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-app-rdm/patched/.venv/lib/python3.14/site-packages/invenio_records/api.py:438: SAWarning: nested transaction already deassociated from connection
+    with db.session.begin_nested():
+tests/test_migrate_13_0_to_14_0.py::TestMigration13To14::test_migration
+  /home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-app-rdm/patched/invenio_app_rdm/upgrade_scripts/migrate_13_0_to_14_0.py:160: SAWarning: nested transaction already deassociated from connection
+    db.session.commit()
+tests/test_tasks.py::test_task_file_integrity_report
+tests/test_tasks.py::test_integrity_report_invalid_template
+tests/test_tasks.py::test_integrity_report_invalid_addresses
+tests/test_tasks.py::test_integrity_report_default_template
+  /home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-app-rdm/patched/tests/test_tasks.py:57: LegacyAPIWarning: The Query.get() method is considered legacy as of the 1.x series of SQLAlchemy and becomes a legacy construct in 2.0. The method is now available as Session.get() (deprecated since: 2.0) (Background on SQLAlchemy 2.0 at: https://sqlalche.me/e/b8d9)
+    f = FileInstance.query.get(id_of_file_instance)
+tests/test_tasks.py::test_task_file_integrity_report
+tests/test_tasks.py::test_integrity_report_invalid_template
+tests/test_tasks.py::test_integrity_report_invalid_addresses
+tests/test_tasks.py::test_integrity_report_default_template
+  /home/runner/work/deep-fried-invenio-tests/deep-fried-invenio-tests/workdir/tests/invenio-app-rdm/patched/tests/test_tasks.py:70: LegacyAPIWarning: The Query.get() method is considered legacy as of the 1.x series of SQLAlchemy and becomes a legacy construct in 2.0. The method is now available as Session.get() (deprecated since: 2.0) (Background on SQLAlchemy 2.0 at: https://sqlalche.me/e/b8d9)
+    f = FileInstance.query.get(f.id)
+================================ tests coverage ================================
+_______________ coverage: platform linux, python 3.14.2-final-0 ________________
+Name                                                                      Stmts   Miss  Cover   Missing
+invenio_app_rdm/__init__.py                                                   2      0   100%
+invenio_app_rdm/administration/__init__.py                                    0      0   100%
+invenio_app_rdm/administration/audit_logs/__init__.py                         2      0   100%
+invenio_app_rdm/administration/audit_logs/audit_logs.py                      28      0   100%
+invenio_app_rdm/administration/domains/__init__.py                            2      0   100%
+invenio_app_rdm/administration/domains/domains.py                            40      0   100%
+invenio_app_rdm/administration/moderation/__init__.py                         2      0   100%
+invenio_app_rdm/administration/moderation/requests.py                        78     22    72%   58-61, 66-72, 81, 116-122, 126-149
+invenio_app_rdm/administration/records/__init__.py                            2      0   100%
+invenio_app_rdm/administration/records/records.py                            61      8    87%   67, 72-74, 78-80, 84, 143
+invenio_app_rdm/administration/roles/__init__.py                              2      0   100%
+invenio_app_rdm/administration/roles/roles.py                                46      3    93%   42-44
+invenio_app_rdm/administration/user_moderation/__init__.py                    2      0   100%
+invenio_app_rdm/administration/user_moderation/user_moderation.py            63     11    83%   90-93, 98-104, 113, 151-157
+invenio_app_rdm/administration/users/__init__.py                              2      0   100%
+invenio_app_rdm/administration/users/permissions.py                           9      6    33%   14-20
+invenio_app_rdm/administration/users/users.py                                60      4    93%   66-68, 125
+invenio_app_rdm/administration/views/__init__.py                              2      0   100%
+invenio_app_rdm/administration/views/ui.py                                    4      0   100%
+invenio_app_rdm/cli.py                                                       45     22    51%   37-41, 60-91
+invenio_app_rdm/communities_ui/__init__.py                                    0      0   100%
+invenio_app_rdm/communities_ui/searchapp.py                                   5      0   100%
+invenio_app_rdm/communities_ui/sitemap.py                                    13      0   100%
+invenio_app_rdm/communities_ui/views/__init__.py                              2      0   100%
+invenio_app_rdm/communities_ui/views/communities.py                          63     43    32%   34-37, 53-108, 123-130, 145-160, 175-192
+invenio_app_rdm/communities_ui/views/ui.py                                   45     17    62%   39-61
+invenio_app_rdm/config.py                                                   335      2    99%   306-308
+invenio_app_rdm/ext.py                                                       60     20    67%   32, 37-40, 50-55, 68, 74-82, 87, 136-141, 185-186
+invenio_app_rdm/fixtures/__init__.py                                         21      6    71%   19-24
+invenio_app_rdm/fixtures/oai_sets.py                                          6      0   100%
+invenio_app_rdm/fixtures/pages.py                                            35      1    97%   45
+invenio_app_rdm/records_ui/__init__.py                                        0      0   100%
+invenio_app_rdm/records_ui/previewer/__init__.py                              0      0   100%
+invenio_app_rdm/records_ui/previewer/iiif_simple.py                          14      7    50%   26-27, 36-41
+invenio_app_rdm/records_ui/previewer/previewable_zip.py                      56     42    25%   25-30, 37-109, 114, 123-131
+invenio_app_rdm/records_ui/searchapp.py                                       6      0   100%
+invenio_app_rdm/records_ui/sitemap.py                                        10      0   100%
+invenio_app_rdm/records_ui/utils.py                                          83     47    43%   36-47, 73-82, 89, 103-115, 128, 161-180, 185-218
+invenio_app_rdm/records_ui/views/__init__.py                                 59      0   100%
+invenio_app_rdm/records_ui/views/decorators.py                              282     93    67%   51, 59-62, 73-89, 118-120, 145, 157-167, 190, 198-199, 238, 267-287, 306-320, 336-339, 345-349, 367-370, 376-380, 392-402, 416-424, 463-483, 542-546, 563-569
+invenio_app_rdm/records_ui/views/deposits.py                                248    165    33%   60-136, 141-142, 213-219, 230-233, 251-254, 258-261, 265-268, 272-275, 279-282, 286, 290, 294, 301, 309, 313, 319-324, 329-341, 346-373, 382-383, 388-403, 432-438, 444, 449-473, 484-502, 539-635, 662-663
+invenio_app_rdm/records_ui/views/filters.py                                 125     87    30%   28-31, 36-44, 49, 63-64, 69-82, 89-90, 95-96, 101-117, 131, 136-138, 143-149, 156-159, 181-211, 219-230
+invenio_app_rdm/records_ui/views/records.py                                 253    141    44%   76-103, 117-128, 132, 139-140, 144, 161-171, 183-184, 188-194, 224, 229, 241-342, 375, 406-427, 439-459, 464-468, 487, 499-504, 511-531, 541-549, 555, 561, 574, 591, 597-603, 620-638
+invenio_app_rdm/redirector/__init__.py                                        0      0   100%
+invenio_app_rdm/redirector/resource.py                                       29      1    97%   90
+invenio_app_rdm/redirector/views.py                                           6      0   100%
+invenio_app_rdm/requests_ui/__init__.py                                       0      0   100%
+invenio_app_rdm/requests_ui/views/__init__.py                                 2      0   100%
+invenio_app_rdm/requests_ui/views/requests.py                               191    142    26%   56-134, 138, 148-165, 175-192, 199-282, 300-380, 399-414, 433-454, 468
+invenio_app_rdm/requests_ui/views/ui.py                                      24      0   100%
+invenio_app_rdm/tasks.py                                                     18      7    61%   22-28
+invenio_app_rdm/theme/__init__.py                                             0      0   100%
+invenio_app_rdm/theme/views.py                                               49     19    61%   59, 76-77, 88-89, 100-101, 111-126, 134-136
+invenio_app_rdm/theme/webpack.py                                              2      0   100%
+invenio_app_rdm/upgrade_scripts/__init__.py                                   0      0   100%
+invenio_app_rdm/upgrade_scripts/fix_migrated_records_from_1_0_to_2_0.py      28     24    14%   12-42, 46
+invenio_app_rdm/upgrade_scripts/fix_migrated_records_from_8_0_to_9_0.py      48     43    10%   16-82, 86
+invenio_app_rdm/upgrade_scripts/migrate_1_0_records_to_2_0.py                46     41    11%   24-95, 99
+invenio_app_rdm/upgrade_scripts/migrate_2_0_to_3_0.py                        34     29    15%   28-84, 88
+invenio_app_rdm/upgrade_scripts/migrate_3_0_to_4_0.py                        64     60     6%   23-132, 136
+invenio_app_rdm/upgrade_scripts/migrate_4_0_to_6_0.py                       244    231     5%   24-60, 66-144, 154-195, 205-365, 369-391
+invenio_app_rdm/upgrade_scripts/migrate_6_0_to_7_0.py                        72     65    10%   26-153, 157
+invenio_app_rdm/upgrade_scripts/migrate_7_0_to_8_0.py                        68     59    13%   32-144, 149
+invenio_app_rdm/upgrade_scripts/migrate_8_0_to_9_0.py                        51     46    10%   24-89, 94
+invenio_app_rdm/upgrade_scripts/migrate_9_0_to_10_0.py                       13      8    38%   23-31, 39
+invenio_app_rdm/upgrade_scripts/migrate_10_0_to_11_0.py                      18     13    28%   23-38, 43
+invenio_app_rdm/upgrade_scripts/migrate_11_0_to_12_0.py                      82     70    15%   58-197, 202
+invenio_app_rdm/upgrade_scripts/migrate_12_0_to_13_0.py                     126    107    15%   37-95, 103-118, 123-150, 155-182, 187-204, 221-226, 231
+invenio_app_rdm/upgrade_scripts/migrate_13_0_to_14_0.py                      94     21    78%   53-56, 74-77, 103-107, 128-132, 149-153, 166-169, 194-197, 227-231, 269
+invenio_app_rdm/upgrade_scripts/prepare_migration_13_0_to_14_0.py            73     53    27%   26-30, 35-49, 56, 61-75, 89-96, 101, 106-110, 119-125, 135-142, 154, 162, 166-167, 171-187
+invenio_app_rdm/users/schemas.py                                              6      0   100%
+invenio_app_rdm/users_ui/__init__.py                                          0      0   100%
+invenio_app_rdm/users_ui/searchapp.py                                         5      0   100%
+invenio_app_rdm/users_ui/views/__init__.py                                    2      0   100%
+invenio_app_rdm/users_ui/views/dashboard.py                                  18      7    61%   18-21, 31-34, 44-50
+invenio_app_rdm/users_ui/views/ui.py                                         18      4    78%   19, 24-27
+invenio_app_rdm/utils/files.py                                               66      5    92%   20-28
+invenio_app_rdm/views.py                                                      5      2    60%   13-15
+TOTAL                                                                      3675   1804    51%
+=========================== short test summary info ============================
+FAILED tests/api/test_record_api.py::test_record_draft_publish - AssertionError: assert 'revision_id' in dict_keys(['id', 'links', 'parent', 'versions', 'pids', 'metadata', 'custom_fields', 'access', 'files', 'media_files', 'stats'])
+FAILED tests/ui/test_file_download.py::test_deleted_record_file_redirects - jinja2.exceptions.UndefinedError: 'dict object' has no attribute 'tombstone'
+FAILED tests/ui/test_signposting_ui.py::test_link_in_landing_page_response_headers[True-head] - werkzeug.exceptions.BadRequestKeyError: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand
+FAILED tests/ui/test_signposting_ui.py::test_link_in_landing_page_response_headers[True-get] - werkzeug.exceptions.BadRequestKeyError: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand
+FAILED tests/ui/test_signposting_ui.py::test_link_in_landing_page_response_headers[False-head] - werkzeug.exceptions.BadRequestKeyError: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand
+FAILED tests/ui/test_signposting_ui.py::test_link_in_landing_page_response_headers[False-get] - werkzeug.exceptions.BadRequestKeyError: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand
+FAILED tests/ui/test_stats_ui.py::test_record_view_events - assert 404 == 200
+ +  where 404 = <WrapperTestResponse streamed [404 NOT FOUND]>.status_code
+FAILED tests/ui/test_stats_ui.py::test_record_view_statistics - assert 404 == 200
+ +  where 404 = <WrapperTestResponse streamed [404 NOT FOUND]>.status_code
+====== 8 failed, 343 passed, 1 skipped, 114 warnings in 152.23s (0:02:32) ======
+ Container docker_services_cli-opensearch-1  Stopping
+ Container docker_services_cli-rabbitmq-1  Stopping
+ Container docker_services_cli-redis-1  Stopping
+ Container docker_services_cli-postgresql-1  Stopping
+ Container docker_services_cli-redis-1  Stopped
+ Container docker_services_cli-redis-1  Removing
+ Container docker_services_cli-redis-1  Removed
+ Container docker_services_cli-postgresql-1  Stopped
+ Container docker_services_cli-postgresql-1  Removing
+ Container docker_services_cli-opensearch-1  Stopped
+ Container docker_services_cli-opensearch-1  Removing
+ Container docker_services_cli-opensearch-1  Removed
+ Container docker_services_cli-postgresql-1  Removed
+ Container docker_services_cli-rabbitmq-1  Stopped
+ Container docker_services_cli-rabbitmq-1  Removing
+ Container docker_services_cli-rabbitmq-1  Removed
+ Network docker_services_cli_default  Removing
+ Network docker_services_cli_default  Removed
